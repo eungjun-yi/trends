@@ -1,0 +1,13 @@
+FortAwesome/Font-Awesome
+FreeCodeCamp/FreeCodeCamp
+angular/angular.js
+facebook/react
+github/gitignore
+h5bp/html5-boilerplate
+jquery/jquery
+mbostock/d3
+meteor/meteor
+nodejs/node-v0.x-archive
+robbyrussell/oh-my-zsh
+twbs/bootstrap
+vhf/free-programming-books
