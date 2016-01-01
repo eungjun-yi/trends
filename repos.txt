@@ -53,6 +53,7 @@ bower/bower
 callemall/material-ui
 cantino/huginn
 caolan/async
+creationix/nvm
 daneden/animate.css
 defunkt/jquery-pjax
 designmodo/Flat-UI
