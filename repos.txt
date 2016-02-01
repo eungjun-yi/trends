@@ -22,6 +22,7 @@ BBC-News/wraith
 BVLC/caffe
 Bash-it/bash-it
 Bearded-Hen/Android-Bootstrap
+BlackrockDigital/startbootstrap
 BoltsFramework/Bolts-iOS
 BradLarson/GPUImage
 BrowserSync/browser-sync
@@ -38,6 +39,7 @@ CodeSeven/toastr
 CodeboxIDE/codebox
 CoderMJLee/MJExtension
 CoderMJLee/MJRefresh
+CodisLabs/codis
 Compass/compass
 ConnorAtherton/loaders.css
 ConnorAtherton/walkway
@@ -48,6 +50,7 @@ DevinVinson/WordPress-Plugin-Boilerplate
 DmitryBaranovskiy/raphael
 Dogfalo/materialize
 DrKLO/Telegram
+DrkSephy/es6-cheatsheet
 ECSlidingViewController/ECSlidingViewController
 EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 Eonasdan/bootstrap-datetimepicker
@@ -167,6 +170,7 @@ RocketChat/Rocket.Chat
 RubaXa/Sortable
 Russell91/sshrc
 SFTtech/openage
+SVProgressHUD/SVProgressHUD
 SamyPesse/How-to-Make-a-Computer-Operating-System
 Seldaek/monolog
 Selz/plyr
@@ -316,6 +320,7 @@ bboyfeiyu/android-tech-frontier
 bcit-ci/CodeIgniter
 beautify-web/js-beautify
 bebraw/jswiki
+beetbox/beets
 begriffs/postgrest
 bendc/frontend-guidelines
 bendc/sprint
@@ -345,6 +350,7 @@ bottlepy/bottle
 bower/bower
 bpampuch/pdfmake
 bramp/js-sequence-diagrams
+braydie/HowToBeAProgrammer
 braziljs/js-the-right-way
 breach/breach_core
 briangonzalez/jquery.adaptive-backgrounds.js
@@ -737,6 +743,7 @@ imulus/retinajs
 inconshreveable/ngrok
 inferjay/AndroidDevTools
 infinite-scroll/infinite-scroll
+influxdata/influxdb
 influxdb/influxdb
 interagent/http-api-design
 intridea/omniauth
@@ -889,6 +896,7 @@ lodash/lodash
 lokesh/color-thief
 loopj/android-async-http
 louischatriot/nedb
+loverajoel/jstips
 lra/mackup
 lucasr/twoway-view
 luis-almeida/unveil
@@ -921,6 +929,7 @@ masayuki0812/c3
 mathiasbynens/dotfiles
 mathiasbynens/jquery-placeholder
 matplotlib/matplotlib
+matryer/bitbar
 matteocrippa/awesome-swift
 mattermost/platform
 matthieua/WOW
@@ -937,6 +946,7 @@ mdo/code-guide
 medialize/URI.js
 memcached/memcached
 metafizzy/isotope
+metalsmith/metalsmith
 meteor/meteor
 mgcrea/angular-strap
 mgechev/angularjs-style-guide
@@ -1388,6 +1398,7 @@ venmo/synx
 vhf/free-programming-books
 videojs/video.js
 viljamis/responsive-nav.js
+vim-airline/vim-airline
 vinta/awesome-python
 visionmedia/move.js
 visionmedia/page.js
