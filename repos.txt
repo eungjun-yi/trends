@@ -139,6 +139,7 @@ Carthage/Carthage
 CartoDB/cartodb
 CartoDB/odyssey.js
 Casecommons/pg_search
+CatchChat/Yep
 CenturyLinkLabs/panamax-ui
 CezaryKopacz/CKWaveCollectionViewTransition
 CharlieHess/slack-poker-bot
@@ -180,6 +181,7 @@ Comcast/FreeFlow
 Compass/compass
 ConnorAtherton/loaders.css
 ConnorAtherton/walkway
+CorsixTH/CorsixTH
 CosmicMind/Material
 Countly/countly-server
 CppCon/CppCon2014
@@ -2129,6 +2131,7 @@ ebidel/filer.js
 eclipse/vert.x
 ecomfe/echarts
 ecomfe/fontmin
+ecomfe/spec
 ecomfe/zrender
 eczarny/spectacle
 ed-lea/jquery-collagePlus
@@ -4773,6 +4776,7 @@ reflux/refluxjs
 rehorn/livepool
 reinderien/mimic
 relatedcode/EncryptedChat
+relatedcode/ParseAlternatives
 relax/relax
 rembo10/headphones
 remind101/empire
