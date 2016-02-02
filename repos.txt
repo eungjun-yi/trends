@@ -114,6 +114,7 @@ Block8/PHPCI
 BloombergMedia/whatiscode
 BlueSpire/Durandal
 BoltsFramework/Bolts-Android
+BoltsFramework/Bolts-ObjC
 BoltsFramework/Bolts-iOS
 BonsaiDen/JavaScript-Garden
 BootstrapCMS/CMS
@@ -2175,6 +2176,7 @@ emacs-helm/helm
 emacs-tw/awesome-emacs
 ember-cli/ember-cli
 emberjs/data
+emberjs/ember-rails
 emberjs/ember.js
 emicklei/go-restful
 emilevauge/traefik
@@ -3992,6 +3994,7 @@ mortdeus/legacy-cc
 mortenjust/androidtool-mac
 mortenjust/droptogif
 mossmann/hackrf
+motdotla/dotenv
 motemen/gore
 motianhuo/wechat
 moxiecode/plupload
@@ -4701,6 +4704,7 @@ railsware/js-routes
 rakshasa/rtorrent
 rakyll/boom
 rakyll/coop
+rakyll/gom
 rallat/EffectiveAndroid
 ramda/ramda
 raml-org/raml-spec
@@ -4735,6 +4739,7 @@ rdio/jsfmt
 react-bootstrap/react-bootstrap
 react-toolbox/react-toolbox
 reactioncommerce/reaction
+reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
 reactjs/react-future
 reactjs/react-rails
