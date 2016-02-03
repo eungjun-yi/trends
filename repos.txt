@@ -847,6 +847,7 @@ Unknwon/the-way-to-go_ZH_CN
 Urigo/angular-meteor
 Valloric/YouCompleteMe
 Valve/fingerprintjs
+Valve/fingerprintjs2
 ValveSoftware/ToGL
 ValveSoftware/source-sdk-2013
 ValveSoftware/steam-for-linux
@@ -1687,6 +1688,7 @@ clibs/clib
 clientIO/joint
 cliftonc/calipso
 clinical-meteor/clinical-meteor
+clinical-meteor/cookbook
 clips/pattern
 clojure-cookbook/clojure-cookbook
 clojure-emacs/cider
@@ -1722,6 +1724,7 @@ cocos2d/cocos2d-html5
 cocos2d/cocos2d-js
 cocos2d/cocos2d-objc
 cocos2d/cocos2d-x
+code-mc/loadtoast
 code-mc/material-icon-lib
 code-troopers/android-betterpickers
 code4craft/webmagic
@@ -2431,6 +2434,7 @@ fnando/i18n-js
 fog/fog
 fogleman/Craft
 fogleman/Minecraft
+fogleman/ln
 fogleman/nes
 fontello/fontello
 fooplugins/FooTable
@@ -2687,6 +2691,7 @@ googlesamples/android-UniversalMusicPlayer
 googlesamples/android-testing
 googlesamples/android-testing-templates
 googlesamples/android-topeka
+googollee/go-socket.io
 gopatrik/space.js
 gopherjs/gopherjs
 goraft/raft
@@ -2848,6 +2853,7 @@ hmkcode/Android
 hmlb/phpunit-vw
 hoisie/web
 hojberg/cssarrowplease
+hollance/swift-algorithm-club
 holman/dotfiles
 holman/spark
 honcheng/PaperFold-for-iOS
@@ -3105,6 +3111,7 @@ jdorn/json-editor
 jeanphix/Ghost.py
 jedi4ever/veewee
 jedireza/drywall
+jedisct1/dnscrypt-proxy
 jedisct1/libsodium
 jedrzejchalubek/Glide.js
 jeff-optimizely/Guiders-JS
@@ -4648,6 +4655,7 @@ qinjx/30min_guides
 qinwf/awesome-R
 qiujuer/Genius-Android
 qklabs/qksms
+qor/qor
 qrohlf/trianglify
 quantmind/pulsar
 quantopian/zipline
@@ -5514,6 +5522,7 @@ thoughtbot/til
 thoughtbot/trail-map
 thrust/thrust
 thumbor/thumbor
+thx/RAP
 tianzhijiexian/Android-Best-Practices
 tictail/bounce.js
 tiimgreen/github-cheat-sheet
@@ -5739,6 +5748,7 @@ uzysjung/UzysAnimatedGifPullToRefresh
 v2ray/v2ray-core
 v8/v8
 vakata/jstree
+valderman/haste-compiler
 valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
 vanilla/vanilla
@@ -5771,6 +5781,7 @@ viewfinderco/viewfinder
 vigetlabs/gulp-starter
 viki-org/VKVideoPlayer
 vikmeup/SCLAlertView-Swift
+vikramkakkar/SublimePicker
 viljamis/Remote-Preview
 viljamis/ResponsiveSlides.js
 viljamis/feature.js
