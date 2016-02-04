@@ -190,6 +190,7 @@ CreateJS/PreloadJS
 CreateJS/SoundJS
 CreateJS/TweenJS
 CtripMobile/DynamicAPK
+Cyan4973/lz4
 CyberAgent/android-gpuimage
 D-Programming-Language/dmd
 DRMacIver/hypothesis
@@ -508,11 +509,13 @@ MatthewYork/MYBlurIntroductionView
 MaximAbramchuck/awesome-interviews
 Maximus5/ConEmu
 McPants/jquery.shapeshift
+Mechazawa/FuckFuckAdblock
 MediaCrush/MediaCrush
 MengTo/AppStoreSketch
 MengTo/DesignerNewsApp
 MengTo/Spring
 MeoMix/StreamusChromeExtension
+MichMich/MagicMirror
 Microsoft/CNTK
 Microsoft/ChakraCore
 Microsoft/DMTK
@@ -913,6 +916,7 @@ Yalantis/Side-Menu.Android
 Yalantis/Side-Menu.iOS
 Yalantis/StarWars.Android
 Yalantis/StarWars.iOS
+Yalantis/Taurus
 Yalantis/uCrop
 YaroslavGaponov/node-jvm
 YePpHa/YouTubeCenter
@@ -1228,6 +1232,7 @@ arrayfire/arrayfire
 arsduo/koala
 artberri/sidr
 artpolikarpov/fotorama
+artsy/eidolon
 artsy/eigen
 arturadib/node-qt
 arturadib/strapdown
@@ -1439,6 +1444,7 @@ blueimp/jQuery-File-Upload
 bluejamesbond/TextJustify-Android
 bluelinelabs/LoganSquare
 bmatzelle/gow
+bmelnychuk/AndroidTreeView
 bnoguchi/everyauth
 bobthecow/genghis
 bobthecow/git-flow-completion
@@ -1833,6 +1839,7 @@ cujojs/curl
 cujojs/when
 cundong/SmartAppUpdates
 cure53/H5SC
+curl/curl
 curran/screencasts
 cwRichardKim/RKNotificationHub
 cwRichardKim/RKSwipeBetweenViewControllers
@@ -2193,6 +2200,7 @@ emre/storm
 enaqx/awesome-pentest
 enaqx/awesome-react
 ender-js/Ender
+endtwist/kerning.js
 enormego/EGOCache
 enormego/EGOTableViewPullRefresh
 entotsu/PullToBounce
@@ -2656,6 +2664,7 @@ google/google-api-php-client
 google/google-api-ruby-client
 google/google-authenticator
 google/googletest
+google/grr
 google/gson
 google/guava
 google/guice
@@ -2859,6 +2868,7 @@ holman/spark
 honcheng/PaperFold-for-iOS
 honcheng/RTLabel
 honcheng/iOSPlot
+honestbleeps/Reddit-Enhancement-Suite
 hongyangAndroid/AndroidAutoLayout
 hongyangAndroid/okhttp-utils
 honnibal/spaCy
@@ -3962,6 +3972,7 @@ mockko/livereload
 modeset/teaspoon
 modocache/MDCSwipeToChoose
 modularscale/modularscale-sass
+moduth/blockcanary
 mofarrell/p2pvc
 mogujie/TeamTalk
 mogutt/TTServer
@@ -4961,6 +4972,7 @@ ryanmjacobs/c
 rzwitserloot/lombok
 s-a/iron-node
 s16h/py-must-watch
+s3fs-fuse/s3fs-fuse
 s3tools/s3cmd
 sachinchoolur/lightGallery
 saeedalipoor/icono
@@ -5191,6 +5203,7 @@ sockeqwe/mosby
 socketio/engine.io
 socketio/socket.io
 socketio/socket.io-client
+socketio/socket.io-client-java
 socketio/socket.io-client-swift
 socketstream/socketstream
 sockjs/sockjs-client
@@ -5630,6 +5643,7 @@ travisjeffery/timecop
 trawor/XToDo
 treeio/treeio
 trentm/node-bunyan
+trentm/python-markdown2
 trentrichardson/jQuery-Timepicker-Addon
 trevorlinton/webkit.js
 triceam/app-UI
