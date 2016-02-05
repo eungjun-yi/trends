@@ -216,6 +216,7 @@ DemocracyOS/democracyos
 DeskConnect/SBShortcutMenuSimulator
 DevinVinson/WordPress-Plugin-Boilerplate
 DhavalKapil/icmptunnel
+DianQK/TransitionTreasury
 Dimillian/SwiftHN
 DisposaBoy/GoSublime
 DmitryBaranovskiy/g.raphael
@@ -692,6 +693,7 @@ ReactiveX/RxAndroid
 ReactiveX/RxJS
 ReactiveX/RxJava
 ReactiveX/RxSwift
+RedHatBrand/overpass
 Redth/PushSharp
 Reportr/dashboard
 ResearchKit/ResearchKit
@@ -1306,6 +1308,7 @@ awslabs/s2n
 axkibe/lsyncd
 aziz/PlainTasks
 aziz/tmTheme-Editor
+b3log/solo
 b3log/wide
 b4winckler/macvim
 babel/babel
@@ -2504,6 +2507,7 @@ gaearon/react-hot-boilerplate
 gaearon/react-hot-loader
 gaearon/react-transform-boilerplate
 gaearon/redux-devtools
+gaearon/redux-thunk
 gajus/react-css-modules
 gajus/swing
 galetahub/ckeditor
@@ -3377,6 +3381,7 @@ katspaugh/wavesurfer.js
 kattrali/cocoapods-xcode-plugin
 katzer/cordova-plugin-local-notifications
 kaushikgopal/RxJava-Android-Samples
+kbandla/APTnotes
 kchmck/vim-coffee-script
 kconner/KMCGeigerCounter
 kdzwinel/betwixt
@@ -3436,6 +3441,7 @@ kivy/kivy
 kivy/python-for-android
 kiwi-bdd/Kiwi
 kjbekkelund/writings
+kjw0612/awesome-rnn
 kkga/spacegray
 klange/toaruos
 klaussilveira/gitlist
@@ -3551,6 +3557,7 @@ leethomason/tinyxml2
 legomushroom/mojs
 leichunfeng/MVVMReactiveCocoa
 lektor/lektor
+lelylan/betterspecs
 leongersen/noUiSlider
 lepture/editor
 less/less.js
@@ -3815,6 +3822,7 @@ mauricecruz/chrome-devtools-zerodarkmatrix-theme
 mauricemach/coffeekup
 mauricemach/zappa
 maurycyw/StaggeredGridView
+mawww/kakoune
 maximebf/php-debugbar
 maxogden/art-of-node
 maxogden/cool-ascii-faces
@@ -3963,6 +3971,7 @@ mmcgrana/services-engineering
 mmin18/LayoutCast
 mnielsen/neural-networks-and-deep-learning
 mnutt/hummingbird
+mobfarm/FastPdfKit
 mobile-shell/mosh
 mobz/elasticsearch-head
 mochajs/mocha
@@ -4540,6 +4549,7 @@ pixie-lang/pixie
 pixijs/pixi.js
 pkluz/PKHUD
 pkluz/PKRevealController
+pkmital/tensorflow_tutorials
 pksunkara/alpaca
 pkyeck/socket.IO-objc
 plamoni/SiriProxy
@@ -5003,6 +5013,7 @@ sass/node-sass
 sass/sass
 satyan/sugar
 saulmm/Android-Material-Examples
+saulmm/CoordinatorBehaviorExample
 saulmm/Material-Movies
 savonrb/savon
 sb2nov/mac-setup
@@ -5238,6 +5249,7 @@ soveran/cuba
 soveran/ohm
 sovereign/sovereign
 soyjavi/QuoJS
+spacy-io/spaCy
 spadgos/sublime-jsdocs
 sparanoid/chinese-copywriting-guidelines
 sparkle-project/Sparkle
@@ -5662,6 +5674,7 @@ tsx/shireframe
 ttezel/twit
 tumblr/Backboard
 tumblr/TMCache
+turbolinks/turbolinks-classic
 turbulenz/turbulenz_engine
 tuupola/jquery_jeditable
 tuupola/jquery_lazyload
