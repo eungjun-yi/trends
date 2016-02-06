@@ -677,6 +677,7 @@ Raizlabs/DBFlow
 Raizlabs/RZTransitions
 Ramotion/adaptive-tab-bar
 Ramotion/animated-tab-bar
+Ramotion/folding-cell
 Ramotion/paper-switch
 Randommood/Strangeloop2015
 Ranks/emojify.js
@@ -759,6 +760,7 @@ Shougo/neobundle.vim
 Shougo/neocomplcache.vim
 Shougo/neocomplete.vim
 Shougo/unite.vim
+SiCKRAGETV/SiCKRAGE
 SiCKRAGETV/SickRage
 Sigil-Ebook/Sigil
 SignalR/SignalR
@@ -2349,6 +2351,7 @@ fail2ban/fail2ban
 faisalman/ua-parser-js
 falconry/falcon
 fancyapps/fancyBox
+fanout/pushpin
 fantasyland/fantasy-land
 farbrausch/fr_public
 farhadi/html5sortable
@@ -2447,6 +2450,7 @@ fogleman/Craft
 fogleman/Minecraft
 fogleman/ln
 fogleman/nes
+fogleman/pt
 fontello/fontello
 fooplugins/FooTable
 foosel/OctoPrint
@@ -2575,6 +2579,7 @@ gin-gonic/gin
 ginatrapani/todo.txt-cli
 ging/social_stream
 gionkunz/chartist-js
+git-ftp/git-ftp
 git-game/git-game
 git-up/GitUp
 git/git
@@ -4017,6 +4022,7 @@ mootools/mootools-core
 moovweb/gvm
 mooz/percol
 mopidy/mopidy
+moq/moq4
 moredip/Frank
 morhetz/gruvbox
 morrisjs/morris.js
@@ -4390,6 +4396,7 @@ orientechnologies/orientdb
 orlandotm/payment-webfont
 ornicar/lila
 orta/ARAnalytics
+orvice/ss-panel
 os-js/OS.js
 oskarkrawczyk/heyoffline.js
 osscafe/gulp-cheatsheet
@@ -4851,6 +4858,7 @@ rickyrauch/Balloons.IO
 rickytan/RTImageAssets
 ricochet-im/ricochet
 ridiculousfish/HexFiend
+riemann/riemann
 rigoneri/syte
 riot/riot
 ripienaar/free-for-dev
@@ -4970,6 +4978,7 @@ rvm/rvm
 rwaldron/idiomatic.js
 rwaldron/johnny-five
 rxin/db-readings
+ry/v8worker
 ryanb/cancan
 ryanb/dotfiles
 ryanb/letter_opener
@@ -5178,6 +5187,7 @@ siyamed/android-satellite-menu
 siyamed/android-shape-imageview
 sj26/mailcatcher
 sjwhitworth/golearn
+skavanagh/KeyBox
 sketchplugins/plugin-directory
 skidding/cosmos
 skulpt/skulpt
@@ -5408,6 +5418,7 @@ swanson/stringer
 swiftcodex/Swift-Radio-Pro
 swiftmailer/swiftmailer
 swirldev/swirl_courses
+swisnl/jQuery-contextMenu
 swisspol/GCDWebServer
 swoole/swoole-src
 sxyx2008/DevArticles
@@ -5717,6 +5728,7 @@ twitter/snowflake
 twitter/summingbird
 twitter/twemoji
 twitter/twemproxy
+twitter/twitter-text
 twitter/twitter-text-js
 twitter/twui
 twitter/typeahead.js
