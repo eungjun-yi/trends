@@ -59,6 +59,7 @@ AnderWeb/discreteSeekBar
 AndrewBelt/hack.chat
 AndroidBootstrap/android-bootstrap
 AngularClass/angular2-webpack-starter
+AngularClass/awesome-angular2
 AngularClass/ng-fx
 Animatious/awesome-animation
 Anonyfox/node-webkit-hipster-seed
@@ -125,6 +126,7 @@ BradLarson/GPUImage
 BrightcoveOS/Diamond
 BrowserSync/browser-sync
 Bukkit/Bukkit
+ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
 CSS-Tricks/AnythingSlider
 CSSLint/csslint
@@ -218,6 +220,7 @@ DevinVinson/WordPress-Plugin-Boilerplate
 DhavalKapil/icmptunnel
 DianQK/TransitionTreasury
 Dimillian/SwiftHN
+Diolor/Swipecards
 DisposaBoy/GoSublime
 DmitryBaranovskiy/g.raphael
 DmitryBaranovskiy/raphael
@@ -4415,6 +4418,7 @@ oyvindeh/ucss
 oyvindkinsey/easyXDM
 ozodrukh/CircularReveal
 p-e-w/finalterm
+p-e-w/maybe
 p8952/bocker
 pNre/ExSwift
 pa7/heatmap.js
@@ -4938,6 +4942,7 @@ rspec/rspec-rails
 rstacruz/flatdoc
 rstacruz/jquery.transit
 rstacruz/nprogress
+rstacruz/pnpm
 rstacruz/rscss
 rstacruz/sparkup
 rstudio/rstudio
@@ -5096,6 +5101,7 @@ senchalabs/connect
 senchalabs/jQTouch
 senchalabs/jsduck
 sendwithus/templates
+senecajs/seneca
 sensu/sensu
 sentsin/layer
 sephiroth74/ImageViewZoom
