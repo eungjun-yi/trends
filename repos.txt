@@ -51,6 +51,7 @@ AllThingsSmitty/jquery-tips-everyone-should-know
 AllThingsSmitty/must-watch-css
 AlloyTeam/AlloyImage
 AlloyTeam/Mars
+AltBeacon/android-beacon-library
 Alterplay/APAddressBook
 Aluxian/Facebook-Messenger-Desktop
 Aluxian/WhatsApp-Desktop
@@ -2169,6 +2170,7 @@ ejci/favico.js
 ejoy/ejoy2d
 elabs/pundit
 elastic/beats
+elastic/curator
 elastic/elasticsearch
 elastic/elasticsearch-definitive-guide
 elastic/elasticsearch-js
@@ -3111,6 +3113,7 @@ javierbyte/img2css
 javve/list.js
 jaydee3/JDStatusBarNotification
 jaymedavis/hubble
+jayphelps/git-blame-someone-else
 jaysalvat/buzz
 jaysalvat/vegas
 jaz303/tipsy
@@ -3969,6 +3972,7 @@ mixi-inc/iOSTraining
 mixu/singlepageappbook
 mizzy/serverspec
 mjibson/goread
+mjmlio/mjml
 mkdocs/mkdocs
 mkeeter/antimony
 mledoze/countries
@@ -4378,6 +4382,7 @@ openresty/lua-nginx-module
 openresty/nginx-tutorials
 openresty/openresty
 openscad/openscad
+openshift/origin
 openssl/openssl
 openstack-dev/devstack
 openstack/nova
@@ -4966,6 +4971,7 @@ ruby/ruby
 rubygems/rubygems
 rubygems/rubygems.org
 rubymotion/BubbleWrap
+rubysec/bundler-audit
 rubysherpas/forem
 rubysherpas/paranoia
 ruflin/Elastica
@@ -5124,6 +5130,7 @@ shadowsocks/shadowsocks-android
 shadowsocks/shadowsocks-go
 shadowsocks/shadowsocks-gui
 shadowsocks/shadowsocks-iOS
+shadowsocks/shadowsocks-qt5
 shadowsocks/shadowsocks-windows
 shaih/HElib
 shancarter/mr-data-converter
