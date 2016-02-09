@@ -638,6 +638,7 @@ PixarAnimationStudios/OpenSubdiv
 Pixelkit/PixelKit-Bootstrap-UI-Kits
 PixelsCommander/HTML-GL
 PkmX/lcamera
+PlusHaze/TrayNotification
 Polymer/observe-js
 Polymer/polymer
 PolymerElements/polymer-starter-kit
@@ -1220,6 +1221,7 @@ apple/swift-corelibs-foundation
 apple/swift-evolution
 apple/swift-package-manager
 applidium/ADTransitionController
+apprenticeharper/DeDRM_tools
 appsquickly/Typhoon
 aquynh/capstone
 arachnys/cabot
@@ -3227,6 +3229,7 @@ joewalnes/smoothie
 joewalnes/websocketd
 joeyespo/grip
 joeyh/git-annex
+joeyh/github-backup
 johang/btfs
 johannilsson/android-actionbar
 johannilsson/android-pulltorefresh
@@ -3417,6 +3420,7 @@ kennethreitz/inbox.py
 kennethreitz/legit
 kennethreitz/osx-gcc-installer
 kennethreitz/python-guide
+kennethreitz/records
 kennethreitz/requests
 kennethreitz/tablib
 kennyledet/Algorithm-Implementations
@@ -4683,6 +4687,7 @@ python-pillow/Pillow
 python-visualization/folium
 python/cpython
 pythonforfacebook/facebook-sdk
+pytoolz/toolz
 qTip2/qTip2
 qbittorrent/qBittorrent
 qfish/XAlign
@@ -5124,6 +5129,7 @@ seyhunak/twitter-bootstrap-rails
 sferik/rails_admin
 sferik/t
 sferik/twitter
+sgaurav/understanding-es6
 shadowsocks/ChinaDNS
 shadowsocks/shadowsocks
 shadowsocks/shadowsocks-android
@@ -5841,6 +5847,7 @@ viljamis/responsive-nav.js
 vim-airline/vim-airline
 vim-ruby/vim-ruby
 vim/vim
+vimeo/graph-explorer
 vinc3m1/RoundedImageView
 vinta/awesome-python
 visionmedia/debug
