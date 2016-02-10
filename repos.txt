@@ -163,6 +163,7 @@ Ciechan/BCMeshTransformView
 Circa75/dropplets
 CiscoCloud/microservices-infrastructure
 Clans/FloatingActionButton
+Cleveroad/slidingtutorial-android
 ClusterHQ/flocker
 CocoaChina-editors/Welcome-to-Swift
 CocoaLumberjack/CocoaLumberjack
@@ -549,6 +550,7 @@ MongoEngine/mongoengine
 Moq/moq4
 Morhaus/dispatch-proxy
 MortimerGoro/MGSwipeTableCell
+MostafaGazar/CustomShapeImageView
 MostlyAdequate/mostly-adequate-guide
 Mottie/tablesorter
 MovingBlocks/Terasology
@@ -821,6 +823,7 @@ TedGoas/Cerberus
 TeehanLax/Hyperlapse.js
 TelescopeJS/Telescope
 Templarian/MaterialDesign
+TencentOpen/GT
 Terry-Mao/gopush-cluster
 Textalk/angular-schema-form
 TheAmazingAudioEngine/TheAmazingAudioEngine
@@ -958,6 +961,7 @@ abrasive/shairport
 acani/Chats
 acaudwell/Gource
 acdlite/flummox
+acdlite/recompose
 acdlite/redux-router
 activeadmin/activeadmin
 activemerchant/active_merchant
@@ -1045,6 +1049,7 @@ alex/django-taggit
 alex/what-happens-when
 alexanderGugel/ied
 alexandru/scala-best-practices
+alexazhou/VeryNginx
 alexbw/novocaine
 alexdrone/ios-fontawesome
 alexgorbatchev/jquery-textext
@@ -1768,6 +1773,7 @@ coduo/php-humanizer
 codylindley/frontend-tools
 cognitect/transit-format
 coleifer/peewee
+collectd/collectd
 collectiveidea/audited
 collectiveidea/awesome_nested_set
 collectiveidea/interactor
@@ -2660,6 +2666,7 @@ google/ExoPlayer
 google/WebFundamentals
 google/android-classyshark
 google/auto
+google/battery-historian
 google/binnavi
 google/blockly
 google/brotli
@@ -2930,6 +2937,7 @@ hyde/hyde
 hylang/hy
 hyperium/hyper
 hyperoslo/Form
+hyperoslo/ImagePicker
 hyperoslo/Presentation
 hyperoslo/Sync
 hyperoslo/Whisper
@@ -3120,6 +3128,7 @@ jaysalvat/buzz
 jaysalvat/vegas
 jaz303/tipsy
 jbhuang0604/awesome-computer-vision
+jbranchaud/til
 jbrownlee/CleverAlgorithms
 jbt/markdown-editor
 jbutz/bootstrap-lightbox
@@ -3852,6 +3861,7 @@ mbcrawfo/GenericMakefile
 mbebenita/Broadway
 mbebenita/LLJS
 mbenford/ngTagsInput
+mbj/mutant
 mbleigh/acts-as-taggable-on
 mbostock/d3
 mbostock/topojson
@@ -5327,6 +5337,7 @@ square/cube
 square/cubism
 square/dagger
 square/flow
+square/java-code-styles
 square/javapoet
 square/keywhiz
 square/leakcanary
@@ -5376,6 +5387,7 @@ stephenmcd/mezzanine
 stevedekorte/io
 stevegraham/slanger
 stevekwan/best-practices
+stevemao/diff-so-fancy
 stevenschobert/instafeed.js
 stevenwanderski/bxslider-4
 stewdio/beep.js
@@ -5527,6 +5539,7 @@ thedjpetersen/subway
 theintern/intern
 theironcook/Backbone.ModelBinder
 thejameskyle/babel-handbook
+themattrix/bash-concurrent
 themeskult/wp-svbtle
 then/promise
 theonion/comcastifyjs
