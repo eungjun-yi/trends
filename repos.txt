@@ -187,6 +187,7 @@ ConnorAtherton/loaders.css
 ConnorAtherton/walkway
 CorsixTH/CorsixTH
 CosmicMind/Material
+CouchPotato/CouchPotatoServer
 Countly/countly-server
 CppCon/CppCon2014
 CreateJS/EaselJS
@@ -887,6 +888,7 @@ WPOTools/perfBar
 WPOTools/steady.js
 WardCunningham/Smallest-Federated-Wiki
 WebAssembly/design
+WebDevStudios/CMB2
 WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
 WhisperSystems/Signal-Android
@@ -1591,6 +1593,7 @@ capitaomorte/yasnippet
 cappuccino/cappuccino
 capttaco/Briefs
 card-io/card.io-iOS-SDK
+careercup/ctci
 carhartl/jquery-cookie
 carlbutron/Swift
 carlhuda/janus
@@ -1961,6 +1964,7 @@ ded/qwery
 ded/reqwest
 ded/script.js
 deeplearning4j/deeplearning4j
+deepstreamIO/deepstream.io
 defagos/CoconutKit
 defunkt/cijoe
 defunkt/dotjs
@@ -2290,6 +2294,7 @@ evnaz/ENSwiftSideMenu
 evrone/quiet_assets
 excilys/androidannotations
 exercism/exercism.io
+expressjs/express
 expressjs/express-resource
 expressjs/morgan
 expressjs/multer
@@ -3150,6 +3155,7 @@ jedireza/drywall
 jedisct1/dnscrypt-proxy
 jedisct1/libsodium
 jedrzejchalubek/Glide.js
+jeff-collins/ment.io
 jeff-optimizely/Guiders-JS
 jeffkaufman/icdiff
 jeffknupp/sandman
@@ -3831,6 +3837,7 @@ matthewmueller/date
 matthewpalmer/Locksmith
 matthieua/WOW
 matthuhiggins/foreigner
+mattkrick/meatier
 mattn/emmet-vim
 mattn/gist-vim
 mattn/go-sqlite3
@@ -4546,6 +4553,7 @@ phoenixframework/phoenix
 phonegap/phonegap-start
 photo/frontend
 photonstorm/phaser
+php-amqplib/php-amqplib
 php-fig/fig-standards
 php/php-langspec
 php/php-src
@@ -5655,6 +5663,7 @@ tomaz/appledoc
 tombatossals/angular-leaflet-directive
 tombenner/nui
 tomchristie/django-rest-framework
+tomdionysus/foaas
 tomerfiliba/plumbum
 tomislav/osx-terminal.app-colors-solarized
 tomknig/TOMSMorphingLabel
@@ -5994,6 +6003,7 @@ wting/autojump
 wuub/SublimeREPL
 wvanbergen/request-log-analyzer
 wycats/handlebars.js
+wycats/javascript-decorators
 wyouflf/xUtils
 wyouflf/xUtils3
 wyuenho/backgrid
