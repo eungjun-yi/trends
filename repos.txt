@@ -797,6 +797,7 @@ StackExchange/StackExchange.Redis
 StackExchange/blackbox
 StackExchange/dapper-dot-net
 StackStorm/st2
+StevenBlack/hosts
 Strider-CD/strider
 Studio-42/elFinder
 Stuk/jszip
@@ -1906,6 +1907,7 @@ danielebogo/DBCamera
 danielgindi/ios-charts
 danielgtaylor/aglio
 danielmiessler/SecLists
+danielquinn/paperless
 danielstjules/Stringy
 danleech/simple-icons
 danlucraft/git.js
@@ -2152,6 +2154,7 @@ dyve/django-bootstrap-toolkit
 dyve/django-bootstrap3
 dz0ny/leapcast
 dzenbot/DZNEmptyDataSet
+dzenbot/DZNPhotoPickerController
 dzenbot/DZNSegmentedControl
 e14n/pump.io
 eBay/fabio
@@ -2159,6 +2162,7 @@ ealeksandrov/EAIntroView
 easelinc/tourist
 easymotion/vim-easymotion
 ebidel/filer.js
+eclipse/che
 eclipse/vert.x
 ecomfe/echarts
 ecomfe/fontmin
@@ -2884,6 +2888,7 @@ hilios/jQuery.countdown
 hioa-cs/IncludeOS
 hipache/hipache
 hirak/prestissimo
+hishamhm/htop
 hitherejoe/Android-Boilerplate
 hitherejoe/animate
 hmkcode/Android
@@ -3518,6 +3523,7 @@ krasimir/deb.js
 kriasoft/react-starter-kit
 kripken/emscripten
 kripken/sql.js
+krisajenkins/yesql
 krisk/Fuse
 kriskowal/gtor
 kriskowal/q
@@ -4814,6 +4820,8 @@ reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
 reactjs/react-future
 reactjs/react-rails
+reactjs/react-router
+reactjs/react-router-redux
 reactjs/react-tutorial
 reactor/reactor
 reactphp/react
@@ -5724,6 +5732,7 @@ tsuru/tsuru
 tsvensen/equalize.js
 tsx/shireframe
 ttezel/twit
+tuesda/CircleRefreshLayout
 tumblr/Backboard
 tumblr/TMCache
 turbolinks/turbolinks-classic
