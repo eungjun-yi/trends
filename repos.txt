@@ -509,6 +509,7 @@ Marxon13/M13ProgressSuite
 Mashape/kong
 Mashape/mashape-oauth
 MasteringOpenCV/code
+Masterminds/glide
 Matt-Esch/virtual-dom
 MattWilcox/Adaptive-Images
 MatthewYork/DateTools
@@ -625,6 +626,7 @@ PHPOffice/PHPWord
 PMSI-AlignAlytics/dimple
 PaoloRotolo/AppIntro
 ParsePlatform/Anypic
+ParsePlatform/Parse-SDK-Android
 ParsePlatform/Parse-SDK-iOS-OSX
 ParsePlatform/parse-server
 Pasvaz/bindonce
@@ -1383,6 +1385,7 @@ bebraw/jswiki
 beefproject/beef
 beetbox/beets
 begriffs/postgrest
+beiOSDev/Swift
 belluzj/fantasque-sans
 ben-manes/caffeine
 ben174/git-draw
@@ -2704,6 +2707,7 @@ google/guice
 google/gumbo-parser
 google/gxui
 google/incremental-dom
+google/ion
 google/ios-webkit-debug-proxy
 google/iosched
 google/j2objc
@@ -2912,6 +2916,7 @@ hootsuite/grid
 horst3180/arc-theme
 hoteltonight/HTAutocompleteTextField
 hothero/awesome-rails-gem
+houndci/hound
 houtianze/bypy
 howdyai/botkit
 howeyc/fsnotify
@@ -4821,9 +4826,12 @@ reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
 reactjs/react-future
 reactjs/react-rails
+reactjs/react-redux
 reactjs/react-router
 reactjs/react-router-redux
 reactjs/react-tutorial
+reactjs/redux
+reactjs/reselect
 reactor/reactor
 reactphp/react
 reagent-project/reagent
@@ -5415,6 +5423,7 @@ stleary/JSON-java
 stonesam92/ChitChat
 stormzhang/9GAG
 stoyan/cssshrink
+stretchr/arg.js
 stretchr/testify
 stripe/einhorn
 stripe/jquery.payment
