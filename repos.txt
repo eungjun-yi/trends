@@ -1796,6 +1796,7 @@ commonsguy/cw-android
 commonsguy/cw-omnibus
 componentjs/component
 composer/composer
+composer/satis
 comyarzaheri/Sol
 conditionizr/conditionizr
 connors/photon
@@ -2201,6 +2202,7 @@ elastic/logstash-forwarder
 elazarl/goproxy
 ele828/react-native-guide
 electerious/Lychee
+electronicarts/EASTL
 eleith/emailjs
 elementalui/elemental
 elevenetc/TextSurface
@@ -2961,6 +2963,7 @@ hzlzh/AlfredWorkflow.com
 hzlzh/Best-App
 i-tu/Hasklig
 i18next/i18next
+i3/i3
 iBaa/PlexConnect
 iBotPeaches/Apktool
 iCHAIT/awesome-osx
@@ -3153,6 +3156,7 @@ jch/html-pipeline
 jcjohnson/neural-style
 jcs/lobsters
 jcubic/jquery.terminal
+jd-alexander/LikeButton
 jdamcd/android-crop
 jdan/cleaver
 jdan/isomer
@@ -5272,6 +5276,7 @@ smore-inc/clippy.js
 snide/sphinx_rtd_theme
 snowdream/awesome-android
 snowplow/snowplow
+so-fancy/diff-so-fancy
 soarcn/BottomSheet
 sobri909/MGBoxKit
 sockeqwe/mosby
