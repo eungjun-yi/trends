@@ -72,6 +72,7 @@ Apipie/apipie-rails
 ApmeM/android-flowlayout
 App-vNext/Polly
 AppScale/appscale
+AriaFallah/WebpackTutorial
 ArtSabintsev/Harpy
 AssetSync/asset_sync
 AsyncHttpClient/async-http-client
@@ -631,6 +632,7 @@ ParsePlatform/Parse-SDK-iOS-OSX
 ParsePlatform/parse-server
 Pasvaz/bindonce
 Pathgather/please-wait
+PaulSec/awesome-sec-talks
 PaulUithol/Backbone-relational
 Peer5/ShareFest
 PerfectlySoft/Perfect
@@ -644,6 +646,7 @@ Pixelkit/PixelKit-Bootstrap-UI-Kits
 PixelsCommander/HTML-GL
 PkmX/lcamera
 PlusHaze/TrayNotification
+PointCloudLibrary/pcl
 Polymer/observe-js
 Polymer/polymer
 PolymerElements/polymer-starter-kit
@@ -671,6 +674,7 @@ Qihoo360/DroidPlugin
 Quartz/Chartbuilder
 Quartz/bad-data-guide
 QueryKit/QueryKit
+Quick/Nimble
 Quick/Quick
 Quinny898/PersistentSearch
 RMerl/asuswrt-merlin
@@ -1057,6 +1061,7 @@ alexandru/scala-best-practices
 alexazhou/VeryNginx
 alexbw/novocaine
 alexdrone/ios-fontawesome
+alexei/sprintf.js
 alexgorbatchev/jquery-textext
 alexk111/SVG-Morpheus
 alexreisner/geocoder
@@ -1175,6 +1180,7 @@ ankane/chartkick
 ankane/groupdate
 ankane/pghero
 ankane/searchkick
+ankurp/Dollar
 ankurp/Dollar.swift
 anmoljagetia/Flatabulous
 ansible/ansible
@@ -1567,6 +1573,7 @@ buymeasoda/soda-theme
 buzzfeed/Sketch-Toolbox
 bwsewell/tablecloth
 byt3bl33d3r/MITMf
+bytedeco/javacpp
 c4milo/node-webkit-agent
 c9s/Pux
 caesar0301/awesome-public-datasets
@@ -1658,6 +1665,7 @@ chieffancypants/angular-hotkeys
 chieffancypants/angular-loading-bar
 chinchang/cta.js
 chinchang/hint.css
+chinmaymk/angular-charts
 chiraggude/awesome-laravel
 chiunam/CTAssetsPickerController
 chjj/blessed
@@ -1814,6 +1822,7 @@ coreos/flannel
 coreos/fleet
 coreos/rkt
 coresmart/persistencejs
+coreybutler/nvm-windows
 cortesi/devd
 coryhouse/react-slingshot
 coteditor/CotEditor
@@ -2497,6 +2506,7 @@ fpillet/NSLogger
 fpinscala/fpinscala
 fpt-software/Material-Controls-For-iOS
 fqrouter/fqrouter
+frankiesardo/auto-parcel
 frankiesardo/icepick
 franzejr/best-ruby
 frappe/erpnext
@@ -3354,6 +3364,7 @@ jsdoc3/jsdoc
 jshint/jshint
 jsoma/tabletop
 json-api/json-api
+json-schema-form/angular-schema-form
 jsonresume/resume-cli
 jsor/jcarousel
 jspahrsummers/libextobjc
@@ -5713,6 +5724,7 @@ torvalds/linux
 totaljs/framework
 touchstonejs/touchstonejs
 tower/tower
+tpope/vim-commentary
 tpope/vim-dispatch
 tpope/vim-fireplace
 tpope/vim-fugitive
@@ -5935,6 +5947,7 @@ vulcand/vulcand
 vvo/gifify
 vysheng/tg
 wa0x6e/cal-heatmap
+waditu/tushare
 wagerfield/flat-surface-shader
 wagerfield/parallax
 wakaleo/game-of-life
@@ -5989,6 +6002,7 @@ what-studio/profiling
 white-cat/ThinkAndroid
 whitesmith/rubycritic
 whomwah/qlstephen
+whtsky/WeRoBot
 widuu/chinese_docker
 wildfly/wildfly
 willfarrell/alfred-workflows
