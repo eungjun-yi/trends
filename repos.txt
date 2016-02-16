@@ -162,6 +162,7 @@ ChristosChristofidis/awesome-deep-learning
 Ciechan/BCGenieEffect
 Ciechan/BCMeshTransformView
 Circa75/dropplets
+CiscoCloud/mantl
 CiscoCloud/microservices-infrastructure
 Clans/FloatingActionButton
 Cleveroad/slidingtutorial-android
@@ -228,6 +229,7 @@ Diolor/Swipecards
 DisposaBoy/GoSublime
 DmitryBaranovskiy/g.raphael
 DmitryBaranovskiy/raphael
+Dobiasd/articles
 Dogfalo/materialize
 DotNetOpenAuth/DotNetOpenAuth
 DrKLO/Telegram
@@ -1083,6 +1085,7 @@ alibaba/tsar
 aliceui/aliceui.org
 alignedleft/d3-book
 alikaragoz/MCSwipeTableViewCell
+allenwong/30DaysofSwift
 allinurl/goaccess
 allmarkedup/purl
 almasaeed2010/AdminLTE
@@ -1439,6 +1442,7 @@ binaryjs/binaryjs
 binarylogic/authlogic
 binarylogic/searchlogic
 binarylogic/settingslogic
+binggg/mrn
 bingoogolapple/BGARefreshLayout-Android
 binux/pyspider
 biometrics/openbr
@@ -1634,6 +1638,7 @@ celluloid/celluloid
 cemerick/friend
 ceolter/ag-grid
 ceph/ceph
+cerebris/jsonapi-resources
 cesanta/mongoose
 cezarywojcik/CWStatusBarNotification
 cferdinandi/smooth-scroll
@@ -1710,6 +1715,7 @@ ciaranj/node-oauth
 cinder/Cinder
 cisco/openh264
 citra-emu/citra
+citusdata/pg_shard
 cjb/GitTorrent
 cjbarber/ToolsOfTheTrade
 cjdelisle/cjdns
@@ -2022,6 +2028,7 @@ devttys0/binwalk
 dexafree/MaterialList
 dfcb/BigVideo.js
 dfm/osrc
+dhamaniasad/awesome-postgres
 dherman/asm.js
 dhg/Skeleton
 dhotson/springy
@@ -2703,6 +2710,7 @@ google/code-prettify
 google/deepdream
 google/eddystone
 google/end-to-end
+google/enjarify
 google/flatbuffers
 google/fonts
 google/git-appraise
@@ -3105,6 +3113,7 @@ jakevdp/mpld3
 jakiestfu/Behave.js
 jakiestfu/Medium.js
 jakiestfu/Snap.js
+jakiestfu/himawari.js
 jakubpawlowicz/clean-css
 jaliss/securesocial
 jalxob/cool-kitten
@@ -3265,6 +3274,7 @@ joelittlejohn/jsonschema2pojo
 joelpx/reverse
 joemccann/dillinger
 joestump/python-oauth2
+joewalnes/reconnecting-websocket
 joewalnes/smoothie
 joewalnes/websocketd
 joeyespo/grip
@@ -4299,6 +4309,7 @@ nodemcu/nodemcu-firmware
 nodesource/distributions
 noflo/noflo
 nojhan/liquidprompt
+nolanlawson/pokedex.org
 nolimits4web/Framework7
 nolimits4web/Swiper
 nomad/cupertino
@@ -4406,6 +4417,7 @@ ondras/my-mind
 oneuijs/You-Dont-Need-jQuery
 onevcat/Kingfisher
 onevcat/VVDocumenter-Xcode
+ongakuer/CircleIndicator
 onokumus/Bootstrap-Admin-Template
 onurakpolat/awesome-bigdata
 onyx-platform/onyx
@@ -4858,6 +4870,7 @@ realm/realm-java
 reapp/reapp
 reark/reark
 recruit-lifestyle/WaveSwipeRefreshLayout
+recruit-mp/RMPZoomTransitionAnimator
 reddit/reddit
 redecentralize/alternative-internet
 redguardtoo/mastering-emacs-in-one-year-guide
@@ -4869,6 +4882,7 @@ redodo/tortilla
 redox-os/redox
 redsolution/xabber-android
 reduxframework/elusive-iconfont
+reduxframework/redux-framework
 reeze/tipi
 refile/refile
 refinery/refinerycms
@@ -6014,6 +6028,7 @@ winjs/winjs
 winmarkltd/BootstrapFormHelpers
 winstonjs/winston
 winterbe/java8-tutorial
+wireservice/csvkit
 wise9/enchant.js
 wishstudio/flinux
 witheve/Eve
@@ -6100,6 +6115,7 @@ yeoman/generator-angular
 yeoman/generator-chrome-extension
 yeoman/generator-gulp-webapp
 yeoman/generator-webapp
+yeoman/generator-webapp_DEPRECATED
 yeoman/grunt-usemin
 yeoman/yeoman
 yeoman/yo
