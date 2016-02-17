@@ -457,6 +457,7 @@ Kickball/awesome-selfhosted
 Kintaro/wtftw
 Kinto/kinto
 KittenYang/KYGooeyMenu
+KittyKatt/screenFetch
 KnpLabs/Gaufrette
 KnpLabs/snappy
 KnuffApp/Knuff
@@ -552,6 +553,7 @@ Modernizr/Modernizr
 ModuleLoader/es6-module-loader
 MojoJolo/textteaser
 MongoEngine/mongoengine
+Mooophy/Cpp-Primer
 Moq/moq4
 Morhaus/dispatch-proxy
 MortimerGoro/MGSwipeTableCell
@@ -1059,6 +1061,7 @@ alex/django-filter
 alex/django-taggit
 alex/what-happens-when
 alexanderGugel/ied
+alexandersimoes/d3plus
 alexandru/scala-best-practices
 alexazhou/VeryNginx
 alexbw/novocaine
@@ -1882,6 +1885,7 @@ cundong/SmartAppUpdates
 cure53/H5SC
 curl/curl
 curran/screencasts
+cwRichardKim/RKDropdownAlert
 cwRichardKim/RKNotificationHub
 cwRichardKim/RKSwipeBetweenViewControllers
 cwRichardKim/TinderSimpleSwipeCards
@@ -3127,6 +3131,7 @@ jamztang/JTRevealSidebarDemo
 jankotek/mapdb
 janl/mustache.js
 janpaepke/ScrollMagic
+jansmolders86/mediacenterjs
 jaredallard/nexe
 jaredhanson/oauth2orize
 jaredhanson/passport
@@ -4617,6 +4622,7 @@ pineconellc/angular-foundation
 pingcap/tidb
 pingpongboss/StandOut
 pinterest/PINRemoteImage
+pinterest/teletraan
 piskvorky/gensim
 pivotal/cedar
 piwik/piwik
@@ -5189,6 +5195,7 @@ serratus/quaggaJS
 serverless/serverless
 servo/servo
 session-replay-tools/tcpcopy
+seven1m/30-days-of-elixir
 seyhunak/twitter-bootstrap-rails
 sferik/rails_admin
 sferik/t
@@ -5860,6 +5867,7 @@ una/CSSgram
 unbit/uwsgi
 unconed/MathBox.js
 unconed/TermKit
+uncrustify/uncrustify
 unixorn/awesome-zsh-plugins
 uranusjr/macdown
 urbanairship/tessera
@@ -6163,6 +6171,7 @@ zenorocha/clipboard.js
 zenorocha/dracula-theme
 zenorocha/voice-elements
 zensh/jsgen
+zer0n/deepframeworks
 zero-db/zerodb
 zeroclipboard/zeroclipboard
 zeromq/libzmq
