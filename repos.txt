@@ -493,6 +493,7 @@ Lokaltog/vim-powerline
 LuminosoInsight/python-ftfy
 Luracast/Restler
 LyndonChin/AndroidRubberIndicator
+LyndonChin/MasteringAndroidDataBinding
 M66B/XPrivacy
 MLstate/opalang
 Maatwebsite/Laravel-Excel
@@ -1001,6 +1002,7 @@ addyosmani/es6-tools
 addyosmani/essential-js-design-patterns
 addyosmani/grunt-uncss
 addyosmani/psi
+addyosmani/timing.js
 addyosmani/tmi
 adleroliveira/dreamjs
 adobe-fonts/source-code-pro
@@ -2698,6 +2700,7 @@ goldsmith/Wikipedia
 gollum/gollum
 gontovnik/DGElasticPullToRefresh
 gontovnik/DGRunkeeperSwitch
+google/EarlGrey
 google/ExoPlayer
 google/WebFundamentals
 google/android-classyshark
@@ -3038,6 +3041,7 @@ impress/impress.js
 impressivewebs/HTML9-Responsive-Boilerstrap-js
 imsky/holder
 imulus/retinajs
+imwilsonxu/fbone
 inFullMobile/WobbleView
 incanter/incanter
 inconshreveable/ngrok
@@ -4857,6 +4861,7 @@ react-toolbox/react-toolbox
 reactioncommerce/reaction
 reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
+reactjs/history
 reactjs/react-future
 reactjs/react-rails
 reactjs/react-redux
@@ -5436,6 +5441,7 @@ steelThread/redmon
 steeve/france.code-civil
 stefankroes/ancestry
 stefanpenner/ember-app-kit
+stefanpenner/es6-promise
 steipete/Aspects
 steipete/PSStackedView
 steipete/PSTCollectionView
@@ -5690,6 +5696,7 @@ tldr-pages/tldr
 tmallfe/tmallfe.github.io
 tmate-io/tmate
 tmdvs/TDBadgedCell
+tmk/tmk_keyboard
 tmm1/perftools.rb
 tmm1/rbtrace
 tmort/Socialite
@@ -6147,6 +6154,7 @@ yui/yui3
 yui/yuicompressor
 yuin/gopher-lua
 yuki24/did_you_mean
+yukiasai/Gecco
 yuku-t/jquery-textcomplete
 yusugomori/DeepLearning
 yusuke/twitter4j
