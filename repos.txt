@@ -137,6 +137,7 @@ CacheBrowser/cachebrowser
 CachetHQ/Cachet
 Caged/gitnub
 CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+CameronBanga/iOS-Developer-and-Designer-Interview-Questions
 CanCanCommunity/cancancan
 CanvasPod/Canvas
 Carthage/Carthage
@@ -903,6 +904,7 @@ WebAssembly/design
 WebDevStudios/CMB2
 WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
+WenchaoIOS/FSCalendar
 WhisperSystems/Signal-Android
 WhisperSystems/Signal-Desktop
 WhisperSystems/Signal-iOS
@@ -1457,6 +1459,7 @@ bitcoinjs/bitcoinjs-lib
 bitemyapp/learnhaskell
 bitly/data_hacks
 bitly/go-simplejson
+bitly/oauth2_proxy
 bitovi/jquerypp
 bitpay/bitcore
 bitshadow/iconate
@@ -1619,6 +1622,7 @@ carlbutron/Swift
 carlhuda/janus
 carllerche/mio
 carlsednaoui/ouibounce
+carltongibson/django-filter
 carrierwaveuploader/carrierwave
 carrot/share-button
 carsonperrotti/CNPPopupController
@@ -1629,6 +1633,7 @@ cassidoo/getting-a-gig
 castorflex/SmoothProgressBar
 catfan/Medoo
 cazala/synaptic
+cbpowell/MarqueeLabel
 ccampbell/mousetrap
 ccampbell/rainbow
 ccgus/fmdb
@@ -1668,6 +1673,7 @@ chenglou/react-tween-state
 chengr28/RevokeChinaCerts
 chenshuo/muduo
 chentsulin/electron-react-boilerplate
+chenupt/DragTopLayout
 chenupt/SpringIndicator
 chewiebug/GCViewer
 chiahsien/CHTCollectionViewWaterfallLayout
@@ -2443,6 +2449,7 @@ fffaraz/awesome-cpp
 fffunction/sassaparilla
 ffi/ffi
 fgnass/spin.js
+fgrehm/vagrant-lxc
 fguillot/kanboard
 fians/Waves
 fians/marka
@@ -2941,6 +2948,7 @@ honza/vim-snippets
 hoodiehq/hoodie
 hootsuite/grid
 horst3180/arc-theme
+hotchemi/PermissionsDispatcher
 hoteltonight/HTAutocompleteTextField
 hothero/awesome-rails-gem
 houndci/hound
@@ -3222,6 +3230,7 @@ jfeinstein10/JazzyViewPager
 jfeinstein10/SlidingMenu
 jfinal/jfinal
 jfirebaugh/konacha
+jflesch/paperwork
 jfrazelle/dockerfiles
 jgilfelt/SystemBarTint
 jgilfelt/android-sqlite-asset-helper
@@ -3489,6 +3498,7 @@ kentnguyen/KNSemiModalViewController
 kenwheeler/slick
 kern/filepizza
 kesenhoo/android-training-course-in-chinese
+kevin-montrose/Jil
 kevin0571/STPopup
 kevinburke/hamms
 kevinlawler/NSDate-TimeAgo
@@ -4073,6 +4083,7 @@ mojotech/jeet
 moklick/frontend-stuff
 moment/moment
 moment/moment-timezone
+mongo-express/mongo-express
 mongodb/mongo
 mongodb/mongo-csharp-driver
 mongodb/mongo-hadoop
@@ -4158,6 +4169,7 @@ mthli/Knife
 mtonio91/AMSmoothAlert
 mttkay/ignition
 muan/emoji
+muan/mojibar
 muaz-khan/WebRTC-Experiment
 mudcube/MIDI.js
 muicss/mui
@@ -4180,6 +4192,7 @@ mycolorway/simditor
 myell0w/MTStatusBarOverlay
 mynyml/watchr
 mythz/jquip
+myusuf3/delorean
 mzabriskie/axios
 n1k0/casperjs
 n1nj4sec/pupy
@@ -4638,6 +4651,7 @@ pkluz/PKHUD
 pkluz/PKRevealController
 pkmital/tensorflow_tutorials
 pksunkara/alpaca
+pkulchenko/ZeroBraneStudio
 pkyeck/socket.IO-objc
 plamoni/SiriProxy
 plasticboy/vim-markdown
@@ -4878,6 +4892,7 @@ realm/SwiftLint
 realm/jazzy
 realm/realm-cocoa
 realm/realm-java
+realpython/discover-flask
 reapp/reapp
 reark/reark
 recruit-lifestyle/WaveSwipeRefreshLayout
@@ -5165,6 +5180,7 @@ seL4/seL4
 seajs/seajs
 seanpowell/Email-Boilerplate
 seatgeek/fuzzywuzzy
+seatgeek/sixpack
 seatgeek/soulmate
 seattlerb/minitest
 seb-m/pyinotify
@@ -5215,6 +5231,7 @@ shadowsocks/shadowsocks-iOS
 shadowsocks/shadowsocks-qt5
 shadowsocks/shadowsocks-windows
 shaih/HElib
+shakacode/react_on_rails
 shancarter/mr-data-converter
 shaojiankui/iOS-Categories
 share/ShareJS
@@ -5669,6 +5686,7 @@ timburks/nu
 timehop/sticky-headers-recyclerview
 timekit-io/booking-js
 timjacobi/angular2-education
+timothycrosley/hug
 timuric/Content-generator-sketch-plugin
 tinkerpop/blueprints
 tinkerpop/gremlin
@@ -5878,6 +5896,7 @@ uncrustify/uncrustify
 unixorn/awesome-zsh-plugins
 uranusjr/macdown
 urbanairship/tessera
+urho3d/Urho3D
 urish/angular-moment
 usablica/front-end-frameworks
 usablica/intro.js
@@ -5987,6 +6006,7 @@ walmartlabs/thorax
 wandenberg/nginx-push-stream-module
 wandoulabs/codis
 wangdan/AisenWeiBo
+wardowsmcc/badass
 wasabeef/Blurry
 wasabeef/awesome-android-libraries
 wasabeef/awesome-android-ui
@@ -6024,6 +6044,7 @@ wentin/underlineJS
 wenzhixin/bootstrap-table
 werner77/WEPopover
 wesbos/aprilFools.css
+wesleytodd/YeoPress
 weui/weui
 wg/wrk
 whackashoe/antimoderate
