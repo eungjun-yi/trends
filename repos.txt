@@ -326,6 +326,7 @@ Haneke/HanekeSwift
 HangfireIO/Hangfire
 HannahMitt/HomeMirror
 HansPinckaers/GrowingTextView
+Hashnode/mern-starter
 HaxeFoundation/haxe
 Hearst-DD/ObjectMapper
 HelloZeroNet/ZeroNet
@@ -1595,6 +1596,7 @@ calabash/calabash-android
 calabash/calabash-ios
 calebd/SimpleAuth
 callemall/material-ui
+callmecavs/bricks.js
 callmecavs/jump.js
 callmecavs/layzr.js
 callumboddy/CBZSplashView
