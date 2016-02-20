@@ -257,6 +257,7 @@ EvgenyKarkan/EKAlgorithms
 ExactTarget/fuelux
 FFmpeg/FFmpeg
 FLIF-hub/FLIF
+Factual/drake
 Famous/engine
 Famous/famous
 Famous/famous-angular
@@ -595,6 +596,7 @@ NeXTs/Jets.js
 NervanaSystems/neon
 NetEase/pomelo
 Netflix/Hystrix
+Netflix/Scumblr
 Netflix/SimianArmy
 Netflix/asgard
 Netflix/curator
@@ -1158,6 +1160,7 @@ android10/Android-CleanArchitecture
 androidquery/androidquery
 andyet/SimpleWebRTC
 andymccurdy/redis-py
+andypetrella/spark-notebook
 andzdroid/mongo-express
 angrave/SystemProgramming
 angular-app/angular-app
@@ -2135,6 +2138,7 @@ donnemartin/interactive-coding-challenges
 donnemartin/saws
 doorkeeper-gem/doorkeeper
 dotless-de/vagrant-vbguest
+dotnet/core
 dotnet/coreclr
 dotnet/corefx
 dotnet/orleans
@@ -4769,6 +4773,7 @@ pyrocms/pyrocms
 python-pillow/Pillow
 python-visualization/folium
 python/cpython
+python/mypy
 pythonforfacebook/facebook-sdk
 pytoolz/toolz
 qTip2/qTip2
@@ -5566,6 +5571,7 @@ taigaio/taiga-front
 taitems/Aristo-jQuery-UI-Theme
 tangqi92/Android-Tips
 tangqiaoboy/iOSBlogCN
+tannernelson/vapor
 tantaman/Strut
 taobao/nginx-book
 tapmodo/Jcrop
