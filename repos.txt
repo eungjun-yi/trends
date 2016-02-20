@@ -6148,6 +6148,7 @@ yangyangwithgnu/use_vim_as_ide
 yaniswang/HTMLHint
 yannickl/DynamicColor
 yapstudios/YapDatabase
+yargs/yargs
 yaronn/blessed-contrib
 yaronn/wopr
 yarrick/iodine
