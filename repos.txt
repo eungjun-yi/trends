@@ -829,6 +829,7 @@ Swiip/generator-gulp-angular
 Swordfish90/cool-retro-term
 Sylius/Sylius
 TGMPA/TGM-Plugin-Activation
+TMCoding/Plantation
 TTTAttributedLabel/TTTAttributedLabel
 TTimo/doom3.gpl
 TalAter/UpUp
@@ -1271,6 +1272,7 @@ aroc/side-comments
 arrayfire/arrayfire
 arsduo/koala
 artberri/sidr
+artf/grapesjs
 artpolikarpov/fotorama
 artsy/eidolon
 artsy/eigen
@@ -2780,6 +2782,7 @@ googlesamples/android-topeka
 googollee/go-socket.io
 gopatrik/space.js
 gopherjs/gopherjs
+gophish/gophish
 goraft/raft
 gorakhargosh/watchdog
 gorhill/httpswitchboard
@@ -3414,6 +3417,7 @@ julianshapiro/velocity
 julienXX/terminal-notifier
 julienschmidt/httprouter
 julycoding/The-Art-Of-Programming-By-July
+jumpserver/jumpserver
 junegunn/fzf
 junegunn/vim-easy-align
 junegunn/vim-plug
@@ -3867,6 +3871,7 @@ marmelab/ng-admin
 maroslaw/rainyday.js
 martinblech/xmltodict
 martyjs/marty
+martynsmith/node-irc
 maruel/panicparse
 marvelapp/FancyTabBar
 marvelapp/devices.css
@@ -4739,6 +4744,7 @@ propublica/upton
 prose/prose
 pry/pry
 psaravan/JamsMusicPlayer
+psecio/iniscan
 pstadler/flightplan
 psychs/limechat
 ptmt/react-native-desktop
@@ -4801,6 +4807,7 @@ quirkey/sammy
 quokkaproject/quokka
 quozd/awesome-dotnet
 ququplay/jquery-mobile-flat-ui-theme
+qutheory/vapor
 qvacua/vimr
 qw3rtman/gg
 qw3rtman/git-fire
@@ -4864,6 +4871,7 @@ rasmusbergpalm/DeepLearnToolbox
 raspberrypi/firmware
 raspberrypi/linux
 ratchetphp/Ratchet
+ratpack/ratpack
 rauchg/slackin
 raulriera/TextFieldEffects
 ravendb/ravendb
