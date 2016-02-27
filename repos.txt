@@ -156,6 +156,7 @@ ChenYilong/ParseSourceCodeStudy
 ChenYilong/iOS9AdaptationTips
 ChenYilong/iOSInterviewQuestions
 ChicagoBoss/ChicagoBoss
+ChimeraCoder/gojson
 ChiperSoft/Kalendae
 ChrisJohnsen/tmux-MacOSX-pasteboard
 ChrisRM/material-theme-jetbrains
@@ -966,6 +967,7 @@ Yelp/mrjob
 Yixiaohan/codeparkshare
 Yixiaohan/show-me-the-code
 Yomguithereal/baobab
+Yomguithereal/react-blessed
 Z3Prover/z3
 ZhipingYang/UUChatTableView
 ZhongTaoTian/WNXHuntForCity
@@ -1388,6 +1390,7 @@ barryclark/bashstrap
 barryclark/jekyll-now
 barryvdh/laravel-debugbar
 barryvdh/laravel-ide-helper
+bartonhammond/snowflake
 basecamp/local_time
 basecamp/mail_view
 basecamp/pow
@@ -1677,6 +1680,7 @@ cgrand/enlive
 cgross/angular-busy
 chaijs/chai
 chalk/chalk
+chancejs/chancejs
 chandlerprall/Physijs
 chanjarster/weixin-java-tools
 chaplinjs/chaplin
@@ -2074,6 +2078,7 @@ dhotson/springy
 diafygi/acme-tiny
 diafygi/gethttpsforfree
 diafygi/webrtc-ips
+dianping/cat
 diaspora/diaspora
 diegonetto/generator-ionic
 dieulot/instantclick
@@ -3387,6 +3392,7 @@ joshcam/PHP-MySQLi-Database-Class
 joshuaclayton/blueprint-css
 joshuagatcke/HTML-KickStart
 joyent/libuv
+joyent/smartos-live
 jp9000/OBS
 jp9000/obs-studio
 jpetazzo/nsenter
@@ -3763,6 +3769,7 @@ lodash/lodash
 lojjic/PIE
 lokesh/color-thief
 lokesh/lightbox2
+lookingstars/meituan
 loomio/loomio
 loopj/android-async-http
 loopj/android-smart-image-view
@@ -4093,6 +4100,7 @@ mitsuhiko/flask
 mitsuhiko/flask-sqlalchemy
 mitsuhiko/jinja2
 mitsuhiko/werkzeug
+mixi-inc/AndroidTraining
 mixi-inc/iOSTraining
 mixu/singlepageappbook
 mizzy/serverspec
@@ -5218,6 +5226,7 @@ schneiderandre/popping
 schteppe/cannon.js
 schwa/Swift-Community-Best-Practices
 sciactive/pnotify
+scikit-image/scikit-image
 scikit-learn/scikit-learn
 scipy/scipy
 scotch-io/scotch-box
@@ -5351,6 +5360,7 @@ sindresorhus/quick-look-plugins
 sindresorhus/screenfull.js
 sindresorhus/speed-test
 sindresorhus/trash
+sindresorhus/xo
 singro/v2ex
 singwhatiwanna/dynamic-load-apk
 sinonjs/sinon
