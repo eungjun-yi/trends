@@ -1606,6 +1606,7 @@ butterproject/butter-desktop
 buunguyen/octotree
 buymeasoda/soda-theme
 buzzfeed/Sketch-Toolbox
+bvaughn/react-virtualized
 bwsewell/tablecloth
 byt3bl33d3r/MITMf
 bytedeco/javacpp
@@ -1746,6 +1747,7 @@ christiannaths/Redacted-Font
 christoomey/vim-tmux-navigator
 chromium/chromium
 cht8687/You-Dont-Need-Lodash-Underscore
+chubin/wttr.in
 chukong/quick-cocos2d-x
 churchio/onebody
 ci-bonfire/Bonfire
@@ -2265,6 +2267,7 @@ elastic/logstash-forwarder
 elazarl/goproxy
 ele828/react-native-guide
 electerious/Lychee
+electron-userland/electron-packager
 electronicarts/EASTL
 eleith/emailjs
 elementalui/elemental
@@ -3719,6 +3722,7 @@ libgdx/libgdx
 libgdx/packr
 libgit2/libgit2
 libgit2/rugged
+libretro/RetroArch
 libuv/libuv
 liferay/alloy-ui
 liferay/senna.js
@@ -4016,6 +4020,7 @@ meteor/meteor
 meteoric/meteor-ionic
 mewwts/addict
 mgcrea/angular-strap
+mgechev/angular2-seed
 mgechev/angularjs-in-patterns
 mgechev/angularjs-style-guide
 mgechev/javascript-algorithms
@@ -5005,6 +5010,7 @@ rescrv/HyperDex
 resmo/git-ftp
 resque/resque
 resque/resque-scheduler
+ressio/lazy-load-xt
 rest-client/rest-client
 restcookbook/restcookbook
 restify/node-restify
@@ -5697,6 +5703,7 @@ thearn/webcam-pulse-detector
 thebinarysearchtree/regexpbuilderjs
 thebird/Swipe
 thedersen/backbone.validation
+thedillonb/CodeHub
 thedjpetersen/subway
 theintern/intern
 theironcook/Backbone.ModelBinder
