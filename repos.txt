@@ -630,6 +630,7 @@ OpenELEC/OpenELEC.tv
 OpenEmu/OpenEmu
 OpenKinect/libfreenect
 OpenLiveWriter/OpenLiveWriter
+OpenMW/openmw
 OpenRA/OpenRA
 OpenRCT2/OpenRCT2
 OpenRefine/OpenRefine
@@ -1656,6 +1657,7 @@ casesandberg/react-color
 caskroom/homebrew-cask
 cassidoo/getting-a-gig
 castorflex/SmoothProgressBar
+catarse/catarse
 catfan/Medoo
 cazala/synaptic
 cbpowell/MarqueeLabel
@@ -2026,6 +2028,7 @@ ddopson/underscore-cli
 deanmalmgren/textract
 deano2390/MaterialShowcaseView
 dear-github/dear-github
+ded/bonzo
 ded/bowser
 ded/qwery
 ded/reqwest
@@ -2217,6 +2220,7 @@ ducksboard/gridster.js
 duemunk/Async
 dularion/streama
 duojs/duo
+dustturtle/RealReachability
 dvyukov/go-fuzz
 dypsilon/frontend-dev-bookmarks
 dyve/django-bootstrap-toolkit
@@ -2597,6 +2601,7 @@ futuretap/InAppSettingsKit
 futurice/android-best-practices
 futurice/ios-good-practices
 fxsjy/jieba
+fyhertz/libstreaming
 fzaninotto/Faker
 fzaninotto/uptime
 gabordemooij/redbean
@@ -3010,6 +3015,7 @@ html5rocks/www.html5rocks.com
 http-kit/http-kit
 http2/http2-spec
 httprb/http
+httpswift/swifter
 htty/htty
 huangz1990/annotated_redis_source
 huangz1990/redis-3.0-annotated
@@ -4557,6 +4563,7 @@ os-js/OS.js
 oskarkrawczyk/heyoffline.js
 osscafe/gulp-cheatsheet
 osxfuse/osxfuse
+otoolep/rqlite
 outpunk/evil-icons
 overboming/ZCAnimatedLabel
 overshare/overshare-kit
@@ -5870,6 +5877,7 @@ travisjeffery/ClangFormat-Xcode
 travisjeffery/timecop
 trawor/XToDo
 treeio/treeio
+trello/RxLifecycle
 trentm/node-bunyan
 trentm/python-markdown2
 trentrichardson/jQuery-Timepicker-Addon
