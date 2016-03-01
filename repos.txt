@@ -549,6 +549,7 @@ Microsoft/TypeScript
 Microsoft/WinObjC
 Microsoft/Windows-universal-samples
 Microsoft/bond
+Microsoft/code-push
 Microsoft/dotnet
 Microsoft/msbuild
 Microsoft/nodejs-guidelines
@@ -1302,6 +1303,7 @@ arya/bluepill
 aryaxt/iOS-Slide-Menu
 asciimoo/drawille
 asciinema/asciinema
+aseprite/aseprite
 ashfurrow/C-41
 ashleymills/Reachability.swift
 aspnet/EntityFramework
@@ -1362,6 +1364,7 @@ aws/aws-sdk-ruby
 awslabs/aws-shell
 awslabs/s2n
 axkibe/lsyncd
+aymericdamien/TensorFlow-Examples
 aziz/PlainTasks
 aziz/tmTheme-Editor
 b3log/solo
@@ -3040,6 +3043,7 @@ hyde/hyde
 hylang/hy
 hyperium/hyper
 hyperoslo/Form
+hyperoslo/Hue
 hyperoslo/ImagePicker
 hyperoslo/Presentation
 hyperoslo/Sync
@@ -3371,6 +3375,7 @@ joho/7XX-rfc
 joke2k/faker
 jokkedk/webgrind
 jonas/tig
+jonathanpenn/ui-auto-monkey
 jonathanslenders/ptpython
 jonathanslenders/python-prompt-toolkit
 jonathanslenders/pyvim
@@ -4294,6 +4299,7 @@ navasmdc/MaterialDesignLibrary
 naver/pinpoint
 nbs-system/naxsi
 ncb000gt/node.bcrypt.js
+nckprsn/scrollme
 ncsoft/Unreal.js
 ndbroadbent/scm_breeze
 ndbroadbent/turbo-sprockets-rails3
@@ -5175,6 +5181,7 @@ ryanb/letter_opener
 ryanb/nested_form
 ryanb/nifty-generators
 ryanb/ruby-warrior
+ryanflorence/react-project
 ryankiros/neural-storyteller
 ryanmcgrath/twython
 ryanmjacobs/c
@@ -5454,6 +5461,7 @@ soulwire/Coffee-Physics
 soulwire/Makisu
 soulwire/fit.js
 soulwire/sketch.js
+soumith/convnet-benchmarks
 soundcloud/lhm
 soundcloud/roshi
 soveran/cuba
@@ -5608,6 +5616,8 @@ supermarin/ObjectiveRecord
 supermarin/ObjectiveSugar
 supermarin/xcpretty
 suprb/Nested
+survivejs/webpack
+survivejs/webpack_react
 sustrik/libmill
 sutoiku/formula.js
 svaarala/duktape
@@ -5892,6 +5902,7 @@ trustedsec/social-engineer-toolkit
 tschellenbach/Django-facebook
 tschellenbach/Stream-Framework
 tsenart/vegeta
+tstack/lnav
 tsuru/tsuru
 tsvensen/equalize.js
 tsx/shireframe
@@ -6166,6 +6177,7 @@ wklken/k-vim
 wojodesign/simplecart-js
 wojteklu/Watchdog
 wooga/Pocket-Island
+wooorm/alex
 wooorm/franc
 woothemes/FlexSlider
 woothemes/woocommerce
