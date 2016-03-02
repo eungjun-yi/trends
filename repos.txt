@@ -239,6 +239,7 @@ DotNetOpenAuth/DotNetOpenAuth
 DrKLO/Telegram
 Draveness/DKChainableAnimationKit
 Draveness/DKNightVersion
+DreaminginCodeZH/Douya
 DrewDahlman/Mason
 DrkSephy/es6-cheatsheet
 DroidsOnRoids/MPParallaxView
@@ -2203,6 +2204,7 @@ driftyco/ionic
 driftyco/ionicons
 driftyco/ng-cordova
 drone/drone
+dropbox/djinni
 dropbox/dropbox-js
 dropbox/godropbox
 dropbox/hackpad
@@ -2623,6 +2625,7 @@ gaearon/normalizr
 gaearon/react-dnd
 gaearon/react-hot-boilerplate
 gaearon/react-hot-loader
+gaearon/react-makes-you-sad
 gaearon/react-transform-boilerplate
 gaearon/redux-devtools
 gaearon/redux-thunk
@@ -2817,6 +2820,7 @@ google/protobuf
 google/pyringe
 google/roboto
 google/seesaw
+google/snappy
 google/styleguide
 google/traceur-compiler
 google/tracing-framework
@@ -2826,6 +2830,7 @@ googlecreativelab/coder
 googlei18n/libphonenumber
 googlemaps/android-maps-utils
 googlesamples/android-UniversalMusicPlayer
+googlesamples/android-ndk
 googlesamples/android-testing
 googlesamples/android-testing-templates
 googlesamples/android-topeka
@@ -3782,6 +3787,7 @@ lloyd/node-toobusy
 lloyd/yajl
 llvm-mirror/llvm
 lmenezes/elasticsearch-kopf
+lmgonzalves/segment
 lo-th/Oimo.js
 loadfive/Knwl.js
 localtunnel/localtunnel
@@ -4026,6 +4032,7 @@ meltingice/CamanJS
 memcached/memcached
 memononen/nanovg
 mentum/lambdaws
+meolu/walle-web
 mephux/komanda
 mesos/chronos
 mesos/spark
@@ -5095,6 +5102,7 @@ robotlolita/fuck-you
 robotmedia/RMStore
 robovm/robovm
 robrighter/node-boilerplate
+rochacbruno/quokka
 rochal/jQuery-slimScroll
 rockerhieu/emojicon
 rocketeers/rocketeer
