@@ -293,6 +293,7 @@ FredrikNoren/ungit
 FreeCodeCamp/FreeCodeCamp
 FreeRDP/FreeRDP
 Freeboard/freeboard
+Freelander/Android_Data
 Frege/frege
 FriendsOfPHP/Goutte
 FriendsOfPHP/PHP-CS-Fixer
@@ -957,6 +958,7 @@ Yalantis/Koloda
 Yalantis/Persei
 Yalantis/Phoenix
 Yalantis/Pull-to-Refresh.Rentals-iOS
+Yalantis/PullToMakeSoup
 Yalantis/Side-Menu.Android
 Yalantis/Side-Menu.iOS
 Yalantis/StarWars.Android
@@ -2559,6 +2561,7 @@ fogleman/ln
 fogleman/nes
 fogleman/pt
 fontello/fontello
+fool2fish/dragon-book-exercise-answers
 fooplugins/FooTable
 foosel/OctoPrint
 for-GET/know-your-http-well
@@ -2568,6 +2571,7 @@ forkingdog/FDStackView
 forkingdog/UITableView-FDTemplateLayoutCell
 formly-js/angular-formly
 formvalidation/formvalidation
+fortunejs/fortune
 foru17/front-end-collect
 fouber/blog
 fouber/page-monitor
@@ -2595,6 +2599,7 @@ ftlabs/ftscroller
 fuel/fuel
 fulcrum-agile/fulcrum
 fullcalendar/fullcalendar
+fulldecent/system-bus-radio
 fullstackio/FlappySwift
 functional-koans/clojure-koans
 furf/jquery-ui-touch-punch
@@ -3072,6 +3077,7 @@ ibuler/jumpserver
 icanzilb/EasyAnimation
 icanzilb/JSONModel
 icefox/git-achievements
+icepy/Front-End-Develop-Guide
 ichord/At.js
 iconic/open-iconic
 icons8/flat-color-icons
@@ -3118,6 +3124,7 @@ infinite-scroll/infinite-scroll
 infinitered/ProMotion
 influitive/apartment
 influxdata/influxdb
+influxdata/telegraf
 influxdb/influxdb
 inmite/android-selector-chapek
 inorganik/countUp.js
@@ -3700,6 +3707,7 @@ leapmotion/leapjs
 lebinh/ngxtop
 lecho/hellocharts-android
 ledger/ledger
+leecade/react-native-swiper
 leemunroe/grunt-email-workflow
 leemunroe/responsive-html-email-template
 leereilly/games
@@ -5214,6 +5222,7 @@ samyk/magspoof
 sandstorm-io/capnproto
 sandstorm-io/sandstorm
 santinic/how2
+sapegin/social-likes
 sapo/Ink
 sarabander/sicp-pdf
 sass/libsass
@@ -5373,6 +5382,7 @@ sindresorhus/awesome-electron
 sindresorhus/awesome-nodejs
 sindresorhus/awesome-npm
 sindresorhus/editorconfig-sublime
+sindresorhus/github-markdown-css
 sindresorhus/multiline
 sindresorhus/pageres
 sindresorhus/pure
@@ -5882,6 +5892,7 @@ tpope/vim-unimpaired
 tpunt/PHP7-Reference
 tqdm/tqdm
 traex/RippleEffect
+transcode-open/apt-cyg
 travis-ci/travis-ci
 travisjeffery/ClangFormat-Xcode
 travisjeffery/timecop
