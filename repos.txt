@@ -286,6 +286,7 @@ Fooidge/PleaseJS
 FormidableLabs/radium
 FormidableLabs/spectacle
 FortAwesome/Font-Awesome
+FrDH/jQuery.dotdotdot
 FrDH/jQuery.mmenu
 Frank-Zhu/PullZoomView
 FransBouma/Massive
@@ -341,6 +342,7 @@ HelloZeroNet/ZeroNet
 HenrikJoreteg/hjs-webpack
 HeshamMegid/HMSegmentedControl
 Hexxeh/rpi-update
+HighBay/PageMenu
 HipByte/RubyMotionSamples
 HoTT/book
 Homebrew/homebrew
@@ -1291,6 +1293,7 @@ armon/statsite
 aroc/side-comments
 arrayfire/arrayfire
 arsduo/koala
+arslanbilal/git-cheat-sheet
 artberri/sidr
 artf/grapesjs
 artpolikarpov/fotorama
@@ -2042,6 +2045,7 @@ ded/script.js
 deeplearning4j/deeplearning4j
 deepstreamIO/deepstream.io
 defagos/CoconutKit
+defaultnamehere/zzzzz
 defunkt/cijoe
 defunkt/dotjs
 defunkt/facebox
@@ -2229,6 +2233,7 @@ dularion/streama
 duojs/duo
 dustturtle/RealReachability
 dvyukov/go-fuzz
+dylang/shortid
 dypsilon/frontend-dev-bookmarks
 dyve/django-bootstrap-toolkit
 dyve/django-bootstrap3
@@ -2531,6 +2536,7 @@ flask-restful/flask-restful
 flatiron/cradle
 flatiron/director
 flatiron/flatiron
+flatlogic/awesome-bootstrap-checkbox
 flavienlaurent/NotBoringActionBar
 flavienlaurent/datetimepicker
 flavienlaurent/discrollview
@@ -2650,6 +2656,7 @@ gaylemcd/ctci
 gazay/gon
 geddy/geddy
 geeeeeeeeek/WeChatLuckyMoney
+geeeeeeeeek/electronic-wechat
 geekcompany/DeerResume
 geekcompany/ResumeSample
 geelen/x-gif
@@ -2661,6 +2668,7 @@ geocoder-php/Geocoder
 geokit/geokit
 geokit/geokit-rails
 geometer/FBReaderJ
+geopy/geopy
 gephi/gephi
 germanysbestkeptsecret/Wookmark-jQuery
 gernest/utron
@@ -3520,6 +3528,7 @@ kangax/html-minifier
 kanwei/algorithms
 kanytu/android-parallax-recyclerview
 karan/Projects
+karan/Projects-Solutions
 karan/joe
 karlseguin/the-little-mongodb-book
 karma-runner/karma
@@ -3690,6 +3699,7 @@ laravel/laravel
 laravel/lumen
 laravel/spark
 larsenwork/monoid
+laruence/php7-internal
 laruence/yaf
 laserlemon/figaro
 lastpass/lastpass-cli
@@ -4072,6 +4082,7 @@ michaelvillar/dynamics.js
 michelf/php-markdown
 michelson/Dante
 michenriksen/gitrob
+micro/micro
 micropython/micropython
 middleman/middleman
 midgetspy/Sick-Beard
@@ -4135,6 +4146,7 @@ mixi-inc/AndroidTraining
 mixi-inc/iOSTraining
 mixu/singlepageappbook
 mizzy/serverspec
+mjackson/history
 mjibson/goread
 mjmlio/mjml
 mkdocs/mkdocs
@@ -4529,6 +4541,7 @@ omz/AppSales-Mobile
 omz/ColorSense-for-Xcode
 omz/Dash-Plugin-for-Xcode
 ondras/my-mind
+oneclick/rubyinstaller
 oneuijs/You-Dont-Need-jQuery
 onevcat/Kingfisher
 onevcat/VVDocumenter-Xcode
@@ -4739,6 +4752,7 @@ pinterest/teletraan
 piskvorky/gensim
 pivotal/cedar
 piwik/piwik
+pixelcog/parallax.js
 pixelmatrix/uniform
 pixelsign/html5-device-mockups
 pixie-lang/pixie
@@ -4949,6 +4963,7 @@ randym/axlsx
 raphaelcruzeiro/jquery-notebook
 rapid7/metasploit-framework
 rapidloop/rtop
+rappasoft/laravel-5-boilerplate
 rasbt/pattern_classification
 rasbt/python_reference
 rashidkpc/kibana2
@@ -5054,6 +5069,7 @@ reworkcss/rework
 rey5137/material
 rg3/youtube-dl
 rgrove/lazyload
+rgrove/rawgit
 rgrove/sanitize
 rharriso/bower-rails
 rhiever/Data-Analysis-and-Machine-Learning-Projects
@@ -5595,6 +5611,7 @@ stig/json-framework
 stitchfix/pyxley
 stleary/JSON-java
 stonesam92/ChitChat
+storehouse/Advance
 stormzhang/9GAG
 stoyan/cssshrink
 stretchr/arg.js
@@ -5674,6 +5691,7 @@ szk-atmosphere/SAHistoryNavigationViewController
 t32k/stylestats
 t4t5/sweetalert
 tabulapdf/tabula
+tachyons-css/tachyons
 tadast/switching-to-contracting-uk
 taigaio/taiga-back
 taigaio/taiga-front
