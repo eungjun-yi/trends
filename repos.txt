@@ -19,6 +19,7 @@
 18F/web-design-standards
 1sters/material_design_zh
 23/resumable.js
+2359media/EasyAndroidAnimations
 2dxgujun/AndroidTagGroup
 320press/wordpress-bootstrap
 360Controller/360Controller
@@ -460,6 +461,7 @@ JustinTulloss/zeromq.node
 Juude/awesome-android-performance
 KartikTalwar/gmail.js
 Karumi/Dexter
+Karumi/Rosie
 Katee/quietnet
 KeenSoftwareHouse/SpaceEngineers
 KeepSafe/aiohttp
@@ -1357,6 +1359,7 @@ aurelia/framework
 austinzheng/swift-2048
 auth0/node-jsonwebtoken
 auto-complete/auto-complete
+autumnai/leaf
 avalanche123/Imagine
 avast/android-butterknife-zelezny
 avast/android-styled-dialogs
@@ -2997,6 +3000,7 @@ hibernate/hibernate-orm
 hickford/MechanicalSoup
 highcharts/highcharts
 hilios/jQuery.countdown
+hiloteam/Hilo
 hioa-cs/IncludeOS
 hipache/hipache
 hirak/prestissimo
@@ -5533,6 +5537,7 @@ spring-projects/spring-boot
 spring-projects/spring-framework
 spring-projects/spring-loaded
 spring-projects/spring-mvc-showcase
+spring-projects/spring-security
 spring-projects/spring-security-oauth
 springside/springside4
 sprinkle-tool/sprinkle
