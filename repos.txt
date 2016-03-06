@@ -380,6 +380,7 @@ IanLunn/Sequence
 IanLunn/jQuery-Parallax
 IdentityServer/IdentityServer3
 Idered/Editr.js
+ImageOptim/ImageOptim
 Indamix/real-shadow
 Induction/Induction
 Instagram/instagram-ruby-gem
@@ -478,6 +479,7 @@ KittyKatt/screenFetch
 KnpLabs/Gaufrette
 KnpLabs/snappy
 KnuffApp/Knuff
+Konloch/bytecode-viewer
 Kotlin/anko
 Kozea/pygal
 KrauseFx/TSMessages
@@ -545,6 +547,7 @@ MengTo/AppStoreSketch
 MengTo/DesignerNewsApp
 MengTo/Spring
 MeoMix/StreamusChromeExtension
+MiCode/Notes
 MichMich/MagicMirror
 Microsoft/CNTK
 Microsoft/ChakraCore
@@ -698,6 +701,7 @@ PyMySQL/PyMySQL
 Pylons/pyramid
 Qihoo360/Atlas
 Qihoo360/DroidPlugin
+Qix-/color
 Quartz/Chartbuilder
 Quartz/bad-data-guide
 QueryKit/QueryKit
@@ -807,6 +811,7 @@ Sigil-Ebook/Sigil
 SignalR/SignalR
 Simbul/baker
 SimonVT/android-menudrawer
+SirCmpwn/sway
 SirVer/ultisnips
 Sirupsen/logrus
 SkillCollege/SimplifyReader
@@ -848,6 +853,7 @@ Swordfish90/cool-retro-term
 Sylius/Sylius
 TGMPA/TGM-Plugin-Activation
 TMCoding/Plantation
+TTLabs/EvaporateJS
 TTTAttributedLabel/TTTAttributedLabel
 TTimo/doom3.gpl
 TalAter/UpUp
@@ -928,6 +934,7 @@ WebAssembly/design
 WebDevStudios/CMB2
 WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
+WenchaoD/FSCalendar
 WenchaoIOS/FSCalendar
 WhisperSystems/Signal-Android
 WhisperSystems/Signal-Desktop
@@ -978,6 +985,7 @@ Yixiaohan/codeparkshare
 Yixiaohan/show-me-the-code
 Yomguithereal/baobab
 Yomguithereal/react-blessed
+YouXianMing/YoCelsius
 Z3Prover/z3
 ZhipingYang/UUChatTableView
 ZhongTaoTian/WNXHuntForCity
@@ -1760,6 +1768,7 @@ chrissimpkins/codeface
 christianalfoni/react-webpack-cookbook
 christiannaths/Redacted-Font
 christoomey/vim-tmux-navigator
+christophery/pushy
 chromium/chromium
 cht8687/You-Dont-Need-Lodash-Underscore
 chubin/wttr.in
@@ -2758,6 +2767,7 @@ go-bootstrap/go-bootstrap
 go-gorp/gorp
 go-kit/kit
 go-lang-plugin-org/go-lang-idea-plugin
+go-macaron/macaron
 go-martini/martini
 go-qml/qml
 go-sql-driver/mysql
@@ -2778,6 +2788,7 @@ goldfire/howler.js
 goldmansachs/gs-collections
 goldsmith/Wikipedia
 gollum/gollum
+gontovnik/DGActivityIndicatorView
 gontovnik/DGElasticPullToRefresh
 gontovnik/DGRunkeeperSwitch
 google/EarlGrey
@@ -4369,6 +4380,7 @@ ngReact/ngReact
 ngbp/ngbp
 nghialv/MaterialKit
 nginx-boilerplate/nginx-boilerplate
+nginx/nginx
 nginx/nginx-releases
 nhaarman/ListViewAnimations
 nhachicha/SnappyDB
@@ -4858,6 +4870,8 @@ ptwobrussell/Mining-the-Social-Web-2nd-Edition
 publify/publify
 pudo/dataset
 pugjs/jade
+puikinsh/Bootstrap-Admin-Template
+puikinsh/gentelella
 puls/objc-TimesSquare
 puma/puma
 puniverse/quasar
