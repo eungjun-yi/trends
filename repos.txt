@@ -529,6 +529,7 @@ ManuelPeinado/GlassActionBar
 Marak/colors.js
 Marak/faker.js
 MarlinFirmware/Marlin
+MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
 Marxon13/M13ProgressSuite
 Mashape/kong
 Mashape/mashape-oauth
@@ -1069,6 +1070,7 @@ aino/galleria
 airblade/paper_trail
 airblade/vim-gitgutter
 airbnb/AirMapView
+airbnb/DeepLinkDispatch
 airbnb/aerosolve
 airbnb/airflow
 airbnb/airpal
@@ -1252,6 +1254,7 @@ apache/cassandra
 apache/cordova-android
 apache/couchdb
 apache/flink
+apache/groovy
 apache/hadoop
 apache/httpd
 apache/incubator-zeppelin
@@ -2501,6 +2504,7 @@ feathersjs/feathers
 feedbin/feedbin
 feedjira/feedjira
 felicegattuso/datedropper
+felipecsl/AsymmetricGridView
 felipernb/algorithms.js
 felixge/node-ar-drone
 felixge/node-formidable
@@ -3274,6 +3278,7 @@ jayphelps/git-blame-someone-else
 jaysalvat/buzz
 jaysalvat/vegas
 jaz303/tipsy
+jazzband/django-pipeline
 jbhuang0604/awesome-computer-vision
 jbranchaud/til
 jbrownlee/CleverAlgorithms
@@ -3898,6 +3903,7 @@ maebert/jrnl
 mafintosh/chromecasts
 mafintosh/mongojs
 mafintosh/peerflix
+mafintosh/playback
 mafintosh/torrent-stream
 magento/magento2
 magicalpanda/MagicalRecord
@@ -3947,6 +3953,7 @@ marcj/css-element-queries
 marcoarment/BugshotKit
 marcoarment/FCModel
 marcolago/flowtime.js
+marcosvidal/Sketch-Notebook
 marcuswestin/WebViewJavascriptBridge
 marcuswestin/store.js
 marick/Midje
@@ -5413,6 +5420,7 @@ silviomoreto/bootstrap-select
 simon-weber/gmusicapi
 simplabs/ember-simple-auth
 simplaio/rucksack
+simple-android-framework/android_design_patterns_analysis
 simplebits/Pears
 simplefocus/FlowType.JS
 simplegeo/polymaps
@@ -5474,6 +5482,7 @@ smashingboxes/OwlCarousel2
 smcllns/css-social-buttons
 smdahlen/vagrant-digitalocean
 smileyborg/UIView-AutoLayout
+smira/aptly
 smore-inc/clippy.js
 snide/sphinx_rtd_theme
 snowdream/awesome-android
@@ -5858,6 +5867,7 @@ tj/dox
 tj/ejs
 tj/frontend-boilerplate
 tj/git-extras
+tj/luna
 tj/n
 tj/nib
 tj/should.js
@@ -5969,6 +5979,7 @@ tumblr/Backboard
 tumblr/TMCache
 turbolinks/turbolinks-classic
 turbulenz/turbulenz_engine
+tutao/tutanota
 tuupola/jquery_jeditable
 tuupola/jquery_lazyload
 tvbarthel/BlurDialogFragment
