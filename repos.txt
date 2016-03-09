@@ -569,6 +569,7 @@ Microsoft/nodejstools
 Microsoft/vscode
 Microsoft/vscode-go
 MicrosoftDX/Vorlonjs
+MiguelCatalan/MaterialSearchView
 MikeOrtiz/TouchImageView
 MinecraftForge/MinecraftForge
 MiniProfiler/rack-mini-profiler
@@ -1163,6 +1164,7 @@ amokjs/amok
 amonapp/amonone
 amontalenti/elements-of-python-style
 ampache/ampache
+amperser/proselint
 amplab/tachyon
 ampproject/amphtml
 amscanne/huptime
@@ -2326,6 +2328,7 @@ ember-cli/ember-cli
 emberjs/data
 emberjs/ember-rails
 emberjs/ember.js
+emcrisostomo/fswatch
 emicklei/go-restful
 emilevauge/traefik
 emilsjolander/StickyListHeaders
@@ -2505,6 +2508,7 @@ faye/faye
 faylang/fay
 fcambus/nginx-resources
 fchollet/keras
+fdzsergio/SFFocusViewLayout
 feathersjs/feathers
 feedbin/feedbin
 feedjira/feedjira
@@ -2759,6 +2763,7 @@ gitlabhq/gitlabhq
 gizak/termui
 gka/chroma.js
 gkz/LiveScript
+glebm/i18n-tasks
 gleitz/howdoi
 glfw/glfw
 gliderlabs/docker-alpine
@@ -2827,6 +2832,7 @@ google/google-api-php-client
 google/google-api-ruby-client
 google/google-authenticator
 google/googletest
+google/grafika
 google/grr
 google/gson
 google/guava
@@ -4309,6 +4315,7 @@ muicss/mui
 mumble-voip/mumble
 munificent/game-programming-patterns
 munificent/vigil
+munificent/wren
 murtaugh/HTML5-Reset
 murtaugh/HTML5-Reset-WordPress-Theme
 mustache/mustache
@@ -4376,6 +4383,7 @@ nemasu/asmttpd
 nemoTyrant/manong
 neo/ruby_koans
 neo4j/neo4j
+neo4jrb/neo4j
 neokree/MaterialNavigationDrawer
 neokree/MaterialTabs
 neovim/neovim
@@ -5708,6 +5716,7 @@ svg/svgo
 svg/svgo-gui
 swagger-api/swagger-codegen
 swagger-api/swagger-core
+swagger-api/swagger-editor
 swagger-api/swagger-node
 swagger-api/swagger-ui
 swannodette/mori
@@ -5995,6 +6004,7 @@ ttezel/twit
 tuesda/CircleRefreshLayout
 tumblr/Backboard
 tumblr/TMCache
+tumtumtum/StreamingKit
 turbolinks/turbolinks-classic
 turbulenz/turbulenz_engine
 tutao/tutanota
