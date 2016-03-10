@@ -247,6 +247,7 @@ DrkSephy/es6-cheatsheet
 DroidsOnRoids/MPParallaxView
 Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
+EFForg/https-everywhere
 EddyBorja/EBPhotoPages
 Engelberg/instaparse
 EnjoySR/ESJsonFormat-Xcode
@@ -3397,6 +3398,7 @@ joehewitt/scrollability
 joelambert/Flux-Slider
 joeldev/JLRoutes
 joelittlejohn/jsonschema2pojo
+joelpx/plasma
 joelpx/reverse
 joemccann/dillinger
 joestump/python-oauth2
@@ -3858,6 +3860,7 @@ louismullie/treat
 louisremi/background-size-polyfill
 lovell/sharp
 loverajoel/jstips
+lovetuzitong/MultiImageSelector
 lpereira/lwan
 lra/mackup
 lrsjng/h5ai
@@ -4784,6 +4787,7 @@ phusion/traveling-ruby
 phuslu/goagent
 phuslu/goproxy
 pickhardt/betty
+picnicss/picnic
 picocms/Pico
 piemonte/PBJVision
 pieter/gitx
@@ -5274,6 +5278,7 @@ s-a/iron-node
 s16h/py-must-watch
 s3fs-fuse/s3fs-fuse
 s3tools/s3cmd
+s4cha/Stevia
 sachinchoolur/lightGallery
 saeedalipoor/icono
 sagivo/algorithms
@@ -5975,6 +5980,7 @@ tpope/vim-unimpaired
 tpunt/PHP7-Reference
 tqdm/tqdm
 traex/RippleEffect
+trailsjs/trails
 transcode-open/apt-cyg
 travis-ci/travis-ci
 travisjeffery/ClangFormat-Xcode
@@ -6208,6 +6214,7 @@ wardowsmcc/badass
 wasabeef/Blurry
 wasabeef/awesome-android-libraries
 wasabeef/awesome-android-ui
+wasabeef/glide-transformations
 wasabeef/recyclerview-animators
 wasabeef/richeditor-android
 watabou/pixel-dungeon
@@ -6338,6 +6345,7 @@ yangfuhai/afinal
 yangyangwithgnu/hardseed
 yangyangwithgnu/use_vim_as_ide
 yaniswang/HTMLHint
+yannickcr/eslint-plugin-react
 yannickl/DynamicColor
 yapstudios/YapDatabase
 yargs/yargs
