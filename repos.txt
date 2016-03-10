@@ -307,6 +307,7 @@ FriendsOfPHP/Sami
 FriendsOfSymfony/FOSRestBundle
 FrontendMasters/front-end-handbook
 FrozenNode/Laravel-Administrator
+Fuck-You-GFW/p2pspider
 FuzzyAutocomplete/FuzzyAutocompletePlugin
 Fyrd/caniuse
 Gallopsled/pwntools
