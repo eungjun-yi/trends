@@ -763,6 +763,7 @@ RobinHerbots/jquery.inputmask
 RoboBinding/RoboBinding
 Robot-Will/Stino
 RobotiumTech/robotium
+Rochester-NRT/AlphaGo
 RocketChat/Rocket.Chat
 RolifyCommunity/rolify
 RomainPiel/Shimmer-android
@@ -886,6 +887,7 @@ ThrivingKings/animo.js
 Tibolte/ElasticDownload
 Tim9Liu9/TimLiu-iOS
 Todd-Davies/ProgressWheel
+Tonejs/Tone.js
 TonicArtos/StickyGridHeaders
 TonicArtos/SuperSLiM
 TooTallNate/Java-WebSocket
@@ -1113,6 +1115,7 @@ alexbw/novocaine
 alexdrone/ios-fontawesome
 alexei/sprintf.js
 alexgorbatchev/jquery-textext
+alexjc/neural-doodle
 alexk111/SVG-Morpheus
 alexreisner/geocoder
 alexrj/Slic3r
@@ -1151,6 +1154,7 @@ alvarotrigo/fullPage.js
 alvarotrigo/pagePiling.js
 amark/gun
 amatsuda/kaminari
+amayne/SwiftString
 amazeui/amazeui
 ambethia/recaptcha
 amdjs/amdjs-api
@@ -3359,6 +3363,7 @@ jhy/jsoup
 jiaaro/pydub
 jiahaog/nativefier
 jigish/slate
+jikexueyuanwiki/tensorflow-zh
 jimbojsb/launchrocket
 jimhigson/oboe.js
 jingweno/ccat
@@ -4068,6 +4073,7 @@ mbostock/topojson
 mcasimir/mobile-angular-ui
 mcharmas/Android-ReactiveLocation
 mcharmas/android-parcelable-intellij-plugin
+mcollina/mosca
 mcxiaoke/android-volley
 mdo/code-guide
 mdo/github-buttons
@@ -5036,6 +5042,7 @@ razorjack/quicksand
 rbenv/rbenv
 rbenv/ruby-build
 rc0x03/node-osmosis
+rchipka/node-osmosis
 rcrowley/go-metrics
 rcrowley/goagain
 rdash/rdash-angular
@@ -5531,6 +5538,7 @@ socketio/socket.io-client-swift
 socketstream/socketstream
 sockjs/sockjs-client
 sockjs/sockjs-node
+soffes/SSKeychain
 soffes/sskeychain
 soffes/sstoolkit
 sofish/pen
@@ -5912,6 +5920,7 @@ tjunnone/npm-check-updates
 tldr-pages/tldr
 tmallfe/tmallfe.github.io
 tmate-io/tmate
+tmbdev/ocropy
 tmdvs/TDBadgedCell
 tmk/tmk_keyboard
 tmm1/perftools.rb
@@ -6341,6 +6350,7 @@ yahoo/pure
 yahoo/react-intl
 yahoo/squidb
 yairEO/fancyInput
+yamartino/pressure
 yangfuhai/ASimpleCache
 yangfuhai/afinal
 yangyangwithgnu/hardseed
