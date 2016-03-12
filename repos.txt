@@ -728,6 +728,7 @@ Raizlabs/DBFlow
 Raizlabs/RZTransitions
 Ramotion/adaptive-tab-bar
 Ramotion/animated-tab-bar
+Ramotion/circle-menu
 Ramotion/folding-cell
 Ramotion/paper-switch
 Randommood/Strangeloop2015
@@ -818,6 +819,7 @@ Sigil-Ebook/Sigil
 SignalR/SignalR
 Simbul/baker
 SimonVT/android-menudrawer
+SirCmpwn/TrueCraft
 SirCmpwn/sway
 SirVer/ultisnips
 Sirupsen/logrus
@@ -1345,6 +1347,7 @@ aspnetboilerplate/aspnetboilerplate
 assaf/vanity
 assaf/zombie
 assemble/assemble
+assemble/handlebars-helpers
 assimp/assimp
 astaxie/Go-in-Action
 astaxie/bat
@@ -2485,6 +2488,7 @@ facebookarchive/facebook-php-sdk
 facebookarchive/fb-flo
 facebookarchive/huxley
 facebookarchive/phpsh
+facebookarchive/redis-faina
 facebookarchive/scribe
 facebookarchive/three20
 facebookgo/grace
@@ -3176,6 +3180,7 @@ influitive/apartment
 influxdata/influxdb
 influxdata/telegraf
 influxdb/influxdb
+inikulin/parse5
 inmite/android-selector-chapek
 inorganik/countUp.js
 insidegui/WWDC
@@ -3587,6 +3592,7 @@ katspaugh/wavesurfer.js
 kattrali/cocoapods-xcode-plugin
 katzer/cordova-plugin-local-notifications
 kaushikgopal/RxJava-Android-Samples
+kazzkiq/balloon.css
 kbandla/APTnotes
 kbengine/kbengine
 kchmck/vim-coffee-script
@@ -3630,6 +3636,7 @@ kevinlawler/NSDate-TimeAgo
 kevinsawicki/http-request
 kevinzhow/PNChart
 keyboardsurfer/Crouton
+keycastr/keycastr
 keystonejs/keystone
 khamidou/kite
 kickstarter/rack-attack
@@ -3779,6 +3786,7 @@ leongersen/noUiSlider
 lepture/editor
 less/less.js
 less/less.ruby
+letsencrypt/acme-spec
 letsencrypt/boulder
 letsencrypt/letsencrypt
 letsgetrandy/DICSS
@@ -3999,6 +4007,7 @@ markyun/My-blog
 marmelab/gremlins.js
 marmelab/ng-admin
 maroslaw/rainyday.js
+marshmallow-code/marshmallow
 martinblech/xmltodict
 martyjs/marty
 martynsmith/node-irc
@@ -4140,6 +4149,7 @@ miguel-perez/smoothState.js
 miguelfreitas/twister-core
 miguelgrinberg/flasky
 mihaip/dex-method-counts
+mikaelbr/node-notifier
 mike-zarandona/PrettyEmbed.js
 mikeash/MAObjCRuntime
 mikecao/flight
@@ -4166,6 +4176,7 @@ millermedeiros/js-signals
 milligram/milligram
 miloyip/rapidjson
 mina-deploy/mina
+mindbrix/UIImage-PDF
 minetest/minetest
 miniMAC/magic
 minikomi/Bootstrap-Form-Builder
@@ -4210,6 +4221,7 @@ mnielsen/neural-networks-and-deep-learning
 mnutt/hummingbird
 mobfarm/FastPdfKit
 mobile-shell/mosh
+mobxjs/mobx
 mobz/elasticsearch-head
 mochajs/mocha
 mochi/mochiweb
@@ -5138,6 +5150,7 @@ rgrove/sanitize
 rharriso/bower-rails
 rhiever/Data-Analysis-and-Machine-Learning-Projects
 rhomobile/rhodes
+rhysd/NyaoVim
 ricardochimal/taps
 riccardoscalco/textures
 rickharrison/validate.js
@@ -5440,6 +5453,7 @@ shipitjs/shipit
 shipyard/shipyard
 shockone/black-screen
 shoes/shoes
+shogun-toolbox/shogun
 showdownjs/showdown
 shower/shower
 shu223/AnimatedTransitionGallery
@@ -5460,6 +5474,7 @@ simon-weber/gmusicapi
 simplabs/ember-simple-auth
 simplaio/rucksack
 simple-android-framework/android_design_patterns_analysis
+simple-statistics/simple-statistics
 simplebits/Pears
 simplefocus/FlowType.JS
 simplegeo/polymaps
@@ -5642,6 +5657,7 @@ sripathikrishnan/redis-rdb-tools
 srobbin/jquery-backstretch
 sroze/ngInfiniteScroll
 sshwsfc/django-xadmin
+ssloy/tinyrenderer
 sstephenson/bats
 sstephenson/eco
 sstephenson/prototype
@@ -5771,6 +5787,7 @@ tangqiaoboy/iOSBlogCN
 tannernelson/vapor
 tantaman/Strut
 taobao/nginx-book
+taobaofed/react-web
 tapmodo/Jcrop
 tapquo/Lungo.js
 tapwork/HeapInspector-for-iOS
@@ -6039,6 +6056,7 @@ twilio/stashboard
 twisted/twisted
 twittem/wp-bootstrap-navwalker
 twitter-archive/kestrel
+twitter-archive/twitter-text-js
 twitter-fabric/velocity-react
 twitter/AnomalyDetection
 twitter/CocoaSPDY
@@ -6135,6 +6153,7 @@ vcr/vcr
 vczero/react-native-lesson
 vega/vega
 veggiemonk/awesome-docker
+vekexasia/android-edittext-validator
 velesin/jasmine-jquery
 veltman/clmystery
 veltman/principles
