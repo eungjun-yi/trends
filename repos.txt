@@ -201,6 +201,7 @@ CreateJS/EaselJS
 CreateJS/PreloadJS
 CreateJS/SoundJS
 CreateJS/TweenJS
+Croteam-official/Serious-Engine
 CtripMobile/DynamicAPK
 Cyan4973/lz4
 CyberAgent/android-gpuimage
@@ -1110,6 +1111,7 @@ alex/django-filter
 alex/django-taggit
 alex/what-happens-when
 alexanderGugel/ied
+alexanderdickson/waitForImages
 alexandersimoes/d3plus
 alexandru/scala-best-practices
 alexazhou/VeryNginx
@@ -1194,6 +1196,7 @@ andreberg/Meslo-Font
 andreis/interview
 andreruffert/rangeslider.js
 andrewelkins/Laravel-4-Bootstrap-Starter-Site
+andrewngu/sound-redux
 andrewplummer/Sugar
 andrewrk/groovebasin
 andris9/jStorage
@@ -2562,6 +2565,7 @@ firebase/firepad
 firebug/firebug
 firstopinion/formatter.js
 fish-shell/fish-shell
+fisherman/fisherman
 fitztrev/shuttle
 fivesheep/chnroutes
 fivethirtyeight/data
@@ -2662,6 +2666,7 @@ gabrielecirulli/2048
 gabrielemariotti/RecyclerViewItemAnimators
 gabrielemariotti/cardslib
 gabrielfalcao/HTTPretty
+gabrielrcouto/php-terminal-gameboy-emulator
 gaearon/flux-react-router-example
 gaearon/normalizr
 gaearon/react-dnd
@@ -3480,6 +3485,7 @@ jpetazzo/pipework
 jpfuentes2/php-activerecord
 jphp-compiler/jphp
 jpillora/xdomain
+jpmens/jo
 jprante/elasticsearch-jdbc
 jprichardson/node-fs-extra
 jprichardson/string.js
@@ -3505,6 +3511,7 @@ jrjohansson/scientific-python-lectures
 jrowberg/i2cdevlib
 jruby/jruby
 js-cookie/js-cookie
+js-data/js-data-angular
 js-next/react-style
 js2coffee/js2coffee
 jsantell/dancer.js
@@ -3916,6 +3923,7 @@ maccman/holla
 maccman/juggernaut
 maccman/monocle
 macdao/ocds-guide-to-setting-up-mac
+machinezone/tcpkali
 machty/emblem.js
 maciejczyzewski/retter
 maciekish/iReSign
