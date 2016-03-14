@@ -521,6 +521,7 @@ LyndonChin/MasteringAndroidDataBinding
 M66B/XPrivacy
 MLstate/opalang
 Maatwebsite/Laravel-Excel
+MacDownApp/macdown
 MacGapProject/MacGap1
 MacRuby/MacRuby
 MahApps/MahApps.Metro
@@ -2388,6 +2389,7 @@ erusev/parsedown
 ervandew/supertab
 es-analysis/plato
 es-shims/es5-shim
+esbullington/react-d3
 escoz/QuickDialog
 esilverberg/ios-image-filters
 eslint/eslint
@@ -3166,6 +3168,7 @@ imakewebthings/deck.js
 imakewebthings/waypoints
 imathis/octopress
 imatix/zguide
+impeterstone/PSCollectionView
 impress/impress.js
 impressivewebs/HTML9-Responsive-Boilerstrap-js
 imsky/holder
@@ -3445,6 +3448,7 @@ joho/7XX-rfc
 joke2k/faker
 jokkedk/webgrind
 jonas/tig
+jonase/kibit
 jonathanpenn/ui-auto-monkey
 jonathanslenders/ptpython
 jonathanslenders/python-prompt-toolkit
@@ -3950,6 +3954,7 @@ magicalpanda/MagicalRecord
 magicmonty/bash-git-prompt
 magit/magit
 magomimmo/modern-cljs
+magwo/elevatorsaga
 mahmoud/boltons
 mail-in-a-box/mailinabox
 mailboxer/mailboxer
@@ -5302,6 +5307,7 @@ ryanflorence/react-project
 ryankiros/neural-storyteller
 ryanmcgrath/twython
 ryanmjacobs/c
+ryanoasis/nerd-fonts
 rzwitserloot/lombok
 s-a/iron-node
 s16h/py-must-watch
@@ -5913,6 +5919,7 @@ tictail/bounce.js
 tiimgreen/github-cheat-sheet
 tildeio/htmlbars
 tildeio/rsvp.js
+timber/timber
 timburks/nu
 timehop/sticky-headers-recyclerview
 timekit-io/booking-js
