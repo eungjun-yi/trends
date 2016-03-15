@@ -336,6 +336,7 @@ GumbyFramework/Gumby
 H07000223/FlycoTabLayout
 HabitRPG/habitrpg
 HackerNews/API
+Hammerspoon/hammerspoon
 Haneke/Haneke
 Haneke/HanekeSwift
 HangfireIO/Hangfire
@@ -1130,6 +1131,7 @@ alfajango/jquery-dynatable
 alfredxing/brick
 alibaba/AndFix
 alibaba/RocketMQ
+alibaba/anyproxy
 alibaba/canal
 alibaba/cobar
 alibaba/dexposed
@@ -1905,6 +1907,7 @@ constabulary/gb
 containous/traefik
 contiki-os/contiki
 coodict/javascript-in-one-pic
+coodict/python3-in-one-pic
 coolbeet/CBStoreHouseRefreshControl
 coolnameismy/BabyBluetooth
 coolwanglu/pdf2htmlEX
@@ -1989,6 +1992,7 @@ cyrus-and/gdb-dashboard
 cython/cython
 cytoscape/cytoscape.js
 cyu/rack-cors
+d1sm/finalspeed
 d3/d3-plugins
 d3/d3-queue
 d3/d3-shape
@@ -2507,6 +2511,7 @@ fanout/pushpin
 fantasyland/fantasy-land
 farbrausch/fr_public
 farhadi/html5sortable
+fastlane-old/deliver
 fastlane/deliver
 fastlane/fastlane
 fastlane/snapshot
@@ -2808,6 +2813,7 @@ gobackspaces/DLCImagePickerController
 gocardless/angularjs-style-guide
 gocd/gocd
 gocircuit/circuit
+gocraft/web
 godlygeek/tabular
 godotengine/godot
 gogits/gogs
@@ -4822,6 +4828,7 @@ pickhardt/betty
 picnicss/picnic
 picocms/Pico
 piemonte/PBJVision
+pieroxy/lz-string
 pieter/gitx
 pilu/web-app-theme
 pinax/pinax
@@ -4900,6 +4907,7 @@ prakhar1989/awesome-courses
 prasmussen/chrome-cli
 prat0318/json_resume
 prawnpdf/prawn
+preciousforever/sketch-data-populator
 premailer/premailer
 prerender/prerender
 presidentbeef/brakeman
@@ -5128,6 +5136,7 @@ remiprev/teamocil
 remy/html5demos
 remy/mit-license
 remy/nodemon
+renaudcerrato/FloatingSearchView
 rendrjs/rendr
 rendro/easy-pie-chart
 rengwuxian/MaterialEditText
@@ -5618,6 +5627,7 @@ splitbrain/dokuwiki
 splitrb/split
 sporkrb/spork
 sporritt/jsPlumb
+spotify/annoy
 spotify/docker-gc
 spotify/helios
 spotify/luigi
@@ -6123,6 +6133,7 @@ typicode/lowdb
 typus/typus
 tyrantgit/ExplosionField
 uacaps/PageMenu
+uber-common/cpustat
 uber/react-map-gl
 ubolonton/js-csp
 ubuwaits/beautiful-web-type
@@ -6163,6 +6174,7 @@ valderman/haste-compiler
 valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
 vanilla/vanilla
+vasanthk/js-bits
 vbarbaresi/MetroGit
 vcr/vcr
 vczero/react-native-lesson
