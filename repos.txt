@@ -1617,6 +1617,7 @@ bro/bro
 broccolijs/broccoli
 broofa/node-uuid
 brow/leaves
+browserhtml/browserhtml
 browsermedia/browsercms
 browserstate/history.js
 brunch/brunch
@@ -2307,6 +2308,7 @@ edx/edx-platform
 egrcc/zhihu-python
 egret-labs/egret-core
 ehynds/jquery-ui-multiselect-widget
+eirslett/frontend-maven-plugin
 eishay/jvm-serializers
 ejci/favico.js
 ejoy/ejoy2d
@@ -2455,6 +2457,7 @@ facebook/draft-js
 facebook/facebook-android-sdk
 facebook/facebook-ios-sdk
 facebook/facebook-php-sdk-v4
+facebook/fishhook
 facebook/fixed-data-table
 facebook/flashcache
 facebook/flow
@@ -2483,6 +2486,7 @@ facebook/react
 facebook/react-devtools
 facebook/react-native
 facebook/rebound
+facebook/rebound-js
 facebook/regenerator
 facebook/relay
 facebook/rocksdb
@@ -3026,6 +3030,7 @@ hashicorp/vault
 hashrocket/decent_exposure
 hassox/warden
 hatena/Hatena-Textbook
+hawx1993/Front-end-Interview-questions
 haxiomic/GPU-Fluid-Experiments
 hazelcast/hazelcast
 hbons/SparkleShare
@@ -4410,6 +4415,7 @@ nbs-system/naxsi
 ncb000gt/node.bcrypt.js
 nckprsn/scrollme
 ncsoft/Unreal.js
+ncw/rclone
 ndbroadbent/scm_breeze
 ndbroadbent/turbo-sprockets-rails3
 necolas/idiomatic-css
@@ -4942,6 +4948,7 @@ ptwobrussell/Mining-the-Social-Web-2nd-Edition
 publify/publify
 pudo/dataset
 pugjs/jade
+pugjs/pug
 puikinsh/Bootstrap-Admin-Template
 puikinsh/gentelella
 puls/objc-TimesSquare
