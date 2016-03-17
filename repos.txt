@@ -210,6 +210,7 @@ DRMacIver/hypothesis
 DTVD/rainbowstream
 DaRaFF/jsgamewiki
 Daemonite/material
+Damao/Intellij-IDEA-F2E
 DanMcInerney/LANs.py
 DanMcInerney/wifijammer
 DanielRapp/doppler
@@ -1071,6 +1072,7 @@ afaqurk/linux-dash
 afollestad/material-dialogs
 afragen/github-updater
 aframevr/aframe
+ageitgey/amplify
 ageitgey/node-unfluff
 agis-/git-style-guide
 aheckmann/gm
@@ -1237,6 +1239,7 @@ angular/angular.js
 angular/batarang
 angular/material
 angular/material-start
+angular/material2
 angular/protractor
 angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
@@ -1397,6 +1400,7 @@ avast/android-styled-dialogs
 avelino/awesome-go
 avinassh/rockstar
 awentzonline/image-analogies
+awesto/django-shop
 aws/aws-cli
 aws/aws-sdk-go
 aws/aws-sdk-java
@@ -1877,6 +1881,7 @@ codemirror/CodeMirror
 codemix/fast.js
 codenvy/che
 codepath/android_guides
+coderyi/Monkey
 codestergit/SweetAlert-iOS
 codrops/HoverEffectIdeas
 codrops/PageTransitions
@@ -2318,6 +2323,7 @@ elastic/curator
 elastic/elasticsearch
 elastic/elasticsearch-definitive-guide
 elastic/elasticsearch-js
+elastic/elasticsearch-php
 elastic/elasticsearch-rails
 elastic/kibana
 elastic/logstash
@@ -4426,6 +4432,7 @@ needim/noty
 neiesc/ListOfMinimalistFrameworks
 neilj/Squire
 nelhage/reptyr
+nelmio/NelmioApiDocBundle
 nemasu/asmttpd
 nemoTyrant/manong
 neo/ruby_koans
@@ -4509,6 +4516,7 @@ node-ffi/node-ffi
 node-gh/gh
 node-inspector/node-inspector
 node-js-libs/node.io
+node-nock/nock
 node-red/node-red
 node-schedule/node-schedule
 node-webot/wechat
@@ -4585,6 +4593,7 @@ nzakas/understandinges6
 oa414/objc-zen-book-cn
 oarrabi/OAStackView
 oauth-io/oauthd
+oauthjs/node-oauth2-server
 obfuscurity/tasseo
 objc-zen/objc-zen-book
 objccn/articles
@@ -5308,6 +5317,7 @@ russross/blackfriday
 rust-lang/cargo
 rust-lang/rust
 rust-lang/rust-by-example
+rvirding/lfe
 rvm/rvm
 rwaldron/idiomatic.js
 rwaldron/johnny-five
@@ -5684,6 +5694,7 @@ square/tape
 square/wire
 squaremo/rabbit.js
 squizlabs/PHP_CodeSniffer
+srdja/Collections-C
 sripathikrishnan/redis-rdb-tools
 srobbin/jquery-backstretch
 sroze/ngInfiniteScroll
@@ -5755,6 +5766,7 @@ substack/stream-adventure
 substack/stream-handbook
 substack/tape
 substack/watchify
+substance/substance
 substance/substance-legacy
 subtlepatterns/SubtlePatterns
 subvim/subvim
@@ -6310,6 +6322,7 @@ welaika/wordless
 wellcaffeinated/PhysicsJS
 wentin/underlineJS
 wenzhixin/bootstrap-table
+wequick/Small
 werner77/WEPopover
 wesbos/aprilFools.css
 wesleytodd/YeoPress
