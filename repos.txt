@@ -641,6 +641,7 @@ NodeRedis/node_redis
 Nyr/openvpn-install
 Nyx0uf/NYXImagesKit
 OAI/OpenAPI-Specification
+OAuthSwift/OAuthSwift
 OculusVR/RakNet
 OfficeDev/Office-UI-Fabric
 Olical/EventEmitter
@@ -663,6 +664,7 @@ PCSX2/pcsx2
 PHPMailer/PHPMailer
 PHPOffice/PHPExcel
 PHPOffice/PHPWord
+PHPSocialNetwork/phpfastcache
 PMSI-AlignAlytics/dimple
 PaoloRotolo/AppIntro
 ParsePlatform/Anypic
@@ -2127,11 +2129,13 @@ developit/preact
 devinhunt/typebase.css
 devinross/tapkulibrary
 devongovett/pdfkit
+devopsgroup-io/vagrant-digitalocean
 devstructure/blueprint
 devttys0/binwalk
 dexafree/MaterialList
 dfcb/BigVideo.js
 dfm/osrc
+dgrijalva/jwt-go
 dhamaniasad/awesome-postgres
 dherman/asm.js
 dhg/Skeleton
@@ -3004,6 +3008,7 @@ hakimel/Meny
 hakimel/css
 hakimel/reveal.js
 hakimel/stroll.js
+hakimel/zoom.js
 halide/Halide
 haml/haml
 hammerjs/hammer.js
@@ -3657,6 +3662,7 @@ kentnguyen/KNSemiModalViewController
 kenwheeler/slick
 kern/filepizza
 kesenhoo/android-training-course-in-chinese
+kevin-hirsch/KVNProgress
 kevin-montrose/Jil
 kevin0571/STPopup
 kevinburke/hamms
@@ -4344,6 +4350,7 @@ mridgers/clink
 mrmrs/colors
 mrmrs/fluidity
 mrniko/netty-socketio
+mrniko/redisson
 mroderick/PubSubJS
 mroth/lolcommits
 mroth/unindexed
@@ -4742,6 +4749,7 @@ paralect/robomongo
 paramiko/paramiko
 paranoida/sass-mediaqueries
 pardom/ActiveAndroid
+passy/angular-masonry
 pat/thinking-sphinx
 path/FastImageCache
 path/android-priority-jobqueue
@@ -4926,6 +4934,7 @@ preciousforever/sketch-data-populator
 premailer/premailer
 prerender/prerender
 presidentbeef/brakeman
+prestodb/presto
 prettymuchbryce/easystarjs
 prikhi/pencil
 primer/primer
@@ -6385,6 +6394,7 @@ xbmc/xbmc
 xcltapestry/XCL-Charts
 xdan/datetimepicker
 xdissent/ievms
+xenolf/lego
 xetorthio/jedis
 xfumihiro/ViewInspector
 xgrommx/awesome-redux
@@ -6478,6 +6488,7 @@ zdennis/activerecord-import
 zdevito/terra
 zealdocs/zeal
 zedapp/zed
+zeithq/micro
 zeman/perfmap
 zenazn/goji
 zendframework/ZendSkeletonApplication
