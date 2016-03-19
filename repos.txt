@@ -7,6 +7,7 @@
 0xced/XCDYouTubeKit
 0xced/iOS-Artwork-Extractor
 0xfe/vexflow
+1000ch/grd
 100apps/openshare
 100grams/HGPageScrollView
 100mango/zen
@@ -206,6 +207,7 @@ CtripMobile/DynamicAPK
 Cyan4973/lz4
 CyberAgent/android-gpuimage
 D-Programming-Language/dmd
+DKirwan/calendar-heatmap
 DRMacIver/hypothesis
 DTVD/rainbowstream
 DaRaFF/jsgamewiki
@@ -1186,6 +1188,7 @@ amplab/tachyon
 ampproject/amphtml
 amscanne/huptime
 amsul/pickadate.js
+amueller/word_cloud
 amulyakhare/TextDrawable
 anacrolix/torrent
 anandkunal/ToroPHP
@@ -2716,6 +2719,7 @@ gavinbunney/Toucan
 gavinkwoe/BeeFramework
 gaylemcd/ctci
 gazay/gon
+gcuisinier/jenv
 geddy/geddy
 geeeeeeeeek/WeChatLuckyMoney
 geeeeeeeeek/electronic-wechat
@@ -4257,6 +4261,7 @@ mnielsen/neural-networks-and-deep-learning
 mnutt/hummingbird
 mobfarm/FastPdfKit
 mobile-shell/mosh
+mobileplayer/mobileplayer-ios
 mobxjs/mobx
 mobz/elasticsearch-head
 mochajs/mocha
@@ -4407,6 +4412,7 @@ nanomsg/nanomsg
 nanopack/yoke
 naoty/Timepiece
 nate-parrott/Flashlight
+nategood/httpful
 natew/obtvse
 nateware/redis-objects
 nathanaelkane/vim-indent-guides
@@ -4492,6 +4498,7 @@ nicolasgramlich/AndEngine
 nicolashery/mac-dev-setup
 nicolaskruchten/pivottable
 niftylettuce/node-email-templates
+niftyn8/elixir_style_guide
 nightwatchjs/nightwatch
 nikgraf/belle
 nikic/FastRoute
@@ -5268,6 +5275,7 @@ romashamin/Size-Marks-PS
 roots/bedrock
 roots/sage
 rosarior/awesome-django
+roughike/BottomBar
 roundcube/roundcubemail
 route-me/route-me
 rovo89/Xposed
@@ -5491,6 +5499,7 @@ shaojiankui/iOS-Categories
 share/ShareJS
 sharelatex/sharelatex
 shazow/ssh-chat
+shazow/urllib3
 shellfire-dev/shellfire
 shelljs/shelljs
 shichuan/javascript-patterns
@@ -6156,6 +6165,7 @@ typeplate/typeplate.github.io
 typesafehub/config
 typhoeus/typhoeus
 typicaljoe/taffydb
+typicode/hotel
 typicode/json-server
 typicode/lowdb
 typus/typus
