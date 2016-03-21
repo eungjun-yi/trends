@@ -148,6 +148,7 @@ CartoDB/cartodb
 CartoDB/odyssey.js
 Casecommons/pg_search
 CatchChat/Yep
+CellularPrivacy/Android-IMSI-Catcher-Detector
 CenturyLinkLabs/panamax-ui
 CezaryKopacz/CKWaveCollectionViewTransition
 CharlieHess/slack-poker-bot
@@ -1882,6 +1883,7 @@ codegangsta/negroni
 codeguy/php-the-right-way
 codeinthedark/editor
 codejoust/session.js
+codekitchen/dinghy
 codelucas/newspaper
 codemirror/CodeMirror
 codemix/fast.js
@@ -2771,6 +2773,7 @@ gilesbowkett/rewind
 gimenete/iOS-boilerplate
 gimite/web-socket-js
 gin-gonic/gin
+ginatrapani/todo.txt-android
 ginatrapani/todo.txt-cli
 ging/social_stream
 gionkunz/chartist-js
@@ -3244,6 +3247,7 @@ ipselon/react-ui-builder
 ipselon/structor
 ipython/ipython
 ircmaxell/password_compat
+iron-io/dockers
 iron-meteor/iron-router
 iron/iron
 ironmaniiith/Github-profile-name-writer
@@ -3489,6 +3493,7 @@ jondot/sneakers
 jonikorpi/Frameless
 jonikorpi/Golden-Grid-System
 jonls/redshift
+jonmiles/bootstrap-treeview
 jonobr1/two.js
 jonom/jquery-focuspoint
 jonschlinkert/remarkable
@@ -3825,6 +3830,7 @@ lektor/lektor
 lelylan/betterspecs
 leongersen/noUiSlider
 lepture/editor
+lepture/github-cards
 less/less.js
 less/less.ruby
 letsencrypt/acme-spec
@@ -3877,6 +3883,7 @@ lisa-lab/DeepLearningTutorials
 lisa-lab/pylearn2
 litaio/lita
 litehelpers/Cordova-sqlite-storage
+litesuits/android-common
 litl/rauth
 litten/hexo-theme-yilia
 liuliu/ccv
@@ -4049,6 +4056,7 @@ markushi/android-ui
 markyun/My-blog
 marmelab/gremlins.js
 marmelab/ng-admin
+marmelroy/PeekPop
 maroslaw/rainyday.js
 marshmallow-code/marshmallow
 martinblech/xmltodict
