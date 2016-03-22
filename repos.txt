@@ -96,6 +96,7 @@ Automattic/kue
 Automattic/mongoose
 Automattic/node-canvas
 Automattic/wp-calypso
+AutumnsWind/Front-end-tutorial
 B-Sides/ELCImagePickerController
 BBC-News/Imager.js
 BBC-News/wraith
@@ -638,6 +639,7 @@ Netflix/eureka
 Netflix/falcor
 Netflix/ice
 Netflix/vector
+Nightonke/WoWoViewPager
 NoamB/sorcery
 NodeBB/NodeBB
 NodeOS/NodeOS
@@ -694,6 +696,7 @@ PlusHaze/TrayNotification
 PointCloudLibrary/pcl
 Polymer/observe-js
 Polymer/polymer
+Polymer/vulcanize
 PolymerElements/polymer-starter-kit
 PomepuyN/BlurEffectForAndroidDesign
 Popmotion/popmotion
@@ -756,6 +759,7 @@ ReactiveX/RxAndroid
 ReactiveX/RxJS
 ReactiveX/RxJava
 ReactiveX/RxSwift
+ReactiveX/rxjs
 RedHatBrand/overpass
 Redth/PushSharp
 Reportr/dashboard
@@ -800,6 +804,7 @@ SamSaffron/MiniProfiler
 Samsung/jerryscript
 SamyPesse/How-to-Make-a-Computer-Operating-System
 SamyPesse/tv.js
+SaschaWillems/Vulkan
 Schepp/box-sizing-polyfill
 ScottHamper/Cookies
 SecUpwN/Android-IMSI-Catcher-Detector
@@ -1826,6 +1831,7 @@ ckan/ckan
 ckeditor/ckeditor-dev
 clappr/clappr
 claritylab/lucida
+clayallsopp/routable-ios
 cldwalker/hirb
 clef/handbook
 clibs/clib
@@ -1928,6 +1934,7 @@ coolwanglu/pdf2htmlEX
 coolwanglu/vim.js
 copy/v86
 core-plot/core-plot
+coreos/clair
 coreos/coreos-vagrant
 coreos/etcd
 coreos/flannel
@@ -2390,6 +2397,7 @@ equinusocio/material-theme
 erica/NSDate-Extensions
 erica/uidevice-extension
 ericchiang/pup
+ericclemmons/react-resolver
 ericdouglas/ES6-Learning
 ericdouglas/Meteor-Learning
 ericdrowell/KineticJS
@@ -3199,6 +3207,7 @@ imakewebthings/deck.js
 imakewebthings/waypoints
 imathis/octopress
 imatix/zguide
+immobiliare/ApnsPHP
 impeterstone/PSCollectionView
 impress/impress.js
 impressivewebs/HTML9-Responsive-Boilerstrap-js
@@ -3582,6 +3591,7 @@ junegunn/fzf
 junegunn/vim-easy-align
 junegunn/vim-plug
 junit-team/junit
+junit-team/junit4
 jussi-kalliokoski/trine
 justinfrench/formtastic
 justintv/Twitch-API
@@ -5162,6 +5172,7 @@ redmine/redmine
 redodo/tortilla
 redox-os/redox
 redsolution/xabber-android
+redspread/spread
 reduxframework/elusive-iconfont
 reduxframework/redux-framework
 reek/anti-adblock-killer
@@ -5454,6 +5465,7 @@ sdiehl/write-you-a-haskell
 seL4/seL4
 seajs/seajs
 seanpowell/Email-Boilerplate
+searchkit/searchkit
 seatgeek/fuzzywuzzy
 seatgeek/sixpack
 seatgeek/soulmate
@@ -5537,6 +5549,7 @@ shwenzhang/AndResGuard
 shyamseshadri/angularjs-book
 siacs/Conversations
 siddontang/ledisdb
+sideshow/apns2
 sightmachine/SimpleCV
 silexphp/Pimple
 silexphp/Silex
@@ -5673,6 +5686,7 @@ spine/spine
 spinnaker/spinnaker
 splitbrain/dokuwiki
 splitrb/split
+spockframework/spock
 sporkrb/spork
 sporritt/jsPlumb
 spotify/annoy
