@@ -3726,6 +3726,7 @@ kivy/kivy
 kivy/python-for-android
 kiwi-bdd/Kiwi
 kjbekkelund/writings
+kjw0612/awesome-deep-vision
 kjw0612/awesome-rnn
 kkga/spacegray
 klange/toaruos
@@ -3851,6 +3852,7 @@ leichunfeng/MVVMReactiveCocoa
 lektor/lektor
 lelylan/betterspecs
 leongersen/noUiSlider
+lepht/licecap
 lepture/editor
 lepture/github-cards
 less/less.js
@@ -5127,6 +5129,7 @@ rapid7/metasploit-framework
 rapidloop/rtop
 rappasoft/laravel-5-boilerplate
 rasbt/pattern_classification
+rasbt/python-machine-learning-book
 rasbt/python_reference
 rashidkpc/kibana2
 rasmusbergpalm/DeepLearnToolbox
@@ -6538,6 +6541,7 @@ yyuu/pyenv
 z3t0/Arduino-IRremote
 zaach/jison
 zachsoft/Ionic-Material
+zalmoxisus/redux-devtools-extension
 zaphoyd/websocketpp
 zcbenz/nw-sample-apps
 zcweng/ToggleButton
