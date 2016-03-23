@@ -8,6 +8,7 @@
 0xced/iOS-Artwork-Extractor
 0xfe/vexflow
 1000ch/grd
+1000hz/bootstrap-validator
 100apps/openshare
 100grams/HGPageScrollView
 100mango/zen
@@ -614,6 +615,7 @@ NLPchina/ansj_seg
 NLPchina/elasticsearch-sql
 NLog/NLog
 NUKnightLab/TimelineJS
+NVIDIA/DIGITS
 NYTimes/NYTPhotoViewer
 NYTimes/backbone.stickit
 NYTimes/gizmo
@@ -771,6 +773,7 @@ ReturnInfinity/BareMetal-OS
 Rich-Harris/ramjet
 RichiH/vcsh
 RickWong/react-isomorphic-starterkit
+RickWong/react-transmit
 Rip-Rip/clang_complete
 Robdel12/DropKick
 RobertWHurst/KeyboardJS
@@ -900,6 +903,7 @@ Theano/Theano
 Thibaut/devdocs
 ThinkUpLLC/ThinkUp
 ThisIsDallas/Simple-Grid
+Thomvis/BrightFutures
 ThrivingKings/animo.js
 Tibolte/ElasticDownload
 Tim9Liu9/TimLiu-iOS
@@ -961,6 +965,7 @@ WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
 WenchaoD/FSCalendar
 WenchaoIOS/FSCalendar
+WhatCD/Gazelle
 WhisperSystems/Signal-Android
 WhisperSystems/Signal-Desktop
 WhisperSystems/Signal-iOS
@@ -1030,6 +1035,7 @@ aanand/deadweight
 aanand/git-up
 aaronsw/html2text
 aasm/aasm
+abourget/gevent-socketio
 abpetkov/switchery
 abraham/twitteroauth
 abrasive/shairport
@@ -1666,6 +1672,7 @@ burnash/gspread
 burocratik/outdated-browser
 busyloop/lolcat
 butterproject/butter-desktop
+button/DeepLinkKit
 buunguyen/octotree
 buymeasoda/soda-theme
 buzzfeed/Sketch-Toolbox
@@ -1763,6 +1770,7 @@ chenglou/react-motion
 chenglou/react-tween-state
 chengr28/RevokeChinaCerts
 chenshuo/muduo
+chentsulin/awesome-graphql
 chentsulin/electron-react-boilerplate
 chenupt/DragTopLayout
 chenupt/SpringIndicator
@@ -2148,6 +2156,7 @@ devttys0/binwalk
 dexafree/MaterialList
 dfcb/BigVideo.js
 dfm/osrc
+dgraph-io/dgraph
 dgrijalva/jwt-go
 dhamaniasad/awesome-postgres
 dherman/asm.js
@@ -2525,7 +2534,9 @@ facebookarchive/connect-js
 facebookarchive/facebook-php-sdk
 facebookarchive/fb-flo
 facebookarchive/huxley
+facebookarchive/instagram-ruby-gem
 facebookarchive/phpsh
+facebookarchive/python-instagram
 facebookarchive/redis-faina
 facebookarchive/scribe
 facebookarchive/three20
@@ -4086,6 +4097,7 @@ matiasinsaurralde/facebook-tunnel
 matplotlib/matplotlib
 matrixxun/ProductTour
 matryer/bitbar
+matt-42/silicon
 matt-curtis/Fluid-for-Sketch
 mattboldt/typed.js
 mattbryson/TouchSwipe-Jquery-Plugin
@@ -4278,6 +4290,7 @@ mmattozzi/cocoa-rest-client
 mmcgrana/gobyexample
 mmcgrana/services-engineering
 mmin18/LayoutCast
+mmozuras/pronto
 mnielsen/neural-networks-and-deep-learning
 mnutt/hummingbird
 mobfarm/FastPdfKit
@@ -5991,6 +6004,7 @@ thumbor/thumbor
 thx/RAP
 tianzhijiexian/Android-Best-Practices
 tictail/bounce.js
+tidwall/tile38
 tiimgreen/github-cheat-sheet
 tildeio/htmlbars
 tildeio/rsvp.js
@@ -6050,6 +6064,7 @@ toddmotto/angular-styleguide
 toddmotto/echo
 toddmotto/fireshell
 toddmotto/html5blank
+toddmotto/public-apis
 toji/gl-matrix
 toland/qlmarkdown
 tomahawk-player/tomahawk
@@ -6429,6 +6444,7 @@ xamarin/XobotOS
 xamarin/monodroid-samples
 xat/castnow
 xbmc/xbmc
+xcc3641/SeeWeather
 xcltapestry/XCL-Charts
 xdan/datetimepicker
 xdissent/ievms
