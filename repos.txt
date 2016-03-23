@@ -1842,6 +1842,7 @@ claritylab/lucida
 clayallsopp/routable-ios
 cldwalker/hirb
 clef/handbook
+clementine-player/Clementine
 clibs/clib
 clientIO/joint
 cliftonc/calipso
@@ -4633,6 +4634,7 @@ nvie/rq
 nwidger/nintengo
 nwjs/nw-builder
 nwjs/nw.js
+nygard/class-dump
 nylas/N1
 nylas/sync-engine
 nytlabs/streamtools
