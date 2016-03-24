@@ -162,6 +162,7 @@ ChenYilong/iOS9AdaptationTips
 ChenYilong/iOSInterviewQuestions
 ChicagoBoss/ChicagoBoss
 ChimeraCoder/gojson
+ChiperSoft/InterviewThis
 ChiperSoft/Kalendae
 ChrisJohnsen/tmux-MacOSX-pasteboard
 ChrisRM/material-theme-jetbrains
@@ -667,6 +668,7 @@ OpenRefine/OpenRefine
 OpenTSDB/opentsdb
 OptiKey/OptiKey
 OscarGodson/EpicEditor
+Overcoat/Overcoat
 OwlFonk/OwlCarousel
 PCSX2/pcsx2
 PHPMailer/PHPMailer
@@ -713,6 +715,7 @@ PrismJS/prism
 Project-OSRM/osrm-backend
 PromyLOPh/pianobar
 ProseMirror/prosemirror
+ProtonMail/WebClient
 Prototik/HoloEverywhere
 PuerkitoBio/goquery
 PureLayout/PureLayout
@@ -851,6 +854,7 @@ SnapKit/SnapKit
 SocialObjects-Software/AMSlideMenu
 SocketCluster/socketcluster
 SoftEtherVPN/SoftEtherVPN
+SonarSource/sonarqube
 Sonarr/Sonarr
 SonyWWS/ATF
 Soundnode/soundnode-app
@@ -988,6 +992,7 @@ XiaoMi/open-falcon
 Xuzz/newsyc
 Xyl2k/TSA-Travel-Sentry-master-keys
 Y-Vladimir/SmartDeblur
+YANGReal/JokeClient-Swift
 YOURLS/YOURLS
 YabataDesign/afterglow-theme
 Yalantis/Context-Menu.Android
@@ -1719,6 +1724,7 @@ carlhuda/janus
 carllerche/mio
 carlsednaoui/ouibounce
 carltongibson/django-filter
+carols10cents/rustlings
 carrierwaveuploader/carrierwave
 carrot/share-button
 carsonperrotti/CNPPopupController
@@ -3623,6 +3629,7 @@ jwysiwyg/jwysiwyg
 jxcore/jxcore
 jxnblk/fitter-happier-text
 jxnblk/loading
+jxnblk/rebass
 jzaefferer/jquery-validation
 k88hudson/git-flight-rules
 k9mail/k-9
@@ -4467,6 +4474,7 @@ nathco/Office-Code-Pro
 nats-io/gnatsd
 navasmdc/MaterialDesignLibrary
 naver/pinpoint
+nborwankar/LearnDataScience
 nbs-system/naxsi
 ncb000gt/node.bcrypt.js
 nckprsn/scrollme
@@ -4652,6 +4660,7 @@ objccn/articles
 objectivehtml/FlipClock
 oblac/jodd
 oblador/angular-scroll
+oblador/react-native-vector-icons
 ochococo/Design-Patterns-In-Swift
 oclint/oclint
 ocombe/ocLazyLoad
@@ -5062,6 +5071,7 @@ quantopian/zipline
 quartermaster/DB5
 quartznet/quartznet
 questbeat/Lin
+questbeat/Lin-Xcode5
 questbeat/QBImagePicker
 quicksilver/Quicksilver
 quil/quil
@@ -6337,6 +6347,7 @@ vsouza/awesome-ios
 vthibault/roBrowser
 vuejs/awesome-vue
 vuejs/vue
+vuejs/vue-resource
 vulcand/vulcand
 vvo/gifify
 vysheng/tg
