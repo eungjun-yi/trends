@@ -76,6 +76,7 @@ Apipie/apipie-rails
 ApmeM/android-flowlayout
 App-vNext/Polly
 AppScale/appscale
+ArduPilot/ardupilot
 AriaFallah/WebpackTutorial
 ArtSabintsev/Harpy
 AssetSync/asset_sync
@@ -899,6 +900,7 @@ Templarian/MaterialDesign
 TencentOpen/GT
 Terry-Mao/gopush-cluster
 Textalk/angular-schema-form
+The-Compiler/qutebrowser
 TheAmazingAudioEngine/TheAmazingAudioEngine
 TheBerkin/Rant
 TheLevelUp/ZXingObjC
@@ -1326,6 +1328,7 @@ apotonick/trailblazer
 appcelerator/KitchenSink
 appcelerator/titanium_mobile
 appdotnet/api-spec
+appetizermonster/hain
 appium/appium
 appjs/appjs
 apple/swift
@@ -1345,6 +1348,7 @@ arc90/git-sweep
 arduino/Arduino
 argon/node-apn
 arialdomartini/oh-my-git
+arimorty/floatingsearchview
 ariok/BWWalkthrough
 ariya/phantomjs
 arkency/reactjs_koans
@@ -1523,6 +1527,7 @@ bergie/hallo
 berkshelf/berkshelf
 bespokejs/bespoke
 bestiejs/benchmark.js
+bestiejs/platform.js
 bevacqua/dragula
 bevacqua/es6
 bevacqua/fuzzysearch
@@ -2262,6 +2267,7 @@ dotless-de/vagrant-vbguest
 dotnet/core
 dotnet/coreclr
 dotnet/corefx
+dotnet/llilc
 dotnet/orleans
 dotnet/roslyn
 douban/DOUAudioStreamer
@@ -3336,6 +3342,7 @@ jaredks/rumps
 jaredly/treed
 jarednova/timber
 jaredpar/VsVim
+jaredreich/notie
 jaredreich/notie.js
 jaredsinclair/JTSImageViewController
 jariz/vibrant.js
@@ -4542,6 +4549,7 @@ nicolasff/webdis
 nicolasgramlich/AndEngine
 nicolashery/mac-dev-setup
 nicolaskruchten/pivottable
+nieweidong/fetool
 niftylettuce/node-email-templates
 niftyn8/elixir_style_guide
 nightwatchjs/nightwatch
@@ -4916,6 +4924,7 @@ pingcap/tidb
 pingpongboss/StandOut
 pinterest/PINRemoteImage
 pinterest/teletraan
+piotrmurach/tty
 piskvorky/gensim
 pivotal/cedar
 piwik/piwik
@@ -5002,6 +5011,7 @@ processing/processing
 processone/ejabberd
 progit/progit
 progit/progit2
+programthink/zhao
 progrium/gitreceive
 progrium/localtunnel
 projectkudu/kudu
@@ -5063,6 +5073,7 @@ qii/weiciyuan
 qinjx/30min_guides
 qinwf/awesome-R
 qiujuer/Genius-Android
+qiwsir/StarterLearningPython
 qklabs/qksms
 qor/qor
 qrohlf/trianglify
@@ -6209,6 +6220,7 @@ twitter/twui
 twitter/typeahead.js
 twitter/util
 twostairs/paperwork
+twostraws/HackingWithSwift
 txthinking/google-hosts
 ty4z2008/Qix
 tylertate/semantic.gs
