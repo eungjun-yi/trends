@@ -219,6 +219,7 @@ DTVD/rainbowstream
 DaRaFF/jsgamewiki
 Daemonite/material
 Damao/Intellij-IDEA-F2E
+DamnWidget/anaconda
 DanMcInerney/LANs.py
 DanMcInerney/wifijammer
 DanielRapp/doppler
@@ -259,6 +260,7 @@ Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
 EFForg/https-everywhere
 EddyBorja/EBPhotoPages
+EddyVerbruggen/SocialSharing-PhoneGap-Plugin
 Engelberg/instaparse
 EnjoySR/ESJsonFormat-Xcode
 Ensighten/grunt-spritesmith
@@ -1210,6 +1212,7 @@ amscanne/huptime
 amsul/pickadate.js
 amueller/word_cloud
 amulyakhare/TextDrawable
+amzn/alexa-avs-raspberry-pi
 anacrolix/torrent
 anandkunal/ToroPHP
 anchorcms/anchor-cms
@@ -4525,6 +4528,7 @@ nfnt/resize
 ngReact/ngReact
 ngbp/ngbp
 nghialv/MaterialKit
+nghttp2/nghttp2
 nginx-boilerplate/nginx-boilerplate
 nginx/nginx
 nginx/nginx-releases
@@ -4805,6 +4809,7 @@ panique/huge
 panzhangwang/getAwesomeness
 paperjs/paper.js
 papers-we-love/papers-we-love
+papyros/papyros-shell
 papyros/qml-material
 paradoxxxzero/butterfly
 paragonie/awesome-appsec
@@ -5277,6 +5282,7 @@ ricochet-im/ricochet
 ridiculousfish/HexFiend
 riemann/riemann
 rigoneri/syte
+ring-clojure/ring
 riot/riot
 ripienaar/free-for-dev
 ripple/ripple-client
@@ -5576,6 +5582,7 @@ shipyard/shipyard
 shockone/black-screen
 shoes/shoes
 shogun-toolbox/shogun
+shouldjs/should.js
 showdownjs/showdown
 shower/shower
 shu223/AnimatedTransitionGallery
@@ -6091,6 +6098,7 @@ toddmotto/echo
 toddmotto/fireshell
 toddmotto/html5blank
 toddmotto/public-apis
+todoroo/astrid
 toji/gl-matrix
 toland/qlmarkdown
 tomahawk-player/tomahawk
@@ -6463,6 +6471,7 @@ wsargent/docker-cheat-sheet
 wting/autojump
 wuub/SublimeREPL
 wvanbergen/request-log-analyzer
+wxWidgets/wxWidgets
 wycats/handlebars.js
 wycats/javascript-decorators
 wyouflf/xUtils
@@ -6513,6 +6522,7 @@ yangfuhai/ASimpleCache
 yangfuhai/afinal
 yangyangwithgnu/hardseed
 yangyangwithgnu/use_vim_as_ide
+yanhaijing/zepto.fullpage
 yaniswang/HTMLHint
 yannickcr/eslint-plugin-react
 yannickl/DynamicColor
