@@ -875,6 +875,7 @@ Studio-42/elFinder
 Stuk/jszip
 Subash/Prepros
 SublimeCodeIntel/SublimeCodeIntel
+SublimeLinter/SublimeLinter3
 SublimeText-Markdown/MarkdownEditing
 SublimeText/LaTeXTools
 Sumi-Interactive/SIAlertView
@@ -3956,6 +3957,7 @@ loopj/android-smart-image-view
 loopj/jquery-tokeninput
 lorenwest/node-config
 lorenzofox3/Smart-Table
+lorien/awesome-web-scraping
 lorien/grab
 lostisland/faraday
 louischatriot/nedb
