@@ -255,6 +255,7 @@ Draveness/DKNightVersion
 DreaminginCodeZH/Douya
 DrewDahlman/Mason
 DrkSephy/es6-cheatsheet
+DroidPluginTeam/DroidPlugin
 DroidsOnRoids/MPParallaxView
 Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
@@ -1854,6 +1855,7 @@ ckan/ckan
 ckeditor/ckeditor-dev
 clappr/clappr
 claritylab/lucida
+claudiajs/claudia
 clayallsopp/routable-ios
 cldwalker/hirb
 clef/handbook
@@ -3761,6 +3763,7 @@ knockout/knockout
 knownsec/KCon
 knrz/CSV.js
 knsv/mermaid
+koajs/examples
 koajs/koa
 koalaman/shellcheck
 koding/kite
@@ -4395,6 +4398,7 @@ mozilla/shumway
 mozilla/sweet.js
 mozilla/task.js
 mozilla/togetherjs
+mpeltonen/sbt-idea
 mperham/inspeqtor
 mperham/sidekiq
 mpospese/MPFoldTransition
