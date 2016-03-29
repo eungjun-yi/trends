@@ -76,6 +76,7 @@ Apipie/apipie-rails
 ApmeM/android-flowlayout
 App-vNext/Polly
 AppScale/appscale
+Arachni/arachni
 ArduPilot/ardupilot
 AriaFallah/WebpackTutorial
 ArtSabintsev/Harpy
@@ -231,6 +232,7 @@ DataTables/DataTables
 DatabaseCleaner/database_cleaner
 DavdRoman/Popsicle
 DaveWoodCom/XCGLogger
+DavidWells/isomorphic-react-example
 DavyJonesLocker/client_side_validations
 Day8/re-frame
 DeNA/HandlerSocket-Plugin-for-MySQL
@@ -647,6 +649,7 @@ Netflix/falcor
 Netflix/ice
 Netflix/vector
 Nightonke/WoWoViewPager
+NixOS/nixpkgs
 NoamB/sorcery
 NodeBB/NodeBB
 NodeOS/NodeOS
@@ -673,6 +676,7 @@ OpenTSDB/opentsdb
 OptiKey/OptiKey
 OscarGodson/EpicEditor
 Overcoat/Overcoat
+OwlCarousel2/OwlCarousel2
 OwlFonk/OwlCarousel
 PCSX2/pcsx2
 PHPMailer/PHPMailer
@@ -684,6 +688,7 @@ PaoloRotolo/AppIntro
 ParsePlatform/Anypic
 ParsePlatform/Parse-SDK-Android
 ParsePlatform/Parse-SDK-iOS-OSX
+ParsePlatform/parse-dashboard
 ParsePlatform/parse-server
 Pasvaz/bindonce
 Pathgather/please-wait
@@ -1607,6 +1612,7 @@ boot2docker/boot2docker
 boot2docker/osx-installer
 bootflat/bootflat.github.io
 bootstrap-tagsinput/bootstrap-tagsinput
+borgbackup/borg
 borisrepl/boris
 bosun-monitor/bosun
 botherder/detekt
@@ -1845,6 +1851,7 @@ ciaranj/node-oauth
 cinder/Cinder
 cisco/openh264
 citra-emu/citra
+citusdata/citus
 citusdata/pg_shard
 cjb/GitTorrent
 cjbarber/ToolsOfTheTrade
@@ -1994,6 +2001,7 @@ crsmithdev/arrow
 cruffenach/CRToast
 crypto101/book
 cryptocat/cryptocat
+cryptocat/cryptocat-legacy
 cryptosphere/cryptosphere
 crystal-lang/crystal
 css-modules/css-modules
@@ -2768,6 +2776,7 @@ geeeeeeeeek/electronic-wechat
 geekcompany/DeerResume
 geekcompany/ResumeSample
 geelen/x-gif
+geftimov/android-pathview
 gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5
 gelstudios/gitfiti
 geminabox/geminabox
@@ -2937,6 +2946,7 @@ google/material-design-icons
 google/material-design-lite
 google/nogotofail
 google/novm
+google/or-tools
 google/physical-web
 google/protobuf
 google/pyringe
@@ -3425,6 +3435,7 @@ jessicard/remote-jobs
 jetpacapp/DeepBeliefSDK
 jewel/clearskies
 jez/vim-as-an-ide
+jezen/is-thirteen
 jfeinstein10/JazzyViewPager
 jfeinstein10/SlidingMenu
 jfinal/jfinal
@@ -4031,6 +4042,7 @@ mafintosh/chromecasts
 mafintosh/mongojs
 mafintosh/peerflix
 mafintosh/playback
+mafintosh/torrent-mount
 mafintosh/torrent-stream
 magento/magento2
 magicalpanda/MagicalRecord
@@ -4806,6 +4818,7 @@ pagekit/pagekit
 pagespeed/ngx_pagespeed
 pakastin/deck-of-cards
 pakerfeldt/android-viewflow
+pallets/werkzeug
 pandao/editor.md
 pangloss/vim-javascript
 panicinc/ColorArt
@@ -5989,6 +6002,7 @@ thedjpetersen/subway
 theintern/intern
 theironcook/Backbone.ModelBinder
 thejameskyle/babel-handbook
+thejameskyle/spectacle-code-slide
 themattrix/bash-concurrent
 themeskult/wp-svbtle
 then/promise
