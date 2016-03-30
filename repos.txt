@@ -706,6 +706,7 @@ Pixelkit/PixelKit-Bootstrap-UI-Kits
 PixelsCommander/HTML-GL
 PkmX/lcamera
 PlusHaze/TrayNotification
+PocketMine/PocketMine-MP
 PointCloudLibrary/pcl
 Polymer/observe-js
 Polymer/polymer
@@ -942,6 +943,7 @@ Turfjs/turf
 TykTechnologies/tyk
 USArmyResearchLab/Dshell
 Unblocker/Unblock-Youku
+Uncodin/bypass
 UnionOfRAD/lithium
 Unitech/pm2
 Unknwon/go-fundamental-programming
@@ -1060,6 +1062,7 @@ acaudwell/Gource
 acdlite/flummox
 acdlite/recompose
 acdlite/redux-router
+acgotaku/BaiduExporter
 activeadmin/activeadmin
 activemerchant/active_merchant
 activerecord-hackery/ransack
@@ -2030,6 +2033,7 @@ cundong/SmartAppUpdates
 cure53/H5SC
 curl/curl
 curran/screencasts
+cviebrock/eloquent-sluggable
 cwRichardKim/RKDropdownAlert
 cwRichardKim/RKNotificationHub
 cwRichardKim/RKSwipeBetweenViewControllers
@@ -2114,6 +2118,7 @@ davidmerfield/randomColor
 davidshimjs/qrcodejs
 davidsonfellipe/awesome-wpo
 davidstutz/bootstrap-multiselect
+davidtheclark/scalable-css-reading-list
 davist11/jQuery-One-Page-Nav
 daylerees/colour-schemes
 dbader/schedule
@@ -2153,6 +2158,7 @@ deivid-rodriguez/byebug
 dejan/rails_panel
 dekatotoro/SlideMenuControllerSwift
 dekujs/deku
+delba/Permission
 delight-im/FreeGeoDB
 dennis714/RE-for-beginners
 dennisreimann/ioctocat
@@ -2637,6 +2643,7 @@ fiorix/freegeoip
 firebase/angularfire
 firebase/firepad
 firebug/firebug
+firehol/netdata
 firstopinion/formatter.js
 fish-shell/fish-shell
 fisherman/fisherman
@@ -2895,6 +2902,7 @@ goldfire/howler.js
 goldmansachs/gs-collections
 goldsmith/Wikipedia
 gollum/gollum
+gongjianhui/AppleDNS
 gontovnik/DGActivityIndicatorView
 gontovnik/DGElasticPullToRefresh
 gontovnik/DGRunkeeperSwitch
@@ -3609,6 +3617,7 @@ jschr/textillate
 jscs-dev/node-jscs
 jsdelivr/jsdelivr
 jsdoc3/jsdoc
+jshaw87/Cheatsheets
 jshint/jshint
 jsoma/tabletop
 json-api/json-api
@@ -3623,6 +3632,7 @@ jteeuwen/go-bindata
 jtleek/datasharing
 jtyjty99999/mobileTech
 jubos/fake-s3
+judasn/IntelliJ-IDEA-Tutorial
 julianshapiro/blast
 julianshapiro/velocity
 julienXX/terminal-notifier
@@ -3661,6 +3671,7 @@ kabukky/journey
 kachayev/fn.py
 kahun/awesome-sysadmin
 kaishengtai/neuralart
+kaishin/Gifu
 kakserpom/phpdaemon
 kamens/jQuery-menu-aim
 kanaka/mal
@@ -4818,6 +4829,9 @@ pagekit/pagekit
 pagespeed/ngx_pagespeed
 pakastin/deck-of-cards
 pakerfeldt/android-viewflow
+pallets/click
+pallets/flask
+pallets/jinja
 pallets/werkzeug
 pandao/editor.md
 pangloss/vim-javascript
@@ -5360,6 +5374,7 @@ romaonthego/REMenu
 romaonthego/RESideMenu
 romaonthego/RETableViewManager
 romashamin/Size-Marks-PS
+roomorama/Caldroid
 roots/bedrock
 roots/sage
 rosarior/awesome-django
@@ -5370,6 +5385,7 @@ rovo89/Xposed
 rovo89/XposedBridge
 rowanmanning/joblint
 royrusso/elasticsearch-HQ
+rpicard/explore-flask
 rs/SDSegmentedControl
 rs/SDWebImage
 rschmukler/agenda
@@ -6019,6 +6035,7 @@ thiagopradi/octopus
 thinkaurelius/titan
 thinkgem/jeesite
 thinkpixellab/flatland
+thlorenz/proxyquire
 tholman/elevator.js
 tholman/github-corners
 tholman/intense-images
