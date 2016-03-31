@@ -39,6 +39,7 @@ AdamAtomic/flixel
 Addepar/ember-table
 Aerolab/midnight.js
 AgileBits/onepassword-app-extension
+Ahmed-Ali/JSONExport
 Alamofire/Alamofire
 Alamofire/AlamofireImage
 AlanQuatermain/AQGridView
@@ -1125,6 +1126,7 @@ airbnb/DeepLinkDispatch
 airbnb/aerosolve
 airbnb/airflow
 airbnb/airpal
+airbnb/caravel
 airbnb/enzyme
 airbnb/infinity
 airbnb/javascript
@@ -1982,6 +1984,7 @@ coreybutler/nvm-windows
 cortesi/devd
 coryhouse/react-slingshot
 coteditor/CotEditor
+couchbase/couchbase-lite-ios
 coursera-dl/coursera-dl
 cowbell/sharedrop
 cowboy/jquery-bbq
@@ -2080,6 +2083,7 @@ danielamitay/DACircularProgress
 danielamitay/DAKeyboardControl
 danielamitay/iHasApp
 danielebogo/DBCamera
+danielgindi/Charts
 danielgindi/ios-charts
 danielgtaylor/aglio
 danielmiessler/SecLists
@@ -2340,6 +2344,7 @@ duojs/duo
 dustturtle/RealReachability
 dutchcoders/transfer.sh
 dvyukov/go-fuzz
+dylang/npm-check
 dylang/shortid
 dypsilon/frontend-dev-bookmarks
 dyve/django-bootstrap-toolkit
@@ -2971,6 +2976,7 @@ googlecreativelab/coder
 googlei18n/libphonenumber
 googlemaps/android-maps-utils
 googlesamples/android-UniversalMusicPlayer
+googlesamples/android-architecture
 googlesamples/android-ndk
 googlesamples/android-testing
 googlesamples/android-testing-templates
@@ -3467,6 +3473,7 @@ jhurray/JHChainableAnimations
 jhy/jsoup
 jiaaro/pydub
 jiahaog/nativefier
+jianliaoim/talk-os
 jigish/slate
 jikexueyuanwiki/tensorflow-zh
 jimbojsb/launchrocket
@@ -3883,6 +3890,7 @@ leafo/sticky-kit
 leah/PullToRefresh
 leanote/leanote
 leapmotion/leapjs
+lebinh/nginx-conf
 lebinh/ngxtop
 lecho/hellocharts-android
 ledger/ledger
@@ -4243,6 +4251,7 @@ mgechev/javascript-algorithms
 mgonto/restangular
 mgp25/Chat-API
 mhagger/git-imerge
+mhart/react-server-example
 mher/flower
 mhevery/jasmine-node
 mhinz/vim-galore
@@ -4397,6 +4406,7 @@ morhetz/gruvbox
 morrisjs/morris.js
 mortdeus/legacy-cc
 mortenjust/androidtool-mac
+mortenjust/cleartext-mac
 mortenjust/droptogif
 mossmann/hackrf
 motdotla/dotenv
@@ -4782,6 +4792,7 @@ openstack/openstack
 openstack/swift
 openstf/stf
 openstreetmap/iD
+opentoonz/opentoonz
 openzipkin/zipkin
 opserver/Opserver
 optimizely/nuclear-js
@@ -5044,6 +5055,7 @@ prikhi/pencil
 primer/primer
 primus/primus
 princejwesley/Mancy
+priologic/easyrtc
 probablycorey/wax
 processing/p5.js
 processing/processing
@@ -5367,6 +5379,7 @@ romainguy/ViewServer
 romainguy/google-io-2014
 romainguy/road-trip
 romannurik/Android-SwipeToDismiss
+romannurik/Android-WizardPager
 romannurik/AndroidAssetStudio
 romannurik/LayerVisualizer
 romannurik/muzei
@@ -6020,6 +6033,7 @@ theintern/intern
 theironcook/Backbone.ModelBinder
 thejameskyle/babel-handbook
 thejameskyle/spectacle-code-slide
+thejameskyle/the-super-tiny-compiler
 themattrix/bash-concurrent
 themeskult/wp-svbtle
 then/promise
