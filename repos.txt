@@ -54,6 +54,7 @@ AllThingsSmitty/css-protips
 AllThingsSmitty/jquery-tips-everyone-should-know
 AllThingsSmitty/must-watch-css
 AlloyTeam/AlloyImage
+AlloyTeam/JX
 AlloyTeam/Mars
 Alluxio/alluxio
 AltBeacon/android-beacon-library
@@ -572,6 +573,7 @@ MengTo/Spring
 MeoMix/StreamusChromeExtension
 MiCode/Notes
 MichMich/MagicMirror
+Microsoft/BotBuilder
 Microsoft/CNTK
 Microsoft/ChakraCore
 Microsoft/DMTK
@@ -1307,6 +1309,7 @@ antirez/linenoise
 antirez/redis
 antirez/sds
 antlr/antlr4
+antlr/grammars-v4
 antoniolg/MaterialEverywhere
 antoniolg/androidmvp
 anvaka/VivaGraphJS
@@ -2002,6 +2005,7 @@ creationix/wheat
 cristicbz/rust-doom
 crockpotveggies/tinderbox
 crosbymichael/dockerui
+crosbymichael/not-dockers-ui
 crossbario/autobahn-python
 crosswalk-project/crosswalk
 crsmithdev/arrow
@@ -3324,6 +3328,7 @@ isobar-idev/code-standards
 isocpp/CppCoreGuidelines
 isohuntto/openbay
 itchyny/lightline.vim
+itsabot/abot
 ivacf/archi
 ivaldi/brimir
 ivanakimov/hashids.php
@@ -3412,6 +3417,7 @@ jbrownlee/CleverAlgorithms
 jbt/markdown-editor
 jbutz/bootstrap-lightbox
 jcbrand/converse.js
+jceb/vim-orgmode
 jch/html-pipeline
 jcjohnson/neural-style
 jcs/lobsters
@@ -5382,6 +5388,7 @@ romannurik/Android-SwipeToDismiss
 romannurik/Android-WizardPager
 romannurik/AndroidAssetStudio
 romannurik/LayerVisualizer
+romannurik/MaterialColorsApp
 romannurik/muzei
 romaonthego/REFrostedViewController
 romaonthego/REMenu
@@ -5717,6 +5724,7 @@ smdahlen/vagrant-digitalocean
 smileyborg/UIView-AutoLayout
 smira/aptly
 smore-inc/clippy.js
+snabbco/snabb
 snide/sphinx_rtd_theme
 snowdream/awesome-android
 snowplow/snowplow
