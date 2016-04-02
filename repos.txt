@@ -6501,6 +6501,7 @@ hyperandroid/CAAT
 hyperhq/hyper
 hyperic/sigar
 hyperium/hyper
+hyperledger/fabric
 hyperledger/hyperledger
 hyperopt/hyperopt
 hyperoslo/Form
