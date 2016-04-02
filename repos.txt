@@ -9010,6 +9010,7 @@ mobile-shell/mosh
 mobileplayer/mobileplayer-ios
 mobitar/MBAlertView
 mobitar/MBSpacialViewController
+mobolic/facebook-sdk
 mobxjs/mobx
 mobz/elasticsearch-head
 mochajs/mocha
