@@ -11713,6 +11713,7 @@ slap-editor/slap
 slapperwan/gh4a
 slate/slate
 slawekj/wolf
+slazyk/Observable-Swift
 sleekbyte/tailor
 slembcke/Chipmunk2D
 sleuthkit/sleuthkit
@@ -11840,6 +11841,7 @@ spadgos/sublime-jsdocs
 sparanoid/chinese-copywriting-guidelines
 spark-jobserver/spark-jobserver
 spark/thermostat
+sparkfun/SparkFun-Eagle-Libraries
 sparkfun/phant
 sparkle-project/Sparkle
 sparklemotion/mechanize
