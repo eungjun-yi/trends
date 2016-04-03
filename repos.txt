@@ -7216,6 +7216,7 @@ sparkle-project/Sparkle
 sparklemotion/mechanize
 sparklemotion/nokogiri
 spatie/laravel-backup
+specialunderwear/Hosts.prefpane
 specta/expecta
 specta/specta
 spf13/cobra
