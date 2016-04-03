@@ -762,6 +762,7 @@ Homebrew/homebrew-bundle
 Homebrew/homebrew-dupes
 Homebrew/homebrew-php
 Homebrew/homebrew-science
+Homebrew/legacy-homebrew
 HospitalRun/hospitalrun-frontend
 HouzuoGuo/tiedot
 HubPress/hubpress.io
