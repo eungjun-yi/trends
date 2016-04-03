@@ -5118,6 +5118,7 @@ mangos/MaNGOS
 manifestinteractive/jqvmap
 manuelbieh/Geolib
 manuelkiessling/nodebeginner.org
+manuels/texlive.js
 mapbox/maki
 mapbox/mapbox-gl-js
 mapbox/mapbox-gl-native
@@ -6565,6 +6566,7 @@ recastnavigation/recastnavigation
 recruit-lifestyle/WaveSwipeRefreshLayout
 recruit-mp/RMPZoomTransitionAnimator
 red/red
+redcar/redcar
 reddit/reddit
 redecentralize/alternative-internet
 redguardtoo/mastering-emacs-in-one-year-guide
