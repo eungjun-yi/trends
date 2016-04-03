@@ -7232,6 +7232,7 @@ spockframework/spock
 sporkmonger/addressable
 sporkrb/spork
 sporritt/jsPlumb
+spotify/SPTPersistentCache
 spotify/annoy
 spotify/docker-gc
 spotify/helios
