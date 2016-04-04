@@ -4065,6 +4065,7 @@ imathis/fancy-buttons
 imathis/octopress
 imatix/zguide
 immobiliare/ApnsPHP
+immutables/immutables
 impeterstone/PSCollectionView
 impress/impress.js
 impressivewebs/HTML9-Responsive-Boilerstrap-js
@@ -4108,6 +4109,7 @@ inuyaksa/jquery.nicescroll
 invoiceninja/invoiceninja
 ioscreator/ioscreator
 iosre/iOSAppReverseEngineering
+iovisor/bcc
 ipader/SwiftGuide
 ipfs/go-ipfs
 ipfs/ipfs
@@ -6808,6 +6810,7 @@ russross/blackfriday
 rust-lang/cargo
 rust-lang/rust
 rust-lang/rust-by-example
+rustbridge/neon
 rvirding/lfe
 rvm/rvm
 rwaldron/idiomatic.js
@@ -7532,6 +7535,7 @@ test-kitchen/test-kitchen
 testem/testem
 texane/stlink
 textmate/textmate
+tflearn/tflearn
 tfredrich/RestApiTutorial.com
 tgalal/yowsup
 tgriesser/bookshelf
@@ -7560,6 +7564,7 @@ theonion/fartscroll.js
 theory/sqitch
 theos/theos
 thephpleague/climate
+thephpleague/csv
 thephpleague/flysystem
 thephpleague/fractal
 thephpleague/oauth2-client
