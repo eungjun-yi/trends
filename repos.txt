@@ -5932,6 +5932,7 @@ officert/mongotron
 ogaclejapan/SmartTabLayout
 ogrisel/parallel_ml_tutorial
 oguzbilgener/CircularFloatingActionMenu
+oh-my-fish/oh-my-fish
 ohler55/oj
 okTurtles/dnschain
 okfn/recline
