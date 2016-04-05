@@ -1663,6 +1663,7 @@ apenwarr/git-subtree
 apenwarr/redo
 apenwarr/sshuttle
 apex/apex
+aphyr/distsys-class
 aphyr/jepsen
 apiaryio/api-blueprint
 apiaryio/dredd
@@ -1869,6 +1870,7 @@ bastianallgeier/kirbycms
 batiste/sprite.js
 batmanjs/batman
 bauerca/drag-sort-listview
+baugarten/node-restful
 bauhouse/fluid960gs
 bayandin/awesome-awesomeness
 bazelbuild/bazel
@@ -2222,6 +2224,7 @@ celery/django-celery
 celluloid/celluloid
 celluloid/celluloid-io
 cemerick/friend
+cemoody/lda2vec
 centrifugal/centrifugo
 ceolter/ag-grid
 ceph/ceph
@@ -3008,6 +3011,7 @@ elcuervo/airplay
 ele828/react-native-guide
 electerious/Lychee
 electron-userland/electron-packager
+electron/electron
 electronicarts/EASTL
 eleith/emailjs
 elementalui/elemental
@@ -5520,6 +5524,7 @@ moq/moq4
 moredip/Frank
 morhetz/gruvbox
 morishitter/cssfmt
+morishitter/stylefmt
 morr/jquery.appear
 morrisjs/morris.js
 mortardata/mortar-recsys
@@ -5863,6 +5868,7 @@ nrabinowitz/pjscrape
 nrk/predis
 nryoung/algorithms
 nsf/gocode
+nsf/termbox
 nsf/termbox-go
 nslocum/design-patterns-in-ruby
 nsqio/nsq
@@ -6161,6 +6167,7 @@ petethepig/devtools-terminal
 petewarden/iPhoneTracker
 petkaantonov/bluebird
 petruisfan/node-supervisor
+pfn/keepasshttp
 pfnet/chainer
 pfsense/pfsense
 pgbovine/OnlinePythonTutor
@@ -7356,6 +7363,7 @@ storehouse/Advance
 stormzhang/9GAG
 stowball/jQuery-rwdImageMaps
 stoyan/cssshrink
+streadway/amqp
 streamio/streamio-ffmpeg
 stretchr/arg.js
 stretchr/testify
@@ -7847,6 +7855,7 @@ twitter/twurl
 twitter/typeahead.js
 twitter/util
 twitterdev/furni-ios
+twosigma/beaker-notebook
 twostairs/paperwork
 twostraws/HackingWithSwift
 twotoasters/JazzyListView
@@ -8278,6 +8287,7 @@ youknowone/UI7Kit
 youtube/spfjs
 youtube/vitess
 youyudehexie/node123
+yqritc/RecyclerView-FlexibleDivider
 yuantiku/YTKKeyValueStore
 yuantiku/YTKNetwork
 yuanyan/boron
@@ -8303,6 +8313,7 @@ zachsoft/Ionic-Material
 zalmoxisus/redux-devtools-extension
 zaphoyd/websocketpp
 zaproxy/zaproxy
+zaqqaz/ng-rest-api
 zcbenz/nw-sample-apps
 zcweng/ToggleButton
 zdennis/activerecord-import
@@ -8311,6 +8322,7 @@ zdfs/toscani
 zealdocs/zeal
 zedapp/zed
 zedshaw/lpthw-study-projects
+zeit/micro
 zeithq/micro
 zeman/perfmap
 zenazn/goji
