@@ -1196,6 +1196,7 @@ Valve/fingerprintjs
 Valve/fingerprintjs2
 ValveSoftware/ToGL
 ValveSoftware/halflife
+ValveSoftware/openvr
 ValveSoftware/source-sdk-2013
 ValveSoftware/steam-for-linux
 ValveSoftware/vogl
@@ -1561,6 +1562,7 @@ andrewngu/sound-redux
 andrewplummer/Sugar
 andrewrk/groovebasin
 andris9/jStorage
+andris9/mailtrain
 androguard/androguard
 android-cn/android-dev-cn
 android-cn/android-dev-com
@@ -1634,6 +1636,7 @@ antlr/grammars-v4
 anton46/Android-StepsView
 antonholmquist/jason
 antoniolg/MaterialEverywhere
+antoniolg/MaterializeYourApp
 antoniolg/androidmvp
 antonkrasov/AndroidSocialNetworks
 anvaka/VivaGraphJS
@@ -1735,6 +1738,7 @@ asciidoctor/asciidoctor
 asciimoo/drawille
 asciinema/asciinema
 asciinema/asciinema.org
+ascribe/image-match
 aseemk/json5
 aseprite/aseprite
 ashfurrow/C-41
@@ -3488,6 +3492,7 @@ geedmo/yamm3
 geeeeeeeeek/WeChatLuckyMoney
 geeeeeeeeek/electronic-wechat
 geeeeeeeeek/git-recipes
+geekan/scrapy-examples
 geekcompany/DeerResume
 geekcompany/ResumeSample
 geelen/x-gif
@@ -3746,6 +3751,7 @@ gotwarlost/istanbul
 gowong/material-sheet-fab
 gpambrozio/BlockAlertsAnd-ActionSheets
 gpbl/isomorphic500
+gpjt/webgl-lessons
 gpmgo/gopm
 gradle/gradle
 grafana/grafana
@@ -3892,6 +3898,8 @@ hdodenhof/CircleImageView
 headjs/headjs
 hebertialmeida/HAPaperViewController
 heelhook/chardin.js
+hehonghuidev/AndroidEventBus
+hehonghuidev/android-tech-frontier
 helios-framework/helios
 helmetjs/helmet
 helmuthdu/aui
@@ -3903,6 +3911,7 @@ heroku/react-refetch
 herrbischoff/awesome-osx-command-line
 hexchat/hexchat
 hexojs/hexo
+hexorx/countries
 heyalexej/awesome-images
 heygrady/scss-blend-modes
 hfossli/AGGeometryKit
@@ -4111,6 +4120,7 @@ intuit/AnimationEngine
 intuit/LocationManager
 inuyaksa/jquery.nicescroll
 invoiceninja/invoiceninja
+ioerror/duraconf
 ioscreator/ioscreator
 iosre/iOSAppReverseEngineering
 iovisor/bcc
@@ -4808,6 +4818,7 @@ kstenerud/ObjectAL-for-iPhone
 kstenerud/iOS-Universal-Framework
 ksuther/KSImageNamed-Xcode
 kswedberg/jquery-smooth-scroll
+kuba/simp_le
 kubernetes/kubernetes
 kud1ing/awesome-rust
 kumailht/flakes
@@ -4838,6 +4849,7 @@ laravel/laravel
 laravel/lumen
 laravel/socialite
 larcus94/ImagePickerSheetController
+larsenwork/Gidole
 larsenwork/monoid
 laruence/php7-internal
 laruence/yaf
@@ -4898,6 +4910,7 @@ lfit/itpol
 lg/murder
 lguipeng/Notes
 lgvalle/Material-Animations
+lgvalle/android-flux-todo-app
 lhartikk/ArnoldC
 lhorie/mithril.js
 liabru/jquery-match-height
@@ -4965,6 +4978,7 @@ livereload/LiveReload
 livid/v2ex
 lixuancn/LaneWeChat
 liyong03/YLGIFImage
+lj2007331/lnmp
 lkzhao/ElasticTransition
 lloyd/JSONSelect
 lloyd/node-memwatch
@@ -5202,6 +5216,7 @@ mathieudutour/git-sketch-plugin
 mathjax/MathJax
 matiasinsaurralde/facebook-tunnel
 matplotlib/matplotlib
+matrix-org/synapse
 matrixxun/ProductTour
 matryer/bitbar
 matt-42/silicon
@@ -6856,6 +6871,7 @@ saeedalipoor/icono
 sagivo/algorithms
 sahat/hackathon-starter
 sahat/satellizer
+saiwu-bigkoo/Android-ConvenientBanner
 saiwu-bigkoo/Android-PickerView
 salesforce-ux/design-system
 saltstack/salt
@@ -7705,6 +7721,7 @@ todoroo/astrid
 toji/gl-matrix
 toland/qlmarkdown
 tomahawk-player/tomahawk
+tomakehurst/wiremock
 tomasr/molokai
 tomaz/appledoc
 tombatossals/angular-leaflet-directive
