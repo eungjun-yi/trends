@@ -51,6 +51,7 @@ Aerolab/midnight.js
 AgileBits/onepassword-app-extension
 Ahmed-Ali/JSONExport
 AigeStudio/DatePicker
+AlDanial/cloc
 Alamofire/Alamofire
 Alamofire/AlamofireImage
 AlanQuatermain/AQGridView
@@ -300,6 +301,7 @@ DefinitelyTyped/tsd
 DemocracyOS/democracyos
 DesarrolloAntonio/FragmentTransactionExtended
 DeskConnect/SBShortcutMenuSimulator
+DevLight-Mobile-Agency/NavigationTabBar
 DevinVinson/WordPress-Plugin-Boilerplate
 DhavalKapil/icmptunnel
 DianQK/TransitionTreasury
@@ -368,6 +370,7 @@ FasterXML/jackson-databind
 FelisCatus/SwitchyOmega
 FetLife/rollout
 FezVrasta/bootstrap-material-design
+FezVrasta/popper.js
 FiloSottile/Heartbleed
 FiloSottile/whosthere
 Financial-Times/polyfill-service
@@ -1172,6 +1175,7 @@ Tribler/tribler
 Tricertops/KeepLayout
 Trinea/android-auto-scroll-view-pager
 Trinea/android-common
+Trinea/android-demo
 Trinea/android-open-project
 TrinityCore/TrinityCore
 Triple-T/gradle-play-publisher
@@ -1300,6 +1304,7 @@ YouXianMing/Animations
 YouXianMing/YoCelsius
 Z3Prover/z3
 ZaBlanc/RaptureXML
+Zewo/Zewo
 ZhipingYang/UUChatTableView
 ZhongTaoTian/WNXHuntForCity
 Zhouzi/TheaterJS
@@ -1564,6 +1569,7 @@ andrewrk/groovebasin
 andris9/jStorage
 andris9/mailtrain
 androguard/androguard
+android-cjj/JJSearchViewAnim
 android-cn/android-dev-cn
 android-cn/android-dev-com
 android-cn/android-discuss
@@ -4353,6 +4359,7 @@ jiahaog/nativefier
 jianghejie/XRecyclerView
 jianliaoim/talk-os
 jigish/slate
+jiji262/Bootstrap_Metro_Dashboard
 jikexueyuanwiki/tensorflow-zh
 jimbojsb/launchrocket
 jimeh/git-aware-prompt
@@ -5196,6 +5203,7 @@ marmelroy/PeekPop
 marmelroy/PhoneNumberKit
 maroslaw/rainyday.js
 marshmallow-code/marshmallow
+martanne/vis
 martinblech/xmltodict
 martinjuhasz/MJPopupViewController
 martyjs/marty
@@ -5209,6 +5217,7 @@ mashery/iodocs
 mashpie/i18n-node
 mastastealth/sass-flex-mixin
 masterexploder/PHPThumb
+matbeich/StickyCollectionView
 matejlatin/Gutenberg
 mathiasbynens/dotfiles
 mathiasbynens/jquery-placeholder
@@ -5225,6 +5234,7 @@ mattboldt/typed.js
 mattbryson/TouchSwipe-Jquery-Plugin
 mattdesl/budo
 mattdesl/lwjgl-basics
+mattdesl/promise-cookbook
 mattdiamond/Recorderjs
 mattdiamond/fuckitjs
 mattdonnelly/Swifter
@@ -6183,6 +6193,7 @@ petethepig/devtools-terminal
 petewarden/iPhoneTracker
 petkaantonov/bluebird
 petruisfan/node-supervisor
+petuum/bosen
 pfn/keepasshttp
 pfnet/chainer
 pfsense/pfsense
@@ -7164,6 +7175,7 @@ slightlyoff/ServiceWorker
 slightlyoff/cassowary.js
 slim-template/slim
 slimphp/Slim
+slityourthroat/badass
 sloisel/numeric
 sloria/TextBlob
 sloria/cookiecutter-flask
@@ -7930,10 +7942,12 @@ unixorn/awesome-zsh-plugins
 unruledboy/WebFrontEndStack
 upmin/upmin-admin-ruby
 urbanairship/tessera
+urbit/urbit
 urho3d/Urho3D
 urish/angular-moment
 usablica/front-end-frameworks
 usablica/intro.js
+usablica/label.css
 usablica/progress.js
 usablica/widearea
 ushahidi/Ushahidi_Web
@@ -8326,6 +8340,7 @@ z3t0/Arduino-IRremote
 zTree/zTree_v3
 zaach/jison
 zaach/jsonlint
+zac/iphonearkit
 zachlatta/sshtron
 zachsoft/Ionic-Material
 zalmoxisus/redux-devtools-extension
