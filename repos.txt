@@ -432,6 +432,7 @@ GooTechnologies/goojs
 GoogleChrome/chrome-app-samples
 GoogleChrome/chromedeveditor
 GoogleChrome/samples
+GoogleChrome/sw-toolbox
 GovernmentCommunicationsHeadquarters/Gaffer
 GravityLabs/goose
 Graylog2/graylog2-server
@@ -957,6 +958,7 @@ Ramotion/circle-menu
 Ramotion/folding-cell
 Ramotion/navigation-stack
 Ramotion/paper-switch
+Ramotion/reel-search
 Randommood/Strangeloop2015
 RangelReale/osin
 Ranks/emojify.js
@@ -1247,6 +1249,7 @@ WhiteHouse/api-standards
 WhiteHouse/petitions
 WickyNilliams/enquire.js
 WickyNilliams/headroom.js
+Windows-XAML/Template10
 Wisembly/basil.js
 WizTeam/WizQTClient
 Wizcorp/phonegap-facebook-plugin
@@ -3002,6 +3005,7 @@ ejci/favico.js
 ejoy/ejoy2d
 ekmett/lens
 ekonstantinidis/gitify
+ekremkaraca/awesome-rails
 elabs/pundit
 elastic/beats
 elastic/curator
@@ -3144,6 +3148,7 @@ evancohen/smart-mirror
 evancz/elm-architecture-tutorial
 evant/gradle-retrolambda
 evantahler/actionhero
+evanw/csg.js
 evanw/glfx.js
 eventmachine/eventmachine
 everpix/Everpix-Intelligence
@@ -3299,6 +3304,7 @@ feross/SpoofMAC
 feross/instant.io
 feross/standard
 feross/webtorrent
+fetlife/rollout
 fex-team/GMU
 fex-team/fis
 fex-team/fis3
@@ -3438,11 +3444,13 @@ fulldecent/system-bus-radio
 fullstackio/FlappySwift
 functional-koans/clojure-koans
 furf/jquery-ui-touch-punch
+future-architect/vuls
 futurepress/epub.js
 futuresimple/android-floating-action-button
 futuretap/InAppSettingsKit
 futurice/android-best-practices
 futurice/ios-good-practices
+fvbock/endless
 fxbois/web-mode
 fxn/tkn
 fxsjy/jieba
@@ -4165,6 +4173,7 @@ ivansafrin/Polycode
 ivopetkov/responsively-lazy
 iwasrobbed/RPFloatingPlaceholders
 iziz/libPhoneNumber-iOS
+izqui/Taylor
 izzyleung/ZhihuDailyPurify
 j256/ormlite-android
 j4mie/idiorm
@@ -4484,6 +4493,7 @@ josephyzhou/github-trending
 josevalim/inherited_resources
 josevalim/rails-footnotes
 josh/css-explain
+joshaber/Few.swift
 joshcam/PHP-MySQLi-Database-Class
 joshfire/jsonform
 joshfng/railsready
@@ -4505,6 +4515,7 @@ jpmens/jo
 jprante/elasticsearch-jdbc
 jprichardson/node-fs-extra
 jprichardson/string.js
+jquense/react-widgets
 jquery-archive/plugins.jquery.com
 jquery-boilerplate/jquery-boilerplate
 jquery-boilerplate/jquery-patterns
@@ -4850,6 +4861,7 @@ laracasts/Laravel-5-Generators-Extended
 laracasts/PHP-Vars-To-Js-Transformer
 laravel-ardent/ardent
 laravel/cashier
+laravel/elixir
 laravel/framework
 laravel/homestead
 laravel/laravel
@@ -7081,6 +7093,7 @@ shu223/iOS-9-Sampler
 shu223/iOS7-Sampler
 shu223/iOS8-Sampler
 shu223/watchOS-2-Sampler
+shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 shutterstock/rickshaw
 shwenzhang/AndResGuard
 shyamseshadri/angularjs-book
@@ -7090,6 +7103,7 @@ sickill/git-dude
 siddontang/ledisdb
 sideshow/apns2
 sightmachine/SimpleCV
+silentbicycle/greatest
 silexphp/Pimple
 silexphp/Silex
 silviomoreto/bootstrap-select
@@ -7933,6 +7947,7 @@ umdjs/umd
 umpirsky/country-list
 una/CSSgram
 unbit/uwsgi
+unbug/codelf
 unconed/MathBox.js
 unconed/TermKit
 uncrustify/uncrustify
@@ -8341,6 +8356,7 @@ zTree/zTree_v3
 zaach/jison
 zaach/jsonlint
 zac/iphonearkit
+zachfitz/Ionic-Material
 zachlatta/sshtron
 zachsoft/Ionic-Material
 zalmoxisus/redux-devtools-extension
