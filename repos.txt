@@ -1279,6 +1279,7 @@ Yalantis/FlipViewPager.Draco
 Yalantis/FoldingTabBar.iOS
 Yalantis/GuillotineMenu
 Yalantis/GuillotineMenu-Android
+Yalantis/Horizon
 Yalantis/Koloda
 Yalantis/Persei
 Yalantis/Phoenix
@@ -1481,6 +1482,7 @@ alexvasilkov/FoldableLayout
 alexwolfe/Buttons
 alfajango/jquery-dynatable
 alfredxing/brick
+algolia/instantsearch.js
 aliasaria/scrumblr
 alibaba/AndFix
 alibaba/RocketMQ
@@ -1771,6 +1773,7 @@ astaxie/bat
 astaxie/beego
 astaxie/build-web-application-with-golang
 astoilkov/jsblocks
+astrada/google-drive-ocamlfuse
 astropy/astropy
 astuetz/PagerSlidingTabStrip
 asual/jquery-address
@@ -3304,6 +3307,7 @@ feross/SpoofMAC
 feross/instant.io
 feross/standard
 feross/webtorrent
+feross/webtorrent-desktop
 fetlife/rollout
 fex-team/GMU
 fex-team/fis
@@ -3412,6 +3416,7 @@ fortunejs/fortune
 foru17/front-end-collect
 fouber/blog
 fouber/page-monitor
+foundweekends/giter8
 fphilipe/PHFComposeBarView
 fpillet/NSLogger
 fpinscala/fpinscala
@@ -3959,6 +3964,7 @@ honcheng/iOSPlot
 honestbleeps/Reddit-Enhancement-Suite
 hongyangAndroid/AndroidAutoLayout
 hongyangAndroid/AndroidChangeSkin
+hongyangAndroid/FlowLayout
 hongyangAndroid/Highlight
 hongyangAndroid/android-percent-support-extend
 hongyangAndroid/okhttp-utils
@@ -5368,6 +5374,7 @@ meteor/meteor
 meteoric/meteor-ionic
 mewwts/addict
 mezzoblue/csszengarden.com
+mfornos/awesome-microservices
 mgcrea/angular-strap
 mgechev/angular2-seed
 mgechev/angular2-style-guide
@@ -5496,6 +5503,7 @@ mmccaff/PlacesToPostYourStartup
 mmcgrana/gobyexample
 mmcgrana/services-engineering
 mmin18/AndroidDynamicLoader
+mmin18/FlexLayout
 mmin18/LayoutCast
 mmozuras/pronto
 mnielsen/neural-networks-and-deep-learning
@@ -5519,6 +5527,7 @@ moduth/blockcanary
 mofarrell/p2pvc
 mogujie/TeamTalk
 mogutt/TTServer
+mohayonao/timbre.js
 mohebifar/lebab
 mojombo/chronic
 mojombo/clippy
