@@ -795,6 +795,7 @@ NativeScript/NativeScript
 NaturalNode/natural
 NeXTs/Clusterize.js
 NeXTs/Jets.js
+Neilpang/le
 NervanaSystems/neon
 NetEase/pomelo
 Netflix/Hystrix
@@ -1117,6 +1118,7 @@ Supervisor/supervisor
 Sutto/rocket_pants
 SwiftBond/Bond
 SwiftyBeaver/SwiftyBeaver
+SwiftyJSON/Alamofire-SwiftyJSON
 SwiftyJSON/SwiftyJSON
 Swiip/generator-gulp-angular
 Swordfish90/cool-retro-term
@@ -3372,6 +3374,7 @@ flexiblegs/flexiblegs-scss-plus
 flightjs/flight
 flike/kingshard
 florent37/MaterialViewPager
+florent37/ViewAnimator
 florianheinemann/passwordless
 floriankugler/FLKAutoLayout
 flot/flot
@@ -3813,6 +3816,7 @@ gruntjs/grunt
 gruntjs/grunt-contrib-imagemin
 gruntjs/grunt-contrib-uglify
 gruntjs/grunt-contrib-watch
+gsdios/GSD_WeiXin
 gsdios/SDAutoLayout
 gsdios/SDCycleScrollView
 gskinner/regexr
@@ -5239,6 +5243,7 @@ matbeich/StickyCollectionView
 matejlatin/Gutenberg
 mathiasbynens/dotfiles
 mathiasbynens/jquery-placeholder
+mathics/Mathics
 mathieudutour/git-sketch-plugin
 mathjax/MathJax
 matiasinsaurralde/facebook-tunnel
@@ -6715,6 +6720,7 @@ ricochet-im/ricochet
 ridiculousfish/HexFiend
 riemann/riemann
 rigoneri/syte
+rime/squirrel
 ring-clojure/ring
 riot/riot
 ripienaar/free-for-dev
