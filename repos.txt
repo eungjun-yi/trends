@@ -131,6 +131,8 @@ Automattic/node-canvas
 Automattic/wp-calypso
 AutumnsWind/Front-end-questions-to-the-interview-stage
 AutumnsWind/Front-end-tutorial
+AutumnsWindsGoodBye/Front-end-questions-to-the-interview-stage
+AutumnsWindsGoodBye/Front-end-tutorial
 Avocarrot/json2view
 Azure/azure-content
 Azure/azure-quickstart-templates
@@ -1142,6 +1144,7 @@ TelescopeJS/Telescope
 Templarian/MaterialDesign
 Templarian/WindowsIcons
 TencentOpen/GT
+Terry-Mao/goim
 Terry-Mao/gopush-cluster
 The-Compiler/qutebrowser
 TheAmazingAudioEngine/TheAmazingAudioEngine
@@ -1428,6 +1431,7 @@ airbnb/aerosolve
 airbnb/airflow
 airbnb/airpal
 airbnb/caravel
+airbnb/css
 airbnb/enzyme
 airbnb/infinity
 airbnb/javascript
@@ -1655,6 +1659,7 @@ antonkrasov/AndroidSocialNetworks
 anvaka/VivaGraphJS
 aol/moloch
 aosabook/500lines
+aosp-exchange-group/share
 aozora/bootmetro
 apache/cassandra
 apache/cordova-android
@@ -1762,6 +1767,7 @@ ashtuchkin/iconv-lite
 askmike/gekko
 aspnet/EntityFramework
 aspnet/Home
+aspnet/KestrelHttpServer
 aspnet/Mvc
 aspnet/dnx
 aspnetboilerplate/aspnetboilerplate
@@ -1812,6 +1818,7 @@ aui/font-spider
 aurajs/aura
 aurelia/framework
 austinzheng/swift-2048
+auth0/express-jwt
 auth0/node-jsonwebtoken
 auto-complete/auto-complete
 autofac/Autofac
@@ -2878,6 +2885,7 @@ domnikl/DesignPatternsPHP
 dompdf/dompdf
 donejs/donejs
 dongjunkun/DropDownMenu
+donglua/PhotoPicker
 donnemartin/awesome-aws
 donnemartin/data-science-ipython-notebooks
 donnemartin/dev-setup
@@ -3474,6 +3482,7 @@ gabrielemariotti/RecyclerViewItemAnimators
 gabrielemariotti/cardslib
 gabrielfalcao/HTTPretty
 gabrielfalcao/lettuce
+gabrielrcouto/php-gui
 gabrielrcouto/php-terminal-gameboy-emulator
 gaearon/babel-plugin-react-transform
 gaearon/flux-react-router-example
@@ -3528,6 +3537,7 @@ geokit/geokit
 geokit/geokit-rails
 geometer/FBReaderJ
 geopy/geopy
+georgebrock/1pass
 gephi/gephi
 germanysbestkeptsecret/Wookmark-jQuery
 gernest/utron
@@ -3878,6 +3888,7 @@ hakimel/reveal.js
 hakimel/stroll.js
 hakimel/zoom.js
 halide/Halide
+hamcrest/JavaHamcrest
 haml/haml
 hammerjs/hammer.js
 hamstergem/hamster
@@ -4666,6 +4677,7 @@ kartik-v/bootstrap-fileinput
 kartograph/kartograph.js
 kartograph/kartograph.py
 kasketis/netfox
+kataras/iris
 katiefenn/parker
 katspaugh/wavesurfer.js
 kattrali/Xcode-Plugin-Template
@@ -5141,6 +5153,7 @@ mailchimp/email-blueprints
 mailgun/flanker
 mailgun/godebug
 mailgun/transactional-email-templates
+mailhog/MailHog
 mailman/mailman
 mailpile/Mailpile
 mailru/FileAPI
@@ -5513,6 +5526,7 @@ mmin18/LayoutCast
 mmozuras/pronto
 mnielsen/neural-networks-and-deep-learning
 mnutt/hummingbird
+moagrius/TileView
 mobfarm/FastPdfKit
 mobile-shell/mosh
 mobileplayer/mobileplayer-ios
@@ -5827,9 +5841,11 @@ nikgraf/belle
 nikic/FastRoute
 nikic/PHP-Parser
 niklasvh/html2canvas
+nikolaypavlov/MLPNeuralNet
 nilbus/Backbone.dualStorage
 niltsh/MPlayerX
 nim-lang/Nim
+nimojs/gulp-book
 ninenines/cowboy
 ninja-build/ninja
 ninjaframework/ninja
@@ -5852,6 +5868,7 @@ nltk/nltk
 nmattisson/DropdownMenu
 nnhubbard/ZSSRichTextEditor
 nnnick/Chart.js
+nnupoor/js_designpatterns
 noahd1/oink
 noamraph/tqdm
 node-app/Interpreter
@@ -6249,6 +6266,7 @@ phoboslab/jsmpeg-vnc
 phodal/developer
 phodal/github-roam
 phodal/growth
+phodal/growth-ebook
 phoenixframework/phoenix
 phonegap/phonegap-start
 photo/frontend
@@ -6406,6 +6424,7 @@ processone/ejabberd
 processone/tsung
 progit/progit
 progit/progit2
+programthink/opensource
 programthink/zhao
 progrium/buildstep
 progrium/gitreceive
