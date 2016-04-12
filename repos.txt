@@ -1457,6 +1457,7 @@ akosma/SwiftMoment
 akosma/nib2objc
 aksonov/react-native-router-flux
 akullpp/awesome-java
+akveo/blur-admin
 alamkanak/Android-Week-View
 albertlatacz/java-repl
 alcatraz/Alcatraz
@@ -1543,6 +1544,7 @@ amokjs/amok
 amonapp/amonone
 amontalenti/elements-of-python-style
 ampache/ampache
+ampedandwired/html-webpack-plugin
 amperka/ino
 amperser/proselint
 amplab/shark
@@ -1588,6 +1590,7 @@ android-cn/android-jobs
 android-cn/android-open-project-analysis
 android/platform_development
 android/platform_frameworks_base
+android/platform_frameworks_support
 android10/Android-CleanArchitecture
 androidquery/androidquery
 andsens/homeshick
@@ -3027,6 +3030,7 @@ elastic/elasticsearch-definitive-guide
 elastic/elasticsearch-js
 elastic/elasticsearch-net
 elastic/elasticsearch-php
+elastic/elasticsearch-py
 elastic/elasticsearch-rails
 elastic/elasticsearch-ruby
 elastic/kibana
@@ -3516,6 +3520,7 @@ gavinkwoe/BeeFramework
 gawel/pyquery
 gazay/gon
 gcanti/tcomb-form-native
+gchp/iota
 gcuisinier/jenv
 geddski/csstyle
 geddy/geddy
@@ -4074,6 +4079,7 @@ icefox/git-achievements
 icepat/ICETutorial
 icepy/Front-End-Develop-Guide
 ichord/At.js
+icicleio/icicle
 iconic/open-iconic
 icons8/flat-color-icons
 icsharpcode/ILSpy
@@ -4183,6 +4189,7 @@ isnowfy/snownlp
 isobar-idev/code-standards
 isocpp/CppCoreGuidelines
 isohuntto/openbay
+istarkov/google-map-react
 itchyny/lightline.vim
 itsabot/abot
 itsgoingd/clockwork
@@ -4652,6 +4659,7 @@ kaishin/Gifu
 kakserpom/phpdaemon
 kamalgill/flask-appengine-template
 kamens/jQuery-menu-aim
+kamranahmedse/git-standup
 kanaka/mal
 kanaka/noVNC
 kanaka/websockify
@@ -5081,6 +5089,7 @@ lukabernardi/LBBlurredImage
 lukas-vlcek/bigdesk
 lukas2511/letsencrypt.sh
 lukasz-madon/awesome-remote-job
+lukaszx0/queues.io
 lukehaas/css-loaders
 lukehoban/es6features
 lukesampson/scoop
@@ -6122,6 +6131,7 @@ overviewer/Minecraft-Overviewer
 owainlewis/awesome-artificial-intelligence
 owncloud/android
 owncloud/core
+oxidane/tmuxomatic
 oyvindeh/ucss
 oyvindkinsey/easyXDM
 ozodrukh/CircularReveal
@@ -7238,6 +7248,7 @@ smileyborg/UIView-AutoLayout
 smira/aptly
 smore-inc/clippy.js
 snabbco/snabb
+snare/voltron
 snide/sphinx_rtd_theme
 sniperwolf/taggingJS
 snorpey/jpg-glitch
@@ -7957,6 +7968,7 @@ typesafehub/config
 typhoeus/typhoeus
 typicaljoe/taffydb
 typicode/hotel
+typicode/husky
 typicode/json-server
 typicode/lowdb
 typpo/textbelt
