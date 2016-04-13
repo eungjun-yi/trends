@@ -394,6 +394,7 @@ FormidableLabs/spectacle
 FormidableLabs/victory
 FortAwesome/Font-Awesome
 FoxUSA/OpenNote
+Foxandxss/angular-toastr
 FrDH/jQuery.dotdotdot
 FrDH/jQuery.mmenu
 Frank-Zhu/PullZoomView
@@ -444,6 +445,7 @@ Grouper/FlatUIKit
 Guake/guake
 GumbyFramework/Gumby
 H07000223/FlycoTabLayout
+HIPS/autograd
 HabitRPG/habitrpg
 HackerNews/API
 Hammerspoon/hammerspoon
@@ -691,6 +693,7 @@ ManuelPeinado/GlassActionBar
 ManuelPeinado/MultiChoiceAdapter
 Marak/colors.js
 Marak/faker.js
+MariaDB/server
 MarioRicalde/SCSS.tmbundle
 MarlinFirmware/Marlin
 MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
@@ -1449,6 +1452,7 @@ akavache/Akavache
 akdubya/dustjs
 akexorcist/Android-RoundCornerProgressBar
 akheron/jansson
+akhodakivskiy/VimFx
 akiran/react-slick
 akka/akka
 akkadotnet/akka.net
@@ -1504,6 +1508,7 @@ alibaba/jstorm
 alibaba/otter
 alibaba/tengine
 alibaba/tsar
+aliceui/aliceui.github.io
 aliceui/aliceui.org
 alignedleft/d3-book
 alikaragoz/MCSwipeTableViewCell
@@ -1715,7 +1720,9 @@ applidium/ADTransitionController
 apprenticeharper/DeDRM_tools
 appsquickly/Typhoon
 aquynh/capstone
+arachnys/athenapdf
 arachnys/cabot
+aralejs/aralejs.github.io
 aralejs/aralejs.org
 arangodb/arangodb
 arasatasaygin/is.js
@@ -3239,6 +3246,7 @@ facebook/react-devtools
 facebook/react-native
 facebook/rebound
 facebook/rebound-js
+facebook/redex
 facebook/regenerator
 facebook/relay
 facebook/rocksdb
@@ -3572,6 +3580,7 @@ ghcjs/ghcjs
 giakki/uncss
 giampaolo/psutil
 gianarb/awesome-angularjs
+giantray/stackoverflow-java-top-qa
 gibiansky/IHaskell
 giggsey/libphonenumber-for-php
 gilbarbara/logos
@@ -3937,6 +3946,8 @@ hdodenhof/CircleImageView
 headjs/headjs
 hebertialmeida/HAPaperViewController
 heelhook/chardin.js
+hehonghui/AndroidEventBus
+hehonghui/android-tech-frontier
 hehonghuidev/AndroidEventBus
 hehonghuidev/android-tech-frontier
 helios-framework/helios
@@ -3978,6 +3989,7 @@ hollance/swift-algorithm-club
 holman/boom
 holman/dotfiles
 holman/spark
+home-assistant/home-assistant
 honcheng/PaperFold-for-iOS
 honcheng/RTLabel
 honcheng/iOSPlot
@@ -5732,6 +5744,7 @@ nanomsg/nanomsg
 nanopack/yoke
 nanotech/jellybeans.vim
 naoty/Timepiece
+naparuba/shinken
 nate-parrott/Flashlight
 nategood/httpful
 natew/obtvse
@@ -6041,6 +6054,7 @@ omz/Dash-Plugin-for-Xcode
 ondras/my-mind
 ondras/rot.js
 oneclick/rubyinstaller
+onefinestay/nameko
 onemightyroar/YRDropdownView
 oneuijs/You-Dont-Need-jQuery
 onevcat/APNGKit
@@ -7613,6 +7627,7 @@ telerik/kendo-ui-core
 telly/TLYShyNavBar
 tenXer/xcharts
 tencent-php/tsf
+tensorflow/playground
 tensorflow/skflow
 tensorflow/tensorflow
 tent/tent.io
