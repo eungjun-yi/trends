@@ -435,6 +435,7 @@ GooTechnologies/goojs
 GoogleChrome/chrome-app-samples
 GoogleChrome/chromedeveditor
 GoogleChrome/samples
+GoogleChrome/sw-precache
 GoogleChrome/sw-toolbox
 GovernmentCommunicationsHeadquarters/Gaffer
 GravityLabs/goose
@@ -6059,6 +6060,7 @@ onemightyroar/YRDropdownView
 oneuijs/You-Dont-Need-jQuery
 onevcat/APNGKit
 onevcat/Kingfisher
+onevcat/VVBlurPresentation
 onevcat/VVDocumenter-Xcode
 ongakuer/CircleIndicator
 onlywei/explain-git-with-d3
@@ -7212,6 +7214,7 @@ sinker/tacofancy
 sinonjs/sinon
 sintaxi/harp
 sintaxi/phonegap
+siriscac/RippleView
 sirthias/parboiled
 sirthias/pegdown
 sitaramc/gitolite
