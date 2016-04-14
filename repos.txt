@@ -801,6 +801,7 @@ NativeScript/NativeScript
 NaturalNode/natural
 NeXTs/Clusterize.js
 NeXTs/Jets.js
+Neilpang/acme.sh
 Neilpang/le
 NervanaSystems/neon
 NetEase/pomelo
@@ -2235,6 +2236,7 @@ cartalyst/sentry
 casesandberg/react-color
 casesandberg/reactcss
 caskroom/homebrew-cask
+casperjs/casperjs
 cassidoo/getting-a-gig
 castorflex/SmoothProgressBar
 catalinmiron/react-native-dribbble-app
@@ -2738,6 +2740,7 @@ ded/script.js
 deedy/Deedy-Resume
 deeplearning4j/deeplearning4j
 deepstreamIO/deepstream.io
+deepstreamIO/golden-layout
 defagos/CoconutKit
 defaultnamehere/zzzzz
 defunkt/cijoe
@@ -3051,6 +3054,7 @@ ele828/react-native-guide
 electerious/Lychee
 electron-userland/electron-packager
 electron/electron
+electron/electron-quick-start
 electronicarts/EASTL
 eleith/emailjs
 elementalui/elemental
@@ -3305,6 +3309,7 @@ fatih/vim-go
 faye/faye
 faylang/fay
 fb55/htmlparser2
+fbsamples/f8app
 fcambus/ansiweather
 fcambus/nginx-resources
 fchollet/keras
@@ -3970,6 +3975,7 @@ hfossli/AGGeometryKit-POP
 hhatto/autopep8
 hibernate/hibernate-orm
 hickford/MechanicalSoup
+hiddentao/squel
 highcharts/highcharts
 hilen/TSWeChat
 hilios/jQuery.countdown
@@ -6972,6 +6978,7 @@ samvermette/SVPullToRefresh
 samvermette/SVSegmentedControl
 samyk/evercookie
 samyk/magspoof
+samyk/skyjack
 sandeepmistry/noble
 sandstorm-io/capnproto
 sandstorm-io/sandstorm
@@ -7244,6 +7251,7 @@ slackhq/hubot-slack
 slact/nchan
 slap-editor/slap
 slate/slate
+slembcke/Chipmunk2D
 slevithan/xregexp
 slick/slick
 slightlyoff/ServiceWorker
@@ -7899,6 +7907,7 @@ tsuru/tsuru
 tsvensen/equalize.js
 tsx/shireframe
 ttezel/twit
+tudou527/marketch
 tuesda/CircleRefreshLayout
 tumblr/Backboard
 tumblr/TMCache
