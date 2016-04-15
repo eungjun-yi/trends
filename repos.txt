@@ -662,6 +662,7 @@ Leo-G/DevopsWiki
 LeoNatan/LNPopupController
 Leonidas-from-XIV/node-xml2js
 Level/levelup
+LewisJEllis/awesome-lua
 LightTable/LightTable
 Linuxbrew/linuxbrew
 LiranCohen/stickUp
@@ -828,6 +829,7 @@ NghiaTranUIT/FeSpinner
 Nightonke/BoomMenu
 Nightonke/WoWoViewPager
 NikolaiT/GoogleScraper
+NixOS/nix
 NixOS/nixpkgs
 NoamB/sorcery
 NodeBB/NodeBB
@@ -964,6 +966,7 @@ Ramotion/adaptive-tab-bar
 Ramotion/animated-tab-bar
 Ramotion/circle-menu
 Ramotion/folding-cell
+Ramotion/folding-cell-android
 Ramotion/navigation-stack
 Ramotion/paper-switch
 Ramotion/reel-search
@@ -1167,6 +1170,7 @@ ThrivingKings/animo.js
 Tibolte/ElasticDownload
 Tim9Liu9/TimLiu-iOS
 TimCinel/ActionSheetPicker
+TimOliver/TOCropViewController
 TimOliver/TOWebViewController
 Todd-Davies/ProgressWheel
 TomThorpe/UIScrollSlidingPages
@@ -1666,6 +1670,7 @@ antoniolg/MaterialEverywhere
 antoniolg/MaterializeYourApp
 antoniolg/androidmvp
 antonkrasov/AndroidSocialNetworks
+antontarasenko/smq
 anvaka/VivaGraphJS
 aol/moloch
 aosabook/500lines
@@ -1989,6 +1994,7 @@ bgrins/videoconverter.js
 bhauman/devcards
 bhauman/lein-figwheel
 biezhi/blade
+bigardone/phoenix-trello
 bigbluebutton/bigbluebutton
 bigcompany/know-your-http
 bignerdranch/Freddy
@@ -2660,6 +2666,7 @@ danielstjules/Stringy
 danielstjules/jsinspect
 danleech/simple-icons
 danlucraft/git.js
+danlucraft/redcar
 danluu/debugging-stories
 danluu/post-mortems
 danmactough/node-feedparser
@@ -2909,6 +2916,7 @@ donpark/hbs
 donpark/html2jade
 doorkeeper-gem/doorkeeper
 dotless-de/vagrant-vbguest
+dotnet/cli
 dotnet/core
 dotnet/coreclr
 dotnet/corefx
@@ -3234,6 +3242,7 @@ facebook/immutable-js
 facebook/infer
 facebook/ios-snapshot-test-case
 facebook/jest
+facebook/jscodeshift
 facebook/libphenom
 facebook/mcrouter
 facebook/mention-bot
@@ -4381,6 +4390,7 @@ jeromegn/DocumentUp
 jersey/jersey
 jesolem/PCV
 jessepollak/card
+jessepollak/command
 jessesquires/JSQMessagesViewController
 jessicard/remote-jobs
 jetpacapp/DeepBeliefSDK
@@ -4413,6 +4423,7 @@ jhy/jsoup
 jiaaro/pydub
 jiahaog/nativefier
 jianghejie/XRecyclerView
+jiangqqlmj/FastDev4Android
 jianliaoim/talk-os
 jigish/slate
 jiji262/Bootstrap_Metro_Dashboard
@@ -5248,6 +5259,7 @@ mariuszostrowski/subway
 markdalgleish/stellar.js
 markdown-it/markdown-it
 markdregan/Bayesian-Modelling-in-Python
+markerikson/react-redux-links
 markets/awesome-ruby
 markevans/dragonfly
 markgoodyear/scrollup
@@ -6715,6 +6727,7 @@ remy/jsconsole
 remy/min.js
 remy/mit-license
 remy/nodemon
+remy/polyfills
 renaudcerrato/FloatingSearchView
 renaudcerrato/ToggleDrawable
 rendrjs/rendr
@@ -6960,6 +6973,7 @@ saeedalipoor/icono
 sagivo/algorithms
 sahat/hackathon-starter
 sahat/satellizer
+sahildave/Search-View-Layout
 saiwu-bigkoo/Android-ConvenientBanner
 saiwu-bigkoo/Android-PickerView
 salesforce-ux/design-system
@@ -7125,6 +7139,7 @@ shadowsocks/shadowsocks-nodejs
 shadowsocks/shadowsocks-qt5
 shadowsocks/shadowsocks-windows
 shaih/HElib
+shakacode/react-webpack-rails-tutorial
 shakacode/react_on_rails
 shakiba/stage.js
 shancarter/mr-data-converter
@@ -7929,6 +7944,7 @@ twbs/ratchet
 tweenjs/tween.js
 tweepy/tweepy
 tweetstream/tweetstream
+twigjs/twig.js
 twigphp/Twig
 twilio/stashboard
 twilio/twilio-ruby
@@ -7998,6 +8014,7 @@ typicode/hotel
 typicode/husky
 typicode/json-server
 typicode/lowdb
+typings/typings
 typpo/textbelt
 typus/typus
 tyrantgit/ExplosionField
@@ -8026,6 +8043,7 @@ unconed/TermKit
 uncrustify/uncrustify
 undertow-io/undertow
 uniqush/uniqush-push
+unisonweb/unison
 unixorn/awesome-zsh-plugins
 unruledboy/WebFrontEndStack
 upmin/upmin-admin-ruby
