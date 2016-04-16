@@ -1081,6 +1081,7 @@ SirVer/ultisnips
 Sirupsen/logrus
 SkillCollege/SimplifyReader
 Skykai521/StickerCamera
+Skyscanner/SkyFloatingLabelTextField
 SlexAxton/css-colorguard
 SlexAxton/messageformat.js
 SlexAxton/require-handlebars-plugin
@@ -1509,6 +1510,7 @@ alibaba/cobar
 alibaba/dexposed
 alibaba/druid
 alibaba/dubbo
+alibaba/f2etest
 alibaba/fastjson
 alibaba/jstorm
 alibaba/otter
@@ -2507,6 +2509,7 @@ conditionizr/conditionizr
 connors/photon
 constabulary/gb
 containous/traefik
+contentful-labs/Concorde
 contiki-os/contiki
 coocood/freecache
 coodict/javascript-in-one-pic
@@ -2851,6 +2854,7 @@ django-tastypie/django-tastypie
 django/django
 djyde/WebShell
 dkhamsing/open-source-ios-apps
+dlang/dmd
 dlew/joda-time-android
 dlitz/pycrypto
 dm77/barcodescanner
@@ -3208,6 +3212,7 @@ eyecatchup/SEOstats
 fabien-d/alertify.js
 fabric/fabric
 facebook/AsyncDisplayKit
+facebook/FBRetainCycleDetector
 facebook/FBSimulatorControl
 facebook/Haxl
 facebook/KVOController
@@ -8130,6 +8135,7 @@ vispy/vispy
 visualfc/goqt
 visualfc/liteide
 vitalets/angular-xeditable
+vitalets/checklist-model
 vitalets/x-editable
 vitch/jScrollPane
 vitmalina/w2ui
@@ -8154,6 +8160,7 @@ voormedia/rails-erd
 vorillaz/devicons
 voronianski/flux-comparison
 voronianski/jquery.avgrund.js
+voronianski/oceanic-next-color-scheme
 vowsjs/vows
 vpdn/MMAppSwitcher
 vpdn/MMLayershots
