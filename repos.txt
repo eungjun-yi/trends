@@ -462,6 +462,7 @@ HaxeFoundation/haxe
 HazyResearch/deepdive
 HdrHistogram/HdrHistogram
 Hearst-DD/ObjectMapper
+HearthSim/Hearthstone-Deck-Tracker
 HelloZeroNet/ZeroNet
 HenrikJoreteg/ICanHaz.js
 HenrikJoreteg/hjs-webpack
@@ -497,6 +498,7 @@ HumbleSoftware/Flotr2
 HumbleSoftware/envisionjs
 HunterLarco/voxel.css
 Huohua/HHRouter
+HypothesisWorks/hypothesis-python
 IBM-Swift/Kitura
 IDSIA/brainstorm
 IFTTT/FastttCamera
@@ -1069,6 +1071,7 @@ Shougo/neobundle.vim
 Shougo/neocomplcache.vim
 Shougo/neocomplete.vim
 Shougo/unite.vim
+Shougo/vimshell.vim
 SiCKRAGETV/SiCKRAGE
 Sigil-Ebook/Sigil
 SignalR/SignalR
@@ -3212,6 +3215,7 @@ eyecatchup/SEOstats
 fabien-d/alertify.js
 fabric/fabric
 facebook/AsyncDisplayKit
+facebook/FBMemoryProfiler
 facebook/FBRetainCycleDetector
 facebook/FBSimulatorControl
 facebook/Haxl
@@ -4914,6 +4918,7 @@ kylestetz/CLNDR
 kymjs/KJFrameForAndroid
 labstack/echo
 laher/goxc
+laktak/hjson
 laktek/punch
 lamdu/lamdu
 lampepfl/dotty
@@ -6380,6 +6385,7 @@ pksunkara/alpaca
 pkulchenko/ZeroBraneStudio
 pkyeck/socket.IO-objc
 plamoni/SiriProxy
+plasma-umass/doppio
 plasticboy/vim-markdown
 plataformatec/devise
 plataformatec/has_scope
@@ -7336,6 +7342,7 @@ sorin-ionescu/prezto
 sorrycc/awesome-javascript
 sosedoff/pgweb
 sotownsend/BooJS
+soulmachine/acm-cheat-sheet
 soulmachine/leetcode
 soulmachine/machine-learning-cheat-sheet
 soulwire/Coffee-Physics
@@ -8267,6 +8274,7 @@ widuu/chinese_docker
 wildabeast/BarcodeScanner
 wildfly/wildfly
 willfarrell/alfred-workflows
+williamngan/roll
 willianjusten/awesome-svg
 wilsonpage/fastdom
 wilwaldon/flatstrap
