@@ -172,6 +172,7 @@ BorisMoore/jquery-tmpl
 BorisMoore/jsrender
 BowlerHatLLC/feathers
 BradLarson/GPUImage
+BradLarson/GPUImage2
 BrightcoveOS/Diamond
 BrowserSync/browser-sync
 BuildCraft/BuildCraft
@@ -532,6 +533,7 @@ JabbR/JabbR
 Jack000/Expose
 Jack000/SVGnest
 JackStouffer/Flask-Foundation
+Jacksgong/JKeyboardPanelSwitch
 JacksonTian/eventproxy
 JacksonTian/fks
 JadenGeller/Helium
@@ -825,6 +827,7 @@ Netflix/ice
 Netflix/servo
 Netflix/vector
 Netflix/zuul
+Newmu/Theano-Tutorials
 Newmu/dcgan_code
 NextStepWebs/simplemde-markdown-editor
 NghiaTranUIT/FeSpinner
@@ -1400,6 +1403,7 @@ addyosmani/grunt-uncss
 addyosmani/psi
 addyosmani/timing.js
 addyosmani/tmi
+ademilter/bricklayer
 adleroliveira/dreamjs
 admc/wd
 adobe-fonts/source-code-pro
@@ -1595,6 +1599,7 @@ andrewgodwin/channels
 andrewngu/sound-redux
 andrewplummer/Sugar
 andrewrk/groovebasin
+andrewt3000/DL4NLP
 andris9/jStorage
 andris9/mailtrain
 androguard/androguard
@@ -1653,6 +1658,7 @@ ankane/pghero
 ankane/searchkick
 ankurp/Dollar
 anmoljagetia/Flatabulous
+ansible-semaphore/semaphore
 ansible/ansible
 ansible/ansible-examples
 ant-design/ant-design
@@ -1747,6 +1753,7 @@ ardanlabs/gotraining
 arduino/Arduino
 arendjr/selectivity
 argon/node-apn
+aria2/aria2
 arialdomartini/oh-my-git
 arimorty/floatingsearchview
 ariok/BWWalkthrough
@@ -2772,6 +2779,7 @@ dejan/rails_panel
 dekatotoro/SlideMenuControllerSwift
 dekujs/deku
 delba/Permission
+delba/TextAttributes
 delight-im/FreeGeoDB
 dellis23/ispy
 demonnico/PinterestSwift
@@ -2824,6 +2832,7 @@ dianping/cat
 diaspora/diaspora
 didierbrun/DBPathRecognizer
 diegonetto/generator-ionic
+diesel-rs/diesel
 dieulot/instantclick
 digitalBush/jquery.maskedinput
 digitalbazaar/forge
@@ -2917,6 +2926,7 @@ donglua/PhotoPicker
 donnemartin/awesome-aws
 donnemartin/data-science-ipython-notebooks
 donnemartin/dev-setup
+donnemartin/haxor-news
 donnemartin/interactive-coding-challenges
 donnemartin/saws
 donpark/hbs
@@ -4624,6 +4634,7 @@ jshint/jshint
 jsoma/tabletop
 json-api/json-api
 json-schema-form/angular-schema-form
+json5/json5
 jsonresume/resume-cli
 jsor/jcarousel
 jspahrsummers/libextobjc
@@ -4914,6 +4925,7 @@ kumailht/responsive-elements
 kvz/phpjs
 kyleduo/SwitchButton
 kylefox/jquery-modal
+kyleneideck/BackgroundMusic
 kylestetz/CLNDR
 kymjs/KJFrameForAndroid
 labstack/echo
@@ -5060,6 +5072,7 @@ litehelpers/Cordova-sqlite-storage
 litesuits/android-common
 litl/rauth
 litten/hexo-theme-yilia
+littlebee/git-time-machine
 liuliu/ccv
 liuruoze/EasyPR
 liuxinyu95/AlgoXY
@@ -6690,6 +6703,7 @@ reactor/reactor
 reactphp/react
 reagent-project/reagent
 real-logic/Aeron
+real-logic/simple-binary-encoding
 realestate-com-au/pact
 realm/SwiftLint
 realm/jazzy
@@ -6764,6 +6778,7 @@ restsharp/RestSharp
 resume/resume.github.com
 rethinkdb/rethinkdb
 revel/revel
+reviewboard/reviewboard
 revolunet/JSbooks
 revolunet/PythonBooks
 revolunet/angular-carousel
@@ -7043,6 +7058,7 @@ schematics/schematics
 schneems/derailed_benchmarks
 schneems/wicked
 schneiderandre/popping
+schollz/find
 schteppe/cannon.js
 schteppe/p2.js
 schwa/Swift-Community-Best-Practices
@@ -8503,6 +8519,7 @@ zhangkaitao/es
 zhangkaitao/shiro-example
 zhangxinxu/mobilebone
 zhengwenming/WMPlayer
+zhengxiaopeng/android-dev-bookmarks
 zhihu/kids
 zhuangbiaowei/learn-with-open-source
 zhukov/webogram
@@ -8540,6 +8557,7 @@ zxdrive/imouto.host
 zxh0/jvm.go
 zxing/zxing
 zxlie/WeixinApi
+zyedidia/micro
 zynga/scroller
 zythum/mama2
 zzarcon/focusable
