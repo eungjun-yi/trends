@@ -26,6 +26,7 @@
 2359media/EasyAndroidAnimations
 24pullrequests/24pullrequests
 2dxgujun/AndroidTagGroup
+2factorauth/twofactorauth
 2ndalpha/gasmask
 320press/wordpress-bootstrap
 360Controller/360Controller
@@ -618,6 +619,7 @@ Katee/quietnet
 KeenSoftwareHouse/SpaceEngineers
 KeepSafe/aiohttp
 KeepSafe/android-resource-remover
+KeepSafe/dexcount-gradle-plugin
 KevinHM/ios-good-practices-the-lastest-version
 KeyboardFire/mkcast
 Khan/KaTeX
@@ -1603,6 +1605,7 @@ andrewt3000/DL4NLP
 andris9/jStorage
 andris9/mailtrain
 androguard/androguard
+android-cjj/Android-MaterialRefreshLayout
 android-cjj/JJSearchViewAnim
 android-cn/android-dev-cn
 android-cn/android-dev-com
@@ -3732,6 +3735,7 @@ goodybag/bootstrap-notify
 google/EarlGrey
 google/ExoPlayer
 google/WebFundamentals
+google/agera
 google/android-classyshark
 google/auto
 google/battery-historian
@@ -4115,6 +4119,7 @@ iamdaiyuan/ios_top_1000
 iammert/MaterialIntroView
 iandevlin/html5bones
 ianyh/Amethyst
+ibaaj/dijkstra-cartography
 ibireme/YYKit
 ibireme/YYModel
 ibireme/YYText
@@ -4456,6 +4461,7 @@ jinzhu/gorm
 jipegit/OSXAuditor
 jirikavi/AngularJS-Toaster
 jisaacks/GitGutter
+jisungk/deepjazz
 jitsi/jitsi
 jivadevoe/UIAlertView-Blocks
 jivesoftware/PDTSimpleCalendar
@@ -4667,6 +4673,7 @@ junegunn/vim-plug
 junit-team/junit4
 jupyter/jupyterhub
 jupyter/notebook
+jupyterhub/jupyterhub
 jussi-kalliokoski/trine
 justinas/alice
 justinfrench/formtastic
@@ -4783,6 +4790,7 @@ kenwheeler/cash
 kenwheeler/slick
 kern/filepizza
 kesenhoo/android-training-course-in-chinese
+kevana/not-dockers-ui
 kevin-hirsch/KVNProgress
 kevin-montrose/Jil
 kevin0571/STPopup
@@ -5778,6 +5786,7 @@ n8han/giter8
 nDmitry/grunt-autoprefixer
 nagadomi/waifu2x
 naholyr/github-todos
+nakiostudio/EasyPeasy
 nakupanda/bootstrap3-dialog
 naman14/Timber
 namuol/cheet.js
@@ -7735,6 +7744,7 @@ thephpleague/fractal
 thephpleague/oauth2-client
 thephpleague/oauth2-server
 thephpleague/omnipay
+there4/markdown-resume
 thermogl/TISwipeableTableView
 thest1/LazyList
 theturtle32/WebSocket-Node
@@ -8199,6 +8209,7 @@ vuejs/vue-router
 vuejs/vuex
 vulcand/vulcand
 vulpino/jolteon
+vurtun/nuklear
 vvo/gifify
 vysheng/tg
 w0ng/vim-hybrid
