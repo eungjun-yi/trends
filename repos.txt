@@ -1018,6 +1018,7 @@ Robot-Will/Stino
 RobotiumTech/robotium
 RobotsAndPencils/RPSlidingMenu
 Rochester-NRT/AlphaGo
+Rochester-NRT/RocAlphaGo
 RocketChat/Rocket.Chat
 RolifyCommunity/rolify
 RomainPiel/Shimmer-android
@@ -1426,6 +1427,7 @@ aehlke/tag-it
 aekaplan/grid
 aemkei/jsfuck
 aerospike/aerospike-server
+aerys/minko
 afaqurk/linux-dash
 afollestad/material-camera
 afollestad/material-dialogs
@@ -2748,6 +2750,7 @@ dcramer/django-devserver
 ddollar/forego
 ddollar/foreman
 ddollar/heroku-accounts
+ddollar/heroku-buildpack-multi
 ddopson/underscore-cli
 ddwht/sketch-dynamic-button
 deanmalmgren/textract
@@ -3288,6 +3291,7 @@ facebook/relay
 facebook/rocksdb
 facebook/shimmer-android
 facebook/stetho
+facebook/wangle
 facebook/watchman
 facebook/wdt
 facebook/xcbuild
@@ -3428,6 +3432,7 @@ flazz/vim-colorschemes
 flesler/jquery.scrollTo
 fletcher/MultiMarkdown
 flexiblegs/flexiblegs-scss-plus
+flickr/justified-layout
 flightjs/flight
 flike/kingshard
 florent37/MaterialViewPager
@@ -4347,6 +4352,7 @@ javallone/regexper
 javan/whenever
 javascript-society/javascript-path
 javascript/augment
+javaslang/javaslang
 javierbyte/img2css
 javiereguiluz/EasyAdminBundle
 javve/list.js
@@ -4461,6 +4467,7 @@ jinzhu/gorm
 jipegit/OSXAuditor
 jirikavi/AngularJS-Toaster
 jisaacks/GitGutter
+jistr/vim-nerdtree-tabs
 jisungk/deepjazz
 jitsi/jitsi
 jivadevoe/UIAlertView-Blocks
@@ -4495,6 +4502,7 @@ jnordberg/gif.js
 jnordberg/wintersmith
 jnunemaker/httparty
 jnv/lists
+jobbole/awesome-ios-cn
 jobbole/awesome-java-cn
 jobbole/awesome-javascript-cn
 joealcorn/laboratory
@@ -4711,6 +4719,7 @@ kadirahq/flow-router
 kadirahq/mantra
 kadirahq/react-storybook
 kahun/awesome-sysadmin
+kairosdb/kairosdb
 kaishengtai/neuralart
 kaishin/Gifu
 kakserpom/phpdaemon
@@ -4827,6 +4836,7 @@ kishikawakatsumi/UICKeyChainStore
 kissjs/node-mongoskin
 kissyteam/kissy
 kitasuke/PagingMenuController
+kiteco/plugins
 kivy/kivy
 kivy/python-for-android
 kiwi-bdd/Kiwi
@@ -5703,6 +5713,7 @@ mpc-hc/mpc-hc
 mpeltonen/sbt-idea
 mperham/inspeqtor
 mperham/sidekiq
+mpld3/mpld3
 mpospese/MPFoldTransition
 mps-youtube/mps-youtube
 mpv-player/mpv
@@ -5726,6 +5737,7 @@ mroderick/PubSubJS
 mroth/lolcommits
 mroth/unindexed
 mruby/mruby
+mrwonderman/android-square-progressbar
 mrzool/bash-sensible
 msanders/snipmate.vim
 mscdex/node-imap
@@ -6253,6 +6265,7 @@ pattle/simpsons-in-css
 paularmstrong/swig
 paulasmuth/fnordmetric
 paulasmuth/recommendify
+paulcbetts/refit
 paulelliott/fabrication
 paulhammond/webkit2png
 paulirish/dotfiles
@@ -7472,6 +7485,7 @@ srobbin/jquery-backstretch
 sromku/android-simple-facebook
 sroze/ngInfiniteScroll
 sshwsfc/django-xadmin
+sshwsfc/xadmin
 ssloy/tinyrenderer
 sstephenson/bats
 sstephenson/eco
@@ -7596,6 +7610,7 @@ swagger-api/swagger-core
 swagger-api/swagger-editor
 swagger-api/swagger-node
 swagger-api/swagger-ui
+swagger-api/swagger.io
 swannodette/mori
 swanson/stringer
 swiftcodex/Swift-Radio-Pro
@@ -8060,6 +8075,7 @@ u10int/URBMediaFocusViewController
 uber-common/cpustat
 uber/go-torch
 uber/react-map-gl
+uber/react-vis
 ubilabs/geocomplete
 ubolonton/js-csp
 ubuwaits/beautiful-web-type
@@ -8390,6 +8406,7 @@ xmartlabs/XLActionController
 xmartlabs/XLForm
 xmartlabs/XLPagerTabStrip
 xmuSistone/android-card-slide-panel
+xmuSistone/android-vertical-slide-view
 xoreaxeaxeax/movfuscator
 xoxco/jQuery-Tags-Input
 xtaci/algorithms
@@ -8464,6 +8481,7 @@ yoavlt/LiquidFloatingActionButton
 yob/pdf-reader
 yortus/asyncawait
 youknowone/UI7Kit
+youngsoft/MyLinearLayout
 youtube/spfjs
 youtube/vitess
 youyudehexie/node123
