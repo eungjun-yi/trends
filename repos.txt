@@ -2472,6 +2472,7 @@ code-troopers/android-betterpickers
 code4craft/webmagic
 codebrew/backbone-rails
 codebutler/firesheep
+codeclimate/codeclimate
 codecombat/codecombat
 codef0rmer/angular-dragdrop
 codegangsta/cli
@@ -7946,6 +7947,7 @@ traex/ExpandableLayout
 traex/RippleEffect
 trailsjs/trails
 transcode-open/apt-cyg
+traverseda/pycraft
 travis-ci/travis-ci
 travisjeffery/ClangFormat-Xcode
 travisjeffery/timecop
