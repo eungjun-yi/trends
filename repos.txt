@@ -6599,6 +6599,7 @@ qii/weiciyuan
 qinjx/30min_guides
 qinwf/awesome-R
 qiujuer/Genius-Android
+qiwsir/ITArticles
 qiwsir/StarterLearningPython
 qklabs/qksms
 ql-io/ql.io
