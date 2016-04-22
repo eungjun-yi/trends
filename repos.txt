@@ -335,6 +335,7 @@ DroidPluginTeam/DroidPlugin
 DroidsOnRoids/MPParallaxView
 DxTT/coolMenu
 DyCI/dyci-main
+DylanPiercey/auto-sni
 Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
 EFForg/https-everywhere
@@ -1501,6 +1502,7 @@ alexbw/novocaine
 alexdrone/ios-fontawesome
 alexdrone/ios-realtimeblur
 alexei/sprintf.js
+alexgibson/shake.js
 alexgorbatchev/jquery-textext
 alexjc/neural-doodle
 alexk111/SVG-Morpheus
@@ -2041,6 +2043,7 @@ bitstadium/HockeyKit
 bitstadium/QuincyKit
 bittorrenttorque/btapp
 bitwiseshiftleft/sjcl
+bizz84/SwiftyStoreKit
 bjango/Bjango-Actions
 bjankord/Style-Guide-Boilerplate
 bjorn/tiled
@@ -2885,6 +2888,7 @@ dmolsen/Detector
 dmotz/oriDomi
 dmytrodanylyk/android-process-button
 dmytrodanylyk/circular-progress-button
+dmytrodanylyk/folding-plugin
 dnschneid/crouton
 dobtco/formbuilder
 docker-library/official-images
@@ -4586,6 +4590,7 @@ josevalim/inherited_resources
 josevalim/rails-footnotes
 josh/css-explain
 joshaber/Few.swift
+joshbuchea/HEAD
 joshcam/PHP-MySQLi-Database-Class
 joshfire/jsonform
 joshfng/railsready
@@ -6277,6 +6282,7 @@ paulmillr/chokidar
 paulmillr/es6-shim
 paulmillr/exoskeleton
 paulrouget/firefox.html
+pavelgonchar/colornet
 paypal/accessible-html5-video-player
 paypal/react-engine
 paz-sh/paz
@@ -6420,6 +6426,7 @@ pkmital/tensorflow_tutorials
 pksunkara/alpaca
 pkulchenko/ZeroBraneStudio
 pkyeck/socket.IO-objc
+plainmade/unmark
 plamoni/SiriProxy
 plasma-umass/doppio
 plasticboy/vim-markdown
@@ -6533,6 +6540,7 @@ psecio/iniscan
 pstadler/flightplan
 psychs/limechat
 ptaoussanis/sente
+ptaoussanis/timbre
 ptmt/react-native-desktop
 ptwobrussell/Mining-the-Social-Web
 ptwobrussell/Mining-the-Social-Web-2nd-Edition
@@ -7706,6 +7714,7 @@ telerik/kendo-ui-core
 telly/TLYShyNavBar
 tenXer/xcharts
 tencent-php/tsf
+tennc/webshell
 tensorflow/playground
 tensorflow/skflow
 tensorflow/tensorflow
