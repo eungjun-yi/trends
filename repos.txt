@@ -111,6 +111,7 @@ Atlantic18/DoctrineExtensions
 Atmosphere/atmosphere
 AttackOnDobby/iOS-Core-Animation-Advanced-Techniques
 Attendize/Attendize
+AudithSoftworks/Uniform
 Aufree/ESTMusicPlayer
 Aufree/phphub-ios
 Aufree/trip-to-iOS
@@ -1547,6 +1548,7 @@ alskipp/ASValueTrackingSlider
 alsotang/node-lessons
 altercation/solarized
 altercation/vim-colors-solarized
+aluzzardi/wssh
 alvarotrigo/fullPage.js
 alvarotrigo/pagePiling.js
 alvises/FPPopover
@@ -1694,6 +1696,7 @@ aol/moloch
 aosabook/500lines
 aosp-exchange-group/share
 aozora/bootmetro
+apache/camel
 apache/cassandra
 apache/cordova-android
 apache/cordova-ios
@@ -1996,6 +1999,7 @@ bespokejs/bespoke
 bestiejs/benchmark.js
 bestiejs/json3
 bestiejs/platform.js
+bestwnh/IGLDropDownMenu
 bevacqua/dragula
 bevacqua/es6
 bevacqua/fuzzysearch
@@ -2301,6 +2305,7 @@ cgiffard/node-simplecrawler
 cgrand/enlive
 cgriego/active_attr
 cgross/angular-busy
+chadoe/docker-cleanup-volumes
 chaijs/chai
 chalk/chalk
 chancejs/chancejs
@@ -2404,6 +2409,7 @@ citusdata/citus
 citusdata/pg_shard
 cjb/GitTorrent
 cjbarber/ToolsOfTheTrade
+cjcenizal/flexbox-patterns
 cjdelisle/cjdns
 cjlin1/libsvm
 cjwirth/awesome-ios-ui
@@ -2739,6 +2745,7 @@ davidtheclark/scalable-css-reading-list
 davist11/jQuery-One-Page-Nav
 davist11/jQuery-Stickem
 daylerees/colour-schemes
+db-migrate/node-db-migrate
 dbader/schedule
 dbcli/mycli
 dbcli/pgcli
@@ -2886,6 +2893,7 @@ dmlc/mxnet
 dmlc/xgboost
 dmolsen/Detector
 dmotz/oriDomi
+dmvaldman/samsara
 dmytrodanylyk/android-process-button
 dmytrodanylyk/circular-progress-button
 dmytrodanylyk/folding-plugin
@@ -3101,6 +3109,7 @@ eliotfowler/EFCircularSlider
 eliotsykes/rspec-rails-examples
 elixir-lang/ecto
 elixir-lang/elixir
+elixir-lang/plug
 elliotcondon/acf
 elliottminns/blackfish
 ellisonleao/clumsy-bird
@@ -4539,6 +4548,7 @@ johnezang/JSONKit
 johnil/VVeboTableViewDemo
 johnkil/Android-AppMsg
 johnlui/AutoLayout
+johnlui/Learn-Laravel-5
 johnlui/SwiftSideslipLikeQQ
 johnmyleswhite/ML_for_Hackers
 johnno1962/Xtrace
@@ -4815,6 +4825,7 @@ kevinlawler/NSDate-TimeAgo
 kevinsawicki/http-request
 kevinzhow/PNChart
 kevinzhow/PNChart-Swift
+kewlbear/FFmpeg-iOS-build-script
 keyboardsurfer/Crouton
 keyboardsurfer/idea-live-templates
 keycastr/keycastr
@@ -5447,6 +5458,7 @@ mdo/wtf-forms
 mdo/wtf-html-css
 mduvall/grande.js
 mdznr/What-s-New
+me-abhinav/NumberMorphView
 meanjs/mean
 mechio/takana
 medcl/elasticsearch-analysis-ik
@@ -7208,6 +7220,7 @@ sharelatex/sharelatex
 shaunlebron/parinfer
 shazow/ssh-chat
 shazow/urllib3
+shea256/angular-flask
 shekhargulati/52-technologies-in-2016
 shellfire-dev/shellfire
 shelljs/shelljs
@@ -7311,6 +7324,7 @@ sjl/learnvimscriptthehardway
 sjwhitworth/golearn
 sk89q/WorldEdit
 skavanagh/KeyBox
+skellock/reactotron
 sketchplugins/plugin-directory
 skidding/cosmos
 skulpt/skulpt
@@ -7674,6 +7688,7 @@ tangqiaoboy/iOSBlogCN
 tantaman/Strut
 taobao/nginx-book
 taobaofed/react-web
+tapjs/node-tap
 tapmodo/Jcrop
 tapquo/Lungo.js
 taptapship/wiredep
@@ -7965,6 +7980,7 @@ travist/makemeasandwich.js
 trawor/XToDo
 treeio/treeio
 trello/RxLifecycle
+trello/victor
 trentm/json
 trentm/node-bunyan
 trentm/python-markdown2
@@ -8108,6 +8124,7 @@ unconed/MathBox.js
 unconed/TermKit
 uncrustify/uncrustify
 undertow-io/undertow
+unicodeveloper/laravel-hackathon-starter
 uniqush/uniqush-push
 unisonweb/unison
 unixorn/awesome-zsh-plugins
@@ -8388,6 +8405,7 @@ x-tag/core
 x2on/OpenSSL-for-iPhone
 xamarin/XobotOS
 xamarin/monodroid-samples
+xamarin/xamarin-forms-samples
 xat/castnow
 xaviershay/enki
 xbmc/xbmc
