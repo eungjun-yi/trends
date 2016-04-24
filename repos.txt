@@ -1233,6 +1233,7 @@ ValveSoftware/source-sdk-2013
 ValveSoftware/steam-for-linux
 ValveSoftware/vogl
 Varying-Vagrant-Vagrants/VVV
+Vedenin/useful-java-links
 VeniceX/Venice
 VerbalExpressions/JSVerbalExpressions
 VerbalExpressions/JavaVerbalExpressions
@@ -1848,6 +1849,7 @@ audiokit/AudioKit
 audreyr/cookiecutter
 audreyr/favicon-cheat-sheet
 audreyt/ethercalc
+audreyt/node-webworker-threads
 auduno/clmtrackr
 auduno/headtrackr
 augustl/net-http-cheat-sheet
@@ -2886,6 +2888,7 @@ dkhamsing/open-source-ios-apps
 dlang/dmd
 dlew/joda-time-android
 dlitz/pycrypto
+dlmanning/gulp-sass
 dm77/barcodescanner
 dmauro/Keypress
 dmlc/cxxnet
@@ -4294,6 +4297,7 @@ jagregory/abrash-black-book
 jagregory/fluent-nhibernate
 jaicab/localFont
 jairajs89/Touchy.js
+jakarmy/swift-summary
 jakearchibald/sprite-cow
 jakearchibald/svgomg
 jakegiltsoff/sassline
@@ -4613,6 +4617,7 @@ jp9000/OBS
 jp9000/obs-studio
 jpardogo/GoogleProgressBar
 jpardogo/ListBuddies
+jpetazzo/dind
 jpetazzo/nsenter
 jpetazzo/pipework
 jpfuentes2/php-activerecord
@@ -5268,6 +5273,7 @@ malcommac/SwiftDate
 malihu/malihu-custom-scrollbar-plugin
 malsup/blockui
 malsup/cycle
+malsup/cycle2
 malsup/form
 mamaral/Neon
 mamaral/Onboard
@@ -6127,6 +6133,7 @@ olton/Metro-UI-CSS
 omab/django-social-auth
 omab/python-social-auth
 omcljs/om
+omergul123/LLSimpleCamera
 omnigroup/OmniGroup
 omniscientjs/omniscient
 omz/AppSales-Mobile
@@ -6225,6 +6232,7 @@ overtone/overtone
 overtrue/wechat
 overviewer/Minecraft-Overviewer
 owainlewis/awesome-artificial-intelligence
+owenversteeg/min
 owncloud/android
 owncloud/core
 oxidane/tmuxomatic
@@ -7077,6 +7085,7 @@ sass/node-sass
 sass/sass
 satyan/sugar
 saulmm/Android-Material-Examples
+saulmm/Avengers
 saulmm/CoordinatorBehaviorExample
 saulmm/Curved-Fab-Reveal-Example
 saulmm/Material-Movies
@@ -8516,6 +8525,7 @@ youtube/spfjs
 youtube/vitess
 youyudehexie/node123
 yqritc/RecyclerView-FlexibleDivider
+yrutschle/sslh
 yuantiku/YTKKeyValueStore
 yuantiku/YTKNetwork
 yuanyan/boron
