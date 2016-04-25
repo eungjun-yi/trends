@@ -609,6 +609,7 @@ JuliaLang/julia
 JulienGenoud/android-percent-support-lib-sample
 Julienh/Sharrre
 Julioacarrettoni/UIImageView_FaceAwareFill
+Junnplus/awesome-python-books
 JustinTulloss/zeromq.node
 Juude/awesome-android-performance
 Juude/droidReverse
@@ -2320,6 +2321,7 @@ charlierguo/gmail
 charliesome/better_errors
 charliesome/rustboot
 charlotte-ruby/impressionist
+chartjs/Chart.js
 checkcheckzz/system-design-interview
 checkstyle/checkstyle
 cheeaun/hackerweb
@@ -2886,6 +2888,7 @@ django/django
 djyde/WebShell
 dkhamsing/open-source-ios-apps
 dlang/dmd
+dleitee/strman
 dlew/joda-time-android
 dlitz/pycrypto
 dlmanning/gulp-sass
@@ -5451,6 +5454,7 @@ mceachen/closure_tree
 mcharmas/Android-ReactiveLocation
 mcharmas/android-parcelable-intellij-plugin
 mcollina/mosca
+mcostalba/Stockfish
 mcxiaoke/android-volley
 mcxiaoke/gradle-packer-plugin
 mcxiaoke/packer-ng-plugin
@@ -7969,6 +7973,7 @@ tpope/vim-fireplace
 tpope/vim-fugitive
 tpope/vim-pathogen
 tpope/vim-rails
+tpope/vim-repeat
 tpope/vim-sensible
 tpope/vim-surround
 tpope/vim-unimpaired
@@ -8000,6 +8005,7 @@ tripit/slate
 troessner/reek
 trogdoro/xiki
 troolee/gridstack.js
+trueadm/inferno
 trueinteractions/tint2
 trulia/hologram
 trustedsec/social-engineer-toolkit
@@ -8521,6 +8527,7 @@ yob/pdf-reader
 yortus/asyncawait
 youknowone/UI7Kit
 youngsoft/MyLinearLayout
+youtube/api-samples
 youtube/spfjs
 youtube/vitess
 youyudehexie/node123
