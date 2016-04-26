@@ -208,6 +208,7 @@ CharlinFeng/CorePhotoBroswerVC
 CharonChui/AndroidNote
 ChatSecure/ChatSecure-iOS
 ChenYilong/CYLTabBarController
+ChenYilong/CollectionViewClassifyMenu
 ChenYilong/ParseSourceCodeStudy
 ChenYilong/iOS9AdaptationTips
 ChenYilong/iOSInterviewQuestions
@@ -380,6 +381,7 @@ FezVrasta/popper.js
 FiloSottile/Heartbleed
 FiloSottile/whosthere
 Financial-Times/polyfill-service
+Finb/V2ex-Swift
 FineUploader/fine-uploader
 FlexMonkey/Filterpedia
 Flipboard/FLAnimatedImage
@@ -606,6 +608,7 @@ JuanPotato/Legofy
 JuanitoFatas/fast-ruby
 JuliaLang/IJulia.jl
 JuliaLang/julia
+Julian/jsonschema
 JulienGenoud/android-percent-support-lib-sample
 Julienh/Sharrre
 Julioacarrettoni/UIImageView_FaceAwareFill
@@ -858,6 +861,7 @@ OneGet/oneget
 OnsenUI/OnsenUI
 OpenELEC/OpenELEC.tv
 OpenEmu/OpenEmu
+OpenGrok/OpenGrok
 OpenKinect/libfreenect
 OpenLiveWriter/OpenLiveWriter
 OpenMW/openmw
@@ -1387,6 +1391,7 @@ adactio/Pattern-Primer
 adad184/MMPopupView
 adad184/MMTweenAnimation
 adafruit/Adafruit-Raspberry-Pi-Python-Code
+adafruit/Adafruit_NeoPixel
 adam-p/markdown-here
 adambard/learnxinyminutes-docs
 adambom/parallel.js
@@ -1858,6 +1863,7 @@ aui/artDialog
 aui/artTemplate
 aui/font-spider
 aurajs/aura
+aurelhubert/ahbottomnavigation
 aurelia/framework
 austinzheng/swift-2048
 auth0/express-jwt
@@ -2035,6 +2041,7 @@ binggg/mrn
 bingoogolapple/BGABadgeView-Android
 bingoogolapple/BGARefreshLayout-Android
 binux/pyspider
+binux/yaaw
 biometrics/openbr
 bitcoin/bitcoin
 bitcoinbook/bitcoinbook
@@ -2341,6 +2348,7 @@ chentsulin/electron-react-boilerplate
 chenupt/DragTopLayout
 chenupt/SpringIndicator
 chewiebug/GCViewer
+chhantyal/influential-cs-books
 chiahsien/CHTCollectionViewWaterfallLayout
 chieffancypants/angular-hotkeys
 chieffancypants/angular-loading-bar
@@ -4412,6 +4420,7 @@ jdewit/bootstrap-timepicker
 jdg/MBProgressHUD
 jdorn/json-editor
 jeanphix/Ghost.py
+jed/lave
 jedfoster/Readmore.js
 jedi4ever/veewee
 jedireza/drywall
@@ -6834,6 +6843,7 @@ restsharp/RestSharp
 resume/resume.github.com
 rethinkdb/rethinkdb
 revel/revel
+reverse-shell/routersploit
 reviewboard/reviewboard
 revolunet/JSbooks
 revolunet/PythonBooks
@@ -7020,6 +7030,7 @@ rust-lang/rust-by-example
 rustbridge/neon
 rvirding/lfe
 rvm/rvm
+rvoicilas/inotify-tools
 rwaldron/idiomatic.js
 rwaldron/johnny-five
 rxin/db-readings
@@ -7228,6 +7239,7 @@ shakacode/react_on_rails
 shakiba/stage.js
 shancarter/mr-data-converter
 shaojiankui/iOS-Categories
+shaps80/Peek
 share/ShareJS
 sharelatex/sharelatex
 shaunlebron/parinfer
@@ -7305,6 +7317,7 @@ sindresorhus/got
 sindresorhus/grunt-sass
 sindresorhus/grunt-shell
 sindresorhus/gulp-app
+sindresorhus/gulp-rev
 sindresorhus/load-grunt-tasks
 sindresorhus/multiline
 sindresorhus/ora
@@ -8170,6 +8183,7 @@ valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
 vanilla/vanilla
 varnish/Varnish-Cache
+varnish/hitch
 vasanthk/css-refresher-notes
 vasanthk/js-bits
 vbarbaresi/MetroGit
@@ -8346,6 +8360,7 @@ werner77/WEPopover
 wesbos/aprilFools.css
 wesbos/cobalt2
 wesleytodd/YeoPress
+wesm/pydata-book
 wesnoth/wesnoth
 wet-boew/wet-boew
 weui/weui
