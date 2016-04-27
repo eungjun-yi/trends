@@ -722,6 +722,7 @@ MattWilcox/Adaptive-Images
 MatthewYork/DateTools
 MatthewYork/MYBlurIntroductionView
 MatthewYork/iPhone-IntroductionTutorial
+MaximAbramchuck/awesome-interview-questions
 MaximAbramchuck/awesome-interviews
 Maximus5/ConEmu
 McPants/jquery.shapeshift
@@ -856,6 +857,7 @@ OAuthSwift/OAuthSwift
 OculusVR/RakNet
 OfficeDev/Office-UI-Fabric
 OfficeDev/Open-XML-SDK
+OfficeDev/PnP
 Olical/EventEmitter
 OneGet/oneget
 OnsenUI/OnsenUI
@@ -1452,6 +1454,7 @@ aheinze/cockpit
 ai/easings.net
 ai/visibilityjs
 aickin/react-dom-stream
+aigamedev/scikit-neuralnetwork
 aino/galleria
 airblade/paper_trail
 airblade/vim-gitgutter
@@ -2415,6 +2418,7 @@ ciaranj/node-oauth
 cinchrb/cinch
 cinder/Cinder
 circus-tent/circus
+cisco/ChezScheme
 cisco/openh264
 citra-emu/citra
 citusdata/citus
@@ -3172,6 +3176,7 @@ epochjs/epoch
 equinusocio/material-theme
 erica/NSDate-Extensions
 erica/iOS-5-Cookbook
+erica/iOS-7-Cookbook
 erica/iphone-3.0-cookbook-
 erica/uidevice-extension
 ericchiang/pup
@@ -3239,6 +3244,7 @@ evantahler/actionhero
 evanw/csg.js
 evanw/glfx.js
 eventmachine/eventmachine
+evernote/android-job
 everpix/Everpix-Intelligence
 evilcos/papers
 evilsocket/bettercap
@@ -3329,6 +3335,7 @@ facebookarchive/IGInterfaceDataTable
 facebookarchive/connect-js
 facebookarchive/facebook-php-sdk
 facebookarchive/fb-flo
+facebookarchive/flashcache
 facebookarchive/hadoop-20
 facebookarchive/huxley
 facebookarchive/instagram-ruby-gem
@@ -3505,6 +3512,7 @@ forkingdog/UIView-FDCollapsibleConstraints
 formers/former
 formly-js/angular-formly
 formvalidation/formvalidation
+fortinmike/XcodeBoost
 fortunejs/fortune
 foru17/front-end-collect
 fouber/blog
@@ -3694,6 +3702,7 @@ github/linguist
 github/markup
 github/objective-c-style-guide
 github/octicons
+github/pages-gem
 github/scientist
 github/swift-style-guide
 github/time-elements
@@ -4107,6 +4116,7 @@ hugeinc/styleguide
 hughsk/disc
 huhamhire/huhamhire-hosts
 huichen/wukong
+humaan/Modaal
 humhub/humhub
 humiaozuzu/awesome-flask
 humiaozuzu/dot-vimrc
@@ -4488,6 +4498,7 @@ jianliaoim/talk-os
 jigish/slate
 jiji262/Bootstrap_Metro_Dashboard
 jikexueyuanwiki/tensorflow-zh
+jikeytang/sublime-text
 jimbojsb/launchrocket
 jimeh/git-aware-prompt
 jimhigson/oboe.js
@@ -4833,6 +4844,7 @@ kenwheeler/slick
 kern/filepizza
 kesenhoo/android-training-course-in-chinese
 kevana/not-dockers-ui
+kevana/ui-for-docker
 kevin-hirsch/KVNProgress
 kevin-montrose/Jil
 kevin0571/STPopup
@@ -6134,6 +6146,7 @@ okulbilisim/awesome-datascience
 olado/doT
 oldj/SwitchHosts
 oldratlee/translations
+olebedev/go-starter-kit
 olefredrik/FoundationPress
 olgabot/prettyplotlib
 olistic/warriorjs
@@ -6281,6 +6294,7 @@ panicinc/PunchClock
 panicsteve/cloud-to-butt
 panique/huge
 panique/mini
+panwrona/DownloadProgressBar
 panzhangwang/getAwesomeness
 paperjs/paper.js
 paperlesspost/graphiti
@@ -6968,6 +6982,7 @@ royrusso/elasticsearch-HQ
 rpicard/explore-flask
 rpominov/kefir
 rpush/rpush
+rqlite/rqlite
 rs/SDSegmentedControl
 rs/SDWebImage
 rs/pushd
@@ -7783,6 +7798,7 @@ tgriesser/bookshelf
 tgriesser/knex
 thampiman/reverse-geocoder
 theDazzler/droidicon
+theScrabi/NewPipe
 thearn/webcam-pulse-detector
 thebinarysearchtree/regexpbuilderjs
 thebird/Swipe
@@ -8224,6 +8240,7 @@ viljamis/ResponsiveSlides.js
 viljamis/feature.js
 viljamis/responsive-nav.js
 vim-airline/vim-airline
+vim-ctrlspace/vim-ctrlspace
 vim-ruby/vim-ruby
 vim/vim
 vimeo/graph-explorer
