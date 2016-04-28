@@ -1082,6 +1082,7 @@ Shopify/liquid
 Shopify/sarama
 Shopify/superdb
 Shopify/toxiproxy
+Shougo/deoplete.nvim
 Shougo/neobundle.vim
 Shougo/neocomplcache.vim
 Shougo/neocomplete.vim
@@ -1112,6 +1113,7 @@ SocialObjects-Software/SOMessaging
 SocialObjects-Software/SOMotionDetector
 SocketCluster/socketcluster
 SoftEtherVPN/SoftEtherVPN
+Softmotions/ejdb
 SonarSource/sonarqube
 Sonarr/Sonarr
 SonyWWS/ATF
@@ -1517,6 +1519,7 @@ alexgibson/shake.js
 alexgorbatchev/jquery-textext
 alexjc/neural-doodle
 alexk111/SVG-Morpheus
+alexk111/ngImgCrop
 alexmingoia/koa-router
 alexreisner/geocoder
 alexrj/Slic3r
@@ -2730,6 +2733,7 @@ dasdom/BreakOutToRefresh
 dataarts/dat.gui
 dataarts/webgl-globe
 databricks/learning-spark
+datamade/dedupe
 datasciencemasters/go
 datastax/spark-cassandra-connector
 dato-code/PowerGraph
@@ -2837,6 +2841,7 @@ designmodo/startup-demo
 desktoppr/wbench
 desmond1121/Android-Ptr-Comparison
 detro/ghostdriver
+devbridge/Styleguide
 devbridge/jQuery-Autocomplete
 developit/preact
 devinhunt/typebase.css
@@ -3100,6 +3105,7 @@ elastic/beats
 elastic/curator
 elastic/elasticsearch
 elastic/elasticsearch-definitive-guide
+elastic/elasticsearch-dsl-py
 elastic/elasticsearch-js
 elastic/elasticsearch-net
 elastic/elasticsearch-php
@@ -3487,6 +3493,7 @@ flycheck/flycheck
 flyerhzm/bullet
 flynn/flynn
 flyway/flyway
+fmtlib/fmt
 fnakstad/angular-client-side-auth
 fnando/browser
 fnando/i18n-js
@@ -3842,6 +3849,7 @@ google/styleguide
 google/traceur-compiler
 google/tracing-framework
 google/web-starter-kit
+google/xi-editor
 google/yapf
 google/zopfli
 googleanalytics/autotrack
@@ -4396,6 +4404,7 @@ javierbyte/img2css
 javiereguiluz/EasyAdminBundle
 javve/list.js
 jaydee3/JDStatusBarNotification
+jayfk/statuspage
 jaymedavis/hubble
 jayphelps/core-decorators.js
 jayphelps/git-blame-someone-else
@@ -5323,6 +5332,7 @@ mapsplugin/cordova-plugin-googlemaps
 maqetta/maqetta
 mar10/fancytree
 maraujop/django-crispy-forms
+marcelduran/webpagetest-api
 marcelduran/yslow
 marcelgsantos/learning-oop-in-php
 marceljuenemann/angular-drag-and-drop-lists
@@ -6475,6 +6485,7 @@ pkulchenko/ZeroBraneStudio
 pkyeck/socket.IO-objc
 plainmade/unmark
 plamoni/SiriProxy
+planningcenter/react-patterns
 plasma-umass/doppio
 plasticboy/vim-markdown
 plataformatec/devise
@@ -8617,6 +8628,7 @@ zensh/jsgen
 zer0n/deepframeworks
 zero-db/zerodb
 zeroclipboard/zeroclipboard
+zerodb/zerodb
 zeromq/jeromq
 zeromq/libzmq
 zeromq/pyzmq
