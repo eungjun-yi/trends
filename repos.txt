@@ -717,6 +717,7 @@ Mashape/kong
 Mashape/mashape-oauth
 MasteringOpenCV/code
 Masterminds/glide
+Masterminds/squirrel
 Matt-Esch/virtual-dom
 MattWilcox/Adaptive-Images
 MatthewYork/DateTools
@@ -1346,6 +1347,7 @@ Z3Prover/z3
 ZaBlanc/RaptureXML
 Zewo/Zewo
 ZhipingYang/UUChatTableView
+ZhongTaoTian/LoveFreshBeen
 ZhongTaoTian/WNXHuntForCity
 Zhouzi/TheaterJS
 ZieIony/Carbon
@@ -2086,6 +2088,7 @@ blueimp/JavaScript-MD5
 blueimp/JavaScript-Templates
 blueimp/jQuery-File-Upload
 bluejamesbond/TextJustify-Android
+bluelinelabs/Conductor
 bluelinelabs/LoganSquare
 blynn/gitmagic
 bmatzelle/gow
@@ -2117,6 +2120,7 @@ bootstrap-ruby/rails-bootstrap-forms
 bootstrap-tagsinput/bootstrap-tagsinput
 borgbackup/borg
 borisrepl/boris
+borisyankov/react-sparklines
 bosun-monitor/bosun
 botherder/detekt
 boto/boto
@@ -2182,6 +2186,7 @@ brow/leaves
 browserhtml/browserhtml
 browsermedia/browsercms
 browserstate/history.js
+brrd/Abricotine
 brunch/brunch
 brunophilipe/Cakebrew
 brutaldesign/swipebox
@@ -2239,6 +2244,7 @@ cakephp/debug_kit
 calabash/calabash-android
 calabash/calabash-ios
 calebd/SimpleAuth
+calebmer/postgraphql
 callemall/material-ui
 callmecavs/bricks.js
 callmecavs/jump.js
@@ -3732,6 +3738,7 @@ glittershark/reactable
 globalize/globalize
 glock45/iOS-Hierarchy-Viewer
 glomadrian/material-animated-switch
+glyptodon/guacamole-client
 glyptodon/guacamole-server
 gma/nesta
 gmate/gmate
@@ -4324,6 +4331,7 @@ jadjoubran/laravel5-angular-material-starter
 jagenjo/webglstudio.js
 jagregory/abrash-black-book
 jagregory/fluent-nhibernate
+jagt/clumsy
 jaicab/localFont
 jairajs89/Touchy.js
 jakarmy/swift-summary
@@ -5444,6 +5452,7 @@ mattt/AnimatedGIFImageSerialization
 mattt/CargoBay
 mattt/FormatterKit
 mattt/GroundControl
+mattt/Navajo
 mattt/Ono
 mattt/Surge
 mattupstate/overholt
@@ -6197,6 +6206,7 @@ opal/opal
 opauth/opauth
 open-source-parsers/jsoncpp
 open-source-society/computer-science
+openai/gym
 openalpr/openalpr
 openannotation/annotator
 openaphid/android-flip
@@ -7416,6 +7426,7 @@ snabbco/snabb
 snare/voltron
 snide/sphinx_rtd_theme
 sniperwolf/taggingJS
+snooda/net-speeder
 snorpey/jpg-glitch
 snowdream/awesome-android
 snowplow/snowplow
@@ -8417,6 +8428,7 @@ winterbe/java8-tutorial
 wireservice/csvkit
 wise9/enchant.js
 wishstudio/flinux
+wit-ai/duckling
 witheve/Eve
 withoutboats/notty
 witoldsz/angular-http-auth
