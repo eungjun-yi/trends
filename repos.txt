@@ -1936,6 +1936,7 @@ barryclark/jekyll-now
 barryvdh/laravel-debugbar
 barryvdh/laravel-dompdf
 barryvdh/laravel-ide-helper
+bartobri/no-more-secrets
 bartonhammond/snowflake
 basecamp/local_time
 basecamp/mail_view
@@ -2717,6 +2718,7 @@ danielmiessler/SecLists
 danielquinn/paperless
 danielstjules/Stringy
 danielstjules/jsinspect
+danielzeller/Depth-LIB-Android-
 danleech/simple-icons
 danlucraft/git.js
 danlucraft/redcar
@@ -4054,6 +4056,7 @@ hephaest0s/usbkill
 heroku/heroku
 heroku/react-refetch
 herrbischoff/awesome-osx-command-line
+hexahedria/biaxial-rnn-music-composition
 hexchat/hexchat
 hexojs/hexo
 hexorx/countries
@@ -4753,6 +4756,7 @@ justjavac/Google-IPs
 justjavac/Programming-Alpha-To-Omega
 justjavac/free-programming-books-zh_CN
 justjohn/twig.js
+justmarkham/DAT8
 justquick/django-activity-stream
 justspamjustin/junior
 jverdi/JVFloatLabeledTextField
@@ -5415,6 +5419,7 @@ matt-curtis/Fluid-for-Sketch
 mattboldt/typed.js
 mattbryson/TouchSwipe-Jquery-Plugin
 mattdesl/budo
+mattdesl/graphics-resources
 mattdesl/lwjgl-basics
 mattdesl/promise-cookbook
 mattdiamond/Recorderjs
@@ -5551,6 +5556,7 @@ mgechev/javascript-algorithms
 mgonto/angular-wizard
 mgonto/restangular
 mgp25/Chat-API
+mgravell/protobuf-net
 mhagger/git-imerge
 mhart/react-server-example
 mher/flower
@@ -6349,6 +6355,7 @@ paulmillr/chokidar
 paulmillr/es6-shim
 paulmillr/exoskeleton
 paulrouget/firefox.html
+pavel-odintsov/fastnetmon
 pavelgonchar/colornet
 paypal/accessible-html5-video-player
 paypal/react-engine
@@ -7085,6 +7092,7 @@ ryankiros/neural-storyteller
 ryanmcgrath/twython
 ryanmjacobs/c
 ryanoasis/nerd-fonts
+ryanoasis/vim-devicons
 ryanss/vim-hackernews
 ryanto/acts_as_votable
 ryhan/fixie
@@ -7768,6 +7776,7 @@ tbranyen/backbone-boilerplate
 tbranyen/backbone.layoutmanager
 tbruyelle/RxPermissions
 tc39/ecma262
+tc39/ecmascript-asyncawait
 tciuro/NoticeView
 tcorral/Design-Patterns-in-Javascript
 tcurdt/iProxy
@@ -7854,6 +7863,7 @@ thermogl/TISwipeableTableView
 thest1/LazyList
 theturtle32/WebSocket-Node
 thiagopradi/octopus
+thingdom/node-neo4j
 thinkaurelius/titan
 thinkgem/jeesite
 thinkpixellab/PxLoader
@@ -7941,6 +7951,7 @@ tjanczuk/edge
 tjanczuk/iisnode
 tjerkw/Android-SlideExpandableListView
 tjmehta/101
+tjoudeh/AngularJSAuthentication
 tjunnone/npm-check-updates
 tldr-pages/tldr
 tmallfe/tmallfe.github.io
