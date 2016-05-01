@@ -1519,6 +1519,7 @@ alexdrone/ios-realtimeblur
 alexei/sprintf.js
 alexgibson/shake.js
 alexgorbatchev/jquery-textext
+alexhultman/uWebSockets
 alexjc/neural-doodle
 alexk111/SVG-Morpheus
 alexk111/ngImgCrop
@@ -2235,6 +2236,7 @@ byoutline/kickmaterial
 byt3bl33d3r/MITMf
 bytedeco/javacpp
 bytedeco/javacv
+c3js/c3
 c4milo/node-webkit-agent
 c9/core
 c9s/Pux
@@ -3078,6 +3080,7 @@ easymotion/vim-easymotion
 easysoft/zui
 ebidel/filer.js
 eclipse/che
+eclipse/jetty.project
 eclipse/vert.x
 ecomfe/echarts
 ecomfe/fontmin
@@ -3194,6 +3197,7 @@ erica/iOS-7-Cookbook
 erica/iphone-3.0-cookbook-
 erica/uidevice-extension
 ericchiang/pup
+ericclemmons/npm-install-webpack-plugin
 ericclemmons/react-resolver
 ericdouglas/ES6-Learning
 ericdouglas/Meteor-Learning
@@ -3758,6 +3762,7 @@ go-macaron/macaron
 go-mangos/mangos
 go-martini/martini
 go-qml/qml
+go-redis/redis
 go-sql-driver/mysql
 go-xorm/xorm
 go-zoo/bone
@@ -8152,6 +8157,7 @@ twotoasters/JazzyListView
 twotoasters/TWTSideMenuViewController
 txthinking/google-hosts
 txusballesteros/bubbles-for-android
+txusballesteros/welcome-coordinator
 ty4z2008/Qix
 tybenz/vimdeck
 tylertate/semantic.gs
