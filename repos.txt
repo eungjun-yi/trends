@@ -479,6 +479,7 @@ Hexxeh/rpi-update
 HighBay/PageMenu
 HipByte/RubyMotionSamples
 HoTT/book
+Homebrew/brew
 Homebrew/homebrew-php
 Homebrew/legacy-homebrew
 HospitalRun/hospitalrun-frontend
@@ -580,6 +581,7 @@ JeremySkinner/FluentValidation
 Jermolene/TiddlyWiki5
 JerryLead/SparkInternals
 JesseObrien/laravel-cheatsheet
+JesusFreke/smali
 JetBrains/ideavim
 JetBrains/intellij-community
 JetBrains/kotlin
@@ -1345,6 +1347,7 @@ YouXianMing/Animations
 YouXianMing/YoCelsius
 Z3Prover/z3
 ZaBlanc/RaptureXML
+Zarel/Pokemon-Showdown
 Zewo/Zewo
 ZhipingYang/UUChatTableView
 ZhongTaoTian/LoveFreshBeen
@@ -2275,6 +2278,7 @@ captbaritone/winamp2-js
 capttaco/Briefs
 card-io/card.io-iOS-SDK
 careercup/ctci
+carekit-apple/CareKit
 carhartl/jquery-cookie
 carlbutron/Swift
 carlhuda/janus
@@ -2538,6 +2542,7 @@ cognitect-labs/transducers-js
 cognitect/transit-format
 coleifer/huey
 coleifer/peewee
+colinbjohnson/aws-missing-tools
 collectd/collectd
 collectiveidea/audited
 collectiveidea/awesome_nested_set
@@ -6612,6 +6617,7 @@ prolificinteractive/material-calendarview
 prometheus/prometheus
 promises-aplus/promises-spec
 propelorm/Propel
+propelorm/Propel2
 propublica/upton
 prose/prose
 pry/pry
@@ -6664,6 +6670,7 @@ pyro2927/ParallaxBlur
 pyrocms/pyrocms
 pyskell/slouchy
 python-pillow/Pillow
+python-telegram-bot/python-telegram-bot
 python-visualization/folium
 python/cpython
 python/mypy
@@ -7625,6 +7632,7 @@ stephenhutchings/typicons.font
 stephenmcd/django-socketio
 stephenmcd/mezzanine
 stephenplusplus/grunt-wiredep
+stephenway/sketch-foundation-kit
 steshaw/plt
 stevedekorte/io
 stevegraham/slanger
@@ -8680,6 +8688,7 @@ zipme/RQShineLabel
 zk00006/OpenTLD
 zloirock/core-js
 zmap/zmap
+zmmbreeze/lining.js
 zmoazeni/csscss
 znc/znc
 zolrath/wemux
