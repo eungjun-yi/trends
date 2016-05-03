@@ -528,6 +528,7 @@ IonDen/ion.rangeSlider
 IonicaBizau/git-stats
 IonicaBizau/github-contributions
 IonicaBizau/gridly
+IonicaBizau/scrape-it
 IronLanguages/main
 IsseiAoki/SimpleCropView
 Itseez/opencv
@@ -597,6 +598,7 @@ JoelBesada/scrollpath
 John-Lluch/SWRevealViewController
 JohnCoates/Aerial
 JohnCoates/CSSketch
+JohnEstropia/CoreStore
 JohnLangford/vowpal_wabbit
 JohnPersano/SuperToasts
 JonAbrams/synth
@@ -696,6 +698,7 @@ MLstate/opalang
 Maatwebsite/Laravel-Excel
 MacDownApp/macdown
 MacGapProject/MacGap1
+MacGapProject/MacGap2
 MacRuby/MacRuby
 MahApps/MahApps.Metro
 MailCore/mailcore2
@@ -1018,6 +1021,7 @@ RestKit/RestKit
 RetroPie/RetroPie-Setup
 ReturnInfinity/BareMetal-OS
 Rich-Harris/ramjet
+RichardKnop/machinery
 RichiH/vcsh
 RickWong/react-isomorphic-starterkit
 RickWong/react-transmit
@@ -1496,6 +1500,7 @@ akkadotnet/akka.net
 akoenig/angular-deckgrid
 akosma/SwiftMoment
 akosma/nib2objc
+akshayKMR/hogwatch
 aksonov/react-native-router-flux
 akullpp/awesome-java
 akveo/blur-admin
@@ -4313,6 +4318,7 @@ isobar-idev/code-standards
 isocpp/CppCoreGuidelines
 isohuntto/openbay
 istarkov/google-map-react
+isteven/angular-multi-select
 itchyny/lightline.vim
 itsabot/abot
 itsgoingd/clockwork
@@ -5017,6 +5023,7 @@ kud1ing/awesome-rust
 kumailht/flakes
 kumailht/gridforms
 kumailht/responsive-elements
+kvz/locutus
 kvz/phpjs
 kyleduo/SwitchButton
 kylefox/jquery-modal
@@ -5032,6 +5039,7 @@ lampepfl/dotty
 lanayotech/vagrant-manager
 lanceli/cnodejs-ionic
 lanceseidman/PiCAST
+langhua9527/BlackheartedHospital
 laobie/StatusBarUtil
 lapwinglabs/x-ray
 laracasts/Laravel-5-Generators-Extended
@@ -7410,6 +7418,7 @@ skellock/reactotron
 sketchplugins/plugin-directory
 skidding/cosmos
 skulpt/skulpt
+skv-headless/react-native-scrollable-tab-view
 skwp/dotfiles
 skyfishjy/android-ripple-background
 skyline75489/what-happens-when-zh_CN
