@@ -2356,6 +2356,7 @@ charliesome/better_errors
 charliesome/rustboot
 charlotte-ruby/impressionist
 chartjs/Chart.js
+chassing/linux-sysadmin-interview-questions
 checkcheckzz/system-design-interview
 checkstyle/checkstyle
 cheeaun/hackerweb
@@ -2717,6 +2718,7 @@ dancannon/gorethink
 daneden/Toast
 daneden/animate.css
 danfang/me-api
+dangdangdotcom/sharding-jdbc
 dangrossman/bootstrap-daterangepicker
 danialfarid/ng-file-upload
 daniel-lundin/snabbt.js
