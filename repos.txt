@@ -21,6 +21,7 @@
 1602/compound
 1602/jugglingdb
 18F/web-design-standards
+1995eaton/chromium-vim
 1sters/material_design_zh
 23/resumable.js
 2359media/EasyAndroidAnimations
@@ -1488,6 +1489,7 @@ ajaxorg/ace
 ajaxorg/ace-builds
 ajaxorg/cloud9
 ajenti/ajenti
+ajinabraham/Mobile-Security-Framework-MobSF
 ajoslin/angular-mobile-nav
 akavache/Akavache
 akdubya/dustjs
@@ -1751,6 +1753,7 @@ apiaryio/dredd
 apidoc/apidoc
 apitrace/apitrace
 apneadiving/Google-Maps-for-Rails
+apollostack/apollo
 aporter/coursera-android
 apotonick/cells
 apotonick/reform
@@ -3631,6 +3634,7 @@ gatling/gatling
 gatsbyjs/gatsby
 gaubert/gmvault
 gavinbunney/Toucan
+gavindinubilo/jam-api
 gavinkwoe/BeeFramework
 gawel/pyquery
 gazay/gon
@@ -4937,6 +4941,7 @@ klen/python-mode
 kliment/Printrun
 klinker24/Android-TextView-LinkBuilder
 klinker24/Talon-for-Twitter
+klinker41/android-slidingactivity
 kmalakoff/knockback
 kmshack/Android-ParallaxHeaderViewPager
 kneath/kss
@@ -5422,6 +5427,7 @@ mastastealth/sass-flex-mixin
 masterexploder/PHPThumb
 matbeich/StickyCollectionView
 matejlatin/Gutenberg
+mateusortiz/webcomponents-the-right-way
 mathiasbynens/dotfiles
 mathiasbynens/jquery-placeholder
 mathics/Mathics
@@ -5731,6 +5737,7 @@ moklick/frontend-stuff
 molnarg/node-http2
 moment/moment
 moment/moment-timezone
+moneyphp/money
 mongo-express/mongo-express
 mongodb/mongo
 mongodb/mongo-csharp-driver
@@ -6262,6 +6269,7 @@ openstf/stf
 openstreetmap/iD
 opentoonz/opentoonz
 opentripplanner/OpenTripPlanner
+openvswitch/ovs
 openzipkin/zipkin
 opf/openproject
 opserver/Opserver
@@ -6885,6 +6893,7 @@ renaudcerrato/ToggleDrawable
 rendrjs/rendr
 rendro/easy-pie-chart
 rengwuxian/MaterialEditText
+rengwuxian/RxJavaSamples
 rentzsch/jrswizzle
 rentzsch/mogenerator
 renzifeng/ZFPlayer
@@ -7162,6 +7171,7 @@ sass-mq/sass-mq
 sass/libsass
 sass/node-sass
 sass/sass
+satoshiiizuka/siggraph2016_colorization
 satyan/sugar
 saulmm/Android-Material-Examples
 saulmm/Avengers
@@ -7367,6 +7377,7 @@ simpligility/maven-android-sdk-deployer
 simsalabim/sisyphus
 simtr/The-Powder-Toy
 sinatra/rack-protection
+sinaweibosdk/weibo_android_sdk
 sinaweibosdk/weibo_ios_sdk
 sindresorhus/ava
 sindresorhus/awesome
@@ -7891,6 +7902,7 @@ thinkgem/jeesite
 thinkpixellab/PxLoader
 thinkpixellab/flatland
 thlorenz/browserify-shim
+thlorenz/doctoc
 thlorenz/proxyquire
 tholman/elevator.js
 tholman/github-corners
@@ -8663,6 +8675,7 @@ zeithq/micro
 zeman/perfmap
 zenazn/goji
 zendframework/ZendSkeletonApplication
+zendframework/zendframework
 zendframework/zf2
 zendtech/ZendOptimizerPlus
 zenorocha/alfred-workflows
