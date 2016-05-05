@@ -701,6 +701,7 @@ MacDownApp/macdown
 MacGapProject/MacGap1
 MacGapProject/MacGap2
 MacRuby/MacRuby
+MagicStack/uvloop
 MahApps/MahApps.Metro
 MailCore/mailcore2
 Malinskiy/SuperRecyclerView
@@ -1732,6 +1733,7 @@ apache/groovy
 apache/hadoop
 apache/hive
 apache/httpd
+apache/incubator-airflow
 apache/incubator-zeppelin
 apache/kafka
 apache/libcloud
@@ -2421,6 +2423,7 @@ chriskiehl/Gooey
 chriskite/anemone
 chrislusf/glow
 chrislusf/seaweedfs
+chrismccord/render_sync
 chrismccord/sync
 chrismiles/CMPopTipView
 chrisnager/ungrid
@@ -3305,6 +3308,7 @@ facebook/Haxl
 facebook/KVOController
 facebook/PathPicker
 facebook/Shimmer
+facebook/SocketRocket
 facebook/Tweaks
 facebook/augmented-traffic-control
 facebook/buck
@@ -4743,6 +4747,7 @@ jssor/slider
 jsstyles/jss
 jstat/jstat
 jstedfast/MailKit
+jsvine/waybackpack
 jsx/JSX
 jtblin/angular-chart.js
 jteeuwen/go-bindata
@@ -4915,6 +4920,7 @@ kikoso/android-stackblur
 kilianc/rtail
 kilimchoi/engineering-blogs
 killbill/killbill
+killme2008/Metamorphosis
 kimmobrunfeldt/progressbar.js
 kippt/jekyll-incorporated
 kirang89/pycrumbs
@@ -5199,6 +5205,7 @@ lloyd/yajl
 llvm-mirror/clang
 llvm-mirror/llvm
 lmacken/pyrasite
+lmatteis/peer-tweet
 lmenezes/elasticsearch-kopf
 lmgonzalves/segment
 lo-th/3d.city
@@ -5402,6 +5409,7 @@ markitup/1.x
 markjaquith/WP-Stack
 markjaquith/WordPress-Skeleton
 markmarkoh/datamaps
+marko-js/marko
 markrendle/Simple.Data
 markushi/android-circlebutton
 markushi/android-ui
@@ -5704,6 +5712,7 @@ mmcgrana/services-engineering
 mmin18/AndroidDynamicLoader
 mmin18/FlexLayout
 mmin18/LayoutCast
+mmistakes/minimal-mistakes
 mmozuras/pronto
 mnielsen/neural-networks-and-deep-learning
 mnutt/hummingbird
@@ -6237,6 +6246,7 @@ oortcloud/unofficial-meteor-faq
 ooyala/barkeep
 opal/opal
 opauth/opauth
+open-power-workgroup/Hospital
 open-source-parsers/jsoncpp
 open-source-society/computer-science
 openai/gym
@@ -6501,6 +6511,7 @@ pigshell/pigshell
 pika/pika
 pikock/bootstrap-magic
 pilgr/Paper
+pili-engineering/PLDroidPlayer
 pilu/web-app-theme
 pinax/pinax
 pineconellc/angular-foundation
@@ -6601,6 +6612,7 @@ prat0318/json_resume
 pravj/geopattern
 praw-dev/praw
 prawnpdf/prawn
+pre-commit/pre-commit
 preciousforever/sketch-data-populator
 premailer/premailer
 prerender/prerender
