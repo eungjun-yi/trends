@@ -58,6 +58,7 @@ Alamofire/Alamofire
 Alamofire/AlamofireImage
 AlanQuatermain/AQGridView
 AlessandroZ/LaZagne
+Alex-D/Trumbowyg
 AlexBarinov/UIBubbleTableView
 AlexLittlejohn/ALCameraViewController
 AlexNisnevich/untrusted
@@ -367,6 +368,7 @@ EyalAr/lwip
 FFmpeg/FFmpeg
 FLIF-hub/FLIF
 Factual/drake
+FahimF/FloatLabelFields
 Famous/engine
 Famous/famous
 Famous/famous-angular
@@ -906,6 +908,7 @@ ParsePlatform/ParseUI-iOS
 ParsePlatform/f8DeveloperConferenceApp
 ParsePlatform/parse-dashboard
 ParsePlatform/parse-server
+ParsePlatform/parse-server-example
 Parsely/streamparse
 Particular/NServiceBus
 Pasvaz/bindonce
@@ -1401,6 +1404,7 @@ activerecord-hackery/meta_search
 activerecord-hackery/ransack
 activerecord-hackery/squeel
 activescaffold/active_scaffold
+actor-framework/actor-framework
 actorapp/actor-platform
 adactio/Pattern-Primer
 adad184/MMPopupView
@@ -1538,6 +1542,7 @@ alexmingoia/koa-router
 alexreisner/geocoder
 alexrj/Slic3r
 alexvasilkov/FoldableLayout
+alexvasilkov/GestureViews
 alexwolfe/Buttons
 alfajango/jquery-dynatable
 alfredxing/brick
@@ -2909,6 +2914,7 @@ dimsemenov/PhotoSwipe
 dinbror/blazy
 dinedal/textql
 dingo/api
+dinuscxj/LoadingDrawable
 diogob/activerecord-postgres-hstore
 diogobernardino/WilliamChart
 directus/directus
@@ -3897,6 +3903,7 @@ googlesamples/android-testing
 googlesamples/android-testing-templates
 googlesamples/android-topeka
 googlesamples/cardboard-java
+googlesamples/easypermissions
 googlesamples/google-services
 googollee/eviltransform
 googollee/go-socket.io
@@ -7509,6 +7516,7 @@ soimort/you-get
 sokolovstas/SublimeWebInspector
 solidsnack/GraphpostgresQL
 solidusio/solidus
+soliury/noder-react-native
 solnic/virtus
 somebee/imba
 somerandomdude/Frank
@@ -8387,6 +8395,7 @@ vurtun/nuklear
 vvo/gifify
 vysheng/tg
 w0ng/vim-hybrid
+w3c/webcomponents
 w446108264/XhsEmoticonsKeyboard
 wa0x6e/cal-heatmap
 waditu/tushare
