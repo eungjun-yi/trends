@@ -161,6 +161,7 @@ BinaryMuse/fluxxor
 BinaryMuse/planetary.js
 Bitmessage/PyBitmessage
 BlackrockDigital/startbootstrap
+BlackrockDigital/startbootstrap-sb-admin
 BlackrockDigital/startbootstrap-sb-admin-2
 Block8/PHPCI
 BloombergMedia/whatiscode
@@ -230,6 +231,7 @@ CiscoCloud/mantl
 Citrrus/BlurryModalSegue
 Clans/FloatingActionButton
 CleverRaven/Cataclysm-DDA
+Cleveroad/SlidingTutorial-Android
 Cleveroad/slidingtutorial-android
 Clouda-team/Cloudajs
 ClusterHQ/flocker
@@ -359,6 +361,7 @@ Ereza/CustomActivityOnCrash
 EricssonResearch/openwebrtc
 ErikvdVen/php-gif
 EsotericSoftware/kryo
+EsotericSoftware/kryonet
 EsotericSoftware/spine-runtimes
 Estimote/iOS-SDK
 EventStore/EventStore
@@ -1150,6 +1153,7 @@ StevenBlack/hosts
 Strider-CD/strider
 Studio-42/elFinder
 Stuk/jszip
+StylishThemes/GitHub-Dark
 Subash/Prepros
 SublimeCodeIntel/SublimeCodeIntel
 SublimeLinter/SublimeLinter3
@@ -2341,6 +2345,7 @@ centrifugal/centrifugo
 ceolter/ag-grid
 ceph/ceph
 cerebris/jsonapi-resources
+certbot/certbot
 cesanta/mongoose
 cesarferreira/dryrun
 cezarywojcik/CWStatusBarNotification
@@ -5530,6 +5535,7 @@ mbenford/ngTagsInput
 mbj/mutant
 mbleigh/acts-as-taggable-on
 mbleigh/seed-fu
+mblode/burger
 mblode/marx
 mbostock/d3
 mbostock/stack
@@ -6126,6 +6132,7 @@ notepad-plus-plus/notepad-plus-plus
 nothingmagical/cheddar-ios
 nothings/stb
 nothirst/TICoreDataSync
+notifyjs/notifyjs
 notnoop/java-apns
 nov/fb_graph
 novoda/android-demos
@@ -6246,6 +6253,7 @@ onevcat/VVBlurPresentation
 onevcat/VVDocumenter-Xcode
 ongakuer/CircleIndicator
 onlywei/explain-git-with-d3
+onokumus/metisMenu
 onsi/ginkgo
 onurakpolat/awesome-bigdata
 onyx-platform/onyx
@@ -7062,6 +7070,7 @@ rpicard/explore-flask
 rpominov/kefir
 rpush/rpush
 rqlite/rqlite
+rroblak/seed_dump
 rs/SDSegmentedControl
 rs/SDWebImage
 rs/pushd
@@ -7155,6 +7164,7 @@ s3fs-fuse/s3fs-fuse
 s3tools/s3cmd
 s4cha/Stevia
 s4n7h0/xvwa
+sabnzbd/sabnzbd
 sachinchoolur/lightGallery
 sachinchoolur/lightslider
 saeedalipoor/icono
@@ -7317,6 +7327,7 @@ seyhunak/twitter-bootstrap-rails
 sferik/rails_admin
 sferik/t
 sferik/twitter
+sfsheng0322/StickyHeaderListView
 sgaurav/understanding-es6
 sgentle/caniuse-cmd
 shadowsocks/ChinaDNS
