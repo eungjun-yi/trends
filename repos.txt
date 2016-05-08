@@ -846,6 +846,7 @@ Netflix/exhibitor
 Netflix/falcor
 Netflix/feign
 Netflix/ice
+Netflix/ribbon
 Netflix/servo
 Netflix/vector
 Netflix/zuul
@@ -1159,6 +1160,7 @@ SublimeCodeIntel/SublimeCodeIntel
 SublimeLinter/SublimeLinter3
 SublimeText-Markdown/MarkdownEditing
 SublimeText/LaTeXTools
+SublimeText/Origami
 Sumi-Interactive/SIAlertView
 Suor/funcy
 Supervisor/supervisor
@@ -1411,6 +1413,7 @@ activescaffold/active_scaffold
 actor-framework/actor-framework
 actorapp/actor-platform
 adactio/Pattern-Primer
+adad184/MMPlaceHolder
 adad184/MMPopupView
 adad184/MMTweenAnimation
 adafruit/Adafruit-Raspberry-Pi-Python-Code
@@ -1756,6 +1759,7 @@ apaszke/termtile
 apenwarr/git-subtree
 apenwarr/redo
 apenwarr/sshuttle
+apereo/cas
 apex/apex
 aphyr/distsys-class
 aphyr/jepsen
@@ -2337,6 +2341,7 @@ cdnjs/cdnjs
 cefsharp/CefSharp
 celery/celery
 celery/django-celery
+celery/kombu
 celluloid/celluloid
 celluloid/celluloid-io
 cemerick/friend
@@ -2744,6 +2749,7 @@ danielemoraschi/maplace.js
 danielgindi/Charts
 danielgtaylor/aglio
 danielkummer/git-flow-cheatsheet
+daniellmb/angular-test-patterns
 danielmiessler/SecLists
 danielquinn/paperless
 danielstjules/Stringy
@@ -3407,6 +3413,11 @@ fantasyland/fantasy-land
 farbrausch/fr_public
 farcaller/DashDoc
 farhadi/html5sortable
+fastlane-old/deliver
+fastlane-old/frameit
+fastlane-old/screengrab
+fastlane-old/sigh
+fastlane-old/snapshot
 fastlane/deliver
 fastlane/fastlane
 fastlane/frameit
@@ -3848,6 +3859,7 @@ google/end-to-end
 google/enjarify
 google/error-prone
 google/flatbuffers
+google/flexbox-layout
 google/fonts
 google/git-appraise
 google/go-github
@@ -4546,6 +4558,7 @@ jgthms/bulma
 jhipster/generator-jhipster
 jhnns/rewire
 jhollingworth/bootstrap-wysihtml5
+jhuckaby/webcamjs
 jhurray/JHChainableAnimations
 jhy/jsoup
 jiaaro/pydub
@@ -5078,6 +5091,7 @@ laravel/laravel
 laravel/lumen
 laravel/socialite
 larcus94/ImagePickerSheetController
+larrynatalicio/15DaysofAnimationsinSwift
 larsenwork/Gidole
 larsenwork/monoid
 laruence/php7-internal
@@ -5320,6 +5334,7 @@ madisonmay/Tomorrow
 madrobby/keymaster
 madrobby/microjs.com
 madrobby/scriptaculous
+madrobby/vapor.js
 madrobby/zepto
 madskristensen/WebEssentials2013
 maebert/jrnl
@@ -8320,6 +8335,7 @@ venmo/synx
 venomous0x/WhatsAPI
 verekia/initializr
 verekia/initializr-template
+versionpress/versionpress
 vertiginous/pik
 vfr/Reader
 vgvassilev/cling
