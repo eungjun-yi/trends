@@ -689,6 +689,7 @@ LightTable/LightTable
 Linuxbrew/linuxbrew
 LiranCohen/stickUp
 LitePalFramework/LitePal
+LittleFriendsGroup/AndroidSdkSourceAnalysis
 LiuLang/bcloud
 LockerProject/Locker
 Lokaltog/vim-powerline
@@ -742,6 +743,7 @@ McPants/jquery.shapeshift
 Mechazawa/FuckFuckAdblock
 MediaBrowser/Emby
 MediaCrush/MediaCrush
+Medium/matador
 MengTo/AppStoreSketch
 MengTo/DesignerNewsApp
 MengTo/Spring
@@ -778,6 +780,7 @@ MikeOrtiz/TouchImageView
 MinecraftForge/MinecraftForge
 MiniProfiler/rack-mini-profiler
 Miserlou/Glance-Bookmarklet
+Miserlou/Zappa
 MizzleDK/Mizuu
 MoOx/postcss-cssnext
 MoZhouqi/KMNavigationBarTransition
@@ -868,6 +871,7 @@ Nyr/openvpn-install
 Nyx0uf/NYXImagesKit
 OAI/OpenAPI-Specification
 OAuthSwift/OAuthSwift
+OctoLinker/browser-extension
 OculusVR/RakNet
 OfficeDev/Office-UI-Fabric
 OfficeDev/Open-XML-SDK
@@ -1328,6 +1332,7 @@ YabataDesign/afterglow-theme
 Yaffle/EventSource
 Yalantis/Context-Menu.Android
 Yalantis/Context-Menu.iOS
+Yalantis/DisplaySwitcher
 Yalantis/Euclid
 Yalantis/FlipViewPager.Draco
 Yalantis/FoldingTabBar.iOS
@@ -1352,6 +1357,7 @@ Yelp/dumb-init
 Yelp/elastalert
 Yelp/mrjob
 Yelp/osxcollector
+Yelp/paasta
 Yggdroot/indentLine
 Yixiaohan/codeparkshare
 Yixiaohan/show-me-the-code
@@ -1503,6 +1509,7 @@ ajaxorg/cloud9
 ajenti/ajenti
 ajinabraham/Mobile-Security-Framework-MobSF
 ajoslin/angular-mobile-nav
+ajvb/kala
 akavache/Akavache
 akdubya/dustjs
 akexorcist/Android-RoundCornerProgressBar
@@ -1749,6 +1756,7 @@ apache/incubator-airflow
 apache/incubator-zeppelin
 apache/kafka
 apache/libcloud
+apache/mahout
 apache/mesos
 apache/spark
 apache/storm
@@ -2813,6 +2821,7 @@ db-migrate/node-db-migrate
 dbader/schedule
 dbcli/mycli
 dbcli/pgcli
+dbohdan/structured-text-tools
 dbushell/Nestable
 dbushell/Pikaday
 dbushell/Responsive-Off-Canvas-Menu
@@ -4336,6 +4345,7 @@ ipselon/structor
 ipup/PPRevealSideViewController
 ipython/ipython
 ircmaxell/password_compat
+iridakos/duckrails
 iron-io/dockers
 iron-meteor/iron-router
 iron/iron
@@ -4748,6 +4758,7 @@ js-cookie/js-cookie
 js-data/js-data
 js-data/js-data-angular
 js-next/react-style
+js-org/dns.js.org
 js2coffee/js2coffee
 jsantell/dancer.js
 jsbin/jsbin
@@ -4777,6 +4788,7 @@ jsx/JSX
 jtblin/angular-chart.js
 jteeuwen/go-bindata
 jtleek/datasharing
+jtoy/awesome-tensorflow
 jtyjty99999/mobileTech
 jubos/fake-s3
 judasn/IntelliJ-IDEA-Tutorial
@@ -5079,6 +5091,7 @@ lanceli/cnodejs-ionic
 lanceseidman/PiCAST
 langhua9527/BlackheartedHospital
 laobie/StatusBarUtil
+lapism/SearchView
 lapwinglabs/x-ray
 laracasts/Laravel-5-Generators-Extended
 laracasts/PHP-Vars-To-Js-Transformer
@@ -5131,6 +5144,7 @@ legomushroom/mojs
 leichunfeng/MVVMReactiveCocoa
 leizongmin/js-xss
 lektor/lektor
+lelandrichardson/react-native-maps
 lelylan/betterspecs
 lendylongli/qianghongbao
 leolin310148/ShortcutBadger
@@ -6194,6 +6208,7 @@ nytlabs/streamtools
 nzakas/computer-science-in-javascript
 nzakas/understandinges6
 oa414/objc-zen-book-cn
+oampo/Audiolet
 oarrabi/OAStackView
 oauth-io/oauthd
 oauthjs/node-oauth2-server
@@ -6204,6 +6219,7 @@ objectivehtml/FlipClock
 oblac/jodd
 oblador/angular-scroll
 oblador/react-native-vector-icons
+oblique/create_ap
 ochococo/Design-Patterns-In-Swift
 oclint/oclint
 ocombe/ocLazyLoad
@@ -6506,6 +6522,7 @@ phodal/developer
 phodal/github-roam
 phodal/growth
 phodal/growth-ebook
+phodal/ideabook
 phoenixframework/phoenix
 phonegap/phonegap-start
 photo/frontend
@@ -7105,6 +7122,7 @@ rstacruz/nprogress
 rstacruz/pnpm
 rstacruz/rscss
 rstacruz/sparkup
+rstaib/jquery-steps
 rstudio/rstudio
 rstudio/shiny
 rswier/c4
@@ -8070,6 +8088,7 @@ todoroo/astrid
 toji/gl-matrix
 toland/qlmarkdown
 tomahawk-player/tomahawk
+tomaka/glium
 tomakehurst/wiremock
 tomasr/molokai
 tomaz/appledoc
@@ -8438,6 +8457,7 @@ walterhiggins/ScriptCraft
 walu/phpbook
 wandenberg/nginx-push-stream-module
 wangdan/AisenWeiBo
+wangmchn/WMPageController
 wangshengjia/VWInstantRun
 wardowsmcc/badass
 warrenm/AHEasing
@@ -8486,6 +8506,7 @@ wekan/wekan
 welaika/wordless
 welaika/wordmove
 wellcaffeinated/PhysicsJS
+weng1250/WZLBadge
 wenmingvs/AndroidProcess
 wentin/ResponsifyJS
 wentin/underlineJS
@@ -8571,6 +8592,7 @@ wyuenho/backgrid
 x-tag/core
 x2on/OpenSSL-for-iPhone
 xamarin/XobotOS
+xamarin/mobile-samples
 xamarin/monodroid-samples
 xamarin/xamarin-forms-samples
 xat/castnow
