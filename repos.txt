@@ -107,6 +107,7 @@ ArtFeel/AFViewShaker
 ArtSabintsev/Harpy
 ArtSabintsev/Siren
 AssetSync/asset_sync
+AssistoLab/KVNProgress
 AsyncHttpClient/async-http-client
 Athou/commafeed
 Atlantic18/DoctrineExtensions
@@ -281,6 +282,7 @@ Cyan4973/lz4
 Cyan4973/zstd
 CyberAgent/android-gpuimage
 D-Programming-Language/dmd
+DIYgod/APlayer
 DKirwan/calendar-heatmap
 DNSPod/dnspod-sr
 DRMacIver/hypothesis
@@ -376,6 +378,7 @@ Famous/engine
 Famous/famous
 Famous/famous-angular
 Fantomas42/django-blog-zinnia
+FaridSafi/react-native-gifted-messenger
 FastLED/FastLED
 FasterXML/jackson
 FasterXML/jackson-core
@@ -1244,6 +1247,7 @@ TwidereProject/Twidere-Android
 TykTechnologies/tyk
 TylerBrock/mongo-hacker
 USArmyResearchLab/Dshell
+Uberi/speech_recognition
 Unblocker/Unblock-Youku
 Uncodin/bypass
 UnionOfRAD/lithium
@@ -1573,6 +1577,7 @@ alibaba/dubbo
 alibaba/f2etest
 alibaba/fastjson
 alibaba/jstorm
+alibaba/mdrill
 alibaba/otter
 alibaba/tengine
 alibaba/tsar
@@ -2941,6 +2946,7 @@ directus/directus
 direnv/direnv
 discoproject/disco
 discourse/discourse
+disintegration/imaging
 divio/django-cms
 divmain/GitSavvy
 divshot/geo-bootstrap
@@ -3264,6 +3270,7 @@ erlang/otp
 erming/shout
 ermouth/jQuery.my
 errbit/errbit
+errbotio/errbot
 erusev/parsedown
 ervandew/supertab
 es-analysis/plato
@@ -3662,6 +3669,7 @@ gaosboy/iOSSF
 garand/sticky
 garbles/yolk
 garethr/vagrantboxes-heroku
+garnele007/SwiftOCR
 garris/BackstopJS
 garris/TremulaJS
 garybernhardt/dotfiles
@@ -3794,6 +3802,7 @@ gliderlabs/registrator
 glittershark/reactable
 globalize/globalize
 glock45/iOS-Hierarchy-Viewer
+glomadrian/RoadRunner
 glomadrian/material-animated-switch
 glyptodon/guacamole-client
 glyptodon/guacamole-server
@@ -5541,6 +5550,7 @@ matze/mtheme
 mauricecruz/chrome-devtools-zerodarkmatrix-theme
 mauricemach/coffeekup
 mauricemach/zappa
+mauricio/postgresql-async
 maurycyw/StaggeredGridView
 mawww/kakoune
 maxcountryman/flask-login
@@ -6426,6 +6436,7 @@ path/android-priority-jobqueue
 patrickkunka/mixitup
 pattern-lab/patternlab-php
 pattle/simpsons-in-css
+paularmstrong/normalizr
 paularmstrong/swig
 paulasmuth/fnordmetric
 paulasmuth/recommendify
@@ -6992,6 +7003,7 @@ rgrove/rawgit
 rgrove/sanitize
 rharriso/bower-rails
 rhiever/Data-Analysis-and-Machine-Learning-Projects
+rhiever/tpot
 rhiokim/haroopad
 rhomobile/rhodes
 rhysd/NyaoVim
@@ -7309,6 +7321,7 @@ seanpowell/Email-Boilerplate
 seaofclouds/tweet
 searchkit/searchkit
 seatgeek/fuzzywuzzy
+seatgeek/react-infinite
 seatgeek/sixpack
 seatgeek/soulmate
 seattlerb/minitest
