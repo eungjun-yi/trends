@@ -151,6 +151,7 @@ BabylonJS/Babylon.js
 Baidu-Music-FE/muplayer
 Bash-it/bash-it
 Bearded-Hen/Android-Bootstrap
+BearishSun/BansheeEngine
 BeatSwitch/lock
 Behat/Behat
 Benjamin-Dobell/Heimdall
@@ -1052,6 +1053,7 @@ RobotsAndPencils/RPSlidingMenu
 Rochester-NRT/AlphaGo
 Rochester-NRT/RocAlphaGo
 RocketChat/Rocket.Chat
+RolandPheasant/TailBlazer
 RolifyCommunity/rolify
 RomainPiel/Shimmer-android
 RomainPiel/Titanic
@@ -1485,6 +1487,7 @@ agiliq/merchant
 agis-/git-style-guide
 aheckmann/gm
 aheinze/cockpit
+ai/autoprefixer-rails
 ai/easings.net
 ai/visibilityjs
 aickin/react-dom-stream
@@ -1856,6 +1859,7 @@ aseprite/aseprite
 ashfurrow/C-41
 ashima/webgl-noise
 ashishb/android-security-awesome
+ashleydw/lightbox
 ashleymills/Reachability.swift
 ashtuchkin/iconv-lite
 askmike/gekko
@@ -1968,6 +1972,7 @@ balloob/home-assistant
 balysv/material-menu
 balysv/material-ripple
 banago/PHPloy
+banchichen/TZImagePickerController
 bang590/JSPatch
 baoyongzhang/SwipeMenuListView
 baoyongzhang/android-PullRefreshLayout
@@ -2609,6 +2614,7 @@ constabulary/gb
 containous/traefik
 contentful-labs/Concorde
 contiki-os/contiki
+convox/rack
 coocood/freecache
 coodict/javascript-in-one-pic
 coodict/python3-in-one-pic
@@ -3028,6 +3034,7 @@ donglua/PhotoPicker
 donnemartin/awesome-aws
 donnemartin/data-science-ipython-notebooks
 donnemartin/dev-setup
+donnemartin/gitsome
 donnemartin/haxor-news
 donnemartin/interactive-coding-challenges
 donnemartin/saws
@@ -3609,6 +3616,7 @@ fraywing/textAngular
 freebsd/freebsd
 freedomofpress/securedrop
 freqdec/slabText
+frida/frida
 fritzy/SleekXMPP
 frogermcs/InstaMaterial
 frogermcs/LikeAnimation
@@ -4839,6 +4847,7 @@ jvns/pandas-cookbook
 jwagner/smartcrop.js
 jwiegley/use-package
 jwilder/docker-gen
+jwilder/docker-squash
 jwilder/nginx-proxy
 jwilling/JNWSpringAnimation
 jwt/ruby-jwt
@@ -5161,6 +5170,7 @@ leongersen/noUiSlider
 leonidas/transparency
 lepture/editor
 lepture/github-cards
+lerrua/remote-jobs-brazil
 less/less.js
 less/less.ruby
 letsencrypt/acme-spec
@@ -5284,6 +5294,7 @@ lou/multi-select
 louischatriot/nedb
 louismullie/treat
 louisremi/background-size-polyfill
+louthy/language-ext
 lovell/sharp
 loverajoel/jstips
 lovetuzitong/MultiImageSelector
@@ -7028,6 +7039,7 @@ ripienaar/free-for-dev
 ripple/ripple-client
 ripple/rippled
 ripplejs/ripple
+rkern/line_profiler
 rlabbe/Kalman-and-Bayesian-Filters-in-Python
 rlerdorf/php7dev
 rlidwka/sinopia
@@ -7287,6 +7299,7 @@ scikit-image/scikit-image
 scikit-learn/scikit-learn
 scipy-lectures/scipy-lecture-notes
 scipy/scipy
+scopatz/xonsh
 scopegate/octave
 scotch-io/scotch-box
 scottjehl/Respond
@@ -7408,6 +7421,7 @@ shinobicontrols/iOS7-day-by-day
 shinobicontrols/iOS8-day-by-day
 shinobicontrols/iOS9-day-by-day
 shinydevelopment/SimulatorStatusMagic
+shinygang/Vue-cnodejs
 shipitjs/shipit
 shipyard/shipyard
 shirou/gopsutil
@@ -7641,6 +7655,7 @@ spring-projects/spring-boot
 spring-projects/spring-framework
 spring-projects/spring-loaded
 spring-projects/spring-mvc-showcase
+spring-projects/spring-petclinic
 spring-projects/spring-security
 spring-projects/spring-security-oauth
 spring/spring
@@ -8234,6 +8249,7 @@ twitter/ambrose
 twitter/cassovary
 twitter/commons
 twitter/diffy
+twitter/distributedlog
 twitter/effectivescala
 twitter/elephant-bird
 twitter/fatcache
@@ -8514,6 +8530,7 @@ websocket-rails/websocket-rails
 websockets/ws
 websymphony/almost-flat-ui
 wechat-python-sdk/wechat-python-sdk
+weibocom/motan
 weixiyen/jquery-filedrop
 wekan/wekan
 welaika/wordless
@@ -8527,6 +8544,7 @@ wenzhixin/bootstrap-table
 wenzhixin/multiple-select
 wequick/Small
 werner77/WEPopover
+wesbos/React-For-Beginners-Starter-Files
 wesbos/aprilFools.css
 wesbos/cobalt2
 wesleytodd/YeoPress
@@ -8552,6 +8570,7 @@ wilsonpage/fastdom
 wilwaldon/flatstrap
 wimagguc/ios-custom-alertview
 wincent/command-t
+wingjay/BlurImageView
 winjs/winjs
 winmarkltd/BootstrapFormHelpers
 winstonjs/winston
