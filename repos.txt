@@ -138,6 +138,7 @@ AutumnsWind/Front-end-questions-to-the-interview-stage
 AutumnsWind/Front-end-tutorial
 AutumnsWindsGoodBye/Front-end-questions-to-the-interview-stage
 AutumnsWindsGoodBye/Front-end-tutorial
+AvaloniaUI/Avalonia
 Avocarrot/json2view
 Azure/azure-content
 Azure/azure-quickstart-templates
@@ -1580,6 +1581,7 @@ alibaba/dubbo
 alibaba/f2etest
 alibaba/fastjson
 alibaba/jstorm
+alibaba/macaca
 alibaba/mdrill
 alibaba/otter
 alibaba/tengine
@@ -1636,6 +1638,7 @@ amsul/pickadate.js
 amueller/word_cloud
 amulyakhare/TextDrawable
 amzn/alexa-avs-raspberry-pi
+amznlabs/amazon-dsstne
 anacrolix/torrent
 anandkunal/ToroPHP
 anchorcms/anchor-cms
@@ -1727,6 +1730,7 @@ ansible/ansible-examples
 ant-design/ant-design
 ant0ine/go-json-rest
 antelle/keeweb
+anthonyshort/deku
 antiboredom/videogrep
 antiguab/BAFluidView
 antimatter15/ocrad.js
@@ -1964,6 +1968,7 @@ badoo/Chatto
 bahmutov/code-snippets
 baidu-ife/ife
 baidu-research/warp-ctc
+baidu/sofa-pbrpc
 balanced/balanced-dashboard
 balderdashy/sails
 balderdashy/waterline
@@ -2225,6 +2230,7 @@ bridgetkromhout/devops-against-humanity
 brigade/overcommit
 brigade/scss-lint
 brikis98/docker-osx-dev
+brix/crypto-js
 bro/bro
 broccolijs/broccoli
 broofa/node-uuid
@@ -2792,6 +2798,7 @@ darknessomi/musicbox
 darktable-org/darktable
 darlinghq/darling
 darsain/sly
+das-labor/panopticon
 dasdom/BreakOutToRefresh
 dataarts/dat.gui
 dataarts/webgl-globe
@@ -2853,6 +2860,7 @@ deanmao/node-chimera
 deano2390/MaterialShowcaseView
 dear-github/dear-github
 debian-pi/raspbian-ua-netinst
+debops/debops
 ded/bonzo
 ded/bowser
 ded/qwery
@@ -3363,6 +3371,7 @@ facebook/draft-js
 facebook/facebook-android-sdk
 facebook/facebook-ios-sdk
 facebook/facebook-php-sdk-v4
+facebook/fbctf
 facebook/fbcunn
 facebook/fishhook
 facebook/fixed-data-table
@@ -4084,6 +4093,7 @@ hangtwenty/dive-into-machine-learning
 hankcs/HanLP
 hanks-zyh/HTextView
 hannes-brt/hebel
+hanton/HTY360Player
 haoel/leetcode
 hapijs/hapi
 hapijs/joi
@@ -4381,6 +4391,7 @@ isohuntto/openbay
 istarkov/google-map-react
 isteven/angular-multi-select
 itchyny/lightline.vim
+itouch2/PhotoTweaks
 itsabot/abot
 itsgoingd/clockwork
 ivacf/archi
@@ -4555,6 +4566,7 @@ jeromeetienne/jquery-qrcode
 jeromegn/Backbone.localStorage
 jeromegn/DocumentUp
 jersey/jersey
+jescalan/roots
 jesolem/PCV
 jessepollak/card
 jessepollak/command
@@ -5504,6 +5516,7 @@ mathiasbynens/jquery-placeholder
 mathics/Mathics
 mathieudutour/git-sketch-plugin
 mathjax/MathJax
+mathquill/mathquill
 matiasinsaurralde/facebook-tunnel
 matplotlib/matplotlib
 matrix-org/synapse
@@ -6997,6 +7010,7 @@ restify/node-restify
 restsharp/RestSharp
 resume/resume.github.com
 rethinkdb/rethinkdb
+retspen/webvirtmgr
 revel/revel
 reverse-shell/routersploit
 reviewboard/reviewboard
@@ -7274,6 +7288,7 @@ sbstjn/noduino
 sbstjn/timesheet.js
 sbt/sbt
 scala-js/scala-js
+scala-native/scala-native
 scala/scala
 scalanlp/breeze
 scalatra/scalatra
@@ -7319,6 +7334,7 @@ scrooloose/nerdcommenter
 scrooloose/nerdtree
 scrooloose/syntastic
 sculpin/sculpin
+scup/atellier
 scylladb/scylla
 scylladb/seastar
 sd6352051/NiftyDialogEffects
@@ -7876,6 +7892,7 @@ tadast/switching-to-contracting-uk
 taf2/curb
 taigaio/taiga-back
 taigaio/taiga-front
+tailhook/vagga
 taitems/Aristo-jQuery-UI-Theme
 taizilongxu/interview_python
 tallesl/Rich-Hickey-fanclub
@@ -8518,6 +8535,7 @@ webRTC-io/webRTC.io
 webcomponents/webcomponentsjs
 webdriverio/webdriverio
 webmachine/webmachine
+webpack/css-loader
 webpack/react-starter
 webpack/webpack
 webpop/jquery.pin
@@ -8700,6 +8718,7 @@ yarrick/iodine
 yask123/Instant-Music-Downloader
 yasoob/intermediatePython
 yasserg/crawler4j
+ybq/Android-SpinKit
 yconst/Freetile
 yeasy/docker_practice
 yelouafi/redux-saga
