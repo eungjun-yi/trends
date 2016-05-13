@@ -168,6 +168,7 @@ BlackrockDigital/startbootstrap-sb-admin
 BlackrockDigital/startbootstrap-sb-admin-2
 Block8/PHPCI
 BloombergMedia/whatiscode
+BlueMor/Android-PullLayout
 BlueSpire/Durandal
 BoltsFramework/Bolts-Android
 BoltsFramework/Bolts-ObjC
@@ -632,6 +633,7 @@ JustinTulloss/zeromq.node
 Juude/awesome-android-performance
 Juude/droidReverse
 KJCracks/Clutch
+KaimingHe/deep-residual-networks
 Kaopiz/android-segmented-control
 KartikTalwar/gmail.js
 Karumi/Dexter
@@ -1965,6 +1967,7 @@ backup/backup
 baconjs/bacon.js
 badges/shields
 badoo/Chatto
+badoualy/morphy-toolbar
 bahmutov/code-snippets
 baidu-ife/ife
 baidu-research/warp-ctc
@@ -3196,6 +3199,7 @@ elbryan/FFCircularProgressView
 elcuervo/airplay
 ele828/react-native-guide
 electerious/Lychee
+electron-userland/electron-builder
 electron-userland/electron-packager
 electron/electron
 electron/electron-quick-start
@@ -3976,6 +3980,7 @@ gotosleep/JASidePanels
 gottfrois/dashing-rails
 gotwarlost/istanbul
 gowong/material-sheet-fab
+gpakosz/.tmux
 gpambrozio/BlockAlertsAnd-ActionSheets
 gpbl/isomorphic500
 gpjt/webgl-lessons
@@ -5230,6 +5235,7 @@ liftoff/GateOne
 ligershark/webdevchecklist.com
 lightSky/Awesome-MaterialDesign
 lightningtgc/MProgress.js
+lihaoyi/Ammonite
 lihaoyi/macropy
 likeastore/ngDialog
 limetext/lime
@@ -5740,6 +5746,7 @@ milohuang/reverie
 miloyip/rapidjson
 mina-deploy/mina
 mindbrix/UIImage-PDF
+mindreframer/golang-stuff
 mineschan/MZTimerLabel
 minetest/minetest
 miniMAC/magic
@@ -6596,6 +6603,7 @@ pikock/bootstrap-magic
 pilgr/Paper
 pili-engineering/PLDroidPlayer
 pilu/web-app-theme
+pilwon/ultimate-seed
 pinax/pinax
 pineconellc/angular-foundation
 pingcap/tidb
@@ -6798,6 +6806,7 @@ qiao/PathFinding.js
 qii/weiciyuan
 qinjx/30min_guides
 qinwf/awesome-R
+qiu-deqing/FE-learning
 qiujuer/Genius-Android
 qiwsir/ITArticles
 qiwsir/StarterLearningPython
@@ -7390,6 +7399,7 @@ sequelpro/sequelpro
 serbanghita/Mobile-Detect
 sergeche/emmet-sublime
 seriesseed/equity
+serilog/serilog
 serkanyersen/ifvisible.js
 serratus/quaggaJS
 serverless/serverless
@@ -7500,6 +7510,7 @@ sindresorhus/github-markdown-css
 sindresorhus/got
 sindresorhus/grunt-sass
 sindresorhus/grunt-shell
+sindresorhus/guides
 sindresorhus/gulp-app
 sindresorhus/gulp-rev
 sindresorhus/load-grunt-tasks
@@ -7948,6 +7959,7 @@ telly/TLYShyNavBar
 tenXer/xcharts
 tencent-php/tsf
 tennc/webshell
+tensorflow/models
 tensorflow/playground
 tensorflow/skflow
 tensorflow/tensorflow
