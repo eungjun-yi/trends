@@ -765,6 +765,7 @@ Microsoft/ChakraCore
 Microsoft/DMTK
 Microsoft/GSL
 Microsoft/PTVS
+Microsoft/ProjectOxford-ClientSDK
 Microsoft/TouchDevelop
 Microsoft/TypeScript
 Microsoft/TypeScriptSamples
@@ -4711,6 +4712,7 @@ joho/7XX-rfc
 joke2k/faker
 jokkedk/webgrind
 joliss/jquery-ui-rails
+jonan/ForkHub
 jonas/tig
 jonase/kibit
 jonathanpenn/ui-auto-monkey
