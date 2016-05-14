@@ -94,6 +94,7 @@ Anonyfox/node-webkit-hipster-seed
 Antaris/RazorEngine
 AntennaPod/AntennaPod
 Anthony25/gnome-terminal-colors-solarized
+Anviking/Decodable
 ApiGen/ApiGen
 Apipie/apipie-rails
 ApmeM/android-flowlayout
@@ -1545,6 +1546,7 @@ alebcay/awesome-shell
 alecthomas/gometalinter
 alevchuk/vim-clutch
 alex-seville/blanket
+alex-sherman/deco
 alex/django-taggit
 alex/what-happens-when
 alexanderGugel/ied
@@ -2739,6 +2741,7 @@ cytoscape/cytoscape.js
 cyu/rack-cors
 d0ugal-archive/locache
 d1sm/finalspeed
+d3/d3
 d3/d3-plugins
 d3/d3-queue
 d3/d3-shape
@@ -2890,6 +2893,7 @@ deivid-rodriguez/pry-byebug
 dejan/rails_panel
 dekatotoro/SlideMenuControllerSwift
 dekujs/deku
+delba/JASON
 delba/Permission
 delba/TextAttributes
 delight-im/FreeGeoDB
@@ -3688,6 +3692,7 @@ gali8/Tesseract-OCR-iOS
 gameplay3d/GamePlay
 gaosboy/iOSSF
 garand/sticky
+garbles/why-did-you-update
 garbles/yolk
 garethr/vagrantboxes-heroku
 garnele007/SwiftOCR
@@ -4224,6 +4229,7 @@ hugeinc/styleguide
 hughsk/disc
 huhamhire/huhamhire-hosts
 huichen/wukong
+hukl/Smyck-Color-Scheme
 humaan/Modaal
 humhub/humhub
 humiaozuzu/awesome-flask
@@ -5160,6 +5166,7 @@ leachim6/hello-world
 leafo/lapis
 leafo/lessphp
 leafo/moonscript
+leafo/scssphp
 leafo/sticky-kit
 leah/PullToRefresh
 leanote/leanote
@@ -5441,6 +5448,7 @@ manifestinteractive/jqvmap
 manuelbieh/Geolib
 manuelkiessling/nodebeginner.org
 manuels/texlive.js
+maoruibin/TranslateApp
 mapbox/maki
 mapbox/mapbox-gl-js
 mapbox/mapbox-gl-native
@@ -5562,6 +5570,7 @@ mattkrick/meatier
 mattlag/Glyphr-Studio
 mattn/emmet-vim
 mattn/gist-vim
+mattn/go-gtk
 mattn/go-sqlite3
 mattn/gom
 mattneub/Programming-iOS-Book-Examples
@@ -6566,6 +6575,7 @@ phodal/growth
 phodal/growth-ebook
 phodal/ideabook
 phoenixframework/phoenix
+phonegap/phonegap-plugin-push
 phonegap/phonegap-start
 photo/frontend
 photonstorm/phaser
@@ -6912,6 +6922,7 @@ ravenac95/sudolikeaboss
 ravendb/ravendb
 raveren/kint
 raywenderlich/objective-c-style-guide
+raywenderlich/swift-algorithm-club
 raywenderlich/swift-style-guide
 razorjack/quicksand
 rbenv/rbenv
@@ -7398,6 +7409,7 @@ sequelize/sequelize
 sequelpro/sequelpro
 serbanghita/Mobile-Detect
 sergeche/emmet-sublime
+serghey-rodin/vesta
 seriesseed/equity
 serilog/serilog
 serkanyersen/ifvisible.js
@@ -8351,6 +8363,7 @@ uglide/RedisDesktopManager
 ugol/pomodoro
 uikit/uikit
 ujjwalkarn/Machine-Learning-Tutorials
+uku/Unblock-Youku
 umano/AndroidSlidingUpPanel
 umbraco/Umbraco-CMS
 umdjs/umd
