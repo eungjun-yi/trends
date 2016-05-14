@@ -6590,6 +6590,7 @@ php/php-src
 phpDocumentor/phpDocumentor2
 phpbb/phpbb
 phpbrew/phpbrew
+phpmetrics/PhpMetrics
 phpmyadmin/phpmyadmin
 phpro/grumphp
 phpseclib/phpseclib
