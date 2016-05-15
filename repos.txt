@@ -191,6 +191,7 @@ BurntSushi/toml
 ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
 CN-Chrome-DevTools/CN-Chrome-DevTools
+CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift
 CSS-Tricks/AnythingSlider
 CSSLint/csslint
 CWSpear/bootstrap-hover-dropdown
@@ -1152,6 +1153,7 @@ Soundnode/soundnode-app
 Spaceman-Labs/SMPageControl
 SpecialCyCi/AndroidResideMenu
 SpiderLabs/ModSecurity
+SpiderLabs/Responder
 SpiderOak/Encryptr
 SpiderOak/crypton
 Split82/HMGLTransitions
@@ -1992,6 +1994,7 @@ barryclark/jekyll-now
 barryvdh/laravel-debugbar
 barryvdh/laravel-dompdf
 barryvdh/laravel-ide-helper
+bartblaze/PHP-backdoors
 bartobri/no-more-secrets
 bartonhammond/snowflake
 basecamp/local_time
@@ -5876,6 +5879,7 @@ moredip/Frank
 morhetz/gruvbox
 morishitter/cssfmt
 morishitter/stylefmt
+moroshko/react-autosuggest
 morr/jquery.appear
 morrisjs/morris.js
 mortardata/mortar-recsys
@@ -5891,6 +5895,7 @@ mothran/mongol
 motianhuo/wechat
 mourner/simplify-js
 mouse0270/bootstrap-notify
+movielala/VideoSplashKit
 moxiecode/plupload
 mozbrick/brick
 mozilla-b2g/B2G
@@ -5972,6 +5977,7 @@ munificent/game-programming-patterns
 munificent/vigil
 munificent/wren
 munin-monitoring/contrib
+munin-monitoring/munin
 murtaugh/HTML5-Reset
 murtaugh/HTML5-Reset-WordPress-Theme
 musescore/MuseScore
@@ -7108,6 +7114,7 @@ robertkrimen/otto
 robertpenner/as3-signals
 robertsdionne/neural-network-papers
 robertwijas/UISS
+robfig/cron
 robicch/jQueryGantt
 robmorgan/phinx
 roboguice/roboguice
@@ -7266,6 +7273,7 @@ sagivo/algorithms
 sahat/hackathon-starter
 sahat/satellizer
 sahildave/Search-View-Layout
+saiprashanths/dl-setup
 saiwu-bigkoo/Android-ConvenientBanner
 saiwu-bigkoo/Android-PickerView
 salesforce-ux/design-system
