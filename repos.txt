@@ -286,6 +286,7 @@ Cutta/GifView
 Cyan4973/lz4
 Cyan4973/zstd
 CyberAgent/android-gpuimage
+CymChad/BaseRecyclerViewAdapterHelper
 D-Programming-Language/dmd
 DIYgod/APlayer
 DKirwan/calendar-heatmap
@@ -377,6 +378,7 @@ ExactTarget/fuelux
 EyalAr/lwip
 FFmpeg/FFmpeg
 FLIF-hub/FLIF
+FX-Max/Point-of-Android
 Factual/drake
 FahimF/FloatLabelFields
 Famous/engine
@@ -671,6 +673,7 @@ Kozea/pygal
 Kozea/wdb
 KrauseFx/TSMessages
 LMAX-Exchange/disruptor
+LMMS/lmms
 LarsWerkman/HoloColorPicker
 Lasagne/Lasagne
 LaunchKit/SketchToAppStore
@@ -1013,6 +1016,7 @@ Ramotion/circle-menu
 Ramotion/folding-cell
 Ramotion/folding-cell-android
 Ramotion/navigation-stack
+Ramotion/paper-onboarding
 Ramotion/paper-switch
 Ramotion/reel-search
 Randommood/Strangeloop2015
@@ -2813,6 +2817,7 @@ dasdom/BreakOutToRefresh
 dataarts/dat.gui
 dataarts/webgl-globe
 databricks/learning-spark
+databricks/scala-style-guide
 datamade/dedupe
 datasciencemasters/go
 datastax/spark-cassandra-connector
@@ -3250,6 +3255,7 @@ emqtt/emqttd
 emre/storm
 enaqx/awesome-pentest
 enaqx/awesome-react
+encharm/Font-Awesome-SVG-PNG
 ender-js/Ender
 endtwist/kerning.js
 enormego/EGOCache
@@ -3984,6 +3990,7 @@ gorhill/uMatrix
 gorilla/mux
 gorilla/websocket
 gosu/gosu
+gosuri/uiprogress
 gotgit/gotgithub
 gotosleep/JASidePanels
 gottfrois/dashing-rails
@@ -4178,6 +4185,7 @@ hirak/prestissimo
 hishamhm/htop
 hitherejoe/Android-Boilerplate
 hitherejoe/animate
+hlandau/acme
 hmkcode/Android
 hmlb/phpunit-vw
 hoang8f/android-flat-button
@@ -4671,6 +4679,7 @@ jnv/lists
 jobbole/awesome-ios-cn
 jobbole/awesome-java-cn
 jobbole/awesome-javascript-cn
+jobbole/awesome-python-cn
 joealcorn/laboratory
 joeblau/gitignore.io
 joeferner/redis-commander
@@ -5005,6 +5014,7 @@ kilimchoi/engineering-blogs
 killbill/killbill
 killme2008/Metamorphosis
 kimmobrunfeldt/progressbar.js
+kimsungwhee/KSHObjcUML
 kippt/jekyll-incorporated
 kirang89/pycrumbs
 kishikawakatsumi/KeychainAccess
@@ -6615,6 +6625,7 @@ picnicss/picnic
 picocms/Pico
 piemonte/PBJVision
 pieroxy/lz-string
+pierrre/imageserver
 pieter/gitx
 pigshell/pigshell
 pika/pika
@@ -6819,6 +6830,7 @@ pytoolz/toolz
 pyupio/statuspage
 qTip2/qTip2
 qbittorrent/qBittorrent
+qdore/Mutate
 qfish/XAlign
 qgis/QGIS
 qiao/PathFinding.js
@@ -7222,6 +7234,7 @@ ruflin/Elastica
 rui314/8cc
 ruipgil/scraperjs
 rundeck/rundeck
+runner365/LiveVideoCoreSDK
 runtimejs/runtime
 runway20/PopoverView
 rupa/z
@@ -7694,6 +7707,7 @@ sporkrb/spork
 sporritt/jsPlumb
 spotify/SPTPersistentCache
 spotify/annoy
+spotify/dh-virtualenv
 spotify/docker-gc
 spotify/helios
 spotify/luigi
@@ -8794,6 +8808,7 @@ youtube/vitess
 youyudehexie/node123
 yqritc/RecyclerView-FlexibleDivider
 yrutschle/sslh
+ytisf/theZoo
 yuantiku/YTKKeyValueStore
 yuantiku/YTKNetwork
 yuanyan/boron
