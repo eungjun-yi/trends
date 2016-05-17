@@ -107,6 +107,7 @@ AriaFallah/WebpackTutorial
 ArtFeel/AFViewShaker
 ArtSabintsev/Harpy
 ArtSabintsev/Siren
+ArthurHub/Android-Image-Cropper
 AssetSync/asset_sync
 AssistoLab/KVNProgress
 AsyncHttpClient/async-http-client
@@ -190,6 +191,7 @@ Bukkit/Bukkit
 BurntSushi/toml
 ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
+CISOfy/lynis
 CN-Chrome-DevTools/CN-Chrome-DevTools
 CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift
 CSS-Tricks/AnythingSlider
@@ -672,6 +674,7 @@ Kozea/WeasyPrint
 Kozea/pygal
 Kozea/wdb
 KrauseFx/TSMessages
+LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 LMAX-Exchange/disruptor
 LMMS/lmms
 LarsWerkman/HoloColorPicker
@@ -1723,6 +1726,7 @@ angular/material
 angular/material-start
 angular/material2
 angular/protractor
+angular/universal
 angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
 angulartics/angulartics
@@ -1939,6 +1943,7 @@ auto-complete/auto-complete
 autofac/Autofac
 autresphere/ASMediaFocusManager
 autumnai/leaf
+avajs/ava
 avalanche123/Imagine
 avast/android-butterknife-zelezny
 avast/android-styled-dialogs
@@ -2209,6 +2214,7 @@ bramp/js-sequence-diagrams
 bramstein/fontfaceobserver
 brandonhilkert/fucking_shell_scripts
 brandonhilkert/sucker_punch
+brandonlw/Psychson
 brandonsavage/Upload
 brandonwamboldt/utilphp
 brave/browser-android
@@ -2604,6 +2610,7 @@ coduo/php-humanizer
 codylindley/frontend-tools
 cognitect-labs/transducers-js
 cognitect/transit-format
+coinbase/toshi
 coleifer/huey
 coleifer/peewee
 colinbjohnson/aws-missing-tools
@@ -3001,6 +3008,7 @@ dlitz/pycrypto
 dlmanning/gulp-sass
 dm77/barcodescanner
 dmauro/Keypress
+dmilicic/Android-Clean-Boilerplate
 dmlc/cxxnet
 dmlc/mxnet
 dmlc/xgboost
@@ -3337,6 +3345,7 @@ etsy/logster
 etsy/phan
 etsy/skyline
 etsy/statsd
+eugenp/tutorials
 euphoria-io/heim
 euske/pdfminer
 evancohen/smart-mirror
@@ -3719,6 +3728,7 @@ gavindinubilo/jam-api
 gavinkwoe/BeeFramework
 gawel/pyquery
 gazay/gon
+gcanti/tcomb
 gcanti/tcomb-form-native
 gchp/iota
 gcuisinier/jenv
@@ -3862,6 +3872,7 @@ go-redis/redis
 go-sql-driver/mysql
 go-xorm/xorm
 go-zoo/bone
+goaop/framework
 goatslacker/alt
 gobackspaces/DLCImagePickerController
 gocardless/angularjs-style-guide
@@ -5519,6 +5530,7 @@ markyun/My-blog
 marmelab/gremlins.js
 marmelab/ng-admin
 marmelroy/Format
+marmelroy/Interpolate
 marmelroy/PeekPop
 marmelroy/PhoneNumberKit
 maroslaw/rainyday.js
@@ -6487,6 +6499,7 @@ paramiko/paramiko
 paranoida/sass-mediaqueries
 pardom/ActiveAndroid
 parkerbennett/stackicons
+passsy/android-HoloCircularProgressBar
 passy/angular-masonry
 pat/thinking-sphinx
 path/FastImageCache
@@ -8024,6 +8037,7 @@ tgriesser/knex
 thampiman/reverse-geocoder
 theDazzler/droidicon
 theScrabi/NewPipe
+theaqua/redux-logger
 thearn/webcam-pulse-detector
 thebinarysearchtree/regexpbuilderjs
 thebird/Swipe
@@ -8427,6 +8441,7 @@ v2ray/v2ray-core
 v8/v8
 vakata/jstree
 valderman/haste-compiler
+valor-software/ng2-bootstrap
 valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
 vanilla/vanilla
@@ -8808,6 +8823,7 @@ youtube/vitess
 youyudehexie/node123
 yqritc/RecyclerView-FlexibleDivider
 yrutschle/sslh
+ytakzk/Fusuma
 ytisf/theZoo
 yuantiku/YTKKeyValueStore
 yuantiku/YTKNetwork
