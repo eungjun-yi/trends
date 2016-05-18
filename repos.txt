@@ -165,6 +165,7 @@ BinaryAnalysisPlatform/qira
 BinaryMuse/fluxxor
 BinaryMuse/planetary.js
 Bitmessage/PyBitmessage
+Bj/fly
 BlackrockDigital/startbootstrap
 BlackrockDigital/startbootstrap-sb-admin
 BlackrockDigital/startbootstrap-sb-admin-2
@@ -613,12 +614,14 @@ JodaOrg/joda-time
 JoeDog/siege
 JoelBesada/activate-power-mode
 JoelBesada/scrollpath
+JoelOtter/kajero
 John-Lluch/SWRevealViewController
 JohnCoates/Aerial
 JohnCoates/CSSketch
 JohnEstropia/CoreStore
 JohnLangford/vowpal_wabbit
 JohnPersano/SuperToasts
+JohnSundell/Unbox
 JonAbrams/synth
 JonasGessner/JGProgressHUD
 JorgeCastilloPrz/AndroidFillableLoaders
@@ -873,6 +876,7 @@ Newmu/Theano-Tutorials
 Newmu/dcgan_code
 NextStepWebs/simplemde-markdown-editor
 NghiaTranUIT/FeSpinner
+Nickersoft/push.js
 Nightonke/BoomMenu
 Nightonke/WoWoViewPager
 NikolaiT/GoogleScraper
@@ -1730,6 +1734,7 @@ angular/universal
 angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
 angulartics/angulartics
+angusshire/greenhat
 anijs/anijs
 anishathalye/git-remote-dropbox
 ankane/ahoy
@@ -2205,6 +2210,7 @@ boxen/our-boxen
 boztalay/BOZPongRefreshControl
 bpampuch/pdfmake
 brack3t/django-braces
+bradfitz/goimports
 bradfitz/http2
 bradfrost/project-hub
 bradfrost/this-is-responsive
@@ -2667,6 +2673,7 @@ cortesi/devd
 coryhouse/react-slingshot
 corymsmith/react-native-icons
 cosenary/Instagram-PHP-API
+cosven/FeelUOwn
 coteditor/CotEditor
 couchbase/couchbase-lite-ios
 coursera-dl/coursera-dl
@@ -3329,6 +3336,7 @@ esp8266/esp8266-wiki
 este/este
 estelle/clowncar
 estools/escodegen
+estree/estree
 esvit/ng-table
 eternicode/bootstrap-datepicker
 ethantw/Han
@@ -5273,6 +5281,7 @@ lihaoyi/macropy
 likeastore/ngDialog
 limetext/lime
 linagora/hublin
+lincanbin/Carbon-Forum
 lincolnloop/python-qrcode
 linemanjs/lineman
 linfaxin/TransitionPlayer
@@ -5299,6 +5308,7 @@ litesuits/android-common
 litl/rauth
 litten/hexo-theme-yilia
 littlebee/git-time-machine
+liuling07/SimpleNews
 liuliu/ccv
 liuruoze/EasyPR
 liuxinyu95/AlgoXY
@@ -5416,6 +5426,7 @@ madeye/gaeproxy
 madhums/node-express-mongoose-demo
 madisonmay/CommonRegex
 madisonmay/Tomorrow
+madmalik/mononoki
 madrobby/keymaster
 madrobby/microjs.com
 madrobby/scriptaculous
@@ -5781,6 +5792,7 @@ milligram/milligram
 milohuang/reverie
 miloyip/rapidjson
 mina-deploy/mina
+minbrowser/min
 mindbrix/UIImage-PDF
 mindreframer/golang-stuff
 mineschan/MZTimerLabel
@@ -6470,6 +6482,7 @@ padraic/mockery
 padrino/padrino-framework
 pagekit/pagekit
 pagespeed/ngx_pagespeed
+pahen/madge
 pakastin/deck-of-cards
 pakerfeldt/android-viewflow
 palantir/plottable
@@ -6943,6 +6956,7 @@ rasguanabana/ytfs
 rashidkpc/kibana2
 rasmusbergpalm/DeepLearnToolbox
 rasmusth/BluetoothKit
+raspberrypi/documentation
 raspberrypi/firmware
 raspberrypi/linux
 raspberrypi/noobs
@@ -7063,6 +7077,7 @@ restcookbook/restcookbook
 restify/node-restify
 restsharp/RestSharp
 resume/resume.github.com
+rethinkdb/horizon
 rethinkdb/rethinkdb
 retspen/webvirtmgr
 revel/revel
@@ -8290,6 +8305,7 @@ tsuru/tsuru
 tsvensen/equalize.js
 tsx/shireframe
 ttezel/twit
+ttsvetko/HTML5-Desktop-Notifications
 tudou527/marketch
 tuesda/CircleRefreshLayout
 tumblr/Backboard
@@ -8445,6 +8461,7 @@ valor-software/ng2-bootstrap
 valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
 vanilla/vanilla
+variadico/noti
 varnish/Varnish-Cache
 varnish/hitch
 vasanthk/css-refresher-notes
