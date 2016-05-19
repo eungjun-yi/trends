@@ -344,6 +344,7 @@ DrKLO/Telegram
 DrSkippy/Data-Science-45min-Intros
 Draveness/DKChainableAnimationKit
 Draveness/DKNightVersion
+Draveness/iOS-Source-Code-Analyze
 DreaminginCodeZH/Douya
 DreaminginCodeZH/MaterialColdStart
 DrewDahlman/Mason
@@ -361,6 +362,7 @@ EddyBorja/EBPhotoPages
 EddyBorja/MLPAutoCompleteTextField
 EddyVerbruggen/SocialSharing-PhoneGap-Plugin
 Elgg/Elgg
+EmergingTechnologyAdvisors/node-serialport
 Emsu/prophet
 Engelberg/instaparse
 EnjoySR/ESJsonFormat-Xcode
@@ -448,6 +450,8 @@ Gamua/Starling-Framework
 GarageGames/Torque2D
 GarageGames/Torque3D
 Gazler/githug
+Geal/nom
+GeekyAnts/NativeBase
 GetExpert/redux-blog-example
 GetmeUK/ContentTools
 Ghosh/uiGradients
@@ -746,6 +750,7 @@ MartinRGB/Replace-iOS
 Marxon13/M13ProgressSuite
 Mashape/kong
 Mashape/mashape-oauth
+Mashape/unirest-java
 MasteringOpenCV/code
 Masterminds/glide
 Masterminds/squirrel
@@ -2256,6 +2261,7 @@ brigade/overcommit
 brigade/scss-lint
 brikis98/docker-osx-dev
 brix/crypto-js
+brj/fly
 bro/bro
 broccolijs/broccoli
 broofa/node-uuid
@@ -2497,6 +2503,7 @@ chrissimpkins/codeface
 christianalfoni/formsy-react
 christiannaths/Redacted-Font
 christoomey/vim-tmux-navigator
+christopherthielen/ui-router-extras
 christophery/pushy
 chroman/CRGradientNavigationBar
 chromium/chromium
@@ -2789,6 +2796,7 @@ dancannon/gorethink
 daneden/Toast
 daneden/animate.css
 danfang/me-api
+dangdangdotcom/elastic-job
 dangdangdotcom/sharding-jdbc
 dangrossman/bootstrap-daterangepicker
 danialfarid/ng-file-upload
@@ -3196,6 +3204,7 @@ eduardolundgren/tracking.js
 edwardtufte/tufte-css
 edx/edx-platform
 egonSchiele/contracts.ruby
+egorsmkv/google-spaces
 egrcc/zhihu-python
 egret-labs/egret-core
 eholk/harlan
@@ -3345,6 +3354,7 @@ ether/pad
 ethereum/go-ethereum
 ethereum/wiki
 etianen/django-reversion
+etianen/html5media
 etrepat/baum
 etsy/AndroidStaggeredGrid
 etsy/deployinator
@@ -3438,6 +3448,7 @@ facebook/proxygen
 facebook/react
 facebook/react-devtools
 facebook/react-native
+facebook/reason
 facebook/rebound
 facebook/rebound-js
 facebook/redex
@@ -3995,6 +4006,7 @@ googlesamples/android-topeka
 googlesamples/cardboard-java
 googlesamples/easypermissions
 googlesamples/google-services
+googlevr/gvr-android-sdk
 googollee/eviltransform
 googollee/go-socket.io
 gopatrik/space.js
@@ -4204,6 +4216,7 @@ hirak/prestissimo
 hishamhm/htop
 hitherejoe/Android-Boilerplate
 hitherejoe/animate
+hkellaway/Gloss
 hlandau/acme
 hmkcode/Android
 hmlb/phpunit-vw
@@ -4542,6 +4555,7 @@ javascript-society/javascript-path
 javascript/augment
 javaslang/javaslang
 javierbyte/img2css
+javierbyte/visual-center
 javiereguiluz/EasyAdminBundle
 javve/list.js
 jaydee3/JDStatusBarNotification
@@ -4672,6 +4686,7 @@ jkbrzt/httpie
 jlevy/og-equity-compensation
 jlevy/the-art-of-command-line
 jlmakes/scrollreveal.js
+jlmd/AnimatedCircleLoadingView
 jlong/serve
 jlongster/blog
 jlongster/transducers.js
@@ -6458,6 +6473,7 @@ overshare/overshare-kit
 overtake/telegram
 overtone/emacs-live
 overtone/overtone
+overtrue/pinyin
 overtrue/wechat
 overviewer/Minecraft-Overviewer
 owainlewis/awesome-artificial-intelligence
@@ -6483,6 +6499,7 @@ padrino/padrino-framework
 pagekit/pagekit
 pagespeed/ngx_pagespeed
 pahen/madge
+pahimar/Equivalent-Exchange-3
 pakastin/deck-of-cards
 pakerfeldt/android-viewflow
 palantir/plottable
@@ -6999,6 +7016,7 @@ reactjs/react-router-tutorial
 reactjs/react-tutorial
 reactjs/redux
 reactjs/reselect
+reactnativecn/react-native-guide
 reactor/reactor
 reactphp/react
 reagent-project/reagent
@@ -7414,6 +7432,7 @@ sdc-alibaba/SUI-Mobile
 sdegutis/mjolnir
 sdelements/lets-chat
 sdiehl/write-you-a-haskell
+sdkman/sdkman-cli
 sdogruyol/awesome-ruby
 sdsykes/fastimage
 seL4/seL4
@@ -8723,6 +8742,7 @@ wyouflf/xUtils3
 wyuenho/backgrid
 x-tag/core
 x2on/OpenSSL-for-iPhone
+x64dbg/x64dbg
 xamarin/XobotOS
 xamarin/mobile-samples
 xamarin/monodroid-samples
