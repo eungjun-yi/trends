@@ -23,6 +23,7 @@
 18F/web-design-standards
 1995eaton/chromium-vim
 1sters/material_design_zh
+1sters/material_design_zh_2
 23/resumable.js
 2359media/EasyAndroidAnimations
 24pullrequests/24pullrequests
@@ -1668,6 +1669,7 @@ anchorcms/anchor-cms
 andelf/fuck12306
 andersbll/deeppy
 andkulikov/Transitions-Everywhere
+andlabs/libui
 andlabs/ui
 andreafabrizi/Dropbox-Uploader
 andreaferretti/paths-js
@@ -2262,6 +2264,7 @@ brigade/scss-lint
 brikis98/docker-osx-dev
 brix/crypto-js
 brj/fly
+brndnmtthws/conky
 bro/bro
 broccolijs/broccoli
 broofa/node-uuid
@@ -2404,6 +2407,7 @@ cemoody/lda2vec
 centrifugal/centrifugo
 ceolter/ag-grid
 ceph/ceph
+cer/event-sourcing-examples
 cerebris/jsonapi-resources
 certbot/certbot
 cesanta/mongoose
@@ -3245,6 +3249,7 @@ eleith/emailjs
 elementalui/elemental
 elevation/event_calendar
 elevenetc/TextSurface
+eliangcs/http-prompt
 eligrey/FileSaver.js
 eliotfowler/EFCircularSlider
 eliotsykes/rspec-rails-examples
@@ -3819,6 +3824,7 @@ ginatrapani/todo.txt-cli
 ging/licode
 ging/social_stream
 gionkunz/chartist-js
+git-cola/git-cola
 git-ftp/git-ftp
 git-game/git-game
 git-tfs/git-tfs
@@ -3886,6 +3892,7 @@ go-lang-plugin-org/go-lang-idea-plugin
 go-macaron/macaron
 go-mangos/mangos
 go-martini/martini
+go-mgo/mgo
 go-qml/qml
 go-redis/redis
 go-sql-driver/mysql
@@ -5167,6 +5174,7 @@ kvz/locutus
 kvz/phpjs
 kyleduo/SwitchButton
 kylefox/jquery-modal
+kylemanna/docker-openvpn
 kyleneideck/BackgroundMusic
 kylestetz/CLNDR
 kymjs/KJFrameForAndroid
@@ -5293,6 +5301,7 @@ lightSky/Awesome-MaterialDesign
 lightningtgc/MProgress.js
 lihaoyi/Ammonite
 lihaoyi/macropy
+lihongxun945/jquery-weui
 likeastore/ngDialog
 limetext/lime
 linagora/hublin
@@ -5317,6 +5326,7 @@ lipka/piecon
 liquibase/liquibase
 lisa-lab/DeepLearningTutorials
 lisa-lab/pylearn2
+listen1/listen1_chrome_extension
 litaio/lita
 litehelpers/Cordova-sqlite-storage
 litesuits/android-common
@@ -5796,6 +5806,7 @@ mikeric/rivets
 mikesall/charted
 mikespook/Learning-Go-zh-cn
 miksago/node-websocket-server
+mila-udem/blocks
 milessabin/shapeless
 mileszs/ack.vim
 mileszs/wicked_pdf
@@ -6301,6 +6312,7 @@ nutzam/nutz
 nuysoft/Mock
 nvbn/everpad
 nvbn/thefuck
+nvdv/vprof
 nvie/gitflow
 nvie/pip-tools
 nvie/rq
@@ -6642,6 +6654,7 @@ photo/frontend
 photonstorm/phaser
 php-amqplib/php-amqplib
 php-curl-class/php-curl-class
+php-ds/extension
 php-fig/fig-standards
 php-pm/php-pm
 php/php-langspec
@@ -6809,6 +6822,7 @@ progrium/localtunnel
 projectkudu/kudu
 prolificinteractive/material-calendarview
 prometheus/prometheus
+prometheusresearch/react-forms
 promises-aplus/promises-spec
 propelorm/Propel
 propelorm/Propel2
@@ -7050,6 +7064,7 @@ redspread/spread
 reduxframework/elusive-iconfont
 reduxframework/redux-framework
 reek/anti-adblock-killer
+reenhanced/gitreflow
 reeze/tipi
 refile/refile
 refinery/refinerycms
@@ -7090,6 +7105,7 @@ rescrv/HyperDex
 resque/resque
 resque/resque-scheduler
 ressio/lazy-load-xt
+rest-assured/rest-assured
 rest-client/rest-client
 restcookbook/restcookbook
 restify/node-restify
@@ -7296,6 +7312,7 @@ rvm/rvm
 rvoicilas/inotify-tools
 rwaldron/idiomatic.js
 rwaldron/johnny-five
+rweng/pry-rails
 rxin/db-readings
 ry/v8worker
 ryanb/cancan
@@ -8308,6 +8325,7 @@ trentrichardson/jQuery-Timepicker-Addon
 trevorlinton/webkit.js
 triceam/app-UI
 tripit/slate
+tristanhimmelman/AlamofireObjectMapper
 troessner/reek
 trogdoro/xiki
 troolee/gridstack.js
@@ -8436,6 +8454,7 @@ udacity/Sunshine-Version-2
 uglide/RedisDesktopManager
 ugol/pomodoro
 uikit/uikit
+ujjwalkarn/DataSciencePython
 ujjwalkarn/Machine-Learning-Tutorials
 uku/Unblock-Youku
 umano/AndroidSlidingUpPanel
