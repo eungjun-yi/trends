@@ -3243,6 +3243,7 @@ electerious/Lychee
 electron-userland/electron-builder
 electron-userland/electron-packager
 electron/electron
+electron/electron-api-demos
 electron/electron-quick-start
 electronicarts/EASTL
 eleith/emailjs
