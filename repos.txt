@@ -841,6 +841,7 @@ NLog/NLog
 NUKnightLab/TimelineJS
 NV/chrome-devtools-autosave
 NVIDIA/DIGITS
+NVIDIA/nvidia-docker
 NYTimes/NYTPhotoViewer
 NYTimes/backbone.stickit
 NYTimes/gizmo
@@ -2725,6 +2726,7 @@ cryptosphere/cryptosphere
 crystal-lang/crystal
 cs231n/cs231n.github.io
 css-modules/css-modules
+css-modules/webpack-demo
 css/csso
 csscomb/csscomb.js
 cssmagic/CSS-Secrets
@@ -2784,6 +2786,7 @@ dabeaz/curio
 dae/anki
 dahlbyk/posh-git
 dahlia/awesome-sqlalchemy
+dailymotion/hls.js
 daimajia/AndroidImageSlider
 daimajia/AndroidSwipeLayout
 daimajia/AndroidViewAnimations
@@ -2995,6 +2998,7 @@ dimsemenov/PhotoSwipe
 dinbror/blazy
 dinedal/textql
 dingo/api
+dinocore1/DevsmartLib-Android
 dinuscxj/LoadingDrawable
 diogob/activerecord-postgres-hstore
 diogobernardino/WilliamChart
@@ -8554,6 +8558,7 @@ visionmedia/debug
 visionmedia/deploy
 visionmedia/masteringnode
 visionmedia/move.js
+visionmedia/node-progress
 visionmedia/page.js
 visionmedia/superagent
 visionmedia/supertest
