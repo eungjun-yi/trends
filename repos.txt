@@ -1380,6 +1380,7 @@ Yalantis/Side-Menu.iOS
 Yalantis/StarWars.Android
 Yalantis/StarWars.iOS
 Yalantis/Taurus
+Yalantis/pull-to-make-soup
 Yalantis/uCrop
 YaroslavGaponov/node-jvm
 YePpHa/YouTubeCenter
@@ -2178,6 +2179,7 @@ bmelnychuk/AndroidTreeView
 bmizerany/pat
 bmizerany/sinatra
 bmkmanoj/js-by-examples
+bmrf/tron
 bnoguchi/everyauth
 bnoordhuis/node-heapdump
 bobthecow/genghis
@@ -4722,6 +4724,7 @@ jnordberg/gif.js
 jnordberg/wintersmith
 jnunemaker/httparty
 jnv/lists
+joaotavora/yasnippet
 jobbole/awesome-ios-cn
 jobbole/awesome-java-cn
 jobbole/awesome-javascript-cn
