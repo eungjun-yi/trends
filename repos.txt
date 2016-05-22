@@ -8067,6 +8067,7 @@ telerik/kendo-ui-core
 telly/TLYShyNavBar
 tenXer/xcharts
 tencent-php/tsf
+tenex/rails-assets
 tennc/webshell
 tensorflow/models
 tensorflow/playground
