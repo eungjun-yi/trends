@@ -6551,6 +6551,7 @@ paramiko/paramiko
 paranoida/sass-mediaqueries
 pardom/ActiveAndroid
 parkerbennett/stackicons
+parkjs814/AlgorithmVisualizer
 passsy/android-HoloCircularProgressBar
 passy/angular-masonry
 pat/thinking-sphinx
