@@ -777,6 +777,7 @@ MeoMix/StreamusChromeExtension
 MiCode/FileExplorer
 MiCode/Notes
 MichMich/MagicMirror
+Microsoft/BashOnWindows
 Microsoft/BotBuilder
 Microsoft/CNTK
 Microsoft/ChakraCore
@@ -1062,6 +1063,7 @@ Reportr/dashboard
 ResearchKit/ResearchKit
 Respect/Validation
 RestKit/RestKit
+RetireJS/retire.js
 RetroPie/RetroPie-Setup
 ReturnInfinity/BareMetal-OS
 Rich-Harris/ramjet
