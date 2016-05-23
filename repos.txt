@@ -297,6 +297,7 @@ DKirwan/calendar-heatmap
 DNSPod/dnspod-sr
 DRMacIver/hypothesis
 DTVD/rainbowstream
+DWorkS/VolleyPlus
 DaRaFF/jsgamewiki
 Daemonite/material
 Damao/Intellij-IDEA-F2E
