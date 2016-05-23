@@ -195,6 +195,7 @@ ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
 CISOfy/lynis
 CN-Chrome-DevTools/CN-Chrome-DevTools
+COCOPi/cockpit
 CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift
 CSS-Tricks/AnythingSlider
 CSSLint/csslint
@@ -1510,6 +1511,8 @@ afragen/github-updater
 aframevr/aframe
 ageitgey/amplify
 ageitgey/node-unfluff
+agens-no/AGGeometryKit
+agens-no/AGGeometryKit-POP
 agershun/alasql
 agiliq/merchant
 agis-/git-style-guide
@@ -2358,6 +2361,7 @@ caolan/jam
 caolan/nodeunit
 caouecs/Laravel-lang
 capistrano/capistrano
+capitalone/Hygieia
 capitaomorte/yasnippet
 cappuccino/cappuccino
 captbaritone/winamp2-js
