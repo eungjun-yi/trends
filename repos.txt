@@ -7145,6 +7145,7 @@ rhiever/Data-Analysis-and-Machine-Learning-Projects
 rhiever/tpot
 rhiokim/haroopad
 rhomobile/rhodes
+rhummelmose/BluetoothKit
 rhysd/NyaoVim
 ribot/android-guidelines
 ricardochimal/taps
