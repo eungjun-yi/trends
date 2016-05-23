@@ -7174,6 +7174,7 @@ ripienaar/free-for-dev
 ripple/ripple-client
 ripple/rippled
 ripplejs/ripple
+rishabhp/bideo.js
 rkern/line_profiler
 rlabbe/Kalman-and-Bayesian-Filters-in-Python
 rlerdorf/php7dev
