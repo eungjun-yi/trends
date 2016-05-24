@@ -1509,6 +1509,7 @@ adzap/validates_timeliness
 aehlke/tag-it
 aekaplan/grid
 aemkei/jsfuck
+aerofs/react-native-auto-updater
 aerospike/aerospike-server
 aerys/minko
 afaqurk/linux-dash
