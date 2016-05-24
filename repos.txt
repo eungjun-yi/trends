@@ -314,6 +314,7 @@ DataTables/DataTables
 DatabaseCleaner/database_cleaner
 DavdRoman/Bohr
 DavdRoman/Popsicle
+DaveDavenport/rofi
 DaveWoodCom/XCGLogger
 DavidWells/isomorphic-react-example
 DavyJonesLocker/client_side_validations
