@@ -1605,6 +1605,7 @@ alfredxing/brick
 algolia/instantsearch.js
 aliasaria/scrumblr
 alibaba/AndFix
+alibaba/LuaViewSDK
 alibaba/RocketMQ
 alibaba/anyproxy
 alibaba/canal
@@ -2062,6 +2063,7 @@ bchanx/slidr
 bcit-ci/CodeIgniter
 bcosca/fatfree
 be-fe/iSlider
+be5invis/Iosevka
 be9/acl9
 bear/python-twitter
 beardedspice/beardedspice
