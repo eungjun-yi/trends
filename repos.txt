@@ -750,6 +750,7 @@ MariaDB/server
 MarioRicalde/SCSS.tmbundle
 MarlinFirmware/Marlin
 MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
+Marswin/MarsDaemon
 MartinRGB/Replace-iOS
 Marxon13/M13ProgressSuite
 Mashape/kong
