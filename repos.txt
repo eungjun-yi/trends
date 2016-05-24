@@ -4288,6 +4288,7 @@ httpswift/swifter
 htty/htty
 huangz1990/annotated_redis_source
 huangz1990/redis-3.0-annotated
+huangz1990/redisbook
 huboard/huboard
 hubtee/awesome-opensource-documents
 hueniverse/hawk
