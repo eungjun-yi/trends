@@ -8942,6 +8942,7 @@ zalmoxisus/redux-devtools-extension
 zaphoyd/websocketpp
 zaproxy/zaproxy
 zaqqaz/ng-rest-api
+zardus/ctf-tools
 zcbenz/nw-sample-apps
 zcweng/ToggleButton
 zdennis/activerecord-import
