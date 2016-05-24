@@ -7665,6 +7665,7 @@ siriscac/RippleView
 sirthias/parboiled
 sirthias/pegdown
 sitaramc/gitolite
+sitespeedio/coach
 sitespeedio/sitespeed.io
 sitexw/FuckAdBlock
 sivel/speedtest-cli
