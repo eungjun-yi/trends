@@ -1704,6 +1704,7 @@ andris9/jStorage
 andris9/mailtrain
 androguard/androguard
 android-cjj/Android-MaterialRefreshLayout
+android-cjj/BeautifulRefreshLayout
 android-cjj/JJSearchViewAnim
 android-cn/android-dev-cn
 android-cn/android-dev-com
