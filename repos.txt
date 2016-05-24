@@ -6697,6 +6697,7 @@ pi-hole/pi-hole
 pickhardt/betty
 picnicss/picnic
 picocms/Pico
+picturepan2/spectre
 piemonte/PBJVision
 pieroxy/lz-string
 pierrre/imageserver
