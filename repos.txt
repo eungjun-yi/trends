@@ -476,6 +476,7 @@ GriddleGriddle/Griddle
 Grive/grive
 Grouper/FlatUIKit
 Guake/guake
+Guikunzhi/BeautifyFaceDemo
 GumbyFramework/Gumby
 H07000223/FlycoTabLayout
 HIPS/autograd
