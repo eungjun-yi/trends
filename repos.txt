@@ -196,6 +196,7 @@ CEWendel/SWTableViewCell
 CISOfy/lynis
 CN-Chrome-DevTools/CN-Chrome-DevTools
 COCOPi/cockpit
+CRYTEK-CRYENGINE/CRYENGINE
 CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift
 CSS-Tricks/AnythingSlider
 CSSLint/csslint
