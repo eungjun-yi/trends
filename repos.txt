@@ -2775,6 +2775,7 @@ cure53/DOMPurify
 cure53/H5SC
 curl/curl
 curran/screencasts
+cutestrap/cutestrap
 cviebrock/eloquent-sluggable
 cwRichardKim/RKDropdownAlert
 cwRichardKim/RKNotificationHub
