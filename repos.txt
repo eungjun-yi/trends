@@ -5803,6 +5803,7 @@ michelf/php-markdown
 michelson/Dante
 michelson/lazy_high_charts
 michenriksen/gitrob
+micro/go-micro
 micro/micro
 micropython/micropython
 middleman/middleman
