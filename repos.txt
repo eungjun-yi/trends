@@ -7646,6 +7646,7 @@ sindresorhus/grunt-sass
 sindresorhus/grunt-shell
 sindresorhus/guides
 sindresorhus/gulp-app
+sindresorhus/gulp-imagemin
 sindresorhus/gulp-rev
 sindresorhus/load-grunt-tasks
 sindresorhus/multiline
