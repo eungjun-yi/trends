@@ -3088,6 +3088,7 @@ documentcloud/cloud-crowd
 documentcloud/jammit
 documentcloud/visualsearch
 dodgepudding/wechat-php-sdk
+dodola/HotFix
 dodola/MetaballLoading
 dogecoin/dogecoin
 dogescript/dogescript
