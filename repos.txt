@@ -258,6 +258,7 @@ CodeboxIDE/codebox
 Codecademy/EventHub
 Codeception/Codeception
 Codegyre/Robo
+CodepadME/laravel-tricks
 CoderMJLee/MJExtension
 CoderMJLee/MJRefresh
 Codeusa/Borderless-Gaming
@@ -3730,6 +3731,7 @@ futuresimple/android-floating-action-button
 futuretap/InAppSettingsKit
 futurice/android-best-practices
 futurice/ios-good-practices
+futurice/pepperoni-app-kit
 fvbock/endless
 fxbois/web-mode
 fxn/tkn
