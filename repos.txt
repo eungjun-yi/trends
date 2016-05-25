@@ -4354,6 +4354,7 @@ iammert/MaterialIntroView
 iandevlin/html5bones
 ianyh/Amethyst
 ibaaj/dijkstra-cartography
+ibireme/YYCache
 ibireme/YYKit
 ibireme/YYModel
 ibireme/YYText
