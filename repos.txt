@@ -7855,6 +7855,7 @@ square/moshi
 square/okhttp
 square/okio
 square/otto
+square/phrase
 square/picasso
 square/retrofit
 square/spoon
