@@ -7614,6 +7614,7 @@ sickill/git-dude
 siddontang/ledisdb
 sideshow/apns2
 sightmachine/SimpleCV
+sikuli/sikuli
 silentbicycle/greatest
 silexphp/Pimple
 silexphp/Silex
