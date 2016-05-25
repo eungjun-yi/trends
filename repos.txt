@@ -7084,6 +7084,7 @@ realm/SwiftLint
 realm/jazzy
 realm/realm-cocoa
 realm/realm-java
+realm/realm-js
 realpython/discover-flask
 reapp/reapp
 reark/reark
