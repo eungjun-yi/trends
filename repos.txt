@@ -996,6 +996,7 @@ PrestaShop/PrestaShop
 PrideChung/FontAwesomeKit
 Prinzhorn/skrollr
 PrismJS/prism
+PrismLibrary/Prism
 Project-OSRM/osrm-backend
 PromyLOPh/pianobar
 ProseMirror/prosemirror
