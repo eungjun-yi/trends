@@ -4332,6 +4332,7 @@ hybridgroup/gobot
 hyde/hyde
 hylang/hy
 hyper-carrot/go_command_tutorial
+hyperhq/hyperd
 hyperium/hyper
 hyperledger/hyperledger
 hyperoslo/Form
