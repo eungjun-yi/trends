@@ -8743,6 +8743,7 @@ wesbos/React-For-Beginners-Starter-Files
 wesbos/aprilFools.css
 wesbos/cobalt2
 wesleytodd/YeoPress
+wesm/feather
 wesm/pydata-book
 wesnoth/wesnoth
 wet-boew/wet-boew
