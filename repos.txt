@@ -468,6 +468,7 @@ Glimpse/Glimpse
 GooTechnologies/goojs
 GoogleChrome/chrome-app-samples
 GoogleChrome/chromedeveditor
+GoogleChrome/lighthouse
 GoogleChrome/samples
 GoogleChrome/sw-precache
 GoogleChrome/sw-toolbox
