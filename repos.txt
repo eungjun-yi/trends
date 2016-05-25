@@ -6123,6 +6123,7 @@ nathanmarz/cascalog
 nathanmarz/specter
 nathanmarz/storm
 nathanmarz/storm-starter
+nathanpeck/clui
 nathansearles/Slides
 nathansmith/960-Grid-System
 nathansmith/adapt
