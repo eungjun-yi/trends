@@ -6759,6 +6759,7 @@ pixelmatrix/uniform
 pixelsign/html5-device-mockups
 pixie-lang/pixie
 pixijs/pixi.js
+pjreddie/darknet
 pkluz/PKHUD
 pkluz/PKRevealController
 pkmital/tensorflow_tutorials
