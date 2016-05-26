@@ -4397,6 +4397,7 @@ idris-lang/Idris-dev
 idriskhenchil/Fort.js
 ieure/sicp
 ifandelse/machina.js
+igniterealtime/Openfire
 igniterealtime/Smack
 igorescobar/jQuery-Mask-Plugin
 igrigorik/em-http-request
