@@ -2931,6 +2931,7 @@ deano2390/MaterialShowcaseView
 dear-github/dear-github
 debian-pi/raspbian-ua-netinst
 debops/debops
+decosoftware/deco-ide
 ded/bonzo
 ded/bowser
 ded/qwery
