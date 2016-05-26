@@ -3517,6 +3517,7 @@ facebookarchive/python-instagram
 facebookarchive/react-meteor
 facebookarchive/redis-faina
 facebookarchive/scribe
+facebookarchive/sublime-react
 facebookarchive/three20
 facebookgo/grace
 facelessuser/BracketHighlighter
