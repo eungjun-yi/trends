@@ -1096,6 +1096,7 @@ RolifyCommunity/rolify
 RomainPiel/Shimmer-android
 RomainPiel/Titanic
 RubaXa/Sortable
+RubaXa/jquery.fileapi
 RubyLouvre/avalon
 RubyMoney/money
 Runscope/httpbin
