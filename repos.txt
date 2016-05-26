@@ -7355,6 +7355,7 @@ rust-lang/cargo
 rust-lang/rust
 rust-lang/rust-by-example
 rustbridge/neon
+rvagg/through2
 rvirding/lfe
 rvm/rvm
 rvoicilas/inotify-tools
