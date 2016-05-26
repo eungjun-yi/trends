@@ -5406,6 +5406,7 @@ lokesh/color-thief
 lokesh/lightbox2
 longld/peda
 lookingstars/meituan
+looly/elasticsearch-definitive-guide-cn
 loomio/loomio
 loopj/android-async-http
 loopj/android-smart-image-view
@@ -6587,6 +6588,7 @@ paranoida/sass-mediaqueries
 pardom/ActiveAndroid
 parkerbennett/stackicons
 parkjs814/AlgorithmVisualizer
+part-cw/lambdanative
 passsy/android-HoloCircularProgressBar
 passy/angular-masonry
 pat/thinking-sphinx
