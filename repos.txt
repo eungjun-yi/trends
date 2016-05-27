@@ -667,6 +667,7 @@ KeepSafe/dexcount-gradle-plugin
 KevinHM/ios-good-practices-the-lastest-version
 KeyboardFire/mkcast
 Khan/KaTeX
+Khan/aphrodite
 Khan/khan-exercises
 Khan/style-guides
 Khan/tota11y
@@ -8670,6 +8671,7 @@ vsouza/awesome-ios
 vthibault/roBrowser
 vuejs/awesome-vue
 vuejs/vue
+vuejs/vue-cli
 vuejs/vue-hackernews
 vuejs/vue-resource
 vuejs/vue-router
