@@ -2297,6 +2297,7 @@ bro/bro
 broccolijs/broccoli
 broofa/node-uuid
 brow/leaves
+brownhci/WebGazer
 browserhtml/browserhtml
 browsermedia/browsercms
 browserstate/history.js
