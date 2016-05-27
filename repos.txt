@@ -939,6 +939,7 @@ Overcoat/Overcoat
 OwlCarousel2/OwlCarousel2
 OwlFonk/OwlCarousel
 P-H-C/phc-winner-argon2
+P0cL4bs/WiFi-Pumpkin
 PCSX2/pcsx2
 PHP-FFMpeg/PHP-FFMpeg
 PHPMailer/PHPMailer
