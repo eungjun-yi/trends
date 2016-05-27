@@ -435,6 +435,7 @@ FransBouma/Massive
 FredKSchott/CoVim
 FredKSchott/the-node-way
 FredrikNoren/ungit
+FreeCAD/FreeCAD
 FreeCodeCamp/FreeCodeCamp
 FreeRDP/FreeRDP
 Freeboard/freeboard
@@ -5331,6 +5332,7 @@ liaohuqiu/cube-sdk
 lib/pq
 libgdx/libgdx
 libgdx/packr
+libgit2/git2go
 libgit2/libgit2
 libgit2/libgit2sharp
 libgit2/objective-git
