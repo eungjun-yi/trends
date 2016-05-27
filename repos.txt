@@ -1958,6 +1958,7 @@ attr-encrypted/attr_encrypted
 attractivechaos/klib
 auchenberg/chrome-devtools-app
 auchenberg/volkswagen
+audiocogs/aurora.js
 audiokit/AudioKit
 audreyr/cookiecutter
 audreyr/favicon-cheat-sheet
@@ -8920,6 +8921,7 @@ ybq/Android-SpinKit
 yconst/Freetile
 yeasy/docker_practice
 yelouafi/redux-saga
+yenchenlin/DeepLearningFlappyBird
 yenchenlin1994/DeepLearningFlappyBird
 yeoman/generator-angular
 yeoman/generator-chrome-extension
