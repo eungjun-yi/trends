@@ -3573,6 +3573,7 @@ feedbin/feedbin
 feedjira/feedjira
 felicegattuso/datedropper
 felipecsl/AsymmetricGridView
+felipecsl/wombat
 felipernb/algorithms.js
 felixge/node-ar-drone
 felixge/node-formidable
