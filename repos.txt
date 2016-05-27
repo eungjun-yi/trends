@@ -4227,6 +4227,7 @@ hebertialmeida/HAPaperViewController
 heelhook/chardin.js
 hehonghui/AndroidEventBus
 hehonghui/android-tech-frontier
+hehonghui/iOS-tech-frontier
 hehonghuidev/AndroidEventBus
 hehonghuidev/android-tech-frontier
 helios-framework/helios
