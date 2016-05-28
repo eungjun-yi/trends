@@ -3585,6 +3585,7 @@ felixhageloh/uebersicht
 felixonmars/dnsmasq-china-list
 fengsp/plan
 fengyuanchen/cropper
+fengyuanchen/cropperjs
 fengyuanchen/viewerjs
 fent/randexp.js
 feross/SpoofMAC
