@@ -3262,6 +3262,7 @@ ekmett/lens
 ekonstantinidis/gitify
 ekremkaraca/awesome-rails
 elabs/pundit
+eladnava/mailgen
 elastic/beats
 elastic/curator
 elastic/elasticsearch
