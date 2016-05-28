@@ -710,6 +710,7 @@ LeaVerou/stretchy
 LeadDyno/intercooler-js
 Leaflet/Leaflet
 Leaflet/Leaflet.markercluster
+LeanMeanFightingMachine/dploy
 LearnBoost/cluster
 Leimi/drawingboard.js
 Leo-G/DevopsWiki
