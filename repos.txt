@@ -7871,6 +7871,7 @@ spullara/mustache.java
 spy-js/spy-js
 spyder-ide/spyder
 sq/JSIL
+sqlcipher/android-database-sqlcipher
 sqlcipher/sqlcipher
 sqlitebrowser/sqlitebrowser
 sqlmapproject/sqlmap
