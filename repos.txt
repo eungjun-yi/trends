@@ -8222,6 +8222,7 @@ tholman/intense-images
 tholman/zenpen
 thomasahle/sunfish
 thomasdavis/backbonetutorials
+thomasfinch/GammaThingy
 thomaspark/bootswatch
 thomaspark/flexboxfroggy
 thomasxiii/photon
