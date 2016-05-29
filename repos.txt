@@ -4250,6 +4250,7 @@ hehonghuidev/android-tech-frontier
 helios-framework/helios
 helmetjs/helmet
 helmuthdu/aui
+hemanth/functional-programming-jargon
 henriquea/minigrid
 henrylee2cn/pholcus
 hephaest0s/usbkill
