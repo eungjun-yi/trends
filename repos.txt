@@ -7607,6 +7607,7 @@ shakacode/react-webpack-rails-tutorial
 shakacode/react_on_rails
 shakiba/stage.js
 shancarter/mr-data-converter
+shaojiankui/JKCategories
 shaojiankui/iOS-Categories
 shaps80/Peek
 share/ShareJS
