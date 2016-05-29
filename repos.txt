@@ -650,6 +650,7 @@ Julian/jsonschema
 JulienGenoud/android-percent-support-lib-sample
 Julienh/Sharrre
 Julioacarrettoni/UIImageView_FaceAwareFill
+Jungerr/GridPasswordView
 Junnplus/awesome-python-books
 JustinTulloss/zeromq.node
 Juude/awesome-android-performance
