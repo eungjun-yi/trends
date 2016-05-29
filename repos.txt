@@ -936,6 +936,7 @@ OptiKey/OptiKey
 OptimalBits/bull
 OptimalBits/node_acl
 OrchardCMS/Orchard
+OryxProject/oryx
 OscarGodson/EpicEditor
 Overcoat/Overcoat
 OwlCarousel2/OwlCarousel2
