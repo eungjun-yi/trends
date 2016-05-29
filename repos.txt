@@ -1349,6 +1349,7 @@ WebDevStudios/CMB2
 WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
 Webschool-io/be-mean-instagram
+WechatFE/vConsole
 WenchaoD/FSCalendar
 WhatCD/Gazelle
 WhichBrowser/Parser
