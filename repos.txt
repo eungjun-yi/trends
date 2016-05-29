@@ -6199,6 +6199,7 @@ neo4j/neo4j
 neo4jrb/neo4j
 neokree/MaterialNavigationDrawer
 neokree/MaterialTabs
+neonichu/FixCode
 neovim/neovim
 neror/ftutils
 nervgh/angular-file-upload
