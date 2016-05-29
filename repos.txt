@@ -6228,6 +6228,7 @@ nghttp2/nghttp2
 nginx-boilerplate/nginx-boilerplate
 nginx/nginx
 nginx/nginx-releases
+ngrx/store
 nhaarman/ListViewAnimations
 nhachicha/SnappyDB
 nhibernate/nhibernate-core
