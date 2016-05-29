@@ -1773,6 +1773,7 @@ angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
 angulartics/angulartics
 angusshire/greenhat
+anicollection/anicollection
 anijs/anijs
 anishathalye/git-remote-dropbox
 ankane/ahoy
