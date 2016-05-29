@@ -7788,6 +7788,7 @@ soffes/sspulltorefresh
 soffes/sstoolkit
 sofish/pen
 sofish/typo.css
+sofish/wechat.js
 softwaredownload/openwrt-fanqiang
 sohutv/cachecloud
 soimort/translate-shell
