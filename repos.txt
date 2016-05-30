@@ -3433,6 +3433,7 @@ evanw/glfx.js
 eventmachine/eventmachine
 evernote/android-job
 everpix/Everpix-Intelligence
+evgenyrodionov/redux-logger
 evilcos/papers
 evilsocket/bettercap
 evilstreak/markdown-js
