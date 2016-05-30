@@ -71,6 +71,7 @@ AliasIO/Wappalyzer
 AllThingsSmitty/css-protips
 AllThingsSmitty/jquery-tips-everyone-should-know
 AllThingsSmitty/must-watch-css
+AllThingsSmitty/must-watch-javascript
 AlloyTeam/AlloyImage
 AlloyTeam/JX
 AlloyTeam/Mars
@@ -168,6 +169,7 @@ BinaryMuse/planetary.js
 Bitmessage/PyBitmessage
 Bj/fly
 BlackrockDigital/startbootstrap
+BlackrockDigital/startbootstrap-freelancer
 BlackrockDigital/startbootstrap-sb-admin
 BlackrockDigital/startbootstrap-sb-admin-2
 Block8/PHPCI
