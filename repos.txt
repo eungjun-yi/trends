@@ -6478,6 +6478,7 @@ onevcat/VVBlurPresentation
 onevcat/VVDocumenter-Xcode
 ongakuer/CircleIndicator
 onlywei/explain-git-with-d3
+onmyway133/fantastic-ios-animation
 onokumus/metisMenu
 onsi/ginkgo
 onurakpolat/awesome-bigdata
