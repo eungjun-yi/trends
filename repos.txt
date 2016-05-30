@@ -6526,6 +6526,7 @@ openstack/openstack
 openstack/swift
 openstf/stf
 openstreetmap/iD
+openthread/openthread
 opentoonz/opentoonz
 opentripplanner/OpenTripPlanner
 openvswitch/ovs
