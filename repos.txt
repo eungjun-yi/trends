@@ -952,6 +952,7 @@ PHPOffice/PHPExcel
 PHPOffice/PHPWord
 PHPSocialNetwork/phpfastcache
 PMSI-AlignAlytics/dimple
+Pana/node-books
 PaoloRotolo/AppIntro
 ParsePlatform/Anypic
 ParsePlatform/Parse-SDK-Android
