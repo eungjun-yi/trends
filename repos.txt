@@ -8188,6 +8188,7 @@ tfredrich/RestApiTutorial.com
 tgalal/yowsup
 tgriesser/bookshelf
 tgriesser/knex
+thalesians/pythalesians
 thampiman/reverse-geocoder
 theDazzler/droidicon
 theScrabi/NewPipe
