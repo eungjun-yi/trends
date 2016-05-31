@@ -8479,6 +8479,7 @@ tumblr/Backboard
 tumblr/TMCache
 tumblr/jetpants
 tumtumtum/StreamingKit
+turbolinks/turbolinks
 turbolinks/turbolinks-classic
 turbulenz/turbulenz_engine
 tutao/tutanota
