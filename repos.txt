@@ -7769,6 +7769,7 @@ slackhq/hubot-slack
 slact/nchan
 slap-editor/slap
 slate/slate
+slazyk/Observable-Swift
 slembcke/Chipmunk2D
 slevithan/xregexp
 slick/slick
