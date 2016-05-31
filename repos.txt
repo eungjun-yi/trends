@@ -6727,6 +6727,7 @@ phanan/htaccess
 phanan/koel
 pheuter/essential-react
 phiggins42/has.js
+philackm/Scrollable-GraphView
 philc/vimium
 philcryer/lipsync
 phildawes/racer
