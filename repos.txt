@@ -2806,6 +2806,7 @@ cure53/H5SC
 curl/curl
 curran/screencasts
 cutestrap/cutestrap
+cutting-room-floor/mi-sdk-legacy
 cviebrock/eloquent-sluggable
 cwRichardKim/RKDropdownAlert
 cwRichardKim/RKNotificationHub
