@@ -4700,6 +4700,7 @@ jekyll/jekyll
 jelmer/dulwich
 jemalloc/jemalloc
 jenius/roots
+jenkinsci/blueocean-plugin
 jenssegers/agent
 jenssegers/laravel-mongodb
 jeremyevans/sequel
@@ -4737,6 +4738,7 @@ jgm/CommonMark
 jgm/gitit
 jgm/pandoc
 jgrahamc/httpdiff
+jgregory-zynga/scroller
 jgthms/bulma
 jhipster/generator-jhipster
 jhnns/rewire
