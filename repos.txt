@@ -4782,6 +4782,7 @@ jmascia/KLCPopup
 jmcarp/robobrowser
 jmcunningham/AngularJS-Learning
 jmdobry/angular-cache
+jmdugan/blocklists
 jmechner/Prince-of-Persia-Apple-II
 jmettraux/rufus-scheduler
 jmoiron/sqlx
