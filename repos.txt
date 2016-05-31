@@ -1049,6 +1049,7 @@ Rajawali/Rajawali
 Ramotion/adaptive-tab-bar
 Ramotion/animated-tab-bar
 Ramotion/circle-menu
+Ramotion/expanding-collection
 Ramotion/folding-cell
 Ramotion/folding-cell-android
 Ramotion/navigation-stack
