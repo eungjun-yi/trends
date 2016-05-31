@@ -1310,6 +1310,7 @@ Unitech/pm2
 Unknwon/go-fundamental-programming
 Unknwon/the-way-to-go_ZH_CN
 UrbanApps/UAModalPanel
+UrbanApps/UAProgressView
 Urigo/angular-meteor
 UweTrottmann/SeriesGuide
 VPenkov/okayNav
