@@ -2216,6 +2216,7 @@ blueimp/jQuery-File-Upload
 bluejamesbond/TextJustify-Android
 bluelinelabs/Conductor
 bluelinelabs/LoganSquare
+bluesmoon/node-geoip
 blynn/gitmagic
 bmatzelle/gow
 bmelnychuk/AndroidTreeView
