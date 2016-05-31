@@ -2050,6 +2050,7 @@ banchichen/TZImagePickerController
 bang590/JSPatch
 baoyongzhang/SwipeMenuListView
 baoyongzhang/android-PullRefreshLayout
+barbushin/php-console
 barryclark/bashstrap
 barryclark/jekyll-now
 barryvdh/laravel-debugbar
@@ -2561,6 +2562,7 @@ chukong/cocos-docs
 chukong/quick-cocos2d-x
 churchio/onebody
 ci-bonfire/Bonfire
+ciaranj/connect-auth
 ciaranj/node-oauth
 cinchrb/cinch
 cinder/Cinder
