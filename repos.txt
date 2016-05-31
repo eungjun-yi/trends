@@ -312,6 +312,7 @@ DanMcInerney/wifijammer
 DanielRapp/doppler
 DanielWaterworth/Raphters
 Dash-Industry-Forum/dash.js
+DataBrewery/cubes
 DataScienceSpecialization/DataScienceSpecialization.github.io
 DataScienceSpecialization/courses
 DataTables/DataTables
