@@ -1065,6 +1065,7 @@ Ranks/emojify.js
 Ranks/emojione
 Raynos/mercury
 ReSwift/ReSwift
+ReactJSTraining/history
 ReactKit/ReactKit
 ReactKit/SwiftTask
 Reactive-Extensions/Rx.NET
