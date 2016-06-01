@@ -1707,6 +1707,7 @@ anandkunal/ToroPHP
 anchorcms/anchor-cms
 andelf/fuck12306
 andersbll/deeppy
+andersbll/neural_artistic_style
 andkulikov/Transitions-Everywhere
 andlabs/libui
 andlabs/ui
