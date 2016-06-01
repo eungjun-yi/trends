@@ -4087,6 +4087,7 @@ googlesamples/cardboard-java
 googlesamples/easypermissions
 googlesamples/google-services
 googlevr/gvr-android-sdk
+googlevr/gvr-unity-sdk
 googollee/eviltransform
 googollee/go-socket.io
 gopatrik/space.js
