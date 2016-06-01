@@ -2233,6 +2233,7 @@ bobthecow/git-flow-completion
 bobthecow/mustache.php
 bobthecow/psysh
 boctor/idev-recipes
+bodymovin/bodymovin
 bokeh/bokeh
 bokmann/font-awesome-rails
 bolasblack/http-api-guide
