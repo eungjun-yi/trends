@@ -5900,6 +5900,7 @@ mikemaccana/python-docx
 mikepenz/AboutLibraries
 mikepenz/Android-ActionItemBadge
 mikepenz/Android-Iconics
+mikepenz/FastAdapter
 mikepenz/LollipopShowcase
 mikepenz/MaterialDrawer
 mikeric/rivets
