@@ -568,6 +568,7 @@ IonicaBizau/scrape-it
 IronLanguages/main
 IsseiAoki/SimpleCropView
 Itseez/opencv
+Itseez/opencv_contrib
 J7mbo/twitter-api-php
 JACoders/OpenJK
 JStumpp/awesome-android
