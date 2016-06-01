@@ -1595,6 +1595,7 @@ akshayKMR/hogwatch
 aksonov/react-native-router-flux
 akullpp/awesome-java
 akveo/blur-admin
+akveo/ng2-admin
 alamkanak/Android-Week-View
 albertlatacz/java-repl
 alcatraz/Alcatraz
@@ -4954,6 +4955,7 @@ jschr/bootstrap-modal
 jschr/textillate
 jscs-dev/node-jscs
 jsdelivr/jsdelivr
+jsdf/react-native-refreshable-listview
 jsdoc3/jsdoc
 jsfront/src
 jshaw87/Cheatsheets
