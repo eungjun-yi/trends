@@ -609,6 +609,7 @@ Jasig/cas
 JasonMortonNZ/bs3-sublime-plugin
 JaviSoto/JSBadgeView
 Jawbone/JBChartView
+JazysYu/JZNavigationExtension
 JedWatson/classnames
 JedWatson/react-select
 JeffreySu/WeiXinMPSDK
