@@ -3975,6 +3975,7 @@ go-qml/qml
 go-redis/redis
 go-sql-driver/mysql
 go-xorm/xorm
+go-yaml/yaml
 go-zoo/bone
 goaop/framework
 goatslacker/alt
@@ -8222,6 +8223,7 @@ textmate/textmate
 tflearn/tflearn
 tfredrich/RestApiTutorial.com
 tgalal/yowsup
+tgdwyer/WebCola
 tgriesser/bookshelf
 tgriesser/knex
 thalesians/pythalesians
