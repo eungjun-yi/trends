@@ -4704,6 +4704,7 @@ jedireza/drywall
 jedisct1/dnscrypt-proxy
 jedisct1/libsodium
 jedrzejchalubek/Glide.js
+jedrzejchalubek/glidejs
 jeff-collins/ment.io
 jeff-optimizely/Guiders-JS
 jefferyleo/f.lux
