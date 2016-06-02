@@ -8684,6 +8684,7 @@ vertiginous/pik
 vfr/Reader
 vgvassilev/cling
 vhf/free-programming-books
+vic317yeh/One-Click-to-Be-Pro
 vicpenap/PrettyKit
 victorBaro/VBFPopFlatButton
 victorporof/Sublime-HTMLPrettify
