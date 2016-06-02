@@ -3882,6 +3882,7 @@ getsentry/sentry
 gettalong/kramdown
 geuis/helium-css
 gevent/gevent
+gfranko/jquery.selectBoxIt.js
 gfwlist/gfwlist
 ggreer/the_silver_searcher
 gh-unit/gh-unit
