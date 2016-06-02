@@ -8089,6 +8089,7 @@ supermarin/xcpretty
 superpowers/superpowers-core
 suprb/Grid-A-Licious
 suprb/Nested
+surgemq/surgemq
 survivejs/react
 survivejs/webpack
 survivejs/webpack_react
