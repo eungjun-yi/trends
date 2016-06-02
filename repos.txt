@@ -2681,6 +2681,7 @@ coderyi/Monkey
 codestergit/SweetAlert-iOS
 codesuki/react-d3-components
 codetainerapp/codetainer
+codrops/Animocons
 codrops/HoverEffectIdeas
 codrops/PageTransitions
 codrops/SidebarTransitions
