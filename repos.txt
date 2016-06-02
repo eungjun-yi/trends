@@ -1389,6 +1389,7 @@ XVimProject/XVim
 XX-net/XX-Net
 Xcode-Snippets/Objective-C
 XcodeGhostSource/XcodeGhost
+Xethron/migrations-generator
 Xfennec/progress
 XiaoMi/open-falcon
 Xuzz/newsyc
