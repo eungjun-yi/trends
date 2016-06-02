@@ -261,6 +261,7 @@ CodeboxIDE/codebox
 Codecademy/EventHub
 Codeception/Codeception
 Codegyre/Robo
+Codeido/PMAlertController
 CodepadME/laravel-tricks
 CoderMJLee/MJExtension
 CoderMJLee/MJRefresh
