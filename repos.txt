@@ -797,6 +797,7 @@ MeoMix/StreamusChromeExtension
 MiCode/FileExplorer
 MiCode/Notes
 MichMich/MagicMirror
+MichaelEvans/ColorArt
 Microsoft/BashOnWindows
 Microsoft/BotBuilder
 Microsoft/CNTK
@@ -1583,6 +1584,7 @@ ajaxorg/ace-builds
 ajaxorg/cloud9
 ajenti/ajenti
 ajinabraham/Mobile-Security-Framework-MobSF
+ajlkn/skel
 ajoslin/angular-mobile-nav
 ajvb/kala
 akavache/Akavache
