@@ -1180,6 +1180,7 @@ SirCmpwn/TrueCraft
 SirCmpwn/sway
 SirVer/ultisnips
 Sirupsen/logrus
+SkillCollege/QrCodeScan
 SkillCollege/SimplifyReader
 Skykai521/StickerCamera
 Skyscanner/SkyFloatingLabelTextField
@@ -8106,6 +8107,7 @@ swagger-api/swagger-ui
 swagger-api/swagger.io
 swannodette/mori
 swanson/stringer
+sweet-js/sweet.js
 swiftcodex/Swift-Radio-Pro
 swiftmailer/swiftmailer
 swig/swig
