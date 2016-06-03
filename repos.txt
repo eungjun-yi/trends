@@ -1128,6 +1128,7 @@ SFML/SFML
 SFTtech/openage
 SSilence/selfoss
 STRML/react-grid-layout
+SUSE/Portus
 SVGKit/SVGKit
 SVProgressHUD/SVProgressHUD
 Sage/streamlinejs
@@ -1461,6 +1462,7 @@ aFarkas/lazysizes
 aFarkas/webshim
 aanand/deadweight
 aanand/git-up
+aaronn/ANBlurredImageView
 aaronsw/html2text
 aasm/aasm
 abourget/gevent-socketio
