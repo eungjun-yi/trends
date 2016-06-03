@@ -6720,6 +6720,7 @@ pdcgomes/XCActionBar
 pdfkit/pdfkit
 peachananr/onepage-scroll
 pearkes/tugboat
+peatio/peatio
 peco/peco
 pedant/safe-java-js-webview-bridge
 pedant/sweet-alert-dialog
