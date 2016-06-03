@@ -3921,6 +3921,7 @@ git-cola/git-cola
 git-ftp/git-ftp
 git-game/git-game
 git-tfs/git-tfs
+git-tips/tips
 git-up/GitUp
 git/git
 git/git-scm.com
