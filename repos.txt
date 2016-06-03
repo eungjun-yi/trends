@@ -4404,6 +4404,7 @@ hyper-carrot/go_command_tutorial
 hyperhq/hyperd
 hyperium/hyper
 hyperledger/hyperledger
+hyperopt/hyperopt
 hyperoslo/Form
 hyperoslo/Hue
 hyperoslo/ImagePicker
