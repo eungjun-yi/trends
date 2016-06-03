@@ -7895,6 +7895,7 @@ soulwire/sketch.js
 soumith/convnet-benchmarks
 soundcloud/lhm
 soundcloud/roshi
+sourcegraph/srclib
 soveran/cuba
 soveran/ohm
 sovereign/sovereign
