@@ -4095,6 +4095,7 @@ google/xi-editor
 google/yapf
 google/zopfli
 googleanalytics/autotrack
+googlecreativelab/anypixel
 googlecreativelab/coder
 googlei18n/libphonenumber
 googlemaps/android-maps-utils
