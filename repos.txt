@@ -6093,6 +6093,7 @@ mozilla/Fira
 mozilla/MozDef
 mozilla/bleach
 mozilla/firefox-ios
+mozilla/kuma
 mozilla/localForage
 mozilla/metrics-graphics
 mozilla/mozjpeg
