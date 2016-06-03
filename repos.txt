@@ -8214,6 +8214,7 @@ tenXer/xcharts
 tencent-php/tsf
 tenex/rails-assets
 tennc/webshell
+tensorflow/magenta
 tensorflow/models
 tensorflow/playground
 tensorflow/skflow
