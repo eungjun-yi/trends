@@ -7348,6 +7348,7 @@ rocketeers/rocketeer
 rodreegez/powder
 rofl0r/proxychains-ng
 rogerdudler/git-guide
+rohitkrai03/pills
 roidrage/lograge
 rolando/scrapy-redis
 rollup/rollup
