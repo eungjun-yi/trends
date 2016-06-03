@@ -5313,6 +5313,7 @@ laravel/homestead
 laravel/laravel
 laravel/lumen
 laravel/socialite
+laravelio/laravel.io
 larcus94/ImagePickerSheetController
 larrynatalicio/15DaysofAnimationsinSwift
 larsenwork/Gidole
