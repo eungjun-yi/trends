@@ -8039,6 +8039,7 @@ stephenhutchings/typicons.font
 stephenmcd/django-socketio
 stephenmcd/mezzanine
 stephenplusplus/grunt-wiredep
+stephentuso/welcome-android
 stephenway/sketch-foundation-kit
 steshaw/plt
 stevedekorte/io
