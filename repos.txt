@@ -8249,6 +8249,7 @@ ternjs/tern
 ternjs/tern_for_vim
 terryma/vim-multiple-cursors
 terrymun/Fluidbox
+terryum/awesome-deep-learning-papers
 terryworona/TWMessageBarManager
 tessalt/echo-chamber-js
 tesseract-ocr/tesseract
