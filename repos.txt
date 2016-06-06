@@ -5452,6 +5452,7 @@ lipis/bootstrap-social
 lipis/flag-icon-css
 lipka/piecon
 liquibase/liquibase
+liriliri/eruda
 lisa-lab/DeepLearningTutorials
 lisa-lab/pylearn2
 listen1/listen1_chrome_extension
