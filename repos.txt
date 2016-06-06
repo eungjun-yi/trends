@@ -4254,6 +4254,7 @@ hamstergem/hamster
 hanami/hanami
 handsontable/handsontable
 hangtwenty/dive-into-machine-learning
+hangyan/docker-resources
 hankcs/HanLP
 hanks-zyh/HTextView
 hannes-brt/hebel
