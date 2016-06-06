@@ -2871,6 +2871,7 @@ daimajia/AndroidViewHover
 daimajia/AnimationEasingFunctions
 daimajia/AnimeTaste
 daimajia/NumberProgressBar
+dakrone/cheshire
 dakrone/clj-http
 daltoniam/Starscream
 daltoniam/SwiftHTTP
