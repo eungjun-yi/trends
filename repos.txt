@@ -2691,6 +2691,7 @@ codetainerapp/codetainer
 codrops/Animocons
 codrops/HoverEffectIdeas
 codrops/PageTransitions
+codrops/SeatPreview
 codrops/SidebarTransitions
 coduo/php-humanizer
 codylindley/frontend-tools
