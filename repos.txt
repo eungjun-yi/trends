@@ -4934,6 +4934,7 @@ joshuagatcke/HTML-KickStart
 journeyapps/zxing-android-embedded
 joyent/libuv
 joyent/smartos-live
+joyoyao/superCleanMaster
 jp9000/OBS
 jp9000/obs-studio
 jpardogo/GoogleProgressBar
