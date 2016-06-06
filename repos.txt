@@ -800,6 +800,7 @@ MiCode/FileExplorer
 MiCode/Notes
 MichMich/MagicMirror
 MichaelEvans/ColorArt
+MicheleBertoli/css-in-js
 Microsoft/BashOnWindows
 Microsoft/BotBuilder
 Microsoft/CNTK
