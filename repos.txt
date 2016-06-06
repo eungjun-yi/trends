@@ -6469,6 +6469,7 @@ nvie/pip-tools
 nvie/rq
 nvk/sketch-ios
 nwidger/nintengo
+nwjs/grunt-nw-builder
 nwjs/nw-builder
 nwjs/nw.js
 nygard/class-dump
