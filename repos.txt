@@ -7912,6 +7912,7 @@ soulwire/Makisu
 soulwire/fit.js
 soulwire/sketch.js
 soumith/convnet-benchmarks
+soundblogs/react-soundplayer
 soundcloud/lhm
 soundcloud/roshi
 sourcegraph/srclib
