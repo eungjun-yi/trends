@@ -703,6 +703,7 @@ KrauseFx/TSMessages
 LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 LMAX-Exchange/disruptor
 LMMS/lmms
+LWJGL/lwjgl3
 LarsWerkman/HoloColorPicker
 Lasagne/Lasagne
 LaunchKit/SketchToAppStore
