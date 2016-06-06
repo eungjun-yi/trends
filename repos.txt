@@ -2771,6 +2771,7 @@ cowboyd/therubyracer
 cozy/cozy-setup
 cparnot/ASCIImage
 cpettitt/dagre
+cpfair/tapiriik
 cplusplus/draft
 cppformat/cppformat
 cpvrlab/ImagePlay
