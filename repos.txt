@@ -6729,6 +6729,7 @@ paypal/accessible-html5-video-player
 paypal/react-engine
 paz-sh/paz
 pazguille/offline-first
+pbakaus/scroller
 pbatard/rufus
 pbreault/adb-idea
 pcottle/learnGitBranching
