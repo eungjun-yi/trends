@@ -826,6 +826,7 @@ Microsoft/vscode-go
 MicrosoftDX/Vorlonjs
 MicrosoftEdge/static-code-scan
 MiguelCatalan/MaterialSearchView
+MikeMcl/bignumber.js
 MikeMcl/decimal.js
 MikeOrtiz/TouchImageView
 MinecraftForge/MinecraftForge
