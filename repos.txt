@@ -2603,6 +2603,7 @@ ckan/ckan
 ckeditor/ckeditor-dev
 clappr/clappr
 claritylab/lucida
+clauderic/react-infinite-calendar
 claudiajs/claudia
 clayallsopp/routable-ios
 cldwalker/hirb
