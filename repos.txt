@@ -695,6 +695,7 @@ KnpLabs/snappy
 KnuffApp/Knuff
 Konloch/bytecode-viewer
 Kotlin/anko
+Kozea/Radicale
 Kozea/WeasyPrint
 Kozea/pygal
 Kozea/wdb
