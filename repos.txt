@@ -2022,6 +2022,7 @@ avelino/awesome-go
 avinassh/rockstar
 awalGarg/cv-maker
 awentzonline/image-analogies
+awesome-print/awesome_print
 awesto/django-shop
 aws/aws-cli
 aws/aws-sdk-go
