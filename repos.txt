@@ -125,6 +125,7 @@ Aufree/phphub-ios
 Aufree/trip-to-iOS
 Augus/ngAnimate
 AugustRush/ARSegmentPager
+AugustRush/Stellar
 Augustyniak/RATreeView
 AutoFixture/AutoFixture
 AutoMapper/AutoMapper
