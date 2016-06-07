@@ -6095,6 +6095,7 @@ mortdeus/legacy-cc
 mortenjust/androidtool-mac
 mortenjust/cleartext-mac
 mortenjust/droptogif
+mosra/magnum
 mossmann/hackrf
 motdotla/dotenv
 motemen/gore
