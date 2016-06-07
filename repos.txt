@@ -2444,6 +2444,7 @@ carrierwaveuploader/carrierwave
 carrot/share-button
 carsonperrotti/CNPPopupController
 cartalyst/sentry
+carteb/carte-blanche
 casesandberg/react-color
 casesandberg/reactcss
 caskroom/homebrew-cask
