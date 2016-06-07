@@ -4645,6 +4645,7 @@ jamiewilson/predawn
 jamztang/CSStickyHeaderFlowLayout
 jamztang/JTGestureBasedTableViewDemo
 jamztang/JTRevealSidebarDemo
+janko-m/shrine
 jankotek/mapdb
 janl/mustache.js
 janpaepke/ScrollMagic
