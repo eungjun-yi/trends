@@ -3456,6 +3456,7 @@ ethantw/Han
 ether/etherpad-lite
 ether/pad
 ethereum/go-ethereum
+ethereum/mist
 ethereum/wiki
 etianen/django-reversion
 etianen/html5media
