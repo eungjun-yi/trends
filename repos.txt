@@ -1234,6 +1234,7 @@ Subash/Prepros
 SublimeCodeIntel/SublimeCodeIntel
 SublimeLinter/SublimeLinter3
 SublimeText-Markdown/MarkdownEditing
+SublimeText/CTags
 SublimeText/LaTeXTools
 SublimeText/Origami
 Sumi-Interactive/SIAlertView
