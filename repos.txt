@@ -9004,6 +9004,7 @@ xmartlabs/XLForm
 xmartlabs/XLPagerTabStrip
 xmuSistone/android-card-slide-panel
 xmuSistone/android-vertical-slide-view
+xonsh/xonsh
 xoreaxeaxeax/movfuscator
 xoxco/jQuery-Tags-Input
 xtaci/algorithms
