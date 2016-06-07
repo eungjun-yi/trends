@@ -2202,6 +2202,7 @@ binux/yaaw
 biometrics/openbr
 bitcoin/bitcoin
 bitcoinbook/bitcoinbook
+bitcoinj/bitcoinj
 bitcoinjs/bitcoinjs-lib
 bitemyapp/learnhaskell
 bitly/data_hacks
@@ -4704,6 +4705,7 @@ jaysalvat/vegas
 jayway/JsonPath
 jayway/rest-assured
 jaz303/tipsy
+jazzband/django-admin2
 jazzband/django-pipeline
 jazzychad/PushServer
 jberkel/sms-backup-plus
