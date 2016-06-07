@@ -2814,6 +2814,7 @@ csswizardry/inuit.css
 ctavan/express-validator
 ctfs/write-ups-2014
 ctfs/write-ups-2015
+ctjhoa/rust-learning
 ctran/annotate_models
 cuber/ngx_http_google_filter_module
 cuberite/cuberite
