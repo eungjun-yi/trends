@@ -8040,6 +8040,7 @@ staltz/rxmarbles
 stamparm/maltrail
 stampit-org/stampit
 stanfordnlp/CoreNLP
+stascorp/rdpwrap
 statsmodels/statsmodels
 stealjs/steal
 stedolan/jq
