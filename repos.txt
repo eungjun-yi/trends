@@ -1353,6 +1353,7 @@ VinceG/Bootstrap-Admin-Theme
 VinceG/twitter-bootstrap-wizard
 VincentGarreau/particles.js
 Vinodh-G/ParallaxTableViewHeader
+VirusTotal/yara
 VisualPHPUnit/VisualPHPUnit
 VitaliyRodnenko/geeknote
 VodkaBears/Remodal
