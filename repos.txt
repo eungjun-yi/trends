@@ -1878,6 +1878,7 @@ apiaryio/dredd
 apidoc/apidoc
 apitrace/apitrace
 apneadiving/Google-Maps-for-Rails
+apocas/dockerode
 apollostack/apollo
 aporter/coursera-android
 apotonick/cells
