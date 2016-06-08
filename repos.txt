@@ -4956,6 +4956,7 @@ joyent/smartos-live
 joyoyao/superCleanMaster
 jp9000/OBS
 jp9000/obs-studio
+jpadilla/pyjwt
 jpardogo/GoogleProgressBar
 jpardogo/ListBuddies
 jpetazzo/dind
