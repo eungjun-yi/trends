@@ -5278,6 +5278,7 @@ krakenjs/kraken-js
 krakenjs/lusca
 krakjoe/pthreads
 krasimir/absurd
+krasimir/cssx
 krasimir/deb.js
 kriasoft/react-starter-kit
 kripken/ammo.js
