@@ -341,6 +341,7 @@ DianQK/TransitionTreasury
 Diaoul/subliminal
 Differential/meteor-boilerplate
 Dillion/iOS-Flip-Transform
+Dimezis/BlurView
 Dimillian/SwiftHN
 Diolor/Swipecards
 DiscoverMeteor/Microscope
