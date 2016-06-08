@@ -3442,6 +3442,7 @@ es-analysis/plato
 es-shims/es5-shim
 esbullington/react-d3
 escoz/QuickDialog
+esdoc/esdoc
 eseedo/kidscoding
 esilverberg/ios-image-filters
 eslint/eslint
