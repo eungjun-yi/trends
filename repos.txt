@@ -3869,6 +3869,7 @@ gavinkwoe/BeeFramework
 gawel/pyquery
 gazay/gon
 gcanti/tcomb
+gcanti/tcomb-form
 gcanti/tcomb-form-native
 gchp/iota
 gcuisinier/jenv
