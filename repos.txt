@@ -3281,6 +3281,7 @@ ealeksandrov/EAIntroView
 easelinc/tourist
 eastlakeside/interpy-zh
 easychen/howto-make-more-money
+easylogging/easyloggingpp
 easymotion/vim-easymotion
 easysoft/zui
 ebidel/filer.js
