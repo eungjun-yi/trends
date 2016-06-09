@@ -5409,6 +5409,7 @@ leongersen/noUiSlider
 leonidas/transparency
 lepture/editor
 lepture/github-cards
+lerna/lerna
 lerrua/remote-jobs-brazil
 less/less.js
 less/less.ruby
