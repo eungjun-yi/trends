@@ -935,6 +935,7 @@ OculusVR/RakNet
 OfficeDev/Office-UI-Fabric
 OfficeDev/Open-XML-SDK
 OfficeDev/PnP
+OfficeDev/office-ui-fabric
 Olical/EventEmitter
 OneGet/oneget
 OnsenUI/OnsenUI
