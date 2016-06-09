@@ -1865,6 +1865,7 @@ apache/spark
 apache/storm
 apache/thrift
 apache/tomcat
+apache/zeppelin
 apache/zookeeper
 apaszke/termtile
 apenwarr/git-subtree
