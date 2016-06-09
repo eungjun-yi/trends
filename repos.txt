@@ -117,6 +117,7 @@ AsyncHttpClient/async-http-client
 Athou/commafeed
 Atlantic18/DoctrineExtensions
 Atmosphere/atmosphere
+AtomicGameEngine/AtomicGameEngine
 AttackOnDobby/iOS-Core-Animation-Advanced-Techniques
 Attendize/Attendize
 AudithSoftworks/Uniform
