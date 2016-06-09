@@ -7388,6 +7388,7 @@ robertpenner/as3-signals
 robertsdionne/neural-network-papers
 robertwijas/UISS
 robfig/cron
+robflaherty/jquery-scrolldepth
 robicch/jQueryGantt
 robmorgan/phinx
 roboguice/roboguice
