@@ -5094,6 +5094,7 @@ kadirahq/flow-router
 kadirahq/mantra
 kadirahq/react-storybook
 kahun/awesome-sysadmin
+kaimallea/isMobile
 kairosdb/kairosdb
 kaishengtai/neuralart
 kaishin/Gifu
@@ -7544,6 +7545,7 @@ sachinchoolur/lightslider
 saeedalipoor/icono
 sagivo/algorithms
 sahat/hackathon-starter
+sahat/megaboilerplate
 sahat/satellizer
 sahildave/Search-View-Layout
 saiprashanths/dl-setup
