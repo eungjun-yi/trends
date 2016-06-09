@@ -8776,6 +8776,7 @@ viljamis/ResponsiveSlides.js
 viljamis/feature.js
 viljamis/responsive-nav.js
 vim-airline/vim-airline
+vim-awesome/vim-awesome
 vim-ctrlspace/vim-ctrlspace
 vim-ruby/vim-ruby
 vim/vim
