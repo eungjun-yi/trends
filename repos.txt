@@ -6145,6 +6145,7 @@ mozilla/localForage
 mozilla/metrics-graphics
 mozilla/mozjpeg
 mozilla/nunjucks
+mozilla/openbadges-backpack
 mozilla/pdf.js
 mozilla/persona
 mozilla/popcorn-js
