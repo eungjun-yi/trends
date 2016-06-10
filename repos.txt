@@ -9139,6 +9139,7 @@ yudai/gotty
 yui/yui3
 yui/yuicompressor
 yuin/gopher-lua
+yujinakayama/transpec
 yuki24/did_you_mean
 yukiasai/Gecco
 yuku-t/jquery-textcomplete
