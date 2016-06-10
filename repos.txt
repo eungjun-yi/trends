@@ -1697,6 +1697,7 @@ aluzzardi/wssh
 alvarotrigo/fullPage.js
 alvarotrigo/pagePiling.js
 alvises/FPPopover
+amaas/stanford_dl_ex
 amark/gun
 amatsuda/kaminari
 amayne/SwiftString
