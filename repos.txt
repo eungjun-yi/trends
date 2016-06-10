@@ -1587,6 +1587,7 @@ airbnb/airpal
 airbnb/caravel
 airbnb/css
 airbnb/enzyme
+airbnb/hypernova
 airbnb/infinity
 airbnb/javascript
 airbnb/polyglot.js
