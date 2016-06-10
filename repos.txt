@@ -2280,6 +2280,7 @@ bootflat/bootflat.github.io
 bootstrap-ruby/rails-bootstrap-forms
 bootstrap-tagsinput/bootstrap-tagsinput
 borgbackup/borg
+borismus/webvr-boilerplate
 borisrepl/boris
 borisyankov/react-sparklines
 bosun-monitor/bosun
