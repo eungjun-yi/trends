@@ -195,6 +195,7 @@ BrightcoveOS/Diamond
 BrowserSync/browser-sync
 BuildCraft/BuildCraft
 Bukkit/Bukkit
+BuoyantIO/linkerd
 BurntSushi/toml
 ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
