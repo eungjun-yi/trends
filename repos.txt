@@ -6850,6 +6850,7 @@ phonegap/phonegap-plugin-push
 phonegap/phonegap-start
 photo/frontend
 photonstorm/phaser
+photonstorm/phaser-examples
 php-amqplib/php-amqplib
 php-curl-class/php-curl-class
 php-ds/extension
