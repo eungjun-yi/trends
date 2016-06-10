@@ -3421,6 +3421,7 @@ ericchiang/pup
 ericclemmons/npm-install-webpack-plugin
 ericclemmons/react-resolver
 ericdouglas/ES6-Learning
+ericdouglas/MEAN-Learning
 ericdouglas/Meteor-Learning
 ericdrowell/KineticJS
 ericelliott/essential-javascript-links
