@@ -7028,6 +7028,7 @@ propelorm/Propel2
 propublica/upton
 prose/prose
 pry/pry
+psake/psake
 psaravan/JamsMusicPlayer
 psecio/iniscan
 pstadler/flightplan
