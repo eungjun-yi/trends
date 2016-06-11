@@ -2772,6 +2772,7 @@ coreos/rkt
 coreos/torus
 coresmart/persistencejs
 coreybutler/fenix
+coreybutler/node-windows
 coreybutler/nvm-windows
 correll/Introduction-to-Autonomous-Robots
 cortesi/devd
