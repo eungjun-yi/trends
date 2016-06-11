@@ -1446,6 +1446,7 @@ Yelp/paasta
 Yggdroot/indentLine
 Yixiaohan/codeparkshare
 Yixiaohan/show-me-the-code
+YoSmudge/dnsyo
 Yomguithereal/baobab
 Yomguithereal/react-blessed
 YorickPeterse/oga
@@ -5543,6 +5544,7 @@ loomio/loomio
 loopj/android-async-http
 loopj/android-smart-image-view
 loopj/jquery-tokeninput
+lord/slate
 lorenwest/node-config
 lorenzofox3/Smart-Table
 loresoft/EntityFramework.Extended
