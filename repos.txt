@@ -8696,6 +8696,7 @@ typus/typus
 tyrantgit/ExplosionField
 u10int/URBMediaFocusViewController
 uber-common/cpustat
+uber-go/zap
 uber/go-torch
 uber/react-map-gl
 uber/react-vis
