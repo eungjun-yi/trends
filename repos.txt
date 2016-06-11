@@ -2176,6 +2176,7 @@ bespokejs/bespoke
 bestiejs/benchmark.js
 bestiejs/json3
 bestiejs/platform.js
+bestswifter/MySampleCode
 bestwnh/IGLDropDownMenu
 bevacqua/dragula
 bevacqua/es6
