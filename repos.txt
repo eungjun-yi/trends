@@ -9157,6 +9157,7 @@ yusugomori/DeepLearning
 yusuke/twitter4j
 yydcdut/PhotoNoter
 yyuu/pyenv
+yyuu/pyenv-virtualenv
 yyx990803/zoomerang
 z3t0/Arduino-IRremote
 zTree/zTree_v3
