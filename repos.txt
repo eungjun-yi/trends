@@ -688,6 +688,7 @@ Kickball/awesome-selfhosted
 KieranLafferty/KLNoteViewController
 Kintaro/wtftw
 Kinto/kinto
+KittenYang/A-GUIDE-TO-iOS-ANIMATION
 KittenYang/KYAnimatedPageControl
 KittenYang/KYGooeyMenu
 KittyKatt/screenFetch
