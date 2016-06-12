@@ -560,6 +560,7 @@ IanLunn/jQuery-Parallax
 IcaliaLabs/furatto
 IdentityServer/IdentityServer3
 Idered/Editr.js
+IdleHandsApps/IHKeyboardAvoiding
 ImageOptim/ImageOptim
 Indamix/real-shadow
 Indatus/dispatcher
