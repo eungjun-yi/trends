@@ -1162,6 +1162,7 @@ SassDoc/sassdoc
 Schepp/box-sizing-polyfill
 ScottHamper/Cookies
 Seldaek/monolog
+SeleniumHQ/docker-selenium
 SeleniumHQ/selenium
 SelfControlApp/selfcontrol
 Selz/plyr
