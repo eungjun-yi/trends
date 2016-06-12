@@ -4038,6 +4038,7 @@ go-sql-driver/mysql
 go-xorm/xorm
 go-yaml/yaml
 go-zoo/bone
+goadesign/goa
 goaop/framework
 goatslacker/alt
 gobackspaces/DLCImagePickerController
