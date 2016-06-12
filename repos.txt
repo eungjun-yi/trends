@@ -7600,6 +7600,7 @@ santinic/how2
 sapegin/grunt-webfont
 sapegin/social-likes
 sapo/Ink
+sarabander/sicp
 sarabander/sicp-pdf
 sass-mq/sass-mq
 sass/libsass
