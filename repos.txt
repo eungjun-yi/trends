@@ -483,6 +483,7 @@ GoogleChrome/lighthouse
 GoogleChrome/samples
 GoogleChrome/sw-precache
 GoogleChrome/sw-toolbox
+Gottox/socket.io-java-client
 GovernmentCommunicationsHeadquarters/Gaffer
 GravityLabs/goose
 Graylog2/graylog2-server
@@ -649,6 +650,7 @@ JohnLangford/vowpal_wabbit
 JohnPersano/SuperToasts
 JohnSundell/Unbox
 JonAbrams/synth
+JonasGessner/JGActionSheet
 JonasGessner/JGProgressHUD
 JorgeCastilloPrz/AndroidFillableLoaders
 JosephLenton/PHP-Error
