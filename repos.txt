@@ -4206,6 +4206,7 @@ gratipay/gratipay.com
 grbl/grbl
 greasemonkey/greasemonkey
 greatfire/wiki
+greatghoul/remote-working
 greenplum-db/gpdb
 greenrobot/EventBus
 greenrobot/greenDAO
@@ -4311,6 +4312,7 @@ hanton/HTY360Player
 haoel/leetcode
 hapijs/hapi
 hapijs/joi
+happyfish100/fastdfs
 happypoulp/redux-tutorial
 happyworm/jPlayer
 haqu/tiny-wings
@@ -5965,6 +5967,7 @@ michaelmacinnis/oh
 michaeltyson/TPKeyboardAvoiding
 michaelvillar/dynamics.js
 michalkonturek/GraphKit
+michalsnik/aos
 michelf/php-markdown
 michelson/Dante
 michelson/lazy_high_charts
