@@ -728,6 +728,7 @@ LeaVerou/prefixfree
 LeaVerou/stretchy
 LeadDyno/intercooler-js
 Leaflet/Leaflet
+Leaflet/Leaflet.draw
 Leaflet/Leaflet.markercluster
 LeanMeanFightingMachine/dploy
 LearnBoost/cluster
