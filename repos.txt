@@ -1054,6 +1054,7 @@ QueueClassic/queue_classic
 Quick/Nimble
 Quick/Quick
 Quinny898/PersistentSearch
+RIOT-OS/RIOT
 RMerl/asuswrt-merlin
 RNCryptor/RNCryptor
 RPCS3/rpcs3
