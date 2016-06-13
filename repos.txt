@@ -4255,6 +4255,7 @@ guillaumepotier/Garlic.js
 guillaumepotier/Parsley.js
 guillermooo/Vintageous
 gulpjs/gulp
+gunthercox/ChatterBot
 guo-yu/douban.fm
 guo-yu/koa-guide
 gurgeh/selfspy
