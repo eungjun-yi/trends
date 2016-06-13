@@ -7206,6 +7206,7 @@ ramsey/uuid
 rancher/os
 rancher/rancher
 randym/axlsx
+ranger/ranger
 raphaelcruzeiro/jquery-notebook
 raphw/byte-buddy
 rapid7/metasploit-framework
