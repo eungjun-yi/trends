@@ -4675,6 +4675,7 @@ jaliss/securesocial
 jalxob/cool-kitten
 jamesallardice/Placeholders.js
 jamesflorentino/nanoScrollerJS
+jamesgpearce/confess
 jamesmawm/High-Frequency-Trading-Model-with-IB
 jamesob/desk
 jamesrwhite/minicron
