@@ -2656,6 +2656,7 @@ cloudera/Impala
 cloudera/flume
 cloudera/hue
 cloudera/oryx
+cloudflare/cf-ui
 cloudflare/cfssl
 cloudflare/redoctober
 cloudfoundry-attic/vcap
