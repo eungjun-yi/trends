@@ -483,6 +483,7 @@ GoogleChrome/lighthouse
 GoogleChrome/samples
 GoogleChrome/sw-precache
 GoogleChrome/sw-toolbox
+GoogleCloudPlatform/gcloud-node
 Gottox/socket.io-java-client
 GovernmentCommunicationsHeadquarters/Gaffer
 GravityLabs/goose
