@@ -505,6 +505,7 @@ Haneke/HanekeSwift
 HangfireIO/Hangfire
 HannahMitt/HomeMirror
 HansPinckaers/GrowingTextView
+Haroenv/holmes
 Hashnode/mern-starter
 Hawstein/cracking-the-coding-interview
 HaxeFlixel/flixel
