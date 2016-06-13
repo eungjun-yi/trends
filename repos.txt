@@ -5507,6 +5507,7 @@ linkedin/qark
 linkedin/rest.li
 linnovate/mean
 linuxmint/Cinnamon
+lipangit/JieCaoVideoPlayer
 lipis/bootstrap-social
 lipis/flag-icon-css
 lipka/piecon
