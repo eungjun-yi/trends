@@ -2902,6 +2902,7 @@ daimajia/AndroidViewHover
 daimajia/AnimationEasingFunctions
 daimajia/AnimeTaste
 daimajia/NumberProgressBar
+daizhenjun/ImageFilterForAndroid
 dakrone/cheshire
 dakrone/clj-http
 daltoniam/Starscream
