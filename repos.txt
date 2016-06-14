@@ -7098,6 +7098,7 @@ purplecabbage/phonegap-plugins
 pusher/atom-pair
 pushtorefresh/storio
 pwnall/chromeview
+pwnn/is.js
 pxb1988/dex2jar
 pybind/pybind11
 pybrain/pybrain
