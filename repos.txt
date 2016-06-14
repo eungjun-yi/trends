@@ -5795,6 +5795,7 @@ mathiasbynens/jquery-placeholder
 mathics/Mathics
 mathieudutour/git-sketch-plugin
 mathjax/MathJax
+mathnet/mathnet-numerics
 mathquill/mathquill
 matiasinsaurralde/facebook-tunnel
 matplotlib/matplotlib
