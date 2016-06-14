@@ -178,6 +178,7 @@ BlackrockDigital/startbootstrap-sb-admin-2
 Block8/PHPCI
 BloombergMedia/whatiscode
 BlueMor/Android-PullLayout
+BlueMor/DragLayout
 BlueSpire/Durandal
 BoltsFramework/Bolts-Android
 BoltsFramework/Bolts-ObjC
