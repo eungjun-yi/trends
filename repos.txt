@@ -7833,6 +7833,7 @@ silexphp/Pimple
 silexphp/Silex
 silviomoreto/bootstrap-select
 simon-weber/gmusicapi
+simongog/sdsl-lite
 simonwhitaker/gibo
 simov/grant
 simplabs/ember-simple-auth
