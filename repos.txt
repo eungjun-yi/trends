@@ -377,6 +377,7 @@ EasyEngine/easyengine
 EddyBorja/EBPhotoPages
 EddyBorja/MLPAutoCompleteTextField
 EddyVerbruggen/SocialSharing-PhoneGap-Plugin
+ElemeFE/mint-ui
 Elgg/Elgg
 EmergingTechnologyAdvisors/node-serialport
 Emsu/prophet
