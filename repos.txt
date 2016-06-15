@@ -4570,6 +4570,7 @@ influitive/apartment
 influxdata/influxdb
 influxdata/telegraf
 inikulin/parse5
+inkle/ink
 inmite/android-selector-chapek
 inorganik/countUp.js
 insanum/gcalcli
