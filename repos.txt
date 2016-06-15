@@ -7207,6 +7207,7 @@ rails/spring
 rails/strong_parameters
 railsbp/rails_best_practices
 railsconfig/config
+railsware/Sleipnir
 railsware/js-routes
 rakshasa/rtorrent
 rakyll/boom
