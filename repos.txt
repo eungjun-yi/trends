@@ -638,6 +638,7 @@ JetBrains/intellij-community
 JetBrains/kotlin
 JexCheng/regulex
 JimBobSquarePants/ImageProcessor
+JiriTrecak/Laurine
 JoanZapata/android-iconify
 JoanZapata/android-pdfview
 JoanZapata/base-adapter-helper
