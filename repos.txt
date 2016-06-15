@@ -4825,6 +4825,7 @@ jfinal/jfinal
 jfirebaugh/konacha
 jflesch/paperwork
 jfrazelle/dockerfiles
+jgh-/VideoCore
 jgilfelt/SystemBarTint
 jgilfelt/android-actionbarstylegenerator
 jgilfelt/android-mapviewballoons
