@@ -2982,6 +2982,7 @@ davidcelis/recommendable
 daviddrysdale/python-phonenumbers
 davidhalter/jedi
 davidhalter/jedi-vim
+davidhund/styleguide-generators
 davidjbradshaw/iframe-resizer
 davidlazar/vuvuzela
 davidmerfield/Typeset
