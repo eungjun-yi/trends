@@ -5584,6 +5584,7 @@ louisremi/background-size-polyfill
 louthy/language-ext
 lovell/sharp
 loverajoel/jstips
+loveshell/ngx_lua_waf
 lovetuzitong/MultiImageSelector
 lpereira/lwan
 lra/mackup
