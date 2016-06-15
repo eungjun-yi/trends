@@ -8898,6 +8898,7 @@ vthibault/roBrowser
 vuejs/awesome-vue
 vuejs/vue
 vuejs/vue-cli
+vuejs/vue-devtools
 vuejs/vue-hackernews
 vuejs/vue-resource
 vuejs/vue-router
