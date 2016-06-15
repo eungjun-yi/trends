@@ -4203,6 +4203,7 @@ grails/grails-core
 grandcentrix/tray
 grangier/python-goose
 grantland/android-autofittextview
+graphhopper/graphhopper
 graphific/DeepDreamVideo
 graphite-project/carbon
 graphite-project/graphite-web
