@@ -8947,6 +8947,7 @@ wbond/package_control
 wbond/package_control_channel
 wbotelhos/raty
 wdavidw/node-csv
+wdjungst/react-project
 wdullaer/MaterialDateTimePicker
 weareoutman/clockpicker
 weavejester/compojure
