@@ -5864,6 +5864,7 @@ mauricemach/coffeekup
 mauricemach/zappa
 mauricio/postgresql-async
 maurycyw/StaggeredGridView
+mautic/mautic
 mawww/kakoune
 maxcountryman/flask-login
 maximebf/php-debugbar
