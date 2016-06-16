@@ -8932,6 +8932,7 @@ walmartlabs/thorax
 walterhiggins/ScriptCraft
 walu/phpbook
 wandenberg/nginx-push-stream-module
+wang-bin/QtAV
 wangdan/AisenWeiBo
 wangmchn/WMPageController
 wangshengjia/VWInstantRun
