@@ -1066,6 +1066,7 @@ RNCryptor/RNCryptor
 RPCS3/rpcs3
 RPISEC/MBE
 RPISEC/Malware
+RaRe-Technologies/gensim
 RadLikeWhoa/Countable
 RailsApps/rails-composer
 RailsApps/rails-stripe-membership-saas
