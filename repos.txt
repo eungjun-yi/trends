@@ -3390,6 +3390,7 @@ eliangcs/http-prompt
 eligrey/FileSaver.js
 eliotfowler/EFCircularSlider
 eliotsykes/rspec-rails-examples
+elixir-ecto/ecto
 elixir-lang/ecto
 elixir-lang/elixir
 elixir-lang/plug
