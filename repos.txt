@@ -2684,6 +2684,7 @@ clu3/bootstro.js
 clusterinc/ClusterPrePermissions
 clvv/fasd
 cmderdev/cmder
+cmgmyr/laravel-messenger
 cmus/cmus
 cmusatyalab/openface
 cnodejs/nodeclub
