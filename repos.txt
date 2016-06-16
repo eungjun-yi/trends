@@ -7864,6 +7864,7 @@ simpligility/maven-android-sdk-deployer
 simsalabim/sisyphus
 simtr/The-Powder-Toy
 sinatra/rack-protection
+sinatra/sinatra
 sinaweibosdk/weibo_android_sdk
 sinaweibosdk/weibo_ios_sdk
 sindresorhus/ava
