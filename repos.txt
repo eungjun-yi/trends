@@ -3826,6 +3826,7 @@ franzejr/best-ruby
 frappe/erpnext
 fraser-hemp/gradify
 fraywing/textAngular
+fredwu/jquery-endless-scroll
 freebsd/freebsd
 freedomofpress/securedrop
 freqdec/slabText
