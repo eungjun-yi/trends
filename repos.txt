@@ -2702,6 +2702,7 @@ cocos2d/cocos2d-html5
 cocos2d/cocos2d-js
 cocos2d/cocos2d-objc
 cocos2d/cocos2d-x
+cocur/slugify
 codahale/bcrypt-ruby
 code-mc/loadtoast
 code-mc/material-icon-lib
