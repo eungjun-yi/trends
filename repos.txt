@@ -6580,6 +6580,7 @@ oblador/react-native-vector-icons
 oblique/create_ap
 ocaml/ocaml
 ochococo/Design-Patterns-In-Swift
+ochococo/OOD-Principles-In-Swift
 oclint/oclint
 ocombe/ocLazyLoad
 ocornut/imgui
