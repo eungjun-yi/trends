@@ -9142,6 +9142,7 @@ yahoo/squidb
 yahoo/webseclab
 yairEO/fancyInput
 yamartino/pressure
+yandex/ClickHouse
 yandex/yandex-tank
 yangfuhai/ASimpleCache
 yangfuhai/afinal
