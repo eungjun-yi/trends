@@ -7513,6 +7513,7 @@ rpominov/kefir
 rpush/rpush
 rqlite/rqlite
 rroblak/seed_dump
+rrrene/credo
 rs/SDSegmentedControl
 rs/SDWebImage
 rs/pushd
