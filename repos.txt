@@ -3666,6 +3666,7 @@ fat/zoom.js
 fatfreecrm/fat_free_crm
 fatih/color
 fatih/structs
+fatih/subvim
 fatih/vim-go
 faye/faye
 faylang/fay
