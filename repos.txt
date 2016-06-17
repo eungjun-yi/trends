@@ -755,6 +755,7 @@ LockerProject/Locker
 Lokaltog/vim-powerline
 LuRsT/hr
 Lucifier129/react-lite
+LuckyJayce/MVCHelper
 LuckyJayce/ViewPagerIndicator
 LukyVj/family.scss
 LuminosoInsight/python-ftfy
