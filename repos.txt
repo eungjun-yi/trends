@@ -4583,6 +4583,7 @@ infinite-scroll/infinite-scroll
 infinitered/ProMotion
 influitive/apartment
 influxdata/influxdb
+influxdata/surgemq
 influxdata/telegraf
 inikulin/parse5
 inkle/ink
