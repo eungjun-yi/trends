@@ -1680,6 +1680,7 @@ alexwolfe/Buttons
 alfajango/jquery-dynatable
 alfredxing/brick
 algolia/instantsearch.js
+algolia/places
 aliasaria/scrumblr
 alibaba/AndFix
 alibaba/LuaViewSDK
