@@ -9149,6 +9149,7 @@ yahoo/react-intl
 yahoo/squidb
 yahoo/webseclab
 yairEO/fancyInput
+yakyak/yakyak
 yamartino/pressure
 yandex/ClickHouse
 yandex/yandex-tank
