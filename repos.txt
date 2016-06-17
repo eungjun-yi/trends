@@ -290,6 +290,7 @@ CouchPotato/CouchPotatoV1
 Countly/countly-server
 CppCon/CppCon2014
 CppCon/CppCon2015
+CrawlScript/WebCollector
 CreateJS/EaselJS
 CreateJS/PreloadJS
 CreateJS/SoundJS
