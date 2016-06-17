@@ -1510,6 +1510,7 @@ acdlite/flummox
 acdlite/flux-standard-action
 acdlite/recompose
 acdlite/redux-actions
+acdlite/redux-promise
 acdlite/redux-router
 ace-subido/css3-microsoft-metro-buttons
 acgotaku/BaiduExporter
