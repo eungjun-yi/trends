@@ -5913,6 +5913,7 @@ mcharmas/Android-ReactiveLocation
 mcharmas/android-parcelable-intellij-plugin
 mcollina/mosca
 mcostalba/Stockfish
+mcxiaoke/RxDocs
 mcxiaoke/android-volley
 mcxiaoke/gradle-packer-plugin
 mcxiaoke/packer-ng-plugin
@@ -8046,6 +8047,7 @@ spf13/cobra
 spf13/hugo
 spf13/spf13-vim
 spf13/viper
+sphinxsearch/sphinx
 spikebrehm/isomorphic-tutorial
 spine/spine
 spinnaker/spinnaker
