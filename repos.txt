@@ -2955,6 +2955,7 @@ danluu/debugging-stories
 danluu/post-mortems
 danmactough/node-feedparser
 danmar/cppcheck
+danmayer/coverband
 danvk/dygraphs
 danwrong/restler
 danylovolokh/VideoPlayerManager
