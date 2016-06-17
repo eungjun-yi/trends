@@ -744,6 +744,7 @@ LeoNatan/LNPopupController
 Leonidas-from-XIV/node-xml2js
 Level/levelup
 LewisJEllis/awesome-lua
+LibreVR/Revive
 LightTable/LightTable
 Linuxbrew/linuxbrew
 LiranCohen/stickUp
