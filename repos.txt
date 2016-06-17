@@ -353,6 +353,7 @@ DisposaBoy/GoSublime
 Dissimulate/Tearable-Cloth
 DmitryBaranovskiy/g.raphael
 DmitryBaranovskiy/raphael
+DmitryMalkovich/material-design-dimens
 Dobiasd/articles
 DockYard/ember-validations
 Dogfalo/materialize
