@@ -1489,6 +1489,7 @@ Zomato/AndroidPhotoFilters
 Zulko/moviepy
 a11yproject/a11yproject.com
 a1anyip/AYVibrantButton
+a1studmuffin/SpaceshipGenerator
 a5hik/ng-sortable
 a8m/angular-filter
 a8m/go-lang-cheat-sheet
