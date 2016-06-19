@@ -6307,6 +6307,7 @@ mycolorway/simditor
 myell0w/MTStatusBarOverlay
 mynyml/watchr
 mysql/mysql-server
+mysqljs/node-mysql
 mysterioustrousers/MTMigration
 mythz/jquip
 myusuf3/delorean
