@@ -41,6 +41,7 @@
 500px/greedo-layout-for-android
 75team/thinkjs
 81813780/AVLoadingIndicatorView
+9miao/Firefly
 ACRA/acra
 AFNetworking/AFIncrementalStore
 AFNetworking/AFNetworking
