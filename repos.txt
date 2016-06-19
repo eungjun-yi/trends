@@ -2783,6 +2783,7 @@ constabulary/gb
 containous/traefik
 contentful-labs/Concorde
 contiki-os/contiki
+conventional-changelog/conventional-changelog
 convox/rack
 coocood/freecache
 coodict/javascript-in-one-pic
