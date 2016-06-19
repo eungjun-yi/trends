@@ -6308,6 +6308,7 @@ mycolorway/simditor
 myell0w/MTStatusBarOverlay
 mynyml/watchr
 mysql/mysql-server
+mysqljs/mysql
 mysqljs/node-mysql
 mysterioustrousers/MTMigration
 mythz/jquip
@@ -7585,6 +7586,7 @@ rubysherpas/paranoia
 rudsonlive/NavigationDrawer-MaterialDesign
 ruflin/Elastica
 rui314/8cc
+ruijun/Android-Dev-Favorites
 ruipgil/scraperjs
 rundeck/rundeck
 runner365/LiveVideoCoreSDK
