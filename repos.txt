@@ -7929,6 +7929,7 @@ sinker/tacofancy
 sinonjs/sinon
 sintaxi/harp
 sintaxi/phonegap
+sintaxi/surge
 siriscac/RippleView
 sirthias/parboiled
 sirthias/pegdown
