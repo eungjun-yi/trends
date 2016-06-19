@@ -397,6 +397,7 @@ EsotericSoftware/kryo
 EsotericSoftware/kryonet
 EsotericSoftware/spine-runtimes
 Estimote/iOS-SDK
+EtchedPixels/FUZIX
 EventStore/EventStore
 EvgenyKarkan/EKAlgorithms
 ExactTarget/fuelux
