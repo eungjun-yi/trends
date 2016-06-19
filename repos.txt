@@ -7714,6 +7714,7 @@ scikit-image/scikit-image
 scikit-learn/scikit-learn
 scipy-lectures/scipy-lecture-notes
 scipy/scipy
+sconsult/croppic
 scopatz/xonsh
 scopegate/octave
 scotch-io/scotch-box
