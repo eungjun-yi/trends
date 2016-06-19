@@ -836,6 +836,7 @@ Microsoft/TypeScriptSamples
 Microsoft/WinObjC
 Microsoft/Windows-universal-samples
 Microsoft/bond
+Microsoft/checkedc
 Microsoft/code-push
 Microsoft/dotnet
 Microsoft/msbuild
