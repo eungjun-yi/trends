@@ -4492,6 +4492,7 @@ hylang/hy
 hyper-carrot/go_command_tutorial
 hyperhq/hyperd
 hyperium/hyper
+hyperledger/fabric
 hyperledger/hyperledger
 hyperopt/hyperopt
 hyperoslo/Form
