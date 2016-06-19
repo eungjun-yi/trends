@@ -5802,6 +5802,7 @@ marmelab/ng-admin
 marmelab/universal.css
 marmelroy/Format
 marmelroy/Interpolate
+marmelroy/Localize-Swift
 marmelroy/PeekPop
 marmelroy/PhoneNumberKit
 maroslaw/rainyday.js
