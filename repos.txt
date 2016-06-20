@@ -7303,6 +7303,7 @@ rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
 react-native-fellowship/react-native-navbar
+react-native-material-design/react-native-material-design
 react-toolbox/react-toolbox
 reactioncommerce/reaction
 reactive-streams/reactive-streams-jvm
@@ -9188,6 +9189,7 @@ yanhaijing/zepto.fullpage
 yaniswang/HTMLHint
 yannickcr/eslint-plugin-react
 yannickl/DynamicColor
+yanzhenjie/NoHttp
 yaoweibin/nginx_tcp_proxy_module
 yapstudios/YapDatabase
 yargs/yargs
