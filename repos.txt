@@ -3063,6 +3063,7 @@ defunkt/github-gem
 defunkt/jquery-pjax
 defunkt/pystache
 defunkt/unicorn
+defuse/php-encryption
 defuse/swatd
 deis/deis
 deivid-rodriguez/byebug
@@ -5832,6 +5833,7 @@ mastastealth/sass-flex-mixin
 masterexploder/PHPThumb
 matbeich/StickyCollectionView
 matejlatin/Gutenberg
+mateogianolio/ocr
 mateusortiz/webcomponents-the-right-way
 mathiasbynens/dotfiles
 mathiasbynens/jquery-placeholder
