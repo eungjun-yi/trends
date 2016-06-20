@@ -7776,6 +7776,7 @@ sebastianbergmann/phploc
 sebastianbergmann/phpunit
 sebastien/cuisine
 sebastienwindal/FRDLivelyButton
+sebsauvage/ZeroBin
 sebyddd/SDVersion
 secgroundzero/warberry
 secretsquirrel/the-backdoor-factory
