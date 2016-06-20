@@ -9121,6 +9121,7 @@ x64dbg/x64dbg
 xamarin/XobotOS
 xamarin/mobile-samples
 xamarin/monodroid-samples
+xamarin/monotouch-samples
 xamarin/xamarin-forms-samples
 xat/castnow
 xaviershay/enki
