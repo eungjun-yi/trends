@@ -5633,6 +5633,7 @@ lpereira/lwan
 lra/mackup
 lrsjng/h5ai
 lsegal/yard
+lsjwzh/MaterialLoadingProgressBar
 lsjwzh/RecyclerViewPager
 ltebean/LTNavigationBar
 lucadegasperi/oauth2-server-laravel
