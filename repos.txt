@@ -301,6 +301,7 @@ CtripMobile/DynamicAPK
 Cue/scales
 Cutta/GifView
 Cyan4973/lz4
+Cyan4973/xxHash
 Cyan4973/zstd
 CyberAgent/android-gpuimage
 CymChad/BaseRecyclerViewAdapterHelper
@@ -931,6 +932,7 @@ Netflix/falcor
 Netflix/feign
 Netflix/ice
 Netflix/ribbon
+Netflix/security_monkey
 Netflix/servo
 Netflix/vector
 Netflix/zuul
