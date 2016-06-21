@@ -781,6 +781,7 @@ Malinskiy/SuperRecyclerView
 Manabu-GT/ExpandableTextView
 Mange/roadie
 Mango/slideout
+ManrajGrover/SingleDivProject
 Mantle/Mantle
 ManuelPeinado/FadingActionBar
 ManuelPeinado/GlassActionBar
