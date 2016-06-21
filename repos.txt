@@ -5661,6 +5661,7 @@ lxc/lxd
 lxcid/LXReorderableCollectionViewFlowLayout
 lxml/lxml
 lxn/walk
+lyfeyaj/awesome-resources
 lyft/confidant
 lyft/scissors
 lynndylanhurley/devise_token_auth
