@@ -840,6 +840,7 @@ Microsoft/bond
 Microsoft/checkedc
 Microsoft/code-push
 Microsoft/dotnet
+Microsoft/monaco-editor
 Microsoft/msbuild
 Microsoft/nodejs-guidelines
 Microsoft/nodejstools
