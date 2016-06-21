@@ -6618,6 +6618,7 @@ objccn/articles
 objectivehtml/FlipClock
 oblac/jodd
 oblador/angular-scroll
+oblador/react-native-animatable
 oblador/react-native-vector-icons
 oblique/create_ap
 ocaml/ocaml
@@ -8812,6 +8813,7 @@ ubolonton/js-csp
 ubuwaits/beautiful-web-type
 ubuwaits/css3-buttons
 udacity/Sunshine-Version-2
+ueberauth/guardian
 uglide/RedisDesktopManager
 ugol/pomodoro
 uikit/uikit
