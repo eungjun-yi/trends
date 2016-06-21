@@ -1725,6 +1725,7 @@ altercation/solarized
 altercation/vim-colors-solarized
 aluzzardi/wssh
 alvarotrigo/fullPage.js
+alvarotrigo/multiscroll.js
 alvarotrigo/pagePiling.js
 alvises/FPPopover
 amaas/stanford_dl_ex
