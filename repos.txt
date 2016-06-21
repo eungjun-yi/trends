@@ -836,6 +836,7 @@ Microsoft/TouchDevelop
 Microsoft/TypeScript
 Microsoft/TypeScriptSamples
 Microsoft/WinObjC
+Microsoft/Windows-driver-samples
 Microsoft/Windows-universal-samples
 Microsoft/bond
 Microsoft/checkedc
