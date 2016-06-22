@@ -114,6 +114,7 @@ ArtFeel/AFViewShaker
 ArtSabintsev/Harpy
 ArtSabintsev/Siren
 ArthurHub/Android-Image-Cropper
+Ashok-Varma/BottomNavigation
 AssetSync/asset_sync
 AssistoLab/KVNProgress
 AsyncHttpClient/async-http-client
