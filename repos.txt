@@ -6995,6 +6995,7 @@ pigshell/pigshell
 pika/pika
 pikock/bootstrap-magic
 pilgr/Paper
+pili-engineering/PLCameraStreamingKit
 pili-engineering/PLDroidPlayer
 pilu/web-app-theme
 pilwon/ultimate-seed
