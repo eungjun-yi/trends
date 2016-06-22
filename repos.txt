@@ -96,6 +96,7 @@ AngularClass/awesome-angular2
 AngularClass/ng-fx
 Animatious/awesome-animation
 Anonyfox/node-webkit-hipster-seed
+AntBranch/awesome-github
 Antaris/RazorEngine
 AntennaPod/AntennaPod
 Anthony25/gnome-terminal-colors-solarized
@@ -1487,6 +1488,7 @@ ZaBlanc/RaptureXML
 Zarel/Pokemon-Showdown
 Zepo/MLeaksFinder
 Zewo/Zewo
+ZhaoKaiQiang/KLog
 ZhipingYang/UUChatTableView
 ZhongTaoTian/LoveFreshBeen
 ZhongTaoTian/WNXHuntForCity
@@ -6651,6 +6653,7 @@ ogrisel/parallel_ml_tutorial
 oguzbilgener/CircularFloatingActionMenu
 oh-my-fish/oh-my-fish
 ohler55/oj
+ohoachuck/wwdc-downloader
 okTurtles/dnschain
 okfn/recline
 oklai/koala
