@@ -9054,6 +9054,7 @@ websockets/ws
 websymphony/almost-flat-ui
 wechat-python-sdk/wechat-python-sdk
 weibocom/motan
+weixin/WeFlow
 weixiyen/jquery-filedrop
 wekan/wekan
 welaika/wordless
