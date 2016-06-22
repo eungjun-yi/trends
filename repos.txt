@@ -8385,6 +8385,7 @@ tatsuhiro-t/aria2
 tautologistics/node-htmlparser
 taviso/ctypes.sh
 taye/interact.js
+tayiorbeii/egghead.io_redux_course_notes
 tayllan/awesome-algorithms
 tbranyen/backbone-boilerplate
 tbranyen/backbone.layoutmanager
