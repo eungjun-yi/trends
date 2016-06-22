@@ -591,6 +591,7 @@ Itseez/opencv
 Itseez/opencv_contrib
 J7mbo/twitter-api-php
 JACoders/OpenJK
+JSONModel/JSONModel
 JStumpp/awesome-android
 JVillella/JVFloatingDrawer
 JabbR/JabbR
