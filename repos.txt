@@ -8999,6 +8999,7 @@ vulcand/vulcand
 vulpino/jolteon
 vurtun/nuklear
 vvo/gifify
+vvo/lazyload
 vysheng/tg
 w0ng/vim-hybrid
 w3c/webcomponents
