@@ -998,6 +998,7 @@ PHPMailer/PHPMailer
 PHPOffice/PHPExcel
 PHPOffice/PHPWord
 PHPSocialNetwork/phpfastcache
+PHPixie/Project
 PMSI-AlignAlytics/dimple
 Pana/node-books
 PaoloRotolo/AppIntro
@@ -1287,6 +1288,7 @@ Swiip/generator-gulp-angular
 Swordfish90/cool-retro-term
 Sylius/Sylius
 SynoCommunity/spksrc
+TBXark/TKRubberIndicator
 TGMPA/TGM-Plugin-Activation
 TTLabs/EvaporateJS
 TTTAttributedLabel/TTTAttributedLabel
