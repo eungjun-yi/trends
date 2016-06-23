@@ -7221,6 +7221,7 @@ qklabs/qksms
 ql-io/ql.io
 qor/qor
 qrohlf/trianglify
+qs-lll/ExpandingPager
 qtile/qtile
 quantmind/pulsar
 quantopian/zipline
