@@ -2600,6 +2600,7 @@ chjj/term.js
 chjj/tty.js
 chjj/ttystudio
 chloerei/writings
+chmln/flatpickr
 chockenberry/Provisioning
 chocolatey/choco
 chocolatey/chocolatey
