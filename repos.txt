@@ -8880,6 +8880,7 @@ valderman/haste-compiler
 valor-software/ng2-bootstrap
 valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
+vanhauser-thc/thc-hydra
 vanilla/vanilla
 variadico/noti
 varnish/Varnish-Cache
