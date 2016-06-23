@@ -299,6 +299,7 @@ CreateJS/EaselJS
 CreateJS/PreloadJS
 CreateJS/SoundJS
 CreateJS/TweenJS
+Crinsane/LaravelShoppingcart
 Croteam-official/Serious-Engine
 CtripMobile/DynamicAPK
 Cue/scales
