@@ -2855,6 +2855,7 @@ crate/crate
 crcn/mesh.js
 creaktive/rainbarf
 creationix/haml-js
+creationix/howtonode.org
 creationix/js-git
 creationix/nvm
 creationix/step
