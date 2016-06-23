@@ -537,6 +537,7 @@ HoTT/book
 Homebrew/brew
 Homebrew/homebrew-php
 Homebrew/legacy-homebrew
+HoneyNeutrons/RecyclerViewUndoSwipe
 HospitalRun/hospitalrun-frontend
 HouzuoGuo/tiedot
 HubPress/hubpress.io
@@ -6169,6 +6170,7 @@ modocache/MDCParallaxView
 modocache/MDCSwipeToChoose
 modularscale/modularscale-sass
 moduth/blockcanary
+moezbhatti/qksms
 mofarrell/p2pvc
 mogujie/TeamTalk
 mogutt/TTServer
