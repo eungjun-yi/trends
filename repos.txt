@@ -4404,6 +4404,7 @@ headjs/headjs
 hebertialmeida/HAPaperViewController
 heelhook/chardin.js
 hehonghui/AndroidEventBus
+hehonghui/Colorful
 hehonghui/android-tech-frontier
 hehonghui/iOS-tech-frontier
 hehonghuidev/AndroidEventBus
