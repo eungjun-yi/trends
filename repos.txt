@@ -7141,6 +7141,7 @@ processone/ejabberd
 processone/tsung
 progit/progit
 progit/progit2
+programthink/books
 programthink/opensource
 programthink/zhao
 progrium/buildstep
