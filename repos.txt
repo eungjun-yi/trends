@@ -5120,6 +5120,7 @@ json-api/json-api
 json-c/json-c
 json-schema-form/angular-schema-form
 json5/json5
+jsonmodel/jsonmodel
 jsonresume/resume-cli
 jsor/jcarousel
 jspahrsummers/libextobjc
