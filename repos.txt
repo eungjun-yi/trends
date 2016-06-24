@@ -4676,6 +4676,7 @@ irungentoo/toxcore
 isaacs/minimatch
 isaacs/nave
 isaacs/node-glob
+isaacs/node-lru-cache
 isaacs/rimraf
 isagalaev/highlight.js
 isnowfy/snownlp
