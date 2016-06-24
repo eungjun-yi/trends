@@ -1691,6 +1691,7 @@ alexhultman/uWebSockets
 alexjc/neural-doodle
 alexk111/SVG-Morpheus
 alexk111/ngImgCrop
+alexkuz/react-input-enhancements
 alexmingoia/koa-router
 alexreisner/geocoder
 alexrj/Slic3r
@@ -1730,6 +1731,7 @@ allmarkedup/purl
 almasaeed2010/AdminLTE
 almende/vis
 alohaeditor/Aloha-Editor
+alols/xcape
 alongubkin/spider
 alrra/browser-logos
 alskipp/ASProgressPopUpView
