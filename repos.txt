@@ -6789,6 +6789,7 @@ ortuman/SwiftForms
 orvice/ss-panel
 ory-am/hydra
 os-js/OS.js
+oscarotero/Embed
 oskarkrawczyk/heyoffline.js
 osmandapp/Osmand
 osscafe/gulp-cheatsheet
