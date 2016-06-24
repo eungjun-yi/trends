@@ -7863,6 +7863,7 @@ seyhunak/twitter-bootstrap-rails
 sferik/rails_admin
 sferik/t
 sferik/twitter
+sfsheng0322/MarqueeView
 sfsheng0322/StickyHeaderListView
 sgaurav/understanding-es6
 sgentle/caniuse-cmd
