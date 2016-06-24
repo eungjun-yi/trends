@@ -2094,6 +2094,7 @@ aws/aws-sdk-php
 aws/aws-sdk-ruby
 aws/opsworks-cookbooks
 awslabs/aws-shell
+awslabs/git-secrets
 awslabs/s2n
 axkibe/lsyncd
 aymericdamien/TensorFlow-Examples
