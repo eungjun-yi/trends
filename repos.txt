@@ -6627,6 +6627,7 @@ nytlabs/streamtools
 nzakas/computer-science-in-javascript
 nzakas/understandinges6
 oa414/objc-zen-book-cn
+oakes/play-clj
 oampo/Audiolet
 oarrabi/OAStackView
 oauth-io/oauthd
