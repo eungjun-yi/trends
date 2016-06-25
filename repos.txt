@@ -6340,6 +6340,7 @@ murtaugh/HTML5-Reset
 murtaugh/HTML5-Reset-WordPress-Theme
 musescore/MuseScore
 mustache/mustache
+mustache/mustache.github.com
 mutualmobile/MMDrawerController
 mutualmobile/MMWormhole
 mvillaloboz/open-source-cs-degree
