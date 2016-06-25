@@ -4902,6 +4902,7 @@ jhipster/generator-jhipster
 jhnns/rewire
 jhollingworth/bootstrap-wysihtml5
 jhuckaby/webcamjs
+jhudson8/react-chartjs
 jhurray/JHChainableAnimations
 jhy/jsoup
 jiaaro/pydub
