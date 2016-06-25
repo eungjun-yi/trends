@@ -643,6 +643,7 @@ JeremySkinner/FluentValidation
 Jermolene/TiddlyWiki5
 JerryLead/SparkInternals
 JesseObrien/laravel-cheatsheet
+Jessecar96/SteamBot
 JesusFreke/smali
 JetBrains/ideavim
 JetBrains/intellij-community
