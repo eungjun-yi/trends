@@ -3992,6 +3992,7 @@ getpelican/pelican
 getpelican/pelican-themes
 getqujing/qtunnel
 getredash/redash
+getsentry/raven-js
 getsentry/raven-python
 getsentry/responses
 getsentry/sentry
