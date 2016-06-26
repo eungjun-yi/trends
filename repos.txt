@@ -5010,6 +5010,7 @@ johnpapa/angular-styleguide
 johnpapa/ng-demos
 johnpolacek/scrollorama
 johnpolacek/superscrollorama
+johntitus/node-horseman
 joho/7XX-rfc
 joke2k/faker
 jokkedk/webgrind
