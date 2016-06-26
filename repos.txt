@@ -4310,6 +4310,7 @@ guardian/grid
 guardian/scribe
 guardianproject/ChatSecureAndroid
 guari/eclipse-ui-theme
+guarinogabriel/mac-cli
 gudh/ihover
 guillaumepotier/Garlic.js
 guillaumepotier/Parsley.js
