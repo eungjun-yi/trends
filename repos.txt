@@ -6636,6 +6636,7 @@ nwidger/nintengo
 nwjs/grunt-nw-builder
 nwjs/nw-builder
 nwjs/nw.js
+nyanp/tiny-cnn
 nygard/class-dump
 nylas/N1
 nylas/sync-engine
