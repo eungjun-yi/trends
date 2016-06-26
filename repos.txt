@@ -4570,6 +4570,7 @@ icepat/ICETutorial
 icepy/Front-End-Develop-Guide
 ichord/At.js
 icicleio/icicle
+icodesign/Potatso-iOS
 iconic/open-iconic
 icons8/flat-color-icons
 icsharpcode/ILSpy
