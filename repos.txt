@@ -2268,6 +2268,7 @@ bitcoinbook/bitcoinbook
 bitcoinj/bitcoinj
 bitcoinjs/bitcoinjs-lib
 bitemyapp/learnhaskell
+bitinn/node-fetch
 bitly/data_hacks
 bitly/go-simplejson
 bitly/oauth2_proxy
