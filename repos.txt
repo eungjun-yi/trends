@@ -7987,6 +7987,7 @@ sindresorhus/awesome-npm
 sindresorhus/awesome-scifi
 sindresorhus/caprine
 sindresorhus/editorconfig-sublime
+sindresorhus/emoj
 sindresorhus/github-markdown-css
 sindresorhus/got
 sindresorhus/grunt-sass
