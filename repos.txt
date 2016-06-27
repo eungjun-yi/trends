@@ -1687,6 +1687,7 @@ alexdrone/Render
 alexdrone/ios-fontawesome
 alexdrone/ios-realtimeblur
 alexei/sprintf.js
+alexgibson/notify.js
 alexgibson/shake.js
 alexgorbatchev/jquery-textext
 alexhultman/uWebSockets
