@@ -2525,6 +2525,7 @@ castorflex/SmoothProgressBar
 catalinmiron/react-native-dribbble-app
 catarse/catarse
 catfan/Medoo
+cayleygraph/cayley
 cazala/synaptic
 cbpowell/MarqueeLabel
 cbrauckmuller/helium
