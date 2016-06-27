@@ -5018,6 +5018,7 @@ johnotander/pixyll
 johnpapa/angular-styleguide
 johnpapa/ng-demos
 johnpolacek/scrollorama
+johnpolacek/stacktable.js
 johnpolacek/superscrollorama
 johntitus/node-horseman
 joho/7XX-rfc
