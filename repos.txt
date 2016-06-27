@@ -6237,6 +6237,7 @@ moonbingbing/openresty-best-practices
 moose-team/friends
 mootools/mootools-core
 moovweb/gvm
+mooz/js2-mode
 mooz/percol
 mopidy/mopidy
 moq/moq4
