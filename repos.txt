@@ -7266,6 +7266,7 @@ quicksilver/Quicksilver
 quil/quil
 quilljs/quill
 quirkey/sammy
+quokkaproject/quokka
 quozd/awesome-dotnet
 ququplay/jquery-mobile-flat-ui-theme
 qutheory/vapor
