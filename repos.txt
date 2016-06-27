@@ -7889,6 +7889,7 @@ sfsheng0322/StickyHeaderListView
 sgaurav/understanding-es6
 sgentle/caniuse-cmd
 shadowsocks/ChinaDNS
+shadowsocks/Potatso-iOS
 shadowsocks/openwrt-shadowsocks
 shadowsocks/shadowsocks
 shadowsocks/shadowsocks-android
