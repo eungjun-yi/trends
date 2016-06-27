@@ -8850,6 +8850,7 @@ typpo/textbelt
 typus/typus
 tyrantgit/ExplosionField
 u10int/URBMediaFocusViewController
+uWebSockets/uWebSockets
 uber-common/cpustat
 uber-go/zap
 uber/go-torch
