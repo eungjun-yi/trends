@@ -2135,6 +2135,7 @@ balysv/material-ripple
 banago/PHPloy
 banchichen/TZImagePickerController
 bang590/JSPatch
+baoyachi/StepView
 baoyongzhang/SwipeMenuListView
 baoyongzhang/android-PullRefreshLayout
 barbushin/php-console
@@ -3931,6 +3932,7 @@ gajus/react-css-modules
 gajus/swing
 galetahub/ckeditor
 gali8/Tesseract-OCR-iOS
+gamelab/kiwi.js
 gameplay3d/GamePlay
 gaosboy/iOSSF
 garand/sticky
