@@ -7685,6 +7685,7 @@ ryanb/railscasts-episodes
 ryanb/ruby-warrior
 ryanflorence/ember-tools
 ryanflorence/react-project
+ryanflorence/react-training
 ryankiros/neural-storyteller
 ryanmcgrath/twython
 ryanmjacobs/c
