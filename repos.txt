@@ -6267,6 +6267,7 @@ mothran/bunny
 mothran/mongol
 motianhuo/wechat
 mourner/simplify-js
+mourner/suncalc
 mouse0270/bootstrap-notify
 movielala/VideoSplashKit
 moxiecode/plupload
