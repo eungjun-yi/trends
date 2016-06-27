@@ -1440,6 +1440,7 @@ X140Yu/Developing_iOS_8_Apps_With_Swift
 XLabs/Xamarin-Forms-Labs
 XVimProject/XVim
 XX-net/XX-Net
+XXApple/AndroidLibs
 Xcode-Snippets/Objective-C
 XcodeGhostSource/XcodeGhost
 Xethron/migrations-generator
