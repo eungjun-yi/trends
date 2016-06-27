@@ -4920,6 +4920,7 @@ jhy/jsoup
 jiaaro/pydub
 jiahaog/nativefier
 jianghejie/XRecyclerView
+jiangmiao/auto-pairs
 jiangqqlmj/FastDev4Android
 jianliaoim/talk-os
 jigish/slate
