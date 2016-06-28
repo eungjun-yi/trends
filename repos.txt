@@ -3994,6 +3994,7 @@ getguesstimate/guesstimate-app
 getify/LABjs
 getify/You-Dont-Know-JS
 getlantern/lantern
+getlantern/lantern-binaries
 getlogbook/logbook
 getnikola/nikola
 getpelican/pelican
