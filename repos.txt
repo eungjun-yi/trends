@@ -7266,6 +7266,7 @@ qinjx/30min_guides
 qinwf/awesome-R
 qiu-deqing/FE-learning
 qiujuer/Genius-Android
+qiujuer/ImageBlurring
 qiwsir/ITArticles
 qiwsir/StarterLearningPython
 qklabs/qksms
