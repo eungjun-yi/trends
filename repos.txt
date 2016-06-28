@@ -5045,6 +5045,7 @@ jonathanslenders/ptpython
 jonathanslenders/pymux
 jonathanslenders/python-prompt-toolkit
 jonathanslenders/pyvim
+jonathantneal/flexibility
 jonathantneal/svg4everybody
 jonathantribouharet/JTCalendar
 jondot/awesome-react-native
