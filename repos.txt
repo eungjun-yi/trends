@@ -1796,6 +1796,7 @@ andreamazz/AMScrollingNavbar
 andreamazz/AMWaveTransition
 andreamazz/BubbleTransition
 andreasgal/B2G
+andreasschrade/android-design-template
 andreberg/Meslo-Font
 andreis/interview
 andreruffert/rangeslider.js
@@ -4518,6 +4519,7 @@ hughsk/disc
 huhamhire/huhamhire-hosts
 huichen/wukong
 hukl/Smyck-Color-Scheme
+huluoyang/freecodecamp.cn
 humaan/Modaal
 humhub/humhub
 humiaozuzu/awesome-flask
