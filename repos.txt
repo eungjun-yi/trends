@@ -4871,6 +4871,7 @@ jelmer/dulwich
 jemalloc/jemalloc
 jenius/roots
 jenkinsci/blueocean-plugin
+jenkinsci/pipeline-plugin
 jenssegers/agent
 jenssegers/laravel-mongodb
 jeremyevans/sequel
