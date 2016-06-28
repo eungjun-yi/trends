@@ -6755,6 +6755,7 @@ opauth/opauth
 open-power-workgroup/Hospital
 open-source-parsers/jsoncpp
 open-source-society/computer-science
+open-source-society/data-science
 openai/gym
 openalpr/openalpr
 openannotation/annotator
