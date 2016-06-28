@@ -5062,6 +5062,7 @@ jonseg/crud-admin-generator
 jonsuh/hamburgers
 jonthornton/jquery-timepicker
 joomla/joomla-cms
+jordansinger/Hook
 jordansinger/Hook.js
 jordansissel/fpm
 jordansissel/pleaserun
