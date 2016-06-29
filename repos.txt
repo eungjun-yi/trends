@@ -477,6 +477,7 @@ Gamua/Starling-Framework
 GarageGames/Torque2D
 GarageGames/Torque3D
 Gazler/githug
+GcsSloop/AndroidNote
 Geal/nom
 GeekyAnts/NativeBase
 GetExpert/redux-blog-example
