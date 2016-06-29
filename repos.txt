@@ -1509,6 +1509,7 @@ ZipArchive/ZipArchive
 Zizaco/confide
 Zizaco/entrust
 Zomato/AndroidPhotoFilters
+ZoneMinder/ZoneMinder
 Zulko/moviepy
 a11yproject/a11yproject.com
 a1anyip/AYVibrantButton
