@@ -8332,6 +8332,7 @@ strongloop/loopback
 stuartsierra/component
 stubbornella/oocss
 stutrek/scrollMonitor
+stuyam/pressure
 stylelint/stylelint
 stylus/stylus
 stympy/faker
