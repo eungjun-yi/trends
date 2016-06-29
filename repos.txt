@@ -8991,6 +8991,7 @@ vim-ctrlspace/vim-ctrlspace
 vim-ruby/vim-ruby
 vim/vim
 vimeo/graph-explorer
+vimwiki/vimwiki
 vinc3m1/RoundedImageView
 vinta/awesome-python
 visionmedia/debug
