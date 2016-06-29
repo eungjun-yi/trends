@@ -3001,6 +3001,7 @@ danluu/post-mortems
 danmactough/node-feedparser
 danmar/cppcheck
 danmayer/coverband
+danqing/2048
 danvk/dygraphs
 danwrong/restler
 danylovolokh/VideoPlayerManager
