@@ -1982,6 +1982,7 @@ arimorty/floatingsearchview
 ariok/BWWalkthrough
 ariya/phantomjs
 arkency/reactjs_koans
+armon/bloomd
 armon/statsite
 arnauddri/algorithms
 aroc/side-comments
@@ -8098,6 +8099,7 @@ smore-inc/clippy.js
 snabbco/snabb
 snare/voltron
 snide/sphinx_rtd_theme
+snipe/snipe-it
 sniperwolf/taggingJS
 snooda/net-speeder
 snorpey/jpg-glitch
