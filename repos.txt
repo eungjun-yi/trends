@@ -5538,6 +5538,7 @@ lelandrichardson/react-native-maps
 lelylan/betterspecs
 lendylongli/qianghongbao
 leolin310148/ShortcutBadger
+leonar15/startup-checklist
 leongersen/noUiSlider
 leonidas/transparency
 lepture/editor
