@@ -3023,6 +3023,7 @@ databricks/scala-style-guide
 datamade/dedupe
 datasciencemasters/go
 datastax/spark-cassandra-connector
+date-fns/date-fns
 dato-code/PowerGraph
 davatron5000/FitText.js
 davatron5000/FitVids.js
@@ -5709,6 +5710,7 @@ lukas-vlcek/bigdesk
 lukas2511/letsencrypt.sh
 lukasz-madon/awesome-remote-job
 lukaszx0/queues.io
+luke-jr/bfgminer
 lukehaas/css-loaders
 lukehoban/es6features
 lukesampson/scoop
