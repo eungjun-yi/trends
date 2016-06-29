@@ -9417,6 +9417,7 @@ zeromq/jeromq
 zeromq/libzmq
 zeromq/pyzmq
 zerotier/ZeroTierOne
+zetbaitsu/Compressor
 zfsonlinux/zfs
 zh-google-styleguide/zh-google-styleguide
 zhangkaitao/es
