@@ -7440,6 +7440,7 @@ recruit-mp/RMPZoomTransitionAnimator
 red/red
 redcar/redcar
 reddit/reddit
+reddit/reddit-mobile
 redecentralize/alternative-internet
 redguardtoo/mastering-emacs-in-one-year-guide
 redis-store/redis-store
