@@ -3038,6 +3038,7 @@ davetron5000/gli
 davezuko/react-redux-starter-kit
 davidcelis/recommendable
 daviddrysdale/python-phonenumbers
+davideas/FlexibleAdapter
 davidhalter/jedi
 davidhalter/jedi-vim
 davidhund/styleguide-generators
