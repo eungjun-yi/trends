@@ -4403,6 +4403,7 @@ harthur/brain
 harthur/kittydar
 harvesthq/chosen
 hashcat/hashcat
+hashcat/hashcat-legacy
 hashcat/oclHashcat
 hashicorp/consul
 hashicorp/consul-template
