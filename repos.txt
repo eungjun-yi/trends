@@ -5951,6 +5951,7 @@ matthewhudson/device.js
 matthewmueller/date
 matthewpalmer/Locksmith
 matthewwithanm/django-imagekit
+matthiasn/talk-transcripts
 matthieua/WOW
 matthuhiggins/foreigner
 mattkersley/Responsive-Design-Testing
