@@ -1726,6 +1726,7 @@ alibaba/mdrill
 alibaba/otter
 alibaba/tengine
 alibaba/tsar
+alibaba/weex
 aliceui/aliceui.github.io
 aliceui/aliceui.org
 alignedleft/d3-book
