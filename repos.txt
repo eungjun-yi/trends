@@ -2696,6 +2696,7 @@ clappr/clappr
 claritylab/lucida
 clauderic/react-infinite-calendar
 claudiajs/claudia
+clayallsopp/react.backbone
 clayallsopp/routable-ios
 cldwalker/hirb
 cleanflight/cleanflight
