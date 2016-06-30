@@ -1827,6 +1827,7 @@ android/platform_development
 android/platform_frameworks_base
 android/platform_frameworks_support
 android10/Android-CleanArchitecture
+android10/frodo
 androidquery/androidquery
 andsens/homeshick
 andyedinborough/stress-css
@@ -2300,6 +2301,7 @@ blakeembrey/code-problems
 blakewatters/TransitionKit
 blasten/turn.js
 blaze/blaze
+blei-lab/edward
 blevesearch/bleve
 blivesta/animsition
 bloomberg/bqplot
@@ -8441,6 +8443,7 @@ tabulapdf/tabula
 tachyons-css/tachyons
 tadast/switching-to-contracting-uk
 taf2/curb
+tagspaces/tagspaces
 taigaio/taiga-back
 taigaio/taiga-front
 tailhook/vagga
