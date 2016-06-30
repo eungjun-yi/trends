@@ -4666,6 +4666,7 @@ inorganik/countUp.js
 insanum/gcalcli
 insidegui/WWDC
 insin/nwb
+insin/react-hn
 insoshi/insoshi
 inspirit/jsfeat
 instructure/canvas-lms
