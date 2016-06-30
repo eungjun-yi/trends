@@ -2428,6 +2428,7 @@ brunophilipe/Cakebrew
 brutaldesign/swipebox
 brutella/chatheads
 bryankeller/BLKFlexibleHeightBar
+bryceredd/RFQuiltLayout
 brynary/rack-bug
 brynary/webrat
 brython-dev/brython
