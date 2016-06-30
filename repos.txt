@@ -3142,6 +3142,7 @@ detro/ghostdriver
 devbridge/Styleguide
 devbridge/jQuery-Autocomplete
 developit/preact
+deviantony/docker-elk
 devinhunt/typebase.css
 devinross/tapkulibrary
 devongovett/pdfkit
