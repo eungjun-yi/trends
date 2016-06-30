@@ -5433,6 +5433,7 @@ krasimir/absurd
 krasimir/cssx
 krasimir/deb.js
 kriasoft/react-starter-kit
+kriasoft/react-static-boilerplate
 kripken/ammo.js
 kripken/emscripten
 kripken/sql.js
