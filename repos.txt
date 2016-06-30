@@ -1908,6 +1908,7 @@ aol/moloch
 aosabook/500lines
 aosp-exchange-group/share
 aozora/bootmetro
+apache/PredictionIO
 apache/camel
 apache/cassandra
 apache/cordova-android
