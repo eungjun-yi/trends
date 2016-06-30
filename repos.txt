@@ -3004,6 +3004,7 @@ danielquinn/paperless
 danielstjules/Stringy
 danielstjules/jsinspect
 danielzeller/Depth-LIB-Android-
+daniulive/SmarterStreaming
 danleech/simple-icons
 danlucraft/git.js
 danlucraft/redcar
