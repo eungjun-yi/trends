@@ -5220,6 +5220,7 @@ jwilder/docker-gen
 jwilder/docker-squash
 jwilder/nginx-proxy
 jwilling/JNWSpringAnimation
+jwplayer/jwplayer
 jwt/ruby-jwt
 jwysiwyg/jwysiwyg
 jxcore/jxcore
