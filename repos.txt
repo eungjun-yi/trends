@@ -1920,6 +1920,7 @@ apache/hadoop
 apache/hive
 apache/httpd
 apache/incubator-airflow
+apache/incubator-predictionio
 apache/incubator-zeppelin
 apache/kafka
 apache/libcloud
