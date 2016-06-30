@@ -5066,6 +5066,7 @@ jonathanslenders/pymux
 jonathanslenders/python-prompt-toolkit
 jonathanslenders/pyvim
 jonathantneal/flexibility
+jonathantneal/sanitize.css
 jonathantneal/svg4everybody
 jonathantribouharet/JTCalendar
 jondot/awesome-react-native
@@ -8048,6 +8049,7 @@ sindresorhus/ora
 sindresorhus/pageres
 sindresorhus/pure
 sindresorhus/quick-look-plugins
+sindresorhus/refined-github
 sindresorhus/screenfull.js
 sindresorhus/speed-test
 sindresorhus/trash
