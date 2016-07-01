@@ -8098,6 +8098,7 @@ skynetservices/skynet
 skywinder/github-changelog-generator
 slackhq/SlackTextViewController
 slackhq/hubot-slack
+slackhq/node-slack-sdk
 slact/nchan
 slap-editor/slap
 slate/slate
