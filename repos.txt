@@ -170,6 +170,7 @@ Behat/Behat
 Benjamin-Dobell/Heimdall
 BigZaphod/Chameleon
 Bilibili/DanmakuFlameMaster
+Bilibili/MagicaSakura
 Bilibili/ijkplayer
 BinaryAnalysisPlatform/qira
 BinaryMuse/fluxxor
