@@ -1006,6 +1006,7 @@ PHPixie/Project
 PMSI-AlignAlytics/dimple
 Pana/node-books
 PaoloRotolo/AppIntro
+PaperAirplane-Dev-Team/BlackLight
 ParsePlatform/Anypic
 ParsePlatform/Parse-SDK-Android
 ParsePlatform/Parse-SDK-iOS-OSX
@@ -4587,6 +4588,7 @@ iambus/xunlei-lixian
 iamceege/tooltipster
 iamdaiyuan/ios_top_1000
 iammert/MaterialIntroView
+iammert/MusicPlayerView
 iandevlin/html5bones
 ianyh/Amethyst
 ibaaj/dijkstra-cartography
