@@ -7417,6 +7417,7 @@ raywenderlich/swift-style-guide
 razorjack/quicksand
 rbenv/rbenv
 rbenv/ruby-build
+rbgirshick/fast-rcnn
 rchipka/node-osmosis
 rcrowley/go-metrics
 rcrowley/go-tigertonic
