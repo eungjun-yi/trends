@@ -2248,6 +2248,7 @@ bestwnh/IGLDropDownMenu
 bevacqua/dragula
 bevacqua/es6
 bevacqua/fuzzysearch
+bevacqua/horsey
 bevacqua/js
 bevacqua/promisees
 bevacqua/rome
