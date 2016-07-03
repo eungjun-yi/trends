@@ -1063,6 +1063,7 @@ Prinzhorn/skrollr
 PrismJS/prism
 PrismLibrary/Prism
 Project-OSRM/osrm-backend
+ProjectSeptemberInc/gl-react-native
 PromyLOPh/pianobar
 ProseMirror/prosemirror
 ProtonMail/WebClient
@@ -1292,6 +1293,7 @@ SwiftyBeaver/SwiftyBeaver
 SwiftyJSON/Alamofire-SwiftyJSON
 SwiftyJSON/SwiftyJSON
 Swiip/generator-gulp-angular
+Swinject/Swinject
 Swordfish90/cool-retro-term
 Sylius/Sylius
 SynoCommunity/spksrc
@@ -1905,6 +1907,7 @@ antonholmquist/jason
 antoniolg/MaterialEverywhere
 antoniolg/MaterializeYourApp
 antoniolg/androidmvp
+antonioribeiro/tracker
 antonkrasov/AndroidSocialNetworks
 antontarasenko/smq
 anvaka/VivaGraphJS
@@ -4686,6 +4689,7 @@ insin/react-hn
 insoshi/insoshi
 inspirit/jsfeat
 instructure/canvas-lms
+intelsdi-x/snap
 intentkit/IntentKit
 interagent/http-api-design
 interagent/prmd
@@ -6516,6 +6520,7 @@ netty/netty
 networkx/networkx
 netz98/n98-magerun
 neuecc/UniRx
+neumino/thinky
 neutraltone/awesome-stock-resources
 newmarcel/KeepingYouAwake
 newrelic/centurion
@@ -7164,6 +7169,7 @@ pornel/pngquant
 pornel/slip
 posabsolute/jQuery-Validation-Engine
 posativ/isso
+posquit0/Awesome-CV
 postaljs/postal.js
 postcss/autoprefixer
 postcss/postcss
@@ -7574,6 +7580,7 @@ ripple/ripple-client
 ripple/rippled
 ripplejs/ripple
 rishabhp/bideo.js
+ritz078/embed.js
 rkern/line_profiler
 rlabbe/Kalman-and-Bayesian-Filters-in-Python
 rlerdorf/php7dev
