@@ -519,6 +519,7 @@ Haneke/HanekeSwift
 HangfireIO/Hangfire
 HannahMitt/HomeMirror
 HansPinckaers/GrowingTextView
+HappenApps/Quiver
 Haroenv/holmes
 Hashnode/mern-starter
 Hawstein/cracking-the-coding-interview
@@ -2375,6 +2376,7 @@ boxen/boxen
 boxen/our-boxen
 boztalay/BOZPongRefreshControl
 bpampuch/pdfmake
+bploetz/versionist
 brack3t/django-braces
 bradfitz/goimports
 bradfitz/http2
@@ -3169,6 +3171,7 @@ devopsgroup-io/vagrant-hostmanager
 devote/HTML5-History-API
 devstructure/blueprint
 devttys0/binwalk
+devunwired/recyclerview-playground
 devxoul/Then
 dexafree/MaterialList
 dfahlander/Dexie.js
@@ -3193,6 +3196,7 @@ dieulot/instantclick
 digitalBush/jquery.maskedinput
 digitalbazaar/forge
 digitalfruit/limejs
+digitalocean/netbox
 dimitri/el-get
 dimsemenov/Magnific-Popup
 dimsemenov/PhotoSwipe
@@ -4118,6 +4122,7 @@ glock45/iOS-Hierarchy-Viewer
 glomadrian/RoadRunner
 glomadrian/material-animated-switch
 gluster/glusterfs
+glyphr-studio/Glyphr-Studio-1
 glyptodon/guacamole-client
 glyptodon/guacamole-server
 gma/nesta
@@ -4198,6 +4203,7 @@ google/flatbuffers
 google/flexbox-layout
 google/fonts
 google/git-appraise
+google/glog
 google/go-github
 google/google-api-nodejs-client
 google/google-api-php-client
@@ -4349,6 +4355,7 @@ guardian/grid
 guardian/scribe
 guardianproject/ChatSecureAndroid
 guari/eclipse-ui-theme
+guarinogabriel/Mac-CLI
 guarinogabriel/mac-cli
 gudh/ihover
 guillaumepotier/Garlic.js
@@ -5689,6 +5696,7 @@ lmgonzalves/segment
 lo-th/3d.city
 lo-th/Oimo.js
 loadfive/Knwl.js
+localForage/localForage
 localtunnel/localtunnel
 lockitron/selfstarter
 locomotivecms/engine
@@ -7272,6 +7280,7 @@ pushtorefresh/storio
 pwnall/chromeview
 pwnn/is.js
 pxb1988/dex2jar
+pybee/toga
 pybind/pybind11
 pybrain/pybrain
 pyca/cryptography
@@ -8662,6 +8671,7 @@ timehop/sticky-headers-recyclerview
 timekit-io/booking-js
 timjacobi/angular2-education
 timothycrosley/hug
+timoxley/best-practices
 timoxley/functional-javascript-workshop
 timuric/Content-generator-sketch-plugin
 tinkerpop/blueprints
@@ -9236,6 +9246,7 @@ wooorm/franc
 wooorm/retext
 woothemes/FlexSlider
 woothemes/woocommerce
+woozzu/IndexableListView
 wordpress-mobile/WordPress-Android
 wordpress-mobile/WordPress-iOS
 worker8/TourGuide
