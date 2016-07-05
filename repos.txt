@@ -613,6 +613,7 @@ Jahaja/psdash
 JakeLin/IBAnimatable
 JakeLin/SwiftWeather
 JakeWharton/ActionBarSherlock
+JakeWharton/Android-DirectionalViewPager
 JakeWharton/DiskLruCache
 JakeWharton/NineOldAndroids
 JakeWharton/RxBinding
@@ -920,6 +921,7 @@ Naituw/WBWebViewConsole
 NancyFx/Nancy
 NanoHttpd/nanohttpd
 NarrativeScience/Log.io
+Narzerus/angular-permission
 NationalSecurityAgency/SIMP
 NativeScript/NativeScript
 NaturalNode/natural
@@ -1026,6 +1028,7 @@ Pathgather/please-wait
 PaulSec/awesome-sec-talks
 PaulUithol/Backbone-relational
 PavelKatunin/DownloadButton
+PawelDecowski/jquery-creditcardvalidator
 PeeHaa/OpCacheGUI
 Peer5/ShareFest
 PerfDotNet/BenchmarkDotNet
@@ -2524,6 +2527,7 @@ capitaomorte/yasnippet
 cappuccino/cappuccino
 captbaritone/winamp2-js
 capttaco/Briefs
+card-io/card.io-Android-SDK
 card-io/card.io-iOS-SDK
 careercup/ctci
 carekit-apple/CareKit
@@ -2773,6 +2777,7 @@ codahale/bcrypt-ruby
 code-mc/loadtoast
 code-mc/material-icon-lib
 code-troopers/android-betterpickers
+code4craft/netty-learning
 code4craft/webmagic
 codebrew/backbone-rails
 codebutler/firesheep
@@ -3338,6 +3343,7 @@ drewwilson/atvImg
 drhenner/ror_ecommerce
 drichard/mindmaps
 driftyco/ionic
+driftyco/ionic-cli
 driftyco/ionicons
 driftyco/ng-cordova
 drmeister/clasp
@@ -4466,6 +4472,7 @@ helmetjs/helmet
 helmuthdu/aui
 hemanth/functional-programming-jargon
 henriquea/minigrid
+henryboldi/felony
 henrylee2cn/pholcus
 henrytao-me/smooth-app-bar-layout
 hephaest0s/usbkill
@@ -6821,6 +6828,8 @@ openaphid/android-flip
 opencart/opencart
 opencog/opencog
 opencontainers/runc
+opencv/opencv
+opencv/opencv_contrib
 openexchangerates/accounting.js
 openexchangerates/money.js
 openfl/openfl
@@ -7023,6 +7032,7 @@ petervanderdoes/gitflow-avh
 petethepig/devtools-terminal
 petewarden/iPhoneTracker
 petkaantonov/bluebird
+petrnohejl/Android-Templates-And-Utilities
 petruisfan/node-supervisor
 petuum/bosen
 pfn/keepasshttp
@@ -7049,6 +7059,7 @@ philipwalton/html-inspector
 philipwalton/solved-by-flexbox
 philogb/jit
 philsquared/Catch
+phishman3579/java-algorithms-implementation
 phoboslab/Ejecta
 phoboslab/jsmpeg
 phoboslab/jsmpeg-vnc
