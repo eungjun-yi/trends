@@ -491,6 +491,7 @@ GitbookIO/gitbook
 GitbookIO/javascript
 Glimpse/Glimpse
 GooTechnologies/goojs
+GoogleChrome/big-rig
 GoogleChrome/chrome-app-samples
 GoogleChrome/chromedeveditor
 GoogleChrome/lighthouse
@@ -880,6 +881,7 @@ MoZhouqi/KMNavigationBarTransition
 MobileChromeApps/mobile-chrome-apps
 Modernizr/Modernizr
 ModuleLoader/es6-module-loader
+Moeditor/Moeditor
 MojoJolo/textteaser
 MongoEngine/mongoengine
 Monnoroch/ColorHighlighter
@@ -5137,6 +5139,7 @@ joshbuchea/HEAD
 joshcam/PHP-MySQLi-Database-Class
 joshfire/jsonform
 joshfng/railsready
+joshnewlan/say_what
 joshuaclayton/blueprint-css
 joshuagatcke/HTML-KickStart
 josscrowcroft/MotionCAPTCHA
@@ -7467,6 +7470,7 @@ rcrowley/goagain
 rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
+react-native-community/react-native-navbar
 react-native-fellowship/react-native-navbar
 react-native-material-design/react-native-material-design
 react-toolbox/react-toolbox
@@ -8585,6 +8589,7 @@ terryma/vim-multiple-cursors
 terrymun/Fluidbox
 terryum/awesome-deep-learning-papers
 terryworona/TWMessageBarManager
+terwanerik/ScrollTrigger
 tessalt/echo-chamber-js
 tesseract-ocr/tesseract
 test-kitchen/test-kitchen
