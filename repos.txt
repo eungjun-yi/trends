@@ -918,6 +918,7 @@ NYTimes/ice
 NYTimes/objective-c-style-guide
 NYTimes/pourover
 Naituw/WBWebViewConsole
+NamPNQ/You-Dont-Need-Javascript
 NancyFx/Nancy
 NanoHttpd/nanohttpd
 NarrativeScience/Log.io
@@ -1134,6 +1135,7 @@ ReactiveCocoa/ReactiveViewModel
 ReactiveRaven/jqBootstrapValidation
 ReactiveX/RxAndroid
 ReactiveX/RxJava
+ReactiveX/RxPY
 ReactiveX/RxSwift
 ReactiveX/learnrx
 ReactiveX/rxjs
@@ -1415,6 +1417,7 @@ VisualPHPUnit/VisualPHPUnit
 VitaliyRodnenko/geeknote
 VodkaBears/Remodal
 VodkaBears/Vide
+VoltDB/voltdb
 Voog/wysihtml
 VundleVim/Vundle.vim
 WP-API/WP-API
@@ -1798,6 +1801,7 @@ anacrolix/torrent
 anandkunal/ToroPHP
 anchorcms/anchor-cms
 andelf/fuck12306
+andersao/l5-repository
 andersbll/deeppy
 andersbll/neural_artistic_style
 andkulikov/Transitions-Everywhere
@@ -1849,6 +1853,7 @@ angrave/SystemProgramming
 angular-app/angular-app
 angular-fullstack/generator-angular-fullstack
 angular-gantt/angular-gantt
+angular-google-chart/angular-google-chart
 angular-translate/angular-translate
 angular-ui-tree/angular-ui-tree
 angular-ui/AngularJS-sublime-package
@@ -2112,6 +2117,7 @@ avinassh/rockstar
 awalGarg/cv-maker
 awentzonline/image-analogies
 awesome-print/awesome_print
+awesomeWM/awesome
 awesto/django-shop
 aws/aws-cli
 aws/aws-sdk-go
@@ -2781,6 +2787,7 @@ code4craft/netty-learning
 code4craft/webmagic
 codebrew/backbone-rails
 codebutler/firesheep
+codecentric/spring-boot-admin
 codeclimate/codeclimate
 codecombat/codecombat
 codef0rmer/angular-dragdrop
@@ -3397,6 +3404,7 @@ dzenbot/DZNEmptyDataSet
 dzenbot/DZNPhotoPickerController
 dzenbot/DZNSegmentedControl
 dzenbot/DZNWebViewController
+dzenbot/Iconic
 dzhibas/SublimePrettyJson
 e14n/pump.io
 eBay/fabio
@@ -3825,6 +3833,7 @@ firebase/firechat
 firebase/firepad
 firebug/firebug
 firehol/netdata
+firstfloorsoftware/mui
 firstopinion/formatter.js
 fish-shell/fish-shell
 fisherman/fisherman
@@ -4972,6 +4981,7 @@ jhurray/JHChainableAnimations
 jhy/jsoup
 jiaaro/pydub
 jiahaog/nativefier
+jiang111/awesome-android-tips
 jianghejie/XRecyclerView
 jiangmiao/auto-pairs
 jiangqqlmj/FastDev4Android
@@ -5277,6 +5287,7 @@ kairosdb/kairosdb
 kaishengtai/neuralart
 kaishin/Gifu
 kakserpom/phpdaemon
+kaldi-asr/kaldi
 kamalgill/flask-appengine-template
 kamens/jQuery-menu-aim
 kamranahmedse/git-standup
@@ -5559,6 +5570,7 @@ layerhq/Atlas-iOS
 layervault/psd.rb
 lbrndnr/ImagePickerSheetController
 ldandersen/scifihifi-iphone
+ldoublem/LoadingView
 leachim6/hello-world
 leafo/lapis
 leafo/lessphp
@@ -5585,6 +5597,7 @@ leizongmin/js-xss
 lektor/lektor
 lelandrichardson/react-native-maps
 lelylan/betterspecs
+lemonmade/bigfoot
 lendylongli/qianghongbao
 leolin310148/ShortcutBadger
 leonar15/startup-checklist
@@ -6298,6 +6311,7 @@ mongodb/node-mongodb-native
 mongomapper/mongomapper
 mongrel2/mongrel2
 monitoringsucks/tool-repos
+monkberry/monkberry
 mono/MonoGame
 mono/mono
 mono/monodevelop
@@ -7123,6 +7137,7 @@ pinterest/PINCache
 pinterest/PINRemoteImage
 pinterest/teletraan
 piotrbernad/FlatUI
+piotrmurach/github
 piotrmurach/tty
 pipelinedb/pipelinedb
 piskvorky/gensim
@@ -7215,6 +7230,7 @@ prat0318/json_resume
 pravj/geopattern
 praw-dev/praw
 prawnpdf/prawn
+prawnsalad/KiwiIRC
 pre-commit/pre-commit
 preciousforever/sketch-data-populator
 premailer/premailer
@@ -7976,6 +7992,7 @@ sfsheng0322/StickyHeaderListView
 sgaurav/understanding-es6
 sgentle/caniuse-cmd
 shadowsocks/ChinaDNS
+shadowsocks/Potatso
 shadowsocks/Potatso-iOS
 shadowsocks/openwrt-shadowsocks
 shadowsocks/shadowsocks
@@ -9178,6 +9195,7 @@ webcomponents/webcomponentsjs
 webdriverio/webdriverio
 webmachine/webmachine
 webpack/css-loader
+webpack/extract-text-webpack-plugin
 webpack/react-starter
 webpack/webpack
 webpop/jquery.pin
