@@ -1375,6 +1375,7 @@ TykTechnologies/tyk
 TylerBrock/mongo-hacker
 UDST/vizicities
 USArmyResearchLab/Dshell
+USCiLab/cereal
 Uberi/speech_recognition
 Unblocker/Unblock-Youku
 Uncodin/bypass
@@ -2029,6 +2030,7 @@ arut/nginx-rtmp-module
 arvida/emoji-cheat-sheet.com
 arya/bluepill
 aryaxt/iOS-Slide-Menu
+asLody/TurboDex
 asaskevich/govalidator
 asciidoctor/asciidoctor
 asciimoo/drawille
@@ -2677,6 +2679,7 @@ chriskempson/base16
 chriskempson/tomorrow-theme
 chriskiehl/Gooey
 chriskite/anemone
+chrislgarry/Apollo-11
 chrislusf/glow
 chrislusf/seaweedfs
 chrismccord/render_sync
@@ -2845,6 +2848,7 @@ composer/composer
 composer/satis
 comyarzaheri/Sol
 concurrencykit/ck
+conda/conda
 conditionizr/conditionizr
 connors/photon
 conopsys/COSTouchVisualizer
@@ -4612,6 +4616,7 @@ i2y/mochi
 i3/i3
 iBaa/PlexConnect
 iBotPeaches/Apktool
+iCHAIT/awesome-macOS
 iCHAIT/awesome-osx
 iPaulPro/Android-ItemTouchHelper-Demo
 iPaulPro/aFileChooser
@@ -5109,6 +5114,7 @@ jonathantribouharet/JTCalendar
 jondot/awesome-react-native
 jondot/graphene
 jondot/sneakers
+jonfinerty/Once
 jonikorpi/Frameless
 jonikorpi/Golden-Grid-System
 jonls/redshift
@@ -5534,12 +5540,14 @@ labstack/echo
 laher/goxc
 laktak/hjson
 laktek/punch
+lambci/lambci
 lamdu/lamdu
 lampepfl/dotty
 lanayotech/vagrant-manager
 lanceli/cnodejs-ionic
 lanceseidman/PiCAST
 langhua9527/BlackheartedHospital
+languagetool-org/languagetool
 laobie/StatusBarUtil
 lapism/SearchView
 lapwinglabs/x-ray
@@ -5758,6 +5766,7 @@ lsegal/yard
 lsjwzh/MaterialLoadingProgressBar
 lsjwzh/RecyclerViewPager
 ltebean/LTNavigationBar
+luakit/luakit
 lucadegasperi/oauth2-server-laravel
 lucasr/smoothie
 lucasr/twoway-view
@@ -5796,6 +5805,7 @@ lyft/confidant
 lyft/scissors
 lynndylanhurley/devise_token_auth
 lynndylanhurley/ng-token-auth
+lzfse/lzfse
 lzyzsd/Awesome-RxJava
 lzyzsd/CircleProgress
 lzyzsd/JsBridge
@@ -6242,6 +6252,7 @@ mixi-inc/AndroidTraining
 mixi-inc/iOSTraining
 mixu/singlepageappbook
 mizzy/serverspec
+mjackson/expect
 mjackson/history
 mjackson/mach
 mjibson/goread
@@ -9166,6 +9177,7 @@ walu/phpbook
 wandenberg/nginx-push-stream-module
 wang-bin/QtAV
 wangdan/AisenWeiBo
+wangfupeng1988/wangEditor
 wangmchn/WMPageController
 wangshengjia/VWInstantRun
 wardowsmcc/badass
