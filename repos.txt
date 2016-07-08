@@ -231,6 +231,7 @@ CatchChat/Yep
 CellularPrivacy/Android-IMSI-Catcher-Detector
 CenturyLinkLabs/panamax-ui
 CezaryKopacz/CKWaveCollectionViewTransition
+ChadCSong/ShineButton
 CharlieHess/slack-poker-bot
 CharlinFeng/CorePhotoBroswerVC
 CharonChui/AndroidNote
@@ -1386,6 +1387,7 @@ Unknwon/the-way-to-go_ZH_CN
 UrbanApps/UAModalPanel
 UrbanApps/UAProgressView
 Urigo/angular-meteor
+Urinx/WeixinBot
 UweTrottmann/SeriesGuide
 VPenkov/okayNav
 Valloric/YouCompleteMe
@@ -1761,6 +1763,7 @@ alrra/browser-logos
 alskipp/ASProgressPopUpView
 alskipp/ASValueTrackingSlider
 alsotang/node-lessons
+alssndro/sandros-sketch-plugins
 altercation/solarized
 altercation/vim-colors-solarized
 aluzzardi/wssh
@@ -2601,6 +2604,7 @@ cgiffard/node-simplecrawler
 cgrand/enlive
 cgriego/active_attr
 cgross/angular-busy
+chaconnewu/free-data-science-books
 chadoe/docker-cleanup-volumes
 chaijs/chai
 chalk/chalk
@@ -2734,6 +2738,7 @@ clibs/clib
 clientIO/joint
 cliftonc/calipso
 clinical-meteor/cookbook
+clinical-meteor/software-development-kit
 clips/pattern
 clojure-cookbook/clojure-cookbook
 clojure-emacs/cider
@@ -3279,6 +3284,7 @@ docker/libchan
 docker/libcontainer
 docker/machine
 docker/swarm
+docker/swarmkit
 docopt/docopt
 docpad/docpad
 doctrine/doctrine2
@@ -4168,6 +4174,7 @@ go-sql-driver/mysql
 go-xorm/xorm
 go-yaml/yaml
 go-zoo/bone
+goadapp/goad
 goadesign/goa
 goaop/framework
 goatslacker/alt
@@ -4779,6 +4786,7 @@ iwasrobbed/RPFloatingPlaceholders
 iziz/libPhoneNumber-iOS
 izqui/Taylor
 izzyleung/ZhihuDailyPurify
+j-delaney/easy-application
 j256/ormlite-android
 j4mie/idiorm
 j4mie/paris
@@ -5499,6 +5507,7 @@ kriskowal/gtor
 kriskowal/q
 krisleech/wisper
 krispo/angular-nvd3
+krispo/awesome-haskell
 kristoferjoseph/flexboxgrid
 kristopolous/BOOTSTRA.386
 kriswallsmith/Buzz
@@ -5536,6 +5545,7 @@ kylestetz/CLNDR
 kymjs/KJFrameForAndroid
 kymjs/RxVolley
 l123456789jy/Lazy
+l20n/l20n.js
 labstack/echo
 laher/goxc
 laktak/hjson
@@ -6708,6 +6718,7 @@ nov/fb_graph
 novoda/android-demos
 novoda/image-loader
 novus/nvd3
+npgsql/npgsql
 npm/node-semver
 npm/npm
 nprapps/app-template
@@ -8114,6 +8125,7 @@ sindresorhus/gulp-imagemin
 sindresorhus/gulp-rev
 sindresorhus/load-grunt-tasks
 sindresorhus/multiline
+sindresorhus/np
 sindresorhus/ora
 sindresorhus/pageres
 sindresorhus/pure
@@ -8263,6 +8275,7 @@ spatie/laravel-backup
 specialunderwear/Hosts.prefpane
 specta/expecta
 specta/specta
+spesmilo/electrum
 spf13/cobra
 spf13/hugo
 spf13/spf13-vim
