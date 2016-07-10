@@ -1883,6 +1883,7 @@ angular/material
 angular/material-start
 angular/material2
 angular/protractor
+angular/quickstart
 angular/universal
 angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
@@ -3576,6 +3577,7 @@ erikhuda/thor
 erikras/ducks-modular-redux
 erikras/react-redux-universal-hot-example
 erikras/redux-form
+eriksvedang/Carp
 erikw/tmux-powerline
 erincatto/Box2D
 erlang/otp
