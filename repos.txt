@@ -857,6 +857,7 @@ Microsoft/bond
 Microsoft/checkedc
 Microsoft/code-push
 Microsoft/dotnet
+Microsoft/malmo
 Microsoft/monaco-editor
 Microsoft/msbuild
 Microsoft/nodejs-guidelines
@@ -6137,6 +6138,7 @@ metabase/metabase
 metafizzy/flickity
 metafizzy/isotope
 metafizzy/packery
+metagrover/ES6-for-humans
 metajack/strophejs
 metalsmith/metalsmith
 meteor/meteor
@@ -7197,6 +7199,7 @@ platformio/platformio
 plattysoft/Leonids
 play/play
 playcanvas/engine
+playdeadgames/temporal
 playframework/play1
 playframework/playframework
 playgameservices/play-games-plugin-for-unity
@@ -7584,6 +7587,7 @@ renzifeng/ZFPlayer
 replit/repl.it
 requery/requery
 request/request
+request/request-promise
 requirejs/almond
 requirejs/r.js
 requirejs/requirejs
@@ -7661,6 +7665,7 @@ rnpm/rnpm
 rnystrom/RNBlurModalView
 rnystrom/RNFrostedSidebar
 rnystrom/RNGridMenu
+ro31337/bigoposter
 rob-brown/RBStoryboardLink
 robb/Cartography
 robb/RBBAnimation
@@ -8552,6 +8557,7 @@ tangqiaoboy/iOSBlogCN
 tantaman/Strut
 taobao/nginx-book
 taobaofed/react-web
+tapio/live-server
 tapjs/node-tap
 tapmodo/Jcrop
 tapquo/Lungo.js
@@ -8904,6 +8910,7 @@ tumtumtum/StreamingKit
 turbolinks/turbolinks
 turbolinks/turbolinks-classic
 turbulenz/turbulenz_engine
+turi-code/PowerGraph
 tutao/tutanota
 tuupola/jquery_jeditable
 tuupola/jquery_lazyload
@@ -9492,6 +9499,7 @@ zac/iphonearkit
 zachfitz/Ionic-Material
 zachlatta/sshtron
 zachsoft/Ionic-Material
+zakattax/bitscript-temperate
 zalmoxisus/redux-devtools-extension
 zaphoyd/websocketpp
 zaproxy/zaproxy
