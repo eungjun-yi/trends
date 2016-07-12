@@ -57,6 +57,7 @@ Aerolab/midnight.js
 AgileBits/onepassword-app-extension
 Ahmed-Ali/JSONExport
 AigeStudio/DatePicker
+Akkyie/AKPickerView
 AlDanial/cloc
 Alamofire/Alamofire
 Alamofire/AlamofireImage
@@ -531,6 +532,7 @@ HazyResearch/deepdive
 HdrHistogram/HdrHistogram
 Hearst-DD/ObjectMapper
 HearthSim/Hearthstone-Deck-Tracker
+HeinrichReimer/material-intro
 HelloZeroNet/ZeroNet
 HenrikJoreteg/ICanHaz.js
 HenrikJoreteg/hjs-webpack
@@ -897,6 +899,7 @@ MovingBlocks/Terasology
 Moya/Moya
 Mozharovsky/CVCalendar
 MrEngineer13/SnackBar
+MrKepzie/Natron
 MrRio/jsPDF
 MrRio/vtop
 MrSwitch/hello.js
@@ -1824,6 +1827,7 @@ andreasgal/B2G
 andreasschrade/android-design-template
 andreberg/Meslo-Font
 andreis/interview
+andremion/Music-Player
 andreruffert/rangeslider.js
 andresriancho/w3af
 andrewculver/koudoku
@@ -1912,6 +1916,7 @@ antiboredom/videogrep
 antiguab/BAFluidView
 antimatter15/ocrad.js
 antirez/disque
+antirez/kilo
 antirez/lamernews
 antirez/linenoise
 antirez/redis
@@ -2936,6 +2941,7 @@ crypto101/book
 cryptocat/cryptocat-legacy
 cryptosphere/cryptosphere
 crystal-lang/crystal
+cs109/content
 cs231n/cs231n.github.io
 css-modules/css-modules
 css-modules/webpack-demo
@@ -3952,6 +3958,7 @@ frozenui/frozenui
 fruux/Baikal
 fsharp/fsharp
 fsnotify/fsnotify
+fsouza/go-dockerclient
 ftlabs/fastclick
 ftlabs/ftscroller
 fuel/fuel
@@ -4549,6 +4556,7 @@ hongyangAndroid/AndroidChangeSkin
 hongyangAndroid/FlowLayout
 hongyangAndroid/Highlight
 hongyangAndroid/android-percent-support-extend
+hongyangAndroid/baseAdapter
 hongyangAndroid/okhttp-utils
 honza/vim-snippets
 hoodiehq/hoodie
@@ -4638,6 +4646,7 @@ iamdaiyuan/ios_top_1000
 iammert/MaterialIntroView
 iammert/MusicPlayerView
 iandevlin/html5bones
+ianmiell/shutit
 ianyh/Amethyst
 ibaaj/dijkstra-cartography
 ibireme/YYCache
@@ -4699,6 +4708,7 @@ immutables/immutables
 impeterstone/PSCollectionView
 impress/impress.js
 impressivewebs/HTML9-Responsive-Boilerstrap-js
+impressivewebs/frontend-feeds
 imsky/holder
 imulus/retinajs
 imwilsonxu/fbone
@@ -4836,6 +4846,7 @@ jamesgpearce/confess
 jamesmawm/High-Frequency-Trading-Model-with-IB
 jamesob/desk
 jamesrwhite/minicron
+jameysharp/corrode
 jamierumbelow/codeigniter-base-model
 jamietre/CsQuery
 jamiewilson/predawn
@@ -5147,6 +5158,7 @@ jorisvink/kore
 josdejong/jsoneditor
 josdejong/mathjs
 josephmisiti/awesome-machine-learning
+josephschmitt/Clamp.js
 josephyzhou/github-trending
 josevalim/inherited_resources
 josevalim/rails-footnotes
@@ -7311,6 +7323,7 @@ psychs/limechat
 ptaoussanis/sente
 ptaoussanis/timbre
 ptmt/react-native-desktop
+ptshih/PSCollectionView
 ptwobrussell/Mining-the-Social-Web
 ptwobrussell/Mining-the-Social-Web-2nd-Edition
 publify/publify
@@ -8735,6 +8748,7 @@ timdown/rangy
 timehop/sticky-headers-recyclerview
 timekit-io/booking-js
 timjacobi/angular2-education
+timjansen/minified.js
 timothycrosley/hug
 timoxley/best-practices
 timoxley/functional-javascript-workshop
