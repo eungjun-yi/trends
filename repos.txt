@@ -349,6 +349,7 @@ DemocracyOS/democracyos
 DesarrolloAntonio/FragmentTransactionExtended
 DeskConnect/SBShortcutMenuSimulator
 DevLight-Mobile-Agency/NavigationTabBar
+DevLight-Mobile-Agency/NavigationTabStrip
 DevinVinson/WordPress-Plugin-Boilerplate
 DhavalKapil/icmptunnel
 DianQK/TransitionTreasury
@@ -1210,6 +1211,7 @@ SassDoc/sassdoc
 Schepp/box-sizing-polyfill
 ScottHamper/Cookies
 Seldaek/monolog
+SeldonIO/seldon-server
 SeleniumHQ/docker-selenium
 SeleniumHQ/selenium
 SelfControlApp/selfcontrol
@@ -1643,6 +1645,7 @@ agis-/git-style-guide
 aheckmann/gm
 aheinze/cockpit
 ai/autoprefixer-rails
+ai/browserslist
 ai/easings.net
 ai/visibilityjs
 aickin/react-dom-stream
@@ -2178,6 +2181,7 @@ balysv/material-ripple
 banago/PHPloy
 banchichen/TZImagePickerController
 bang590/JSPatch
+banga/powerline-shell
 baoyachi/StepView
 baoyongzhang/SwipeMenuListView
 baoyongzhang/android-PullRefreshLayout
@@ -2306,6 +2310,7 @@ bingoogolapple/BGABadgeView-Android
 bingoogolapple/BGARefreshLayout-Android
 binux/pyspider
 binux/yaaw
+biokoda/actordb
 biometrics/openbr
 biopython/biopython
 bitcoin/bitcoin
@@ -2687,6 +2692,7 @@ chrisjenx/Calligraphy
 chrisk/fakeweb
 chriskacerguis/codeigniter-restserver
 chriskempson/base16
+chriskempson/base16-vim
 chriskempson/tomorrow-theme
 chriskiehl/Gooey
 chriskite/anemone
@@ -3333,6 +3339,7 @@ donnemartin/interactive-coding-challenges
 donnemartin/saws
 donpark/hbs
 donpark/html2jade
+dontcontactme/p2pspider
 doorkeeper-gem/doorkeeper
 dotless-de/vagrant-vbguest
 dotnet/cli
@@ -4056,6 +4063,7 @@ geometer/FBReaderJ
 geopy/geopy
 georgebrock/1pass
 gephi/gephi
+gerhard/deliver
 germanysbestkeptsecret/Wookmark-jQuery
 gernest/utron
 getflourish/Sketch-Style-Inventory
@@ -5282,6 +5290,7 @@ justintv/Twitch-API
 justinwalsh/daux.io
 justjavac/Google-IPs
 justjavac/Programming-Alpha-To-Omega
+justjavac/awesome-awesomeness-zh_CN
 justjavac/free-programming-books-zh_CN
 justjohn/twig.js
 justmarkham/DAT8
@@ -5313,6 +5322,7 @@ kachayev/fn.py
 kadirahq/flow-router
 kadirahq/mantra
 kadirahq/react-storybook
+kahopoon/Pokemon-Go-Controller
 kahun/awesome-sysadmin
 kaimallea/isMobile
 kairosdb/kairosdb
@@ -5704,6 +5714,7 @@ linemanjs/lineman
 linfaxin/TransitionPlayer
 linger1216/labelview
 lingochamp/FileDownloader
+linkedin/LayoutKit
 linkedin/databus
 linkedin/dustjs
 linkedin/hopscotch
@@ -6995,6 +7006,7 @@ panicinc/PunchClock
 panicsteve/cloud-to-butt
 panique/huge
 panique/mini
+panteng/wechat-h5-boilerplate
 panwrona/DownloadProgressBar
 panzhangwang/getAwesomeness
 paperjs/paper.js
@@ -8228,6 +8240,7 @@ snorpey/jpg-glitch
 snowdream/awesome-android
 snowplow/snowplow
 so-fancy/diff-so-fancy
+soapyigu/LeetCode_Swift
 soarcn/BottomSheet
 sobri909/MGBoxKit
 sockeqwe/mosby
@@ -9294,6 +9307,7 @@ whomwah/qlstephen
 whtsky/WeRoBot
 whyrusleeping/gx
 widuu/chinese_docker
+wikimedia/wikipedia-ios
 wildabeast/BarcodeScanner
 wildfly/wildfly
 willfarrell/alfred-workflows
@@ -9564,6 +9578,7 @@ zhxnlai/ZLSwipeableView
 zhxnlai/ZLSwipeableViewSwift
 ziadoz/awesome-php
 ziahamza/webui-aria2
+zingchart/zingtouch
 zipme/RQShineLabel
 zk00006/OpenTLD
 zloirock/core-js
