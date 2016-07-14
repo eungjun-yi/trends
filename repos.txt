@@ -1302,6 +1302,7 @@ SublimeText/CTags
 SublimeText/LaTeXTools
 SublimeText/Origami
 Sumi-Interactive/SIAlertView
+SunLiner/MiaowShow
 Suor/funcy
 Supervisor/supervisor
 Sutto/rocket_pants
