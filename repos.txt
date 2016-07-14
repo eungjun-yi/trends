@@ -531,6 +531,7 @@ HaxeFlixel/flixel
 HaxeFoundation/haxe
 HazyResearch/deepdive
 HdrHistogram/HdrHistogram
+HeZaiJin/SlantedTextView
 Hearst-DD/ObjectMapper
 HearthSim/Hearthstone-Deck-Tracker
 HeinrichReimer/material-intro
@@ -1136,6 +1137,7 @@ ReSwift/ReSwift
 ReactJSTraining/history
 ReactKit/ReactKit
 ReactKit/SwiftTask
+ReactTraining/history
 Reactive-Extensions/Rx.NET
 Reactive-Extensions/RxJS
 ReactiveCocoa/ReactiveCocoa
@@ -2144,6 +2146,7 @@ aws/aws-sdk-php
 aws/aws-sdk-ruby
 aws/opsworks-cookbooks
 awslabs/aws-shell
+awslabs/chalice
 awslabs/git-secrets
 awslabs/s2n
 axkibe/lsyncd
@@ -2237,6 +2240,7 @@ bebraw/jswiki
 beefproject/beef
 beeman/loopback-angular-admin
 beetbox/beets
+begeekmyfriend/yasea
 begriffs/css-ratiocinator
 begriffs/postgrest
 belluzj/fantasque-sans
@@ -2274,6 +2278,7 @@ bespokejs/bespoke
 bestiejs/benchmark.js
 bestiejs/json3
 bestiejs/platform.js
+bestmomo/laravel5-example
 bestswifter/MySampleCode
 bestwnh/IGLDropDownMenu
 bevacqua/dragula
@@ -2565,6 +2570,7 @@ carlsednaoui/ouibounce
 carltongibson/django-filter
 carmaa/inception
 carols10cents/rustlings
+carp-lang/Carp
 carrierwaveuploader/carrierwave
 carrot/share-button
 carsonperrotti/CNPPopupController
@@ -4392,6 +4398,7 @@ gskinner/regexr
 gsklee/ngStorage
 gss/engine
 gsscoder/commandline
+gterrono/houston
 guard/guard
 guard/guard-livereload
 guard/guard-rspec
@@ -5008,6 +5015,7 @@ jgm/gitit
 jgm/pandoc
 jgrahamc/httpdiff
 jgregory-zynga/scroller
+jgrossi/corcel
 jgthms/bulma
 jhipster/generator-jhipster
 jhnns/rewire
@@ -6268,6 +6276,7 @@ minimaxir/big-list-of-naughty-strings
 mininet/mininet
 minio/minio
 mintchaos/flippant.js
+mirah/mirah
 miripiruni/frontdesk
 mishoo/UglifyJS
 mishoo/UglifyJS2
@@ -6730,6 +6739,7 @@ noraesae/perfect-scrollbar
 norman/friendly_id
 north/north
 nose-devs/nose
+nosir/cleave.js
 nosir/obelisk.js
 nostalgiaz/bootstrap-switch
 nostalgiaz/bootstrap-toggle-buttons
@@ -7028,6 +7038,7 @@ passy/angular-masonry
 pat/thinking-sphinx
 path/FastImageCache
 path/android-priority-jobqueue
+patrick-steele-idem/morphdom
 patrickkunka/mixitup
 pattern-lab/patternlab-php
 pattle/simpsons-in-css
@@ -7477,6 +7488,7 @@ rallat/EffectiveAndroid
 ramda/ramda
 raml-org/raml-spec
 ramnathv/rCharts
+ramsaylanier/WordExpress
 ramsaylanier/WordPressExpress
 ramsey/uuid
 rancher/os
@@ -7532,6 +7544,7 @@ reactiveui/ReactiveUI
 reactjs/express-react-views
 reactjs/react-art
 reactjs/react-basic
+reactjs/react-chartjs
 reactjs/react-future
 reactjs/react-modal
 reactjs/react-rails
@@ -7830,6 +7843,7 @@ russross/blackfriday
 rust-lang/cargo
 rust-lang/rust
 rust-lang/rust-by-example
+rustbridge/helix
 rustbridge/neon
 rvagg/through2
 rvirding/lfe
@@ -8007,6 +8021,7 @@ seejohnrun/haste-server
 seejohnrun/ice_cube
 seenaburns/dex-ui
 segmentio/analytics.js
+segmentio/daydream
 segmentio/myth
 segmentio/nightmare
 sehmaschine/django-grappelli
@@ -8383,6 +8398,7 @@ square/spoon
 square/sqlbrite
 square/tape
 square/wire
+squaremo/amqp.node
 squaremo/rabbit.js
 squizlabs/PHP_CodeSniffer
 src-d/go-git
@@ -8440,6 +8456,7 @@ steshaw/plt
 stevedekorte/io
 stevegraham/slanger
 stevekwan/best-practices
+stevenmiller888/mind
 stevenschobert/instafeed.js
 stevenwanderski/bxslider-4
 stewdio/beep.js
@@ -8678,6 +8695,7 @@ theironcook/Backbone.ModelBinder
 thejameskyle/babel-handbook
 thejameskyle/spectacle-code-slide
 thejameskyle/the-super-tiny-compiler
+themadinventor/esptool
 themattharris/tmhOAuth
 themattrix/bash-concurrent
 themeskult/wp-svbtle
@@ -9087,6 +9105,7 @@ uxebu/bonsai
 uzysjung/UzysAnimatedGifPullToRefresh
 v2ray/v2ray-core
 v8/v8
+vagrant-libvirt/vagrant-libvirt
 vakata/jstree
 valderman/haste-compiler
 valor-software/ng2-bootstrap
@@ -9172,6 +9191,7 @@ vlucas/frisby
 vlucas/phpdotenv
 vmg/redcarpet
 vmg/sundown
+vmware/harbor
 vmware/photon
 vndmtrx/awesome-nodejs
 vnpy/vnpy
@@ -9227,6 +9247,7 @@ wandenberg/nginx-push-stream-module
 wang-bin/QtAV
 wangdan/AisenWeiBo
 wangfupeng1988/wangEditor
+wangjiegulu/RapidFloatingActionButton
 wangmchn/WMPageController
 wangshengjia/VWInstantRun
 wardowsmcc/badass
@@ -9477,6 +9498,7 @@ yhat/db.py
 yhat/ggplot
 yhat/rodeo
 yhat/scrape
+yhatt/marp
 yi-editor/yi
 yidao620c/python3-cookbook
 yigit/android-priority-jobqueue
