@@ -652,6 +652,7 @@ JeffreyZhao/wind
 JelteF/PyLaTeX
 JeremySkinner/FluentValidation
 Jermolene/TiddlyWiki5
+JeroenMols/LandscapeVideoCamera
 JerryLead/SparkInternals
 JesseObrien/laravel-cheatsheet
 Jessecar96/SteamBot
@@ -990,6 +991,7 @@ OneGet/oneget
 OnsenUI/OnsenUI
 OpenELEC/OpenELEC.tv
 OpenEmu/OpenEmu
+OpenFeign/feign
 OpenGrok/OpenGrok
 OpenKinect/libfreenect
 OpenLiveWriter/OpenLiveWriter
@@ -5672,6 +5674,7 @@ letsgetrandy/brototype
 leucos/ansible-tuto
 levey/AwesomeMenu
 lewis617/react-redux-tutorial
+lexborisov/myhtml
 lexrus/LTMorphingLabel
 lexrus/VPNOn
 lfit/itpol
@@ -6801,6 +6804,7 @@ nytlabs/streamtools
 nzakas/computer-science-in-javascript
 nzakas/understandinges6
 oa414/objc-zen-book-cn
+oakes/Nightcode
 oakes/play-clj
 oampo/Audiolet
 oarrabi/OAStackView
@@ -7402,6 +7406,7 @@ pyupio/statuspage
 qTip2/qTip2
 qbittorrent/qBittorrent
 qdore/Mutate
+qdrzwd/VideoRecorder
 qemu/qemu
 qfish/XAlign
 qgis/QGIS
@@ -8092,6 +8097,7 @@ shazow/ssh-chat
 shazow/urllib3
 shea256/angular-flask
 shekhargulati/52-technologies-in-2016
+shekhargulati/99-problems
 shellfire-dev/shellfire
 shelljs/shelljs
 shichuan/javascript-patterns
@@ -8761,6 +8767,7 @@ thoughtbot/shoulda-matchers
 thoughtbot/suspenders
 thoughtbot/til
 thoughtbot/trail-map
+threatstream/mhn
 thrust/thrust
 thumbor/thumbor
 thx/RAP
@@ -9442,6 +9449,7 @@ xyfeng/XYPieChart
 yabwe/medium-editor
 yackle/CLImageEditor
 yagop/node-telegram-bot-api
+yagop/telegram-bot
 yahoo/AppDevKit
 yahoo/anthelion
 yahoo/boomerang
