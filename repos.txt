@@ -7586,6 +7586,7 @@ realpython/discover-flask
 reapp/reapp
 reark/reark
 rebar/rebar
+recalbox/recalbox-os
 recastnavigation/recastnavigation
 recruit-lifestyle/WaveSwipeRefreshLayout
 recruit-mp/RMPZoomTransitionAnimator
