@@ -53,6 +53,7 @@ Activiti/Activiti
 AdamAtomic/flixel
 AdamWhitcroft/Apaxy
 Addepar/ember-table
+AdoptOpenJDK/jitwatch
 Aerolab/midnight.js
 AgileBits/onepassword-app-extension
 Ahmed-Ali/JSONExport
@@ -613,6 +614,7 @@ JackStouffer/Flask-Foundation
 Jacksgong/JKeyboardPanelSwitch
 JacksonTian/eventproxy
 JacksonTian/fks
+JackyAndroid/AndroidChromium
 JadenGeller/Helium
 JagCesar/iOS-blur
 Jahaja/psdash
@@ -2637,6 +2639,7 @@ chaplinjs/chaplin
 chaps-io/public_activity
 charlierguo/gmail
 charliesome/better_errors
+charliesome/jsos
 charliesome/rustboot
 charlotte-ruby/impressionist
 chartjs/Chart.js
@@ -3397,6 +3400,7 @@ dropbox/dropbox-js
 dropbox/godropbox
 dropbox/hackpad
 dropbox/json11
+dropbox/lepton
 dropbox/pyston
 dropbox/zxcvbn
 dropwizard/dropwizard
@@ -4665,6 +4669,7 @@ iammert/MaterialIntroView
 iammert/MusicPlayerView
 iandevlin/html5bones
 ianmiell/shutit
+ianstormtaylor/slate
 ianyh/Amethyst
 ibaaj/dijkstra-cartography
 ibireme/YYCache
@@ -5069,6 +5074,7 @@ jlord/sheetsee.js
 jlund/streisand
 jmascia/KLCPopup
 jmcarp/robobrowser
+jmcnamara/XlsxWriter
 jmcunningham/AngularJS-Learning
 jmdobry/angular-cache
 jmdugan/blocklists
@@ -6423,6 +6429,7 @@ mozilla/BrowserQuest
 mozilla/Fira
 mozilla/MozDef
 mozilla/bleach
+mozilla/fathom
 mozilla/firefox-ios
 mozilla/kuma
 mozilla/localForage
@@ -6778,6 +6785,7 @@ nst/STTwitter
 nst/iOS-Runtime-Headers
 nst/objc_dep
 nswbmw/N-blog
+nteract/hydrogen
 numba/numba
 numbbbbb/the-swift-programming-language-in-chinese
 numbers/numbers.js
@@ -7296,6 +7304,7 @@ prakhar1989/awesome-courses
 prakhar1989/docker-curriculum
 prasmussen/chrome-cli
 prasmussen/gdrive
+prasmussen/glot
 prat0318/json_resume
 pravj/geopattern
 praw-dev/praw
@@ -7605,6 +7614,7 @@ reflux/refluxjs
 rehorn/livepool
 reinderien/mimic
 relatedcode/EncryptedChat
+relatedcode/FirebaseChat
 relatedcode/ParseAlternatives
 relatedcode/RealtimeChat
 relax/relax
@@ -7660,6 +7670,7 @@ rey5137/material
 rezoner/unfinished-asteroids
 rg3/youtube-dl
 rgarcia/dochub
+rgcr/m-cli
 rgrove/lazyload
 rgrove/rawgit
 rgrove/sanitize
@@ -8001,6 +8012,7 @@ sdelements/lets-chat
 sdiehl/write-you-a-haskell
 sdkman/sdkman-cli
 sdogruyol/awesome-ruby
+sdogruyol/kemal
 sdsykes/fastimage
 seL4/seL4
 seajs/seajs
@@ -8783,6 +8795,7 @@ tildeio/router.js
 tildeio/rsvp.js
 timber/timber
 timburks/nu
+timcreative/material-kit
 timdown/rangy
 timehop/sticky-headers-recyclerview
 timekit-io/booking-js
@@ -9572,6 +9585,7 @@ zdfs/toscani
 zealdocs/zeal
 zedapp/zed
 zedshaw/lpthw-study-projects
+zeit/hyperterm
 zeit/micro
 zeithq/micro
 zeman/perfmap
