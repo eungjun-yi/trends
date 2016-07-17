@@ -2051,6 +2051,7 @@ arvida/emoji-cheat-sheet.com
 arya/bluepill
 aryaxt/iOS-Slide-Menu
 asLody/TurboDex
+asLody/VirtualApp
 asaskevich/govalidator
 asciidoctor/asciidoctor
 asciimoo/drawille
@@ -2567,6 +2568,7 @@ card-io/card.io-iOS-SDK
 careercup/ctci
 carekit-apple/CareKit
 carhartl/jquery-cookie
+carlbtrn/Swift
 carlbutron/Swift
 carlhuda/janus
 carljm/django-model-utils
@@ -2847,6 +2849,7 @@ codetainerapp/codetainer
 codrops/Animocons
 codrops/DistortedButtonEffects
 codrops/HoverEffectIdeas
+codrops/NotificationStyles
 codrops/PageTransitions
 codrops/SeatPreview
 codrops/SidebarTransitions
@@ -3088,6 +3091,7 @@ darlinghq/darling
 darsain/sly
 das-labor/panopticon
 dasdom/BreakOutToRefresh
+dask/dask
 dataarts/dat.gui
 dataarts/webgl-globe
 databricks/learning-spark
@@ -3409,6 +3413,7 @@ drublic/css-modal
 druid-io/druid
 drupal/drupal
 drush-ops/drush
+drwetter/testssl.sh
 dscape/nano
 dspinellis/unix-history-repo
 dsxNiubility/SXNews
@@ -4998,6 +5003,7 @@ jescalan/roots
 jesolem/PCV
 jessepollak/card
 jessepollak/command
+jesserayadkins/lily
 jessesquires/JSQMessagesViewController
 jessicard/remote-jobs
 jetpacapp/DeepBeliefSDK
@@ -5515,6 +5521,7 @@ komarserjio/notejam
 kombai/freewall
 konifar/android-material-design-icon-generator-plugin
 konmik/nucleus
+konvajs/konva
 koral--/android-gif-drawable
 koreader/koreader
 korma/Korma
@@ -6804,6 +6811,7 @@ nwidger/nintengo
 nwjs/grunt-nw-builder
 nwjs/nw-builder
 nwjs/nw.js
+nxtbgthng/OAuth2Client
 nyanp/tiny-cnn
 nygard/class-dump
 nylas/N1
@@ -7017,6 +7025,7 @@ pakastin/deck-of-cards
 pakerfeldt/android-viewflow
 palantir/plottable
 palantir/tslint
+paldepind/snabbdom
 pallets/click
 pallets/flask
 pallets/itsdangerous
@@ -9531,6 +9540,7 @@ yiisoft/yii
 yiisoft/yii2
 yinwang0/pysonar2
 yixia/VitamioBundle
+yixiangboy/IOSAnimationDemo
 ylechelle/OpenUDID
 yoavlt/LiquidFloatingActionButton
 yob/pdf-reader
