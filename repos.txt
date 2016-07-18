@@ -970,6 +970,7 @@ NghiaTranUIT/FeSpinner
 Nickersoft/push.js
 Nightonke/BoomMenu
 Nightonke/WoWoViewPager
+Nike-Inc/Willow
 NikolaiT/GoogleScraper
 NixOS/nix
 NixOS/nixpkgs
@@ -2459,6 +2460,7 @@ brianleroux/wtfjs
 brianmario/mysql2
 brianmario/yajl-ruby
 briannesbitt/Carbon
+brianreavis/sifter.js
 bridgetkromhout/devops-against-humanity
 brigade/overcommit
 brigade/scss-lint
@@ -3301,6 +3303,7 @@ dmytrodanylyk/circular-progress-button
 dmytrodanylyk/folding-plugin
 dnschneid/crouton
 dobtco/formbuilder
+docker-library/docs
 docker-library/official-images
 docker/compose
 docker/distribution
@@ -4968,6 +4971,7 @@ jdg/MBProgressHUD
 jdorn/json-editor
 jdsutton/Technical-Interview-Megarepo
 jeanphix/Ghost.py
+jech/polipo
 jed/lave
 jedfoster/Readmore.js
 jedi4ever/veewee
@@ -5168,6 +5172,7 @@ jondot/awesome-react-native
 jondot/graphene
 jondot/sneakers
 jonfinerty/Once
+joni2back/angular-filemanager
 jonikorpi/Frameless
 jonikorpi/Golden-Grid-System
 jonls/redshift
@@ -5595,6 +5600,7 @@ kymjs/KJFrameForAndroid
 kymjs/RxVolley
 l123456789jy/Lazy
 l20n/l20n.js
+lab2023/hierapolis
 labstack/echo
 laher/goxc
 laktak/hjson
@@ -6467,6 +6473,7 @@ mquan/cortex
 mrackwitz/MRProgress
 mrakodol/Laravel-5-Bootstrap-3-Starter-Site
 mrclay/minify
+mrcoles/markdown-css
 mrdavidlaing/javascript-koans
 mrdoob/stats.js
 mrdoob/texgen.js
@@ -8311,6 +8318,7 @@ solidsnack/GraphpostgresQL
 solidusio/solidus
 soliury/noder-react-native
 solnic/virtus
+solus-project/budgie-desktop
 somebee/imba
 somerandomdude/Frank
 somerandomdude/Iconic
@@ -9588,6 +9596,7 @@ zaphoyd/websocketpp
 zaproxy/zaproxy
 zaqqaz/ng-rest-api
 zardus/ctf-tools
+zcash/zcash
 zcbenz/nw-sample-apps
 zcweng/ToggleButton
 zdennis/activerecord-import
