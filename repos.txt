@@ -48,6 +48,7 @@ AFNetworking/AFIncrementalStore
 AFNetworking/AFNetworking
 AFNetworking/AFOAuth2Manager
 AGWA/git-crypt
+AHAAAAAAA/PokemonGo-Map
 AaronRandall/Screentendo
 Activiti/Activiti
 AdamAtomic/flixel
@@ -58,6 +59,7 @@ Aerolab/midnight.js
 AgileBits/onepassword-app-extension
 Ahmed-Ali/JSONExport
 AigeStudio/DatePicker
+AigeStudio/WheelPicker
 Akkyie/AKPickerView
 AlDanial/cloc
 Alamofire/Alamofire
@@ -604,6 +606,7 @@ Itseez/opencv
 Itseez/opencv_contrib
 J7mbo/twitter-api-php
 JACoders/OpenJK
+JEG2/highline
 JSONModel/JSONModel
 JStumpp/awesome-android
 JVillella/JVFloatingDrawer
@@ -728,6 +731,7 @@ KittenYang/KYAnimatedPageControl
 KittenYang/KYGooeyMenu
 KittyKatt/screenFetch
 Kitware/CMake
+KnightOS/KnightOS
 Knockout-Contrib/Knockout-Validation
 KnpLabs/Gaufrette
 KnpLabs/php-github-api
@@ -1113,6 +1117,7 @@ RPISEC/MBE
 RPISEC/Malware
 RaRe-Technologies/gensim
 RadLikeWhoa/Countable
+RafeKettler/magicmethods
 RailsApps/rails-composer
 RailsApps/rails-stripe-membership-saas
 RailsApps/rails_apps_composer
@@ -1449,6 +1454,7 @@ WebBooks/wbb
 WebDevStudios/CMB2
 WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
+WebpageFX/emoji-cheat-sheet.com
 Webschool-io/be-mean-instagram
 WechatFE/vConsole
 WenchaoD/FSCalendar
@@ -2010,9 +2016,11 @@ appsquickly/Typhoon
 aquynh/capstone
 arachnys/athenapdf
 arachnys/cabot
+aragozin/jvm-tools
 aralejs/aralejs.github.io
 aralejs/aralejs.org
 arangodb/arangodb
+aras-p/glsl-optimizer
 arasatasaygin/is.js
 arashpayan/appirater
 arc90/git-sweep
@@ -3007,6 +3015,7 @@ cwRichardKim/RKSwipeBetweenViewControllers
 cwRichardKim/TinderSimpleSwipeCards
 cxxr/better-java
 cyclejs/core
+cyclejs/cyclejs
 cyfdecyf/cow
 cykod/Quintus
 cymcsg/UltimateAndroid
@@ -3251,6 +3260,7 @@ dieulot/instantclick
 digitalBush/jquery.maskedinput
 digitalbazaar/forge
 digitalfruit/limejs
+digitalocean/doctl
 digitalocean/netbox
 dimitri/el-get
 dimsemenov/Magnific-Popup
@@ -3484,6 +3494,7 @@ edobashira/speech-language-processing
 eduardolundgren/tracking.js
 edwardtufte/tufte-css
 edx/edx-platform
+egoist/hack
 egonSchiele/contracts.ruby
 egorsmkv/google-spaces
 egrcc/zhihu-python
@@ -5691,6 +5702,7 @@ letsencrypt/letsencrypt
 letsgetrandy/DICSS
 letsgetrandy/brototype
 leucos/ansible-tuto
+leveros/leveros
 levey/AwesomeMenu
 lewis617/react-redux-tutorial
 lexborisov/myhtml
@@ -5892,6 +5904,7 @@ maciejczyzewski/retter
 maciekish/iReSign
 macoscope/CodePilot
 macournoyer/thin
+macvim-dev/macvim
 madebybowtie/FlagKit
 madebymany/sir-trevor-js
 madebysource/lesshat
@@ -6620,6 +6633,7 @@ neo4j/neo4j
 neo4jrb/neo4j
 neokree/MaterialNavigationDrawer
 neokree/MaterialTabs
+neomake/neomake
 neonichu/FixCode
 neovim/neovim
 neror/ftutils
@@ -6705,6 +6719,7 @@ ninjinkun/NJKScrollFullScreen
 ninjinkun/NJKWebViewProgress
 ninjudd/drip
 nispok/snackbar
+nisrulz/easydeviceinfo
 nixzhu/MonkeyKing
 nixzhu/dev-blog
 njdehoog/NHBalancedFlowLayout
@@ -8371,6 +8386,7 @@ spine/spine
 spinnaker/spinnaker
 splitbrain/dokuwiki
 splitrb/split
+splitwise/TokenAutoComplete
 spmjs/spm
 spockframework/spock
 sporkmonger/addressable
@@ -9418,6 +9434,7 @@ wrapp/floatlabelededittext
 wrobstory/vincent
 wsargent/docker-cheat-sheet
 wting/autojump
+wuhaoyu1990/MagicCamera
 wunderlist/android-sliding-layer-lib
 wuub/SublimeREPL
 wuye9036/CppTemplateTutorial
