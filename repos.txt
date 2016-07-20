@@ -864,9 +864,11 @@ Microsoft/TypeScriptSamples
 Microsoft/WinObjC
 Microsoft/Windows-driver-samples
 Microsoft/Windows-universal-samples
+Microsoft/api-guidelines
 Microsoft/bond
 Microsoft/checkedc
 Microsoft/code-push
+Microsoft/cpprestsdk
 Microsoft/dotnet
 Microsoft/malmo
 Microsoft/monaco-editor
@@ -883,6 +885,7 @@ MiguelCatalan/MaterialSearchView
 MikeMcl/bignumber.js
 MikeMcl/decimal.js
 MikeOrtiz/TouchImageView
+Mila432/Pokemon_Go_API
 MinecraftForge/MinecraftForge
 MiniProfiler/rack-mini-profiler
 Miserlou/Glance-Bookmarklet
@@ -1077,6 +1080,7 @@ PomepuyN/BlurEffectForAndroidDesign
 Popmotion/popmotion
 PostgresApp/PostgresApp
 PowerShell/Win32-OpenSSH
+PowerShellEmpire/Empire
 PowerShellMafia/PowerSploit
 PredictionIO/PredictionIO
 PressLabs/gitfs
@@ -2428,6 +2432,7 @@ bploetz/versionist
 brack3t/django-braces
 bradfitz/goimports
 bradfitz/http2
+bradfrost/frontend-guidelines-questionnaire
 bradfrost/project-hub
 bradfrost/this-is-responsive
 brainspec/enumerize
@@ -2454,6 +2459,7 @@ brenden/node-webshot
 brennerm/PyTricks
 brentd/xray-rails
 brentvatne/react-native-scrollable-tab-view
+brentvatne/react-native-video
 brettwooldridge/HikariCP
 brianc/node-postgres
 brianchirls/Seriously.js
@@ -4022,6 +4028,7 @@ fyhertz/libstreaming
 fzaninotto/Faker
 fzaninotto/screenshot-as-a-service
 fzaninotto/uptime
+gabelerner/canvg
 gabime/spdlog
 gabordemooij/redbean
 gabrielbull/react-desktop
@@ -4424,6 +4431,7 @@ gskinner/regexr
 gsklee/ngStorage
 gss/engine
 gsscoder/commandline
+gtank/cryptopasta
 gterrono/houston
 guard/guard
 guard/guard-livereload
@@ -4814,6 +4822,7 @@ iron/iron
 ironmaniiith/Github-profile-name-writer
 irssi/irssi
 irungentoo/toxcore
+isRuslan/awesome-elm
 isaacs/minimatch
 isaacs/nave
 isaacs/node-glob
@@ -5325,6 +5334,7 @@ jussi-kalliokoski/trine
 justinas/alice
 justinfrench/formtastic
 justinmeister/Mario-Level-1
+justinmk/vim-sneak
 justintv/Twitch-API
 justinwalsh/daux.io
 justjavac/Google-IPs
@@ -6028,6 +6038,7 @@ markrendle/Simple.Data
 markushi/android-circlebutton
 markushi/android-ui
 markyun/My-blog
+markzhai/blockcanary
 marmelab/gremlins.js
 marmelab/ng-admin
 marmelab/universal.css
@@ -7047,6 +7058,7 @@ pakastin/deck-of-cards
 pakerfeldt/android-viewflow
 palantir/plottable
 palantir/tslint
+paldepind/flyd
 paldepind/snabbdom
 pallets/click
 pallets/flask
@@ -8966,6 +8978,7 @@ traex/ExpandableLayout
 traex/RippleEffect
 trailsjs/trails
 transcode-open/apt-cyg
+transloadit/uppy
 traverseda/pycraft
 travis-ci/travis-ci
 travisjeffery/ClangFormat-Xcode
@@ -9695,6 +9708,7 @@ zxing/zxing
 zxlie/WeixinApi
 zyedidia/micro
 zynga/scroller
+zyqf/DNS
 zythum/mama2
 zzarcon/focusable
 zzarcon/microm
