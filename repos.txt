@@ -8,6 +8,7 @@
 0xced/XCDYouTubeKit
 0xced/iOS-Artwork-Extractor
 0xd4d/de4dot
+0xd4d/dnSpy
 0xfe/vexflow
 1000ch/grd
 1000hz/bootstrap-validator
@@ -488,6 +489,7 @@ Gazler/githug
 GcsSloop/AndroidNote
 Geal/nom
 GeekyAnts/NativeBase
+GeniusVJR/LearningNotes
 GetExpert/redux-blog-example
 GetmeUK/ContentTools
 Ghosh/uiGradients
@@ -604,6 +606,7 @@ IronLanguages/main
 IsseiAoki/SimpleCropView
 Itseez/opencv
 Itseez/opencv_contrib
+Izzimach/react-three
 J7mbo/twitter-api-php
 JACoders/OpenJK
 JEG2/highline
@@ -2508,6 +2511,7 @@ btford/angular-express-seed
 btford/angular-socket-io
 btford/ngmin
 btford/write-good
+btmills/geopattern
 btrask/stronglink
 buaazp/zimg
 bububa/MongoHub-Mac
@@ -2809,6 +2813,7 @@ cloudson/gitql
 cloudtools/troposphere
 cloudwu/mptun
 cloudwu/skynet
+cloverfield-tools/universal-react-boilerplate
 clowwindy/Awesome-Networking
 clowwindy/ShadowVPN
 clu3/bootstro.js
@@ -3928,6 +3933,7 @@ flexiblegs/flexiblegs-scss-plus
 flickr/justified-layout
 flightjs/flight
 flike/kingshard
+florent37/HollyViewPager
 florent37/MaterialViewPager
 florent37/ViewAnimator
 florian/cookie.js
@@ -4110,6 +4116,7 @@ getgrav/grav
 getguesstimate/guesstimate-app
 getify/LABjs
 getify/You-Dont-Know-JS
+getlantern/forum
 getlantern/lantern
 getlantern/lantern-binaries
 getlogbook/logbook
@@ -4204,6 +4211,7 @@ glittershark/reactable
 globalize/globalize
 glock45/iOS-Hierarchy-Viewer
 glomadrian/RoadRunner
+glomadrian/loading-balls
 glomadrian/material-animated-switch
 gluster/glusterfs
 glyphr-studio/Glyphr-Studio-1
@@ -4689,6 +4697,7 @@ iPaulPro/Android-ItemTouchHelper-Demo
 iPaulPro/aFileChooser
 iRareMedia/iCloudDocumentSync
 iSimar/HackerNews-React-Native
+iam4x/pokemongo-webspoof
 iambus/xunlei-lixian
 iamceege/tooltipster
 iamdaiyuan/ios_top_1000
@@ -5577,6 +5586,7 @@ kripken/ammo.js
 kripken/emscripten
 kripken/sql.js
 krisajenkins/yesql
+krishnasrinivas/wetty
 krisk/Fuse
 kriskowal/gtor
 kriskowal/q
@@ -6729,6 +6739,7 @@ ninject/Ninject
 ninjinkun/NJKScrollFullScreen
 ninjinkun/NJKWebViewProgress
 ninjudd/drip
+niorgai/StatusBarCompat
 nispok/snackbar
 nisrulz/easydeviceinfo
 nixzhu/MonkeyKing
@@ -7251,6 +7262,7 @@ pilwon/ultimate-seed
 pinax/pinax
 pineconellc/angular-foundation
 pingcap/tidb
+pingcap/tikv
 pingpongboss/StandOut
 pinry/pinry
 pinterest/PINCache
@@ -9487,6 +9499,7 @@ xianyi/OpenBLAS
 xiaoxu193/PyTeaser
 xicilion/fibjs
 xiekw2010/react-native-gitfeed
+ximan/dropload
 xing/wysihtml5
 xinthink/react-native-material-kit
 xirong/my-git
