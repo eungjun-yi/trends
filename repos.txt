@@ -421,6 +421,7 @@ FLIF-hub/FLIF
 FX-Max/Point-of-Android
 Factual/drake
 FahimF/FloatLabelFields
+FallibleInc/security-guide-for-developers
 Famous/engine
 Famous/famous
 Famous/famous-angular
@@ -861,6 +862,7 @@ Microsoft/DMTK
 Microsoft/GSL
 Microsoft/PTVS
 Microsoft/ProjectOxford-ClientSDK
+Microsoft/Pyjion
 Microsoft/TouchDevelop
 Microsoft/TypeScript
 Microsoft/TypeScriptSamples
@@ -1162,6 +1164,7 @@ ReactiveCocoa/ReactiveViewModel
 ReactiveRaven/jqBootstrapValidation
 ReactiveX/RxAndroid
 ReactiveX/RxJava
+ReactiveX/RxKotlin
 ReactiveX/RxPY
 ReactiveX/RxSwift
 ReactiveX/learnrx
@@ -1339,6 +1342,7 @@ TTTAttributedLabel/TTTAttributedLabel
 TTimo/doom3.gpl
 TalAter/UpUp
 TalAter/annyang
+TalAter/awesome-service-workers
 TalksLab/metro-bootstrap
 TanguyAladenise/BBBadgeBarButtonItem
 TargetProcess/tauCharts
@@ -3288,6 +3292,7 @@ direnv/direnv
 discoproject/disco
 discourse/discourse
 disintegration/imaging
+divan/expvarmon
 divio/django-cms
 divmain/GitSavvy
 divshot/geo-bootstrap
@@ -4080,6 +4085,7 @@ gavindinubilo/jam-api
 gavinkwoe/BeeFramework
 gawel/pyquery
 gazay/gon
+gbeced/pyalgotrade
 gcanti/tcomb
 gcanti/tcomb-form
 gcanti/tcomb-form-native
@@ -4971,6 +4977,7 @@ jaysalvat/buzz
 jaysalvat/vegas
 jayway/JsonPath
 jayway/rest-assured
+jaywcjlove/awesome-mac
 jaz303/tipsy
 jazzband/django-admin2
 jazzband/django-pipeline
@@ -5394,6 +5401,7 @@ kamranahmedse/git-standup
 kanaka/mal
 kanaka/noVNC
 kanaka/websockify
+kanboard/kanboard
 kandanapp/kandan
 kangax/compat-table
 kangax/fabric.js
@@ -5865,6 +5873,7 @@ lsegal/yard
 lsjwzh/MaterialLoadingProgressBar
 lsjwzh/RecyclerViewPager
 ltebean/LTNavigationBar
+ltebean/Live
 luakit/luakit
 lucadegasperi/oauth2-server-laravel
 lucasr/smoothie
@@ -6048,6 +6057,7 @@ markrendle/Simple.Data
 markushi/android-circlebutton
 markushi/android-ui
 markyun/My-blog
+markzhai/AndroidPerformanceMonitor
 markzhai/blockcanary
 marmelab/gremlins.js
 marmelab/ng-admin
@@ -6462,6 +6472,7 @@ motdotla/dotenv
 motemen/gore
 mothran/bunny
 mothran/mongol
+motianhuo/VCameraDemo
 motianhuo/wechat
 mourner/simplify-js
 mourner/suncalc
@@ -7028,6 +7039,7 @@ oskarkrawczyk/heyoffline.js
 osmandapp/Osmand
 osscafe/gulp-cheatsheet
 ossec/ossec-hids
+ossrs/srs
 oswaldoacauan/ghostium
 osxfuse/osxfuse
 otoolep/rqlite
@@ -7169,6 +7181,7 @@ petdance/ack2
 petehunt/jsxstyle
 petehunt/react-howto
 petehunt/webpack-howto
+peter-iakovlev/Telegram
 peter-lawrey/Java-Chronicle
 peterbraden/node-opencv
 petergoldstein/dalli
@@ -7798,10 +7811,12 @@ robflaherty/jquery-scrolldepth
 robicch/jQueryGantt
 robmorgan/phinx
 roboguice/roboguice
+robolectric/robolectric
 robotframework/robotframework
 robotlegs/robotlegs-framework
 robotlolita/fuck-you
 robotmedia/RMStore
+robovm/apple-ios-samples
 robovm/robovm
 robrich/orchestrator
 robrighter/node-boilerplate
@@ -8846,6 +8861,7 @@ tianzhijiexian/Android-Best-Practices
 tianzhuo112/VTMagic
 tibastral/markdownify
 tictail/bounce.js
+tid-kijyun/Kanna
 tidwall/tile38
 tiimgreen/github-cheat-sheet
 tildeio/htmlbars
@@ -9301,6 +9317,7 @@ vuejs/vue-devtools
 vuejs/vue-hackernews
 vuejs/vue-resource
 vuejs/vue-router
+vuejs/vue-validator
 vuejs/vuex
 vulcand/vulcand
 vulpino/jolteon
@@ -9562,6 +9579,7 @@ yask123/Instant-Music-Downloader
 yasoob/intermediatePython
 yasserg/crawler4j
 ybq/Android-SpinKit
+yck1509/ConfuserEx
 yconst/Freetile
 yeasy/docker_practice
 yelouafi/redux-saga
