@@ -622,6 +622,7 @@ Jacksgong/JKeyboardPanelSwitch
 JacksonTian/eventproxy
 JacksonTian/fks
 JackyAndroid/AndroidChromium
+JackyAndroid/AndroidInterview-Q-A
 JadenGeller/Helium
 JagCesar/iOS-blur
 Jahaja/psdash
@@ -995,6 +996,7 @@ Nyr/openvpn-install
 Nyx0uf/NYXImagesKit
 OAI/OpenAPI-Specification
 OAuthSwift/OAuthSwift
+OWASP/DevGuide
 OctoLinker/browser-extension
 OculusVR/RakNet
 OfficeDev/Office-UI-Fabric
@@ -1247,6 +1249,7 @@ ShareKit/ShareKit
 ShareX/ShareX
 SheetJS/js-xls
 SheetJS/js-xlsx
+ShiqiYu/libfacedetection
 Shmoopi/iOS-System-Services
 Shopify/dashing
 Shopify/identity_cache
@@ -1327,6 +1330,7 @@ Suor/funcy
 Supervisor/supervisor
 Sutto/rocket_pants
 SwiftBond/Bond
+SwiftGGTeam/Developing_iOS_8_Apps_With_Swift
 SwiftyBeaver/SwiftyBeaver
 SwiftyJSON/Alamofire-SwiftyJSON
 SwiftyJSON/SwiftyJSON
@@ -1669,6 +1673,7 @@ agiliq/merchant
 agis-/git-style-guide
 aheckmann/gm
 aheinze/cockpit
+ahmetalpbalkan/go-linq
 ai/autoprefixer-rails
 ai/browserslist
 ai/easings.net
@@ -2377,6 +2382,7 @@ blei-lab/edward
 blevesearch/bleve
 blivesta/animsition
 bloomberg/bqplot
+bloomberg/bucklescript
 blueimp/Bootstrap-Image-Gallery
 blueimp/Gallery
 blueimp/JavaScript-Load-Image
@@ -3366,6 +3372,7 @@ dokterdok/Continuity-Activation-Tool
 dolphin-emu/dolphin
 domaindrivendev/Swashbuckle
 domchristie/to-markdown
+domenic/chai-as-promised
 domesticcatsoftware/DCIntrospect
 dominictarr/JSON.sh
 dominictarr/JSONStream
@@ -3452,6 +3459,7 @@ dthree/cash
 dthree/vantage
 dthree/vorpal
 dtinth/JXA-Cookbook
+dtorres/OLImageView
 duckduckgo/duckduckgo
 ducksboard/gridster.js
 duemunk/Async
@@ -3582,6 +3590,7 @@ ember-cli/ember-cli
 emberjs/data
 emberjs/ember-rails
 emberjs/ember.js
+emc-advanced-dev/unik
 emcrisostomo/fswatch
 emezeske/lein-cljsbuild
 emicklei/go-restful
@@ -3803,6 +3812,7 @@ facebookarchive/scribe
 facebookarchive/sublime-react
 facebookarchive/three20
 facebookgo/grace
+facebookincubator/create-react-app
 facebookresearch/darkforestGo
 facelessuser/BracketHighlighter
 facette/facette
@@ -3843,6 +3853,7 @@ fatih/vim-go
 faye/faye
 faylang/fay
 fb55/htmlparser2
+fbrctr/fabricator
 fbsamples/f8app
 fcambus/ansiweather
 fcambus/nginx-resources
@@ -4382,6 +4393,7 @@ gorilla/mux
 gorilla/websocket
 gosu/gosu
 gosuri/uiprogress
+gotev/android-upload-service
 gotgit/gotgithub
 gotosleep/JASidePanels
 gottfrois/dashing-rails
@@ -6232,6 +6244,7 @@ merit-gem/merit
 mesos/chronos
 mesos/spark
 mesosphere/marathon
+messageformat/messageformat.js
 metabase/metabase
 metafizzy/flickity
 metafizzy/isotope
@@ -6668,6 +6681,7 @@ neokree/MaterialTabs
 neomake/neomake
 neonichu/FixCode
 neovim/neovim
+nerevu/riko
 neror/ftutils
 nervgh/angular-file-upload
 nesquena/gitdocs
@@ -8306,6 +8320,7 @@ skyfishjy/android-ripple-background
 skyline75489/what-happens-when-zh_CN
 skylot/jadx
 skynetservices/skynet
+skywind3000/kcp
 skywinder/github-changelog-generator
 slackhq/SlackTextViewController
 slackhq/hubot-slack
@@ -9046,6 +9061,7 @@ tudou527/marketch
 tuesda/CircleRefreshLayout
 tumblr/Backboard
 tumblr/TMCache
+tumblr/colossus
 tumblr/jetpants
 tumtumtum/StreamingKit
 turbolinks/turbolinks
