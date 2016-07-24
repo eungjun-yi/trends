@@ -987,6 +987,7 @@ Nike-Inc/Willow
 NikolaiT/GoogleScraper
 NixOS/nix
 NixOS/nixpkgs
+NoDivide/astrum
 NoamB/sorcery
 NodeBB/NodeBB
 NodeOS/NodeOS
@@ -1941,6 +1942,7 @@ ansible-semaphore/semaphore
 ansible/ansible
 ansible/ansible-container
 ansible/ansible-examples
+answer-huang/dSYMTools
 ant-design/ant-design
 ant0ine/go-json-rest
 antelle/keeweb
@@ -2078,6 +2080,7 @@ aryaxt/iOS-Slide-Menu
 asLody/TurboDex
 asLody/VirtualApp
 asaskevich/govalidator
+aschuch/AwesomeCache
 asciidoctor/asciidoctor
 asciimoo/drawille
 asciinema/asciinema
@@ -2239,6 +2242,7 @@ baskerville/bspwm
 basscss/basscss
 bassjobsen/Bootstrap-3-Typeahead
 bastianallgeier/kirbycms
+bastimeyer/livestreamer-twitch-gui
 batiste/sprite.js
 batmanjs/batman
 bauerca/drag-sort-listview
@@ -3189,6 +3193,7 @@ deano2390/MaterialShowcaseView
 dear-github/dear-github
 debian-pi/raspbian-ua-netinst
 debops/debops
+debops/debops-tools
 decosoftware/deco-ide
 ded/bonzo
 ded/bowser
@@ -4358,6 +4363,7 @@ google/stenographer
 google/styleguide
 google/traceur-compiler
 google/tracing-framework
+google/vrview
 google/web-starter-kit
 google/xi-editor
 google/yapf
@@ -4772,6 +4778,7 @@ iiordanov/remote-desktop-clients
 iissnan/hexo-theme-next
 ikew0ng/SwipeBackLayout
 illacceptanything/illacceptanything
+illuminate/database
 iltercengiz/ICViewPager
 iluwatar/java-design-patterns
 imagemin/imagemin
@@ -4816,6 +4823,7 @@ insin/react-hn
 insoshi/insoshi
 inspirit/jsfeat
 instructure/canvas-lms
+intellij-rust/intellij-rust
 intelsdi-x/snap
 intentkit/IntentKit
 interagent/http-api-design
@@ -5083,6 +5091,7 @@ jgrahamc/httpdiff
 jgregory-zynga/scroller
 jgrossi/corcel
 jgthms/bulma
+jhalterman/failsafe
 jhipster/generator-jhipster
 jhnns/rewire
 jhollingworth/bootstrap-wysihtml5
@@ -8305,6 +8314,7 @@ sixohsix/twitter
 siyamed/android-satellite-menu
 siyamed/android-shape-imageview
 sj26/mailcatcher
+sjchoi86/dl_tutorials
 sjl/gundo.vim
 sjl/learnvimscriptthehardway
 sjwhitworth/golearn
@@ -8746,6 +8756,7 @@ technoweenie/attachment_fu
 technoweenie/restful-authentication
 techpines/express.io
 techtalk/SpecFlow
+tejado/pgoapi
 tekezo/Karabiner
 tekknolagi/carp
 telegramdesktop/tdesktop
@@ -9548,6 +9559,7 @@ xonsh/xonsh
 xoreaxeaxeax/movfuscator
 xoxco/jQuery-Tags-Input
 xtaci/algorithms
+xtaci/kcptun
 xufei/blog
 xunit/xunit
 xupefei/Locale-Emulator
