@@ -780,6 +780,7 @@ Level/levelup
 LewisJEllis/awesome-lua
 LibreVR/Revive
 LightTable/LightTable
+Linuxbrew/legacy-linuxbrew
 Linuxbrew/linuxbrew
 LiranCohen/stickUp
 LitePalFramework/LitePal
@@ -1203,6 +1204,7 @@ RolandPheasant/TailBlazer
 RolifyCommunity/rolify
 RomainPiel/Shimmer-android
 RomainPiel/Titanic
+Roxasora/RxWebViewController
 RubaXa/Sortable
 RubaXa/jquery.fileapi
 RubyLouvre/avalon
@@ -1672,6 +1674,7 @@ agens-no/AGGeometryKit-POP
 agershun/alasql
 agiliq/merchant
 agis-/git-style-guide
+agl/pond
 aheckmann/gm
 aheinze/cockpit
 ahmetalpbalkan/go-linq
@@ -2264,6 +2267,7 @@ bboyfeiyu/android-tech-frontier
 bchanx/slidr
 bcit-ci/CodeIgniter
 bcosca/fatfree
+bdarnell/plop
 be-fe/iSlider
 be5invis/Iosevka
 be9/acl9
@@ -2889,6 +2893,7 @@ codrops/PageTransitions
 codrops/SeatPreview
 codrops/SidebarTransitions
 coduo/php-humanizer
+codykrieger/gfxCardStatus
 codylindley/frontend-tools
 cognitect-labs/transducers-js
 cognitect/transit-format
@@ -3061,6 +3066,7 @@ d3/d3-shape
 d5/node.native
 daCapricorn/ArcMenu
 dabeaz/curio
+dabeaz/python-cookbook
 dae/anki
 dahlbyk/posh-git
 dahlia/awesome-sqlalchemy
@@ -3075,6 +3081,7 @@ daimajia/NumberProgressBar
 daizhenjun/ImageFilterForAndroid
 dakrone/cheshire
 dakrone/clj-http
+dalibo/pgbadger
 daltoniam/Starscream
 daltoniam/SwiftHTTP
 damonkohler/sl4a
@@ -3398,6 +3405,7 @@ donpark/hbs
 donpark/html2jade
 dontcontactme/p2pspider
 doorkeeper-gem/doorkeeper
+doraemonext/wechat-python-sdk
 dotless-de/vagrant-vbguest
 dotnet/cli
 dotnet/core
@@ -3471,6 +3479,7 @@ duemunk/Async
 duilib/duilib
 dularion/streama
 duojs/duo
+duplicati/duplicati
 dustingetz/react-cursor
 dustinrue/ControlPlane
 dustturtle/RealReachability
@@ -3954,6 +3963,7 @@ flexiblegs/flexiblegs-scss-plus
 flickr/justified-layout
 flightjs/flight
 flike/kingshard
+flitbit/diff
 florent37/HollyViewPager
 florent37/MaterialViewPager
 florent37/ViewAnimator
@@ -5159,6 +5169,7 @@ jnordberg/wintersmith
 jnunemaker/httparty
 jnv/lists
 joaotavora/yasnippet
+jobbole/awesome-c-cn
 jobbole/awesome-ios-cn
 jobbole/awesome-java-cn
 jobbole/awesome-javascript-cn
@@ -6095,6 +6106,7 @@ marstall/shim
 martanne/vis
 martinblech/xmltodict
 martinjuhasz/MJPopupViewController
+martinrusev/amonone
 martyjs/marty
 martynsmith/node-irc
 maruel/panicparse
@@ -6212,6 +6224,7 @@ mcasimir/mobile-angular-ui
 mceachen/closure_tree
 mcharmas/Android-ReactiveLocation
 mcharmas/android-parcelable-intellij-plugin
+mchristopher/PokemonGo-DesktopMap
 mcollina/mosca
 mcostalba/Stockfish
 mcxiaoke/RxDocs
@@ -7211,6 +7224,7 @@ petergoldstein/dalli
 peterramsing/lost
 petervanderdoes/gitflow-avh
 petethepig/devtools-terminal
+petewarden/dstk
 petewarden/iPhoneTracker
 petkaantonov/bluebird
 petrnohejl/Android-Templates-And-Utilities
@@ -7633,6 +7647,7 @@ razorjack/quicksand
 rbenv/rbenv
 rbenv/ruby-build
 rbgirshick/fast-rcnn
+rbgirshick/py-faster-rcnn
 rchipka/node-osmosis
 rcrowley/go-metrics
 rcrowley/go-tigertonic
@@ -7832,6 +7847,7 @@ robertwijas/UISS
 robfig/cron
 robflaherty/jquery-scrolldepth
 robicch/jQueryGantt
+robinhood/ticker
 robmorgan/phinx
 roboguice/roboguice
 robolectric/robolectric
@@ -8060,6 +8076,7 @@ schachmat/wego
 schacon/git-scribe
 schacon/ruby-git
 schambers/fluentmigrator
+schani/clojurec
 schemaorg/schemaorg
 schematics/schematics
 schneems/derailed_benchmarks
@@ -8202,6 +8219,7 @@ shaunlebron/parinfer
 shazow/ssh-chat
 shazow/urllib3
 shea256/angular-flask
+sheerun/vim-polyglot
 shekhargulati/52-technologies-in-2016
 shekhargulati/99-problems
 shellfire-dev/shellfire
@@ -8826,6 +8844,7 @@ thephpleague/climate
 thephpleague/csv
 thephpleague/flysystem
 thephpleague/fractal
+thephpleague/glide
 thephpleague/oauth2-client
 thephpleague/oauth2-server
 thephpleague/omnipay
@@ -9375,6 +9394,7 @@ wangjiegulu/RapidFloatingActionButton
 wangmchn/WMPageController
 wangshengjia/VWInstantRun
 wardowsmcc/badass
+warpling/Macmoji
 warrenm/AHEasing
 waruqi/tbox
 wasabeef/Blurry
@@ -9685,6 +9705,7 @@ zaphoyd/websocketpp
 zaproxy/zaproxy
 zaqqaz/ng-rest-api
 zardus/ctf-tools
+zavoloklom/material-design-iconic-font
 zcash/zcash
 zcbenz/nw-sample-apps
 zcweng/ToggleButton
