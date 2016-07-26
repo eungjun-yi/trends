@@ -552,6 +552,7 @@ HighBay/PageMenu
 HipByte/RubyMotionSamples
 HoTT/book
 Homebrew/brew
+Homebrew/homebrew-bundle
 Homebrew/homebrew-php
 Homebrew/legacy-homebrew
 HoneyNeutrons/RecyclerViewUndoSwipe
@@ -750,6 +751,7 @@ Kozea/pygal
 Kozea/wdb
 KrauseFx/TSMessages
 LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+LLK/scratch-flash
 LMAX-Exchange/disruptor
 LMMS/lmms
 LWJGL/lwjgl3
@@ -1080,6 +1082,7 @@ Pkmmte/CircularImageView
 PlusHaze/TrayNotification
 PocketMine/PocketMine-MP
 PointCloudLibrary/pcl
+PokemonGoF/PokemonGo-Bot
 Polymer/docs
 Polymer/observe-js
 Polymer/polymer
@@ -2086,6 +2089,7 @@ asaskevich/govalidator
 aschuch/AwesomeCache
 asciidoctor/asciidoctor
 asciimoo/drawille
+asciimoo/searx
 asciinema/asciinema
 asciinema/asciinema.org
 ascribe/image-match
@@ -2990,6 +2994,8 @@ creationix/step
 creationix/wheat
 cristicbz/rust-doom
 crockpotveggies/tinderbox
+crocodilejs/crocodile
+crocodilejs/node-email-templates
 crosbymichael/not-dockers-ui
 crosbymichael/skydock
 crossbario/autobahn-python
@@ -3178,6 +3184,7 @@ db-migrate/node-db-migrate
 dbader/schedule
 dbcli/mycli
 dbcli/pgcli
+dblock/fui
 dbohdan/structured-text-tools
 dbushell/Nestable
 dbushell/Pikaday
@@ -4030,6 +4037,7 @@ fraywing/textAngular
 fredwu/jquery-endless-scroll
 freebsd/freebsd
 freedomofpress/securedrop
+freerange/mocha
 freqdec/slabText
 frida/frida
 fritzy/SleekXMPP
@@ -5444,6 +5452,7 @@ karacas/imgLiquid
 karan/Projects
 karan/Projects-Solutions
 karan/joe
+kardianos/govendor
 karlseguin/the-little-mongodb-book
 karlseguin/the-little-redis-book
 karma-runner/karma
@@ -8400,6 +8409,7 @@ socketio/socket.io-client-swift
 socketstream/socketstream
 sockjs/sockjs-client
 sockjs/sockjs-node
+soffes/SAMKeychain
 soffes/SSKeychain
 soffes/sspulltorefresh
 soffes/sstoolkit
@@ -9372,6 +9382,7 @@ vvo/gifify
 vvo/lazyload
 vysheng/tg
 w0ng/vim-hybrid
+w3c/web-platform-tests
 w3c/webcomponents
 w446108264/XhsEmoticonsKeyboard
 wa0x6e/cal-heatmap
@@ -9487,6 +9498,7 @@ winjs/winjs
 winmarkltd/BootstrapFormHelpers
 winstonjs/winston
 winterbe/java8-tutorial
+wireapp/wire-ios
 wireservice/csvkit
 wise9/enchant.js
 wishstudio/flinux
@@ -9528,6 +9540,7 @@ wunderlist/android-sliding-layer-lib
 wuub/SublimeREPL
 wuye9036/CppTemplateTutorial
 wvanbergen/request-log-analyzer
+wwayne/react-native-nba-app
 wxWidgets/wxWidgets
 wycats/handlebars.js
 wycats/javascript-decorators
@@ -9755,6 +9768,7 @@ ziadoz/awesome-php
 ziahamza/webui-aria2
 zingchart/zingtouch
 zipme/RQShineLabel
+zircote/swagger-php
 zk00006/OpenTLD
 zloirock/core-js
 zmap/zmap
