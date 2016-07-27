@@ -250,6 +250,7 @@ ChicagoBoss/ChicagoBoss
 ChimeraCoder/gojson
 ChiperSoft/InterviewThis
 ChiperSoft/Kalendae
+Chris911/iStats
 ChrisJohnsen/tmux-MacOSX-pasteboard
 ChrisRM/material-theme-jetbrains
 ChristianKienle/Core-Data-Editor
@@ -522,6 +523,7 @@ H07000223/FlycoDialog_Master
 H07000223/FlycoTabLayout
 HIPS/autograd
 HabitRPG/habitrpg
+HackPlan/quark-shell-mac
 HackerNews/API
 Hammerspoon/hammerspoon
 Haneke/Haneke
@@ -580,6 +582,7 @@ HumbleSoftware/envisionjs
 HunterLarco/voxel.css
 Huohua/HHRouter
 HypothesisWorks/hypothesis-python
+IBAnimatable/IBAnimatable
 IBM-Swift/Kitura
 IDSIA/brainstorm
 IFTTT/FastttCamera
@@ -2995,6 +2998,7 @@ creationix/wheat
 cristicbz/rust-doom
 crockpotveggies/tinderbox
 crocodilejs/crocodile
+crocodilejs/crocodile-node-mvc-framework
 crocodilejs/node-email-templates
 crosbymichael/not-dockers-ui
 crosbymichael/skydock
@@ -5018,6 +5022,7 @@ jayway/rest-assured
 jaywcjlove/awesome-mac
 jaz303/tipsy
 jazzband/django-admin2
+jazzband/django-debug-toolbar
 jazzband/django-pipeline
 jazzychad/PushServer
 jberkel/sms-backup-plus
@@ -5413,6 +5418,7 @@ jwilder/nginx-proxy
 jwilling/JNWSpringAnimation
 jwplayer/jwplayer
 jwt/ruby-jwt
+jwtk/jjwt
 jwysiwyg/jwysiwyg
 jxcore/jxcore
 jxnblk/fitter-happier-text
@@ -5438,6 +5444,7 @@ kaldi-asr/kaldi
 kamalgill/flask-appengine-template
 kamens/jQuery-menu-aim
 kamranahmedse/git-standup
+kamyu104/LeetCode
 kanaka/mal
 kanaka/noVNC
 kanaka/websockify
@@ -5629,6 +5636,7 @@ krakjoe/pthreads
 krasimir/absurd
 krasimir/cssx
 krasimir/deb.js
+krasimir/react-in-patterns
 kriasoft/react-starter-kit
 kriasoft/react-static-boilerplate
 kripken/ammo.js
@@ -6311,6 +6319,7 @@ mhoofman/wordpress-heroku
 micahflee/onionshare
 micha/jsawk
 micha/resty
+michael-lazar/rtv
 michael/github
 michaelbromley/angularUtils
 michaeldfallen/git-radar
@@ -6763,6 +6772,7 @@ nicklockwood/iCarousel
 nicklockwood/iRate
 nicklockwood/iVersion
 nickoneill/PermissionScope
+nickstenning/honcho
 nicktoumpelis/HiBeacons
 nicolaiarocci/eve
 nicolargo/glances
@@ -8541,6 +8551,7 @@ square/picasso
 square/retrofit
 square/spoon
 square/sqlbrite
+square/sqldelight
 square/tape
 square/wire
 squaremo/amqp.node
@@ -9042,6 +9053,7 @@ totaljs/framework
 touchstonejs/touchstonejs
 tower/tower
 toy/image_optim
+tpope/vim-abolish
 tpope/vim-commentary
 tpope/vim-dispatch
 tpope/vim-fireplace
@@ -9280,6 +9292,7 @@ vekexasia/android-edittext-validator
 velesin/jasmine-jquery
 veltman/clmystery
 veltman/principles
+venantius/ultra
 vendocrat/PaymentFont
 venmo/VENTouchLock
 venmo/synx
@@ -9498,6 +9511,7 @@ winjs/winjs
 winmarkltd/BootstrapFormHelpers
 winstonjs/winston
 winterbe/java8-tutorial
+wireapp/wire-android
 wireapp/wire-ios
 wireservice/csvkit
 wise9/enchant.js
@@ -9528,6 +9542,7 @@ workshopper/learnyounode
 workshopper/workshopper
 worldveil/dejavu
 worrydream/Tangle
+worseisbetter/galleria
 wout/svg.js
 wp-cli/wp-cli
 wpscanteam/wpscan
@@ -9703,6 +9718,7 @@ yusuke/twitter4j
 yydcdut/PhotoNoter
 yyuu/pyenv
 yyuu/pyenv-virtualenv
+yyx990803/pod
 yyx990803/zoomerang
 z3t0/Arduino-IRremote
 zTree/zTree_v3
