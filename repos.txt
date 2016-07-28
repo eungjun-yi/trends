@@ -295,6 +295,7 @@ CommonUtils/android
 Compass/compass
 ConnorAtherton/loaders.css
 ConnorAtherton/walkway
+CooperRS/RMDateSelectionViewController
 CooperRS/RMStepsController
 CorsixTH/CorsixTH
 CosmicMind/Material
@@ -725,6 +726,7 @@ KeepSafe/aiohttp
 KeepSafe/android-resource-remover
 KeepSafe/dexcount-gradle-plugin
 KevinHM/ios-good-practices-the-lastest-version
+Keyamoon/IcoMoon-Free
 KeyboardFire/mkcast
 Khan/KaTeX
 Khan/aphrodite
@@ -1030,6 +1032,7 @@ OptiKey/OptiKey
 OptimalBits/bull
 OptimalBits/node_acl
 OrchardCMS/Orchard
+Orderella/PopupDialog
 OryxProject/oryx
 OscarGodson/EpicEditor
 Overcoat/Overcoat
@@ -2235,6 +2238,7 @@ baoyongzhang/android-PullRefreshLayout
 barbushin/php-console
 barryclark/bashstrap
 barryclark/jekyll-now
+barryvdh/laravel-cors
 barryvdh/laravel-debugbar
 barryvdh/laravel-dompdf
 barryvdh/laravel-ide-helper
@@ -2927,6 +2931,7 @@ componentjs/component
 composer/composer
 composer/satis
 comyarzaheri/Sol
+concourse/concourse
 concurrencykit/ck
 conda/conda
 conditionizr/conditionizr
@@ -3018,6 +3023,7 @@ css-modules/css-modules
 css-modules/webpack-demo
 css/csso
 csscomb/csscomb.js
+cssinjs/jss
 cssmagic/CSS-Secrets
 cssmagic/blog
 cssstats/cssstats
@@ -3389,6 +3395,7 @@ dogescript/dogescript
 doggy8088/Learn-Git-in-30-days
 dogo/SCLAlertView
 dojo/dojo
+dokan-dev/dokany
 dokku-alt/dokku-alt
 dokku/dokku
 dokterdok/Continuity-Activation-Tool
@@ -3696,6 +3703,7 @@ esnme/ultrajson
 esotalk/esoTalk
 esp8266/Arduino
 esp8266/esp8266-wiki
+espruino/Espruino
 este/este
 estelle/clowncar
 estools/escodegen
@@ -3737,6 +3745,7 @@ evilcos/papers
 evilsocket/bettercap
 evilstreak/markdown-js
 evnaz/ENSwiftSideMenu
+evonove/django-oauth-toolkit
 evrone/quiet_assets
 excilys/androidannotations
 exercism/exercism.io
@@ -3992,6 +4001,7 @@ flutter/engine
 flutter/flutter
 flycheck/flycheck
 flyerhzm/bullet
+flyjs/fly
 flynn/flynn
 flyway/flyway
 fmtlib/fmt
@@ -4027,6 +4037,7 @@ fouber/blog
 fouber/page-monitor
 foundweekends/giter8
 fphilipe/PHFComposeBarView
+fphilipe/premailer-rails
 fpillet/NSLogger
 fpinscala/fpinscala
 fpt-software/Material-Controls-For-iOS
@@ -4661,6 +4672,7 @@ hongyangAndroid/Highlight
 hongyangAndroid/android-percent-support-extend
 hongyangAndroid/baseAdapter
 hongyangAndroid/okhttp-utils
+hongyangAndroid/okhttputils
 honza/vim-snippets
 hoodiehq/hoodie
 hootsuite/grid
@@ -5040,6 +5052,7 @@ jcjohnson/neural-style
 jcoglan/sylvester
 jcs/lobsters
 jcubic/jquery.terminal
+jcupitt/libvips
 jd-alexander/LikeButton
 jdamcd/android-crop
 jdan/cleaver
@@ -5114,6 +5127,7 @@ jgrahamc/httpdiff
 jgregory-zynga/scroller
 jgrossi/corcel
 jgthms/bulma
+jgthms/web-design-in-4-minutes
 jhalterman/failsafe
 jhipster/generator-jhipster
 jhnns/rewire
@@ -5472,6 +5486,7 @@ kartik-v/bootstrap-fileinput
 kartograph/kartograph.js
 kartograph/kartograph.py
 kasketis/netfox
+kasper/phoenix
 kataras/iris
 katiefenn/parker
 katspaugh/wavesurfer.js
@@ -6554,6 +6569,7 @@ mozilla/popcorn-js
 mozilla/rhino
 mozilla/rr
 mozilla/shumway
+mozilla/source-map
 mozilla/sweet.js
 mozilla/task.js
 mozilla/togetherjs
@@ -6965,6 +6981,7 @@ odewahn/docker-jumpstart
 odoo/odoo
 offensive-security/exploit-database
 officert/mongotron
+ogaclejapan/ArcLayout
 ogaclejapan/SmartTabLayout
 ogrisel/parallel_ml_tutorial
 oguzbilgener/CircularFloatingActionMenu
@@ -6996,6 +7013,7 @@ omab/django-social-auth
 omab/python-social-auth
 omcljs/om
 omergul123/LLSimpleCamera
+omkarmoghe/Pokemap
 omnidan/redux-undo
 omnigroup/OmniGroup
 omniscientjs/omniscient
@@ -7055,6 +7073,7 @@ openshift/origin
 openshift/origin-server
 openssl/openssl
 openstack-dev/devstack
+openstack/horizon
 openstack/nova
 openstack/openstack
 openstack/swift
@@ -7351,6 +7370,7 @@ pixelsign/html5-device-mockups
 pixie-lang/pixie
 pixijs/pixi.js
 pjreddie/darknet
+pkg/errors
 pkluz/PKHUD
 pkluz/PKRevealController
 pkmital/tensorflow_tutorials
@@ -8121,6 +8141,7 @@ scottschiller/SoundManager2
 scotty-web/scotty
 scoutapp/scout_realtime
 scrapinghub/portia
+scrapinghub/splash
 scrapy/dirbot
 scrapy/scrapely
 scrapy/scrapy
@@ -8872,6 +8893,7 @@ thephpleague/omnipay
 there4/markdown-resume
 thermogl/TISwipeableTableView
 thest1/LazyList
+thestinger/termite
 theturtle32/WebSocket-Node
 thiagopradi/octopus
 thingdom/node-neo4j
@@ -9294,6 +9316,7 @@ veltman/clmystery
 veltman/principles
 venantius/ultra
 vendocrat/PaymentFont
+venmo/Static
 venmo/VENTouchLock
 venmo/synx
 venomous0x/WhatsAPI
@@ -9515,6 +9538,7 @@ wireapp/wire-android
 wireapp/wire-ios
 wireservice/csvkit
 wise9/enchant.js
+wiseio/paratext
 wishstudio/flinux
 wit-ai/duckling
 witheve/Eve
