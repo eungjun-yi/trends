@@ -386,6 +386,7 @@ DrewDahlman/Mason
 DrkSephy/es6-cheatsheet
 DroidPluginTeam/DroidPlugin
 DroidsOnRoids/MPParallaxView
+Droogans/unmaintainable-code
 DxTT/coolMenu
 DyCI/dyci-main
 DylanPiercey/auto-sni
@@ -961,6 +962,7 @@ NativeScript/NativeScript
 NaturalNode/natural
 NeXTs/Clusterize.js
 NeXTs/Jets.js
+NecronomiconCoding/NecroBot
 Neilpang/acme.sh
 Neilpang/le
 NervanaSystems/neon
@@ -1019,6 +1021,7 @@ OpenELEC/OpenELEC.tv
 OpenEmu/OpenEmu
 OpenFeign/feign
 OpenGrok/OpenGrok
+OpenHFT/Chronicle-Queue
 OpenKinect/libfreenect
 OpenLiveWriter/OpenLiveWriter
 OpenMW/openmw
@@ -1379,6 +1382,7 @@ TheBerkin/Rant
 TheFinestArtist/FinestWebView-Android
 TheLevelUp/ZXingObjC
 TheMozg/awk-raycaster
+TheRook/subbrute
 Theano/Theano
 Thibaut/devdocs
 ThinkUpLLC/ThinkUp
@@ -1476,6 +1480,7 @@ WPO-Foundation/webpagetest
 WPOTools/perfBar
 WPOTools/steady.js
 WardCunningham/Smallest-Federated-Wiki
+WebAssembly/binaryen
 WebAssembly/design
 WebBooks/wbb
 WebDevStudios/CMB2
@@ -2112,6 +2117,7 @@ aspnet/EntityFramework
 aspnet/Home
 aspnet/Identity
 aspnet/KestrelHttpServer
+aspnet/MusicStore
 aspnet/Mvc
 aspnet/dnx
 aspnetboilerplate/aspnetboilerplate
@@ -2399,6 +2405,7 @@ blasten/turn.js
 blaze/blaze
 blei-lab/edward
 blevesearch/bleve
+blipinsk/RecyclerViewHeader
 blivesta/animsition
 bloomberg/bqplot
 bloomberg/bucklescript
@@ -3769,6 +3776,7 @@ facebook/KVOController
 facebook/PathPicker
 facebook/Shimmer
 facebook/SocketRocket
+facebook/Surround360
 facebook/Tweaks
 facebook/augmented-traffic-control
 facebook/buck
@@ -3783,6 +3791,7 @@ facebook/draft-js
 facebook/facebook-android-sdk
 facebook/facebook-ios-sdk
 facebook/facebook-php-sdk-v4
+facebook/fb-adb
 facebook/fbctf
 facebook/fbcunn
 facebook/fishhook
@@ -4412,6 +4421,7 @@ googlesamples/android-ndk
 googlesamples/android-testing
 googlesamples/android-testing-templates
 googlesamples/android-topeka
+googlesamples/android-vision
 googlesamples/cardboard-java
 googlesamples/easypermissions
 googlesamples/google-services
@@ -5403,6 +5413,7 @@ junegunn/vim-easy-align
 junegunn/vim-plug
 junit-team/junit4
 jupyter/jupyterhub
+jupyter/jupyterlab
 jupyter/notebook
 jupyterhub/jupyterhub
 jussi-kalliokoski/trine
@@ -5686,6 +5697,7 @@ ksuther/KSImageNamed-Xcode
 kswedberg/jquery-smooth-scroll
 kuba/simp_le
 kubernetes/kubernetes
+kubernetes/minikube
 kud1ing/awesome-rust
 kumailht/flakes
 kumailht/gridforms
@@ -5811,6 +5823,7 @@ liabru/jquery-match-height
 liabru/matter-js
 liammclennan/JavaScript-Koans
 liaohuqiu/android-GridViewWithHeaderAndFooter
+liaohuqiu/android-UCToast
 liaohuqiu/android-Ultra-Pull-To-Refresh
 liaohuqiu/cube-sdk
 lib/pq
@@ -6341,6 +6354,7 @@ michaeldfallen/git-radar
 michaeldv/awesome_print
 michaelficarra/CoffeeScriptRedux
 michaelhenry/FlipBoardNavigationController
+michaelliao/awesome-python-webapp
 michaelmacinnis/oh
 michaeltyson/TPKeyboardAvoiding
 michaelvillar/dynamics.js
@@ -7548,6 +7562,7 @@ pypyjs/pypyjs
 pyro2927/ParallaxBlur
 pyrocms/pyrocms
 pyskell/slouchy
+pytest-dev/pytest
 python-pillow/Pillow
 python-telegram-bot/python-telegram-bot
 python-visualization/folium
@@ -7702,6 +7717,7 @@ reactioncommerce/reaction
 reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
 reactjs/express-react-views
+reactjs/react-a11y
 reactjs/react-art
 reactjs/react-basic
 reactjs/react-chartjs
@@ -8805,6 +8821,7 @@ tdenniston/bish
 tdginternet/TGCameraViewController
 tdryer/hangups
 tealeg/xlsx
+team-gryff/react-monocle
 teambox/teambox
 teampoltergeist/poltergeist
 techfort/LokiJS
@@ -8871,6 +8888,7 @@ theforeman/foreman
 theintern/intern
 theironcook/Backbone.ModelBinder
 thejameskyle/babel-handbook
+thejameskyle/babel-react-optimize
 thejameskyle/spectacle-code-slide
 thejameskyle/the-super-tiny-compiler
 themadinventor/esptool
