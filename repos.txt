@@ -71,6 +71,7 @@ Alex-D/Trumbowyg
 AlexBarinov/UIBubbleTableView
 AlexLittlejohn/ALCameraViewController
 AlexNisnevich/untrusted
+AlexTatiyants/pev
 AlexeyBelezeko/TBIconTransitionKit
 AliSoftware/OHAttributedLabel
 AliSoftware/OHHTTPStubs
@@ -514,10 +515,12 @@ GoogleCloudPlatform/gcloud-node
 Gottox/socket.io-java-client
 GovernmentCommunicationsHeadquarters/Gaffer
 GravityLabs/goose
+GrayJIAXU/520Linkee
 Graylog2/graylog2-server
 GriddleGriddle/Griddle
 Grive/grive
 Grouper/FlatUIKit
+Grover-c13/PokeGOAPI-Java
 Guake/guake
 Guikunzhi/BeautifyFaceDemo
 GumbyFramework/Gumby
@@ -855,6 +858,7 @@ Mechazawa/FuckFuckAdblock
 MediaBrowser/Emby
 MediaCrush/MediaCrush
 Medium/matador
+Meetic/Shuffle
 MengTo/AppStoreSketch
 MengTo/DesignerNewsApp
 MengTo/Spring
@@ -1998,6 +2002,7 @@ apache/couchdb
 apache/flink
 apache/groovy
 apache/hadoop
+apache/hbase
 apache/hive
 apache/httpd
 apache/incubator-airflow
@@ -2789,6 +2794,7 @@ chukong/cocos-docs
 chukong/quick-cocos2d-x
 churchio/onebody
 ci-bonfire/Bonfire
+ciar4n/imagehover.css
 ciaranj/connect-auth
 ciaranj/node-oauth
 cinchrb/cinch
@@ -5088,6 +5094,7 @@ jefferyleo/f.lux
 jeffhodnett/Unused
 jeffkaufman/icdiff
 jeffknupp/sandman
+jegonzal/PowerGraph
 jejacks0n/mercury
 jekyll/jekyll
 jelmer/dulwich
@@ -6287,6 +6294,7 @@ mdo/wtf-html-css
 mduvall/grande.js
 mdznr/What-s-New
 me-abhinav/NumberMorphView
+me115/linuxtools_rst
 meanjs/mean
 mechio/takana
 medcl/elasticsearch-analysis-ik
@@ -7997,6 +8005,7 @@ ruanyf/jstutorial
 ruanyf/react-demos
 ruanyf/webpack-demos
 rubber/rubber
+rubensousa/FloatingToolbar
 rubinius/rubinius
 ruboto/ruboto
 ruby-concurrency/concurrent-ruby
@@ -9256,6 +9265,7 @@ uWebSockets/uWebSockets
 uber-common/cpustat
 uber-go/zap
 uber/go-torch
+uber/image-diff
 uber/react-map-gl
 uber/react-vis
 ubilabs/geocomplete
