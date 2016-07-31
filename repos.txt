@@ -430,6 +430,7 @@ Famous/engine
 Famous/famous
 Famous/famous-angular
 Fantomas42/django-blog-zinnia
+FaridSafi/react-native-gifted-chat
 FaridSafi/react-native-gifted-messenger
 FastLED/FastLED
 FasterXML/jackson
@@ -766,6 +767,7 @@ LMMS/lmms
 LWJGL/lwjgl3
 LarsWerkman/HoloColorPicker
 Lasagne/Lasagne
+LaunchKit/LaunchKit
 LaunchKit/SketchToAppStore
 Laverna/laverna
 Lax/iOS-Swift-Demos
@@ -801,6 +803,7 @@ Lobos/react-ui
 LockerProject/Locker
 Lokaltog/vim-powerline
 LuRsT/hr
+LuaDist/lua
 Lucifier129/react-lite
 LuckyJayce/MVCHelper
 LuckyJayce/ViewPagerIndicator
@@ -5826,6 +5829,7 @@ lgvalle/Material-Animations
 lgvalle/android-flux-todo-app
 lhartikk/ArnoldC
 lhorie/mithril.js
+li-xinyang/FEND_Note
 liabru/jquery-match-height
 liabru/matter-js
 liammclennan/JavaScript-Koans
@@ -6363,6 +6367,7 @@ michaeldv/awesome_print
 michaelficarra/CoffeeScriptRedux
 michaelhenry/FlipBoardNavigationController
 michaelliao/awesome-python-webapp
+michaelliao/sinaweibopy
 michaelmacinnis/oh
 michaeltyson/TPKeyboardAvoiding
 michaelvillar/dynamics.js
@@ -7983,6 +7988,7 @@ rsms/kod
 rsms/node-imagemagick
 rsms/peertalk
 rspec/rspec
+rspec/rspec-expectations
 rspec/rspec-rails
 rstacruz/flatdoc
 rstacruz/jquery.transit
@@ -9767,6 +9773,7 @@ yukiasai/Gecco
 yuku-t/jquery-textcomplete
 yusugomori/DeepLearning
 yusuke/twitter4j
+yuxingxin/RxJava-Essentials-CN
 yydcdut/PhotoNoter
 yyuu/pyenv
 yyuu/pyenv-virtualenv
