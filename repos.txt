@@ -394,6 +394,7 @@ DylanPiercey/auto-sni
 Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
 EFForg/https-everywhere
+EasyDarwin/EasyDarwin
 EasyEngine/easyengine
 EddyBorja/EBPhotoPages
 EddyBorja/MLPAutoCompleteTextField
@@ -486,6 +487,7 @@ Fuck-You-GFW/p2pspider
 FuzzyAutocomplete/FuzzyAutocompletePlugin
 Fyrd/caniuse
 GDG-Korea/PinterestLikeAdapterView
+Gabriel439/post-rfc
 GabrielAlva/Cool-iOS-Camera
 Gallopsled/pwntools
 Gamua/Starling-Framework
@@ -899,6 +901,7 @@ Microsoft/nodejs-guidelines
 Microsoft/nodejstools
 Microsoft/react-native-code-push
 Microsoft/referencesource
+Microsoft/visualfsharp
 Microsoft/vscode
 Microsoft/vscode-go
 MicrosoftDX/Vorlonjs
@@ -1021,6 +1024,7 @@ OfficeDev/Office-UI-Fabric
 OfficeDev/Open-XML-SDK
 OfficeDev/PnP
 OfficeDev/office-ui-fabric
+OfficeDev/office-ui-fabric-core
 Olical/EventEmitter
 OneGet/oneget
 OnsenUI/OnsenUI
@@ -2415,6 +2419,7 @@ blei-lab/edward
 blevesearch/bleve
 blipinsk/RecyclerViewHeader
 blivesta/animsition
+bloodycoder/githack
 bloomberg/bqplot
 bloomberg/bucklescript
 blueimp/Bootstrap-Image-Gallery
@@ -3347,6 +3352,7 @@ divan/expvarmon
 divio/django-cms
 divmain/GitSavvy
 divshot/geo-bootstrap
+diwu/LeetCode-Solutions-in-Swift
 djacobs/PyAPNs
 djaiss/mapsicon
 django-admin-bootstrapped/django-admin-bootstrapped
@@ -3477,6 +3483,7 @@ drhenner/ror_ecommerce
 drichard/mindmaps
 driftyco/ionic
 driftyco/ionic-cli
+driftyco/ionic-native
 driftyco/ionicons
 driftyco/ng-cordova
 drmeister/clasp
@@ -4544,6 +4551,7 @@ guzzle/guzzle
 gwatts/jquery.sparkline
 gwendall/way.js
 gzu-liyujiang/AndroidPicker
+h2non/imaginary
 h2non/toxy
 h2o/h2o
 h2oai/h2o-2
@@ -8037,6 +8045,7 @@ rupa/z
 rushter/data-science-blogs
 ruslanskorb/RSKImageCropper
 russross/blackfriday
+rust-lang-nursery/rustfmt
 rust-lang/cargo
 rust-lang/rust
 rust-lang/rust-by-example
@@ -8188,6 +8197,7 @@ scup/atellier
 scylladb/scylla
 scylladb/seastar
 sd6352051/NiftyDialogEffects
+sd6352051/NiftyNotification
 sdc-alibaba/SUI-Mobile
 sdegutis/mjolnir
 sdelements/lets-chat
@@ -9690,6 +9700,7 @@ yahoo/react-intl
 yahoo/squidb
 yahoo/webseclab
 yairEO/fancyInput
+yajra/laravel-datatables
 yakyak/yakyak
 yamartino/pressure
 yandex/ClickHouse
