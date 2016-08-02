@@ -383,6 +383,7 @@ Draveness/DKNightVersion
 Draveness/iOS-Source-Code-Analyze
 DreaminginCodeZH/Douya
 DreaminginCodeZH/MaterialColdStart
+DreaminginCodeZH/MaterialProgressBar
 DrewDahlman/Mason
 DrkSephy/es6-cheatsheet
 DroidPluginTeam/DroidPlugin
@@ -947,6 +948,7 @@ MxABC/LBXScan
 MyCATApache/Mycat-Server
 NARKOZ/guides
 NARKOZ/hacker-scripts
+NECROBOTIO/NecroBot
 NEventStore/NEventStore
 NLPchina/ansj_seg
 NLPchina/elasticsearch-sql
@@ -1959,6 +1961,7 @@ angusshire/greenhat
 anicollection/anicollection
 anijs/anijs
 anishathalye/git-remote-dropbox
+anishathalye/lumen
 ankane/ahoy
 ankane/chartkick
 ankane/groupdate
@@ -5701,6 +5704,7 @@ kriswallsmith/assetic
 krschultz/android-proguard-snippets
 krzysztofzablocki/KZBootstrap
 krzysztofzablocki/KZLineDrawer
+krzysztofzablocki/KZLinkedConsole
 krzysztofzablocki/KZPlayground
 krzysztofzablocki/KZPropertyMapper
 krzyzanowskim/CryptoSwift
@@ -7163,6 +7167,7 @@ overtrue/pinyin
 overtrue/wechat
 overviewer/Minecraft-Overviewer
 owainlewis/awesome-artificial-intelligence
+owen2345/camaleon-cms
 owenversteeg/min
 owncloud/android
 owncloud/core
@@ -7354,6 +7359,7 @@ phpbb/phpbb
 phpbrew/phpbrew
 phpmetrics/PhpMetrics
 phpmyadmin/phpmyadmin
+phpredis/phpredis
 phpro/grumphp
 phpseclib/phpseclib
 phpspec/phpspec
@@ -9254,6 +9260,7 @@ txusballesteros/bubbles-for-android
 txusballesteros/welcome-coordinator
 ty4z2008/Qix
 tybenz/vimdeck
+tylermcginnis/re-base
 tylertate/semantic.gs
 tylertreat/chan
 tylertreat/comcast
@@ -9398,6 +9405,7 @@ vimeo/graph-explorer
 vimwiki/vimwiki
 vinc3m1/RoundedImageView
 vinta/awesome-python
+vipulasri/Timeline-View
 visionmedia/debug
 visionmedia/deploy
 visionmedia/masteringnode
