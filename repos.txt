@@ -314,6 +314,7 @@ Crinsane/LaravelShoppingcart
 Croteam-official/Serious-Engine
 CtripMobile/DynamicAPK
 Cue/scales
+Curzibn/Luban
 Cutta/GifView
 Cyan4973/lz4
 Cyan4973/xxHash
@@ -848,6 +849,7 @@ Mashape/kong
 Mashape/mashape-oauth
 Mashape/unirest-java
 Mashape/unirest-php
+MassTransit/MassTransit
 MasteringOpenCV/code
 Masterminds/glide
 Masterminds/squirrel
@@ -932,6 +934,7 @@ Morhaus/dispatch-proxy
 MortimerGoro/MGSwipeTableCell
 MostafaGazar/CustomShapeImageView
 MostlyAdequate/mostly-adequate-guide
+Mottie/Keyboard
 Mottie/tablesorter
 MovingBlocks/Terasology
 Moya/Moya
@@ -1161,6 +1164,7 @@ RailsApps/rails-stripe-membership-saas
 RailsApps/rails_apps_composer
 Raimondi/delimitMate
 RainLoop/rainloop-webmail
+Raizlabs/BonMot
 Raizlabs/DBFlow
 Raizlabs/RZTransitions
 Rajawali/Rajawali
@@ -2383,6 +2387,7 @@ binarylogic/searchlogic
 binarylogic/settingslogic
 binggg/mrn
 bingoogolapple/BGABadgeView-Android
+bingoogolapple/BGABanner-Android
 bingoogolapple/BGARefreshLayout-Android
 binux/pyspider
 binux/yaaw
@@ -3337,6 +3342,7 @@ digitalfruit/limejs
 digitalocean/doctl
 digitalocean/netbox
 dimitri/el-get
+dimsav/laravel-translatable
 dimsemenov/Magnific-Popup
 dimsemenov/PhotoSwipe
 dinbror/blazy
@@ -4259,6 +4265,7 @@ github/developer.github.com
 github/dmca
 github/fetch
 github/gemoji
+github/gh-ost
 github/git-lfs
 github/github-services
 github/gitignore
@@ -6649,6 +6656,7 @@ mscdex/ssh2
 msgpack/msgpack
 mshang/python-elevator-challenge
 msiemens/tinydb
+mstamy2/PyPDF2
 mstarke/MacPass
 msurguy/ladda-bootstrap
 msysgit/msysgit
@@ -7737,6 +7745,7 @@ rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
 react-native-community/react-native-navbar
+react-native-community/react-native-video
 react-native-fellowship/react-native-navbar
 react-native-material-design/react-native-material-design
 react-toolbox/react-toolbox
@@ -8292,6 +8301,7 @@ shadowsocks/shadowsocks-iOS
 shadowsocks/shadowsocks-nodejs
 shadowsocks/shadowsocks-qt5
 shadowsocks/shadowsocks-windows
+shagabutdinov/sublime-enhanced
 shaih/HElib
 shakacode/react-webpack-rails-tutorial
 shakacode/react_on_rails
