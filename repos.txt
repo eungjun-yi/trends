@@ -187,6 +187,7 @@ BlackrockDigital/startbootstrap
 BlackrockDigital/startbootstrap-freelancer
 BlackrockDigital/startbootstrap-sb-admin
 BlackrockDigital/startbootstrap-sb-admin-2
+Blankj/AndroidUtilCode
 Block8/PHPCI
 BloombergMedia/whatiscode
 BlueMor/Android-PullLayout
