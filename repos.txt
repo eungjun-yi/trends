@@ -562,6 +562,7 @@ Hextris/hextris
 Hexxeh/rpi-update
 HighBay/PageMenu
 HipByte/RubyMotionSamples
+Hitomis/FunGameRefresh
 HoTT/book
 Homebrew/brew
 Homebrew/homebrew-bundle
@@ -609,6 +610,7 @@ IdleHandsApps/IHKeyboardAvoiding
 ImageOptim/ImageOptim
 Indamix/real-shadow
 Indatus/dispatcher
+InfyOmLabs/laravel-generator
 Instagram/ig-json-parser
 InterNations/antwort
 Intervention/image
@@ -769,6 +771,7 @@ LLK/scratch-flash
 LMAX-Exchange/disruptor
 LMMS/lmms
 LWJGL/lwjgl3
+LaraDock/laradock
 LarsWerkman/HoloColorPicker
 Lasagne/Lasagne
 LaunchKit/LaunchKit
@@ -831,11 +834,13 @@ Malinskiy/SuperRecyclerView
 Manabu-GT/ExpandableTextView
 Mange/roadie
 Mango/slideout
+Manishearth/rust-clippy
 ManrajGrover/SingleDivProject
 Mantle/Mantle
 ManuelPeinado/FadingActionBar
 ManuelPeinado/GlassActionBar
 ManuelPeinado/MultiChoiceAdapter
+ManuelSchneid3r/albert
 Marak/colors.js
 Marak/faker.js
 MariaDB/server
@@ -972,6 +977,7 @@ NancyFx/Nancy
 NanoHttpd/nanohttpd
 NarrativeScience/Log.io
 Narzerus/angular-permission
+NathanWalker/angular2-seed-advanced
 NationalSecurityAgency/SIMP
 NativeScript/NativeScript
 NaturalNode/natural
@@ -1101,6 +1107,7 @@ PixarAnimationStudios/OpenSubdiv
 Pixate/pixate-freestyle-ios
 Pixelkit/PixelKit-Bootstrap-UI-Kits
 PixelsCommander/HTML-GL
+PixelsCommander/ViralJS
 Pixen/Pixen
 PkmX/lcamera
 Pkmmte/CircularImageView
@@ -1535,6 +1542,7 @@ XcodeGhostSource/XcodeGhost
 Xethron/migrations-generator
 Xfennec/progress
 XiaoMi/open-falcon
+XunMengWinter/CircularAnim
 Xuzz/newsyc
 Xyl2k/TSA-Travel-Sentry-master-keys
 Y-Vladimir/SmartDeblur
@@ -1961,11 +1969,13 @@ angular/universal
 angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
 angulartics/angulartics
+angus-c/just
 angusshire/greenhat
 anicollection/anicollection
 anijs/anijs
 anishathalye/git-remote-dropbox
 anishathalye/lumen
+anishathalye/neural-style
 ankane/ahoy
 ankane/chartkick
 ankane/groupdate
@@ -2132,6 +2142,7 @@ ashleydw/lightbox
 ashleymills/Reachability.swift
 ashtuchkin/iconv-lite
 askmike/gekko
+asmjit/asmjit
 aspnet/EntityFramework
 aspnet/Home
 aspnet/Identity
@@ -2171,6 +2182,7 @@ atom/electron
 atom/vim-mode
 atomicobject/objection
 atoum/atoum
+attic-labs/noms
 attr-encrypted/attr_encrypted
 attractivechaos/klib
 auchenberg/chrome-devtools-app
@@ -2268,6 +2280,7 @@ barryvdh/laravel-debugbar
 barryvdh/laravel-dompdf
 barryvdh/laravel-ide-helper
 bartblaze/PHP-backdoors
+barteksc/AndroidPdfViewer
 bartobri/no-more-secrets
 bartonhammond/snowflake
 basecamp/local_time
@@ -3342,6 +3355,7 @@ digitalfruit/limejs
 digitalocean/doctl
 digitalocean/netbox
 dimitri/el-get
+dimitri/pgloader
 dimsav/laravel-translatable
 dimsemenov/Magnific-Popup
 dimsemenov/PhotoSwipe
@@ -4583,6 +4597,7 @@ hackers-painters/samurai-native
 hackerzhou/Love
 hackiftekhar/IQKeyboardManager
 hacksalot/HackMyResume
+hadley/adv-r
 hadley/devtools
 hadley/dplyr
 hadley/ggplot2
@@ -4601,6 +4616,7 @@ haml/haml
 hammerjs/hammer.js
 hamstergem/hamster
 hanami/hanami
+hanc00l/wooyun_public
 handsontable/handsontable
 hangtwenty/dive-into-machine-learning
 hangyan/docker-resources
@@ -5095,6 +5111,7 @@ jdamcd/android-crop
 jdan/cleaver
 jdan/isomer
 jdc0589/JsFormat
+jdesboeufs/connect-mongo
 jdewit/bootstrap-timepicker
 jdg/MBProgressHUD
 jdorn/json-editor
@@ -5340,6 +5357,7 @@ joshfng/railsready
 joshnewlan/say_what
 joshuaclayton/blueprint-css
 joshuagatcke/HTML-KickStart
+joshwcomeau/react-flip-move
 josscrowcroft/MotionCAPTCHA
 journeyapps/zxing-android-embedded
 joyent/libuv
@@ -6020,6 +6038,7 @@ lyft/confidant
 lyft/scissors
 lynndylanhurley/devise_token_auth
 lynndylanhurley/ng-token-auth
+lynndylanhurley/redux-auth
 lzfse/lzfse
 lzyzsd/Awesome-RxJava
 lzyzsd/CircleProgress
@@ -6696,6 +6715,7 @@ mwolfson/android-historian
 mxcl/PromiseKit
 mxn21/FlowingDrawer
 mxstbr/react-boilerplate
+mxstbr/sharingbuttons.io
 mybatis/mybatis-3
 mycolorway/simditor
 myell0w/MTStatusBarOverlay
@@ -7027,6 +7047,7 @@ oddbird/susy
 odewahn/docker-jumpstart
 odoo/odoo
 offensive-security/exploit-database
+offensive-security/kali-nethunter
 officert/mongotron
 ogaclejapan/ArcLayout
 ogaclejapan/SmartTabLayout
@@ -7607,6 +7628,7 @@ pythoncn/june
 pytoolz/toolz
 pyupio/statuspage
 qTip2/qTip2
+qTox/qTox
 qbittorrent/qBittorrent
 qdore/Mutate
 qdrzwd/VideoRecorder
@@ -7893,6 +7915,7 @@ ricochet-im/ricochet
 ridiculousfish/HexFiend
 riemann/riemann
 rigoneri/syte
+riku/Markdown-Syntax-CN
 rime/squirrel
 ring-clojure/ring
 riot/riot
@@ -7981,6 +8004,7 @@ romashamin/Size-Marks-PS
 ronmamo/reflections
 ronnix/fabtools
 roomorama/Caldroid
+root-two/react-native-drawer
 roots/bedrock
 roots/sage
 roots/trellis
@@ -8306,6 +8330,7 @@ shaih/HElib
 shakacode/react-webpack-rails-tutorial
 shakacode/react_on_rails
 shakiba/stage.js
+shama/gaze
 shancarter/mr-data-converter
 shaojiankui/JKCategories
 shaojiankui/iOS-Categories
@@ -9360,6 +9385,7 @@ valyala/fasthttp
 vandadnp/iOS-8-Swift-Programming-Cookbook
 vanhauser-thc/thc-hydra
 vanilla/vanilla
+vapor/vapor
 variadico/noti
 varnish/Varnish-Cache
 varnish/hitch
@@ -9652,6 +9678,7 @@ wyuenho/backgrid
 x-tag/core
 x2on/OpenSSL-for-iPhone
 x64dbg/x64dbg
+xamarin/Xamarin.Forms
 xamarin/XobotOS
 xamarin/mobile-samples
 xamarin/monodroid-samples
