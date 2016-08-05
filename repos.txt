@@ -935,6 +935,7 @@ Moeditor/Moeditor
 MojoJolo/textteaser
 MongoEngine/mongoengine
 Monnoroch/ColorHighlighter
+MonoGame/MonoGame
 Mooophy/Cpp-Primer
 Morhaus/dispatch-proxy
 MortimerGoro/MGSwipeTableCell
@@ -1482,6 +1483,7 @@ VerbalExpressions/JSVerbalExpressions
 VerbalExpressions/JavaVerbalExpressions
 VerbalExpressions/PHPVerbalExpressions
 VerbalExpressions/PythonVerbalExpressions
+Vestride/Shuffle
 ViccAlexander/Chameleon
 Victa/curtain.js
 Victa/path-menu
@@ -2354,6 +2356,7 @@ bennyguitar/Colours
 bennyguitar/News-YC---iPhone
 benoitc/gunicorn
 benoitsan/BBUncrustifyPlugin-Xcode
+benoitvallon/computer-science-in-javascript
 benoitvallon/react-native-nw-react-calculator
 benpickles/peity
 benschwarz/gallery-css
@@ -2743,12 +2746,15 @@ cheeaun/hackerweb
 cheeaun/life
 cheeaun/mooeditable
 cheeriojs/cheerio
+chef-boneyard/chef-repo
+chef-boneyard/cookbooks
 chef/bento
 chef/chef
 chef/chef-repo
 chef/cookbooks
 chenglou/react-motion
 chenglou/react-tween-state
+chengr28/Pcap_DNSProxy
 chengr28/RevokeChinaCerts
 chenshuo/muduo
 chentsulin/awesome-graphql
@@ -5856,6 +5862,7 @@ letsgetrandy/brototype
 leucos/ansible-tuto
 leveros/leveros
 levey/AwesomeMenu
+levionessa/elixir_style_guide
 lewis617/react-redux-tutorial
 lexborisov/myhtml
 lexrus/LTMorphingLabel
@@ -6427,6 +6434,7 @@ miguelfreitas/twister-core
 miguelgrinberg/Flask-SocketIO
 miguelgrinberg/flasky
 mihaip/dex-method-counts
+mik3y/usb-serial-for-android
 mikaelbr/node-notifier
 mike-zarandona/PrettyEmbed.js
 mikeal/watch
@@ -8129,6 +8137,7 @@ s4cha/Stevia
 s4n7h0/xvwa
 sabnzbd/sabnzbd
 sachinchoolur/lightGallery
+sachinchoolur/lightgallery.js
 sachinchoolur/lightslider
 saeedalipoor/icono
 sagivo/algorithms
@@ -8294,6 +8303,7 @@ seppo0010/rsedis
 sequelize/sequelize
 sequelpro/sequelpro
 serbanghita/Mobile-Detect
+serge-rider/dbeaver
 sergeche/emmet-sublime
 serghey-rodin/vesta
 seriesseed/equity
@@ -8803,6 +8813,7 @@ swagger-api/swagger-editor
 swagger-api/swagger-node
 swagger-api/swagger-ui
 swagger-api/swagger.io
+swannodette/lt-cljs-tutorial
 swannodette/mori
 swanson/stringer
 sweet-js/sweet.js
@@ -9035,6 +9046,7 @@ tianzhuo112/VTMagic
 tibastral/markdownify
 tictail/bounce.js
 tid-kijyun/Kanna
+tidwall/buntdb
 tidwall/tile38
 tiimgreen/github-cheat-sheet
 tildeio/htmlbars
