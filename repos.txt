@@ -881,6 +881,7 @@ MiCode/FileExplorer
 MiCode/Notes
 MichMich/MagicMirror
 MichaelEvans/ColorArt
+MichaelHuyp/Bilibili_Wuxianda
 MicheleBertoli/css-in-js
 Microsoft/BashOnWindows
 Microsoft/BotBuilder
@@ -1199,6 +1200,7 @@ ReactJSTraining/history
 ReactKit/ReactKit
 ReactKit/SwiftTask
 ReactTraining/history
+ReactWindows/react-native-windows
 Reactive-Extensions/Rx.NET
 Reactive-Extensions/RxJS
 ReactiveCocoa/ReactiveCocoa
@@ -1671,6 +1673,7 @@ adamwulf/app-launch-guide
 adamzap/landslide
 adchsm/Slidebars
 addthis/stream-lib
+addyosmani/a11y
 addyosmani/backbone-fundamentals
 addyosmani/basket.js
 addyosmani/critical
@@ -1939,6 +1942,7 @@ andyedinborough/stress-css
 andyet/SimpleWebRTC
 andymccurdy/redis-py
 andypetrella/spark-notebook
+angr/angr
 angrave/SystemProgramming
 angular-app/angular-app
 angular-fullstack/generator-angular-fullstack
@@ -2512,6 +2516,7 @@ bradfitz/http2
 bradfrost/frontend-guidelines-questionnaire
 bradfrost/project-hub
 bradfrost/this-is-responsive
+bradp/vv
 brainspec/enumerize
 braitsch/node-login
 bramp/js-sequence-diagrams
@@ -3903,6 +3908,7 @@ facebookarchive/three20
 facebookgo/grace
 facebookincubator/create-react-app
 facebookresearch/darkforestGo
+facebookresearch/fastText
 facelessuser/BracketHighlighter
 facette/facette
 faif/python-patterns
@@ -5110,6 +5116,7 @@ jceb/vim-orgmode
 jch/html-pipeline
 jcjohnson/neural-style
 jcoglan/sylvester
+jcoleman/tomcat-redis-session-manager
 jcs/lobsters
 jcubic/jquery.terminal
 jcupitt/libvips
@@ -5268,6 +5275,7 @@ joeblau/gitignore.io
 joeferner/node-java
 joeferner/redis-commander
 joefitzgerald/go-plus
+joefitzgerald/packer-windows
 joehewitt/scrollability
 joelambert/Flux-Slider
 joeldev/JLRoutes
@@ -5298,6 +5306,7 @@ johnlui/AutoLayout
 johnlui/Learn-Laravel-5
 johnlui/SwiftSideslipLikeQQ
 johnmyleswhite/ML_for_Hackers
+johnno1962/GitDiff
 johnno1962/Xtrace
 johnno1962/injectionforxcode
 johnny/jquery-sortable
@@ -6344,6 +6353,7 @@ mdo/wtf-html-css
 mduvall/grande.js
 mdznr/What-s-New
 me-abhinav/NumberMorphView
+me115/design_patterns
 me115/linuxtools_rst
 meanjs/mean
 mechio/takana
@@ -7091,6 +7101,7 @@ omab/python-social-auth
 omcljs/om
 omergul123/LLSimpleCamera
 omkarmoghe/Pokemap
+omniauth/omniauth
 omnidan/redux-undo
 omnigroup/OmniGroup
 omniscientjs/omniscient
@@ -8892,6 +8903,7 @@ tbranyen/backbone.layoutmanager
 tbruyelle/RxPermissions
 tc39/ecma262
 tc39/ecmascript-asyncawait
+tc39/proposal-bind-operator
 tciuro/NoticeView
 tcorral/Design-Patterns-in-Javascript
 tcurdt/iProxy
@@ -9503,6 +9515,7 @@ vpulim/node-soap
 vrana/adminer
 vsouza/awesome-ios
 vthibault/roBrowser
+vuejs-templates/webpack
 vuejs/awesome-vue
 vuejs/vue
 vuejs/vue-cli
@@ -9757,6 +9770,7 @@ yahoo/pure
 yahoo/react-intl
 yahoo/squidb
 yahoo/webseclab
+yahoojapan/objc2swift
 yairEO/fancyInput
 yajra/laravel-datatables
 yakyak/yakyak
