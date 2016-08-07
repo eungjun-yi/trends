@@ -172,6 +172,7 @@ Bash-it/bash-it
 Bearded-Hen/Android-Bootstrap
 BearishSun/BansheeEngine
 BeatSwitch/lock
+BeauNouvelle/AspectFillFaceAware
 Behat/Behat
 Benjamin-Dobell/Heimdall
 BigZaphod/Chameleon
@@ -1530,6 +1531,7 @@ WickyNilliams/enquire.js
 WickyNilliams/headroom.js
 Windows-XAML/Template10
 Wisembly/basil.js
+Wisembly/elephant.io
 WizTeam/WizQTClient
 Wizcorp/phonegap-facebook-plugin
 Wolfr/clank
@@ -1635,6 +1637,7 @@ acaudwell/Logstalgia
 accord-net/framework
 acdlite/flummox
 acdlite/flux-standard-action
+acdlite/react-fiber-architecture
 acdlite/recompose
 acdlite/redux-actions
 acdlite/redux-promise
@@ -2974,6 +2977,7 @@ collinhundley/Swift-AI
 colszowka/simplecov
 comeforu2012/truth
 comfy/comfortable-mexican-sofa
+commaai/research
 commadelimited/jQuery-Mobile-Bootstrap-Theme
 commercialhaskell/stack
 commonsguy/cw-advandroid
@@ -3013,6 +3017,7 @@ corbanbrook/dsp.js
 core-plot/core-plot
 coreos/clair
 coreos/coreos-vagrant
+coreos/dex
 coreos/etcd
 coreos/flannel
 coreos/fleet
@@ -3284,6 +3289,7 @@ deepstreamIO/deepstream.io
 deepstreamIO/golden-layout
 defagos/CoconutKit
 defaultnamehere/zzzzz
+defunctzombie/zuul
 defunkt/cijoe
 defunkt/dotjs
 defunkt/facebox
@@ -4517,6 +4523,7 @@ graphhopper/graphhopper
 graphific/DeepDreamVideo
 graphite-project/carbon
 graphite-project/graphite-web
+graphql-python/graphene
 graphql/express-graphql
 graphql/graphiql
 graphql/graphql-js
@@ -7656,6 +7663,7 @@ qemu/qemu
 qfish/XAlign
 qgis/QGIS
 qiao/PathFinding.js
+qibaoguang/Spring-Boot-Reference-Guide
 qii/weiciyuan
 qinjx/30min_guides
 qinwf/awesome-R
@@ -9168,6 +9176,7 @@ tooling/book-of-modern-frontend-tooling
 tools/godep
 toopay/bootstrap-markdown
 toorshia/justgage
+top-think/think
 top-think/thinkphp
 topazproject/topaz
 topcoat/topcoat
@@ -9602,6 +9611,7 @@ websymphony/almost-flat-ui
 wechat-python-sdk/wechat-python-sdk
 weibocom/motan
 weixin/WeFlow
+weixin/tmt-workflow
 weixiyen/jquery-filedrop
 wekan/wekan
 welaika/wordless
@@ -9609,6 +9619,7 @@ welaika/wordmove
 wellcaffeinated/PhysicsJS
 weng1250/WZLBadge
 wenmingvs/AndroidProcess
+wenmingvs/WeiBo
 wentin/ResponsifyJS
 wentin/underlineJS
 wenzhixin/bootstrap-table
