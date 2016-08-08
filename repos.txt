@@ -117,6 +117,7 @@ AppScale/appscale
 Arachni/arachni
 ArduPilot/ardupilot
 AriaFallah/WebpackTutorial
+Armax/Pokemon-GO-node-api
 ArtFeel/AFViewShaker
 ArtSabintsev/Harpy
 ArtSabintsev/Siren
@@ -189,6 +190,7 @@ BlackrockDigital/startbootstrap-freelancer
 BlackrockDigital/startbootstrap-sb-admin
 BlackrockDigital/startbootstrap-sb-admin-2
 Blankj/AndroidUtilCode
+BlazeCSS/Blaze
 Block8/PHPCI
 BloombergMedia/whatiscode
 BlueMor/Android-PullLayout
@@ -387,6 +389,7 @@ Draveness/iOS-Source-Code-Analyze
 DreaminginCodeZH/Douya
 DreaminginCodeZH/MaterialColdStart
 DreaminginCodeZH/MaterialProgressBar
+Dreampie/Resty
 DrewDahlman/Mason
 DrkSephy/es6-cheatsheet
 DroidPluginTeam/DroidPlugin
@@ -610,6 +613,7 @@ IdentityServer/IdentityServer3
 Idered/Editr.js
 IdleHandsApps/IHKeyboardAvoiding
 ImageOptim/ImageOptim
+ImmortalZ/StereoView
 Indamix/real-shadow
 Indatus/dispatcher
 InfyOmLabs/laravel-generator
@@ -1181,6 +1185,7 @@ Raizlabs/RZTransitions
 Rajawali/Rajawali
 Ramotion/adaptive-tab-bar
 Ramotion/animated-tab-bar
+Ramotion/aquarelle
 Ramotion/circle-menu
 Ramotion/expanding-collection
 Ramotion/folding-cell
@@ -3822,6 +3827,7 @@ expressjs/morgan
 expressjs/multer
 expressjs/session
 eyecatchup/SEOstats
+f2prateek/rx-preferences
 fabien-d/alertify.js
 fabric/fabric
 facebook/AsyncDisplayKit
@@ -4019,6 +4025,7 @@ fiorix/freegeoip
 firebase/angularfire
 firebase/firechat
 firebase/firepad
+firebase/quickstart-android
 firebug/firebug
 firehol/netdata
 firstfloorsoftware/mui
@@ -4178,6 +4185,7 @@ gaearon/redux-devtools
 gaearon/redux-thunk
 gajus/react-css-modules
 gajus/swing
+galenframework/galen
 galetahub/ckeditor
 gali8/Tesseract-OCR-iOS
 gamelab/kiwi.js
@@ -5138,6 +5146,7 @@ jdg/MBProgressHUD
 jdorn/json-editor
 jdsutton/Technical-Interview-Megarepo
 jeanphix/Ghost.py
+jeasonlzy0216/OkHttpUtils
 jech/polipo
 jed/lave
 jedfoster/Readmore.js
@@ -7799,6 +7808,7 @@ react-native-community/react-native-video
 react-native-fellowship/react-native-navbar
 react-native-material-design/react-native-material-design
 react-toolbox/react-toolbox
+reactGo/reactGo
 reactioncommerce/reaction
 reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
@@ -7864,6 +7874,7 @@ reinderien/mimic
 relatedcode/EncryptedChat
 relatedcode/FirebaseChat
 relatedcode/ParseAlternatives
+relatedcode/ProgressHUD
 relatedcode/RealtimeChat
 relax/relax
 rembo10/headphones
@@ -9086,6 +9097,7 @@ timoxley/functional-javascript-workshop
 timuric/Content-generator-sketch-plugin
 tinkerpop/blueprints
 tinkerpop/gremlin
+tiny-dnn/tiny-dnn
 tinymce/tinymce
 titoBouzout/SideBarEnhancements
 titon/toolkit
@@ -9765,6 +9777,7 @@ xxv/android-lifecycle
 xyfeng/XYPieChart
 yabwe/medium-editor
 yackle/CLImageEditor
+yadav-rahul/TastyToast
 yagop/node-telegram-bot-api
 yagop/telegram-bot
 yahoo/AppDevKit
