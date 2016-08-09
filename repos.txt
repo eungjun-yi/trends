@@ -358,6 +358,7 @@ DeathKing/Learning-SICP
 DefinitelyTyped/DefinitelyTyped
 DefinitelyTyped/tsd
 DemocracyOS/democracyos
+DenisMondon/material-design-library
 DesarrolloAntonio/FragmentTransactionExtended
 DeskConnect/SBShortcutMenuSimulator
 DevLight-Mobile-Agency/NavigationTabBar
@@ -1123,6 +1124,7 @@ PlusHaze/TrayNotification
 PocketMine/PocketMine-MP
 PointCloudLibrary/pcl
 PokemonGoF/PokemonGo-Bot
+PokemonGoMap/PokemonGo-Map
 Polymer/docs
 Polymer/observe-js
 Polymer/polymer
@@ -3828,6 +3830,7 @@ expressjs/multer
 expressjs/session
 eyecatchup/SEOstats
 f2prateek/rx-preferences
+fabianp/memory_profiler
 fabien-d/alertify.js
 fabric/fabric
 facebook/AsyncDisplayKit
@@ -4130,6 +4133,7 @@ freerange/mocha
 freqdec/slabText
 frida/frida
 fritzy/SleekXMPP
+frogermcs/AndroidDevMetrics
 frogermcs/InstaMaterial
 frogermcs/LikeAnimation
 fronteed/icheck
@@ -4737,6 +4741,7 @@ hmlb/phpunit-vw
 hoang8f/android-flat-button
 hoisie/web
 hojberg/cssarrowplease
+hokein/electron-sample-apps
 hollance/swift-algorithm-club
 holman/boom
 holman/dotfiles
@@ -5484,6 +5489,7 @@ julienXX/terminal-notifier
 julienschmidt/httprouter
 julycoding/The-Art-Of-Programming-By-July
 jumpserver/jumpserver
+jumpsuit/jumpsuit
 junegunn/fzf
 junegunn/goyo.vim
 junegunn/redis-stat
@@ -5715,6 +5721,7 @@ kolyvan/kxmovie
 komarserjio/notejam
 kombai/freewall
 konifar/android-material-design-icon-generator-plugin
+konmik/konmik.github.io
 konmik/nucleus
 konvajs/konva
 koral--/android-gif-drawable
@@ -6488,6 +6495,7 @@ mikesall/charted
 mikespook/Learning-Go-zh-cn
 miksago/node-websocket-server
 mila-udem/blocks
+milankinen/livereactload
 milessabin/shapeless
 mileszs/ack.vim
 mileszs/wicked_pdf
@@ -6968,6 +6976,7 @@ nodemcu/nodemcu-firmware
 nodesource/distributions
 noelboss/featherlight
 noflo/noflo
+noidontdig/gitdown
 nojhan/colout
 nojhan/liquidprompt
 nolanlawson/pokedex.org
@@ -7829,6 +7838,7 @@ reactjs/redux
 reactjs/reselect
 reactnativecn/react-native-guide
 reactor/reactor
+reactotron/reactotron
 reactphp/react
 reagent-project/reagent
 real-logic/Aeron
@@ -8414,6 +8424,7 @@ shu223/watchOS-2-Sampler
 shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 shutterstock/rickshaw
 shwenzhang/AndResGuard
+shyambhat/InstagramKit
 shyamseshadri/angularjs-book
 siacs/Conversations
 sickill/bitpocket
@@ -8487,6 +8498,7 @@ siriscac/RippleView
 sirthias/parboiled
 sirthias/pegdown
 sitaramc/gitolite
+sitepoint/awesome-symfony
 sitespeedio/coach
 sitespeedio/sitespeed.io
 sitexw/FuckAdBlock
@@ -8822,6 +8834,7 @@ supermarin/ObjectiveSugar
 supermarin/YosemiteSanFranciscoFont
 supermarin/xcpretty
 superpowers/superpowers-core
+superscriptjs/superscript
 suprb/Grid-A-Licious
 suprb/Nested
 surgemq/surgemq
@@ -9611,6 +9624,7 @@ webpack/css-loader
 webpack/extract-text-webpack-plugin
 webpack/react-starter
 webpack/webpack
+webpack/webpack-dev-server
 webpop/jquery.pin
 webpro/awesome-dotfiles
 webpy/webpy
@@ -9912,6 +9926,7 @@ zedapp/zed
 zedshaw/lpthw-study-projects
 zeit/hyperterm
 zeit/micro
+zeit/micro-cli
 zeithq/micro
 zeman/perfmap
 zenazn/goji
