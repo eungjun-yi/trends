@@ -404,6 +404,7 @@ ECSlidingViewController/ECSlidingViewController
 EFForg/https-everywhere
 EasyDarwin/EasyDarwin
 EasyEngine/easyengine
+EasyNetQ/EasyNetQ
 EddyBorja/EBPhotoPages
 EddyBorja/MLPAutoCompleteTextField
 EddyVerbruggen/SocialSharing-PhoneGap-Plugin
@@ -937,6 +938,7 @@ MoOx/postcss-cssnext
 MoZhouqi/KMNavigationBarTransition
 MobileChromeApps/mobile-chrome-apps
 Modernizr/Modernizr
+ModuleLoader/es-module-loader
 ModuleLoader/es6-module-loader
 Moeditor/Moeditor
 MojoJolo/textteaser
@@ -1248,6 +1250,7 @@ RobotsAndPencils/RPSlidingMenu
 Rochester-NRT/AlphaGo
 Rochester-NRT/RocAlphaGo
 RocketChat/Rocket.Chat
+Rogero0o/GifLoadingView
 RolandPheasant/TailBlazer
 RolifyCommunity/rolify
 RomainPiel/Shimmer-android
@@ -1620,6 +1623,7 @@ Zizaco/entrust
 Zomato/AndroidPhotoFilters
 ZoneMinder/ZoneMinder
 Zulko/moviepy
+a0viedo/demystifying-js-engines
 a11yproject/a11yproject.com
 a1anyip/AYVibrantButton
 a1studmuffin/SpaceshipGenerator
@@ -3933,6 +3937,7 @@ fakefs/fakefs
 falconry/falcon
 fancyapps/fancyBox
 fanout/pushpin
+fanrunqi/MaterialLogin
 fantasyland/fantasy-land
 farbrausch/fr_public
 farcaller/DashDoc
@@ -5453,6 +5458,7 @@ jsdelivr/jsdelivr
 jsdf/react-native-refreshable-listview
 jsdoc3/jsdoc
 jsfront/src
+jshackles/idle_master
 jshaw87/Cheatsheets
 jshint/fixmyjs
 jshint/jshint
@@ -7534,6 +7540,7 @@ ponylang/ponyc
 poole/hyde
 poole/lanyon
 poole/poole
+pooler/cpuminer
 poolqf/FillableLoaders
 popcorn-time/popcorn-app
 pornel/pngquant
@@ -7619,6 +7626,7 @@ psychs/limechat
 ptaoussanis/sente
 ptaoussanis/timbre
 ptmt/react-native-desktop
+ptmt/react-native-macos
 ptshih/PSCollectionView
 ptwobrussell/Mining-the-Social-Web
 ptwobrussell/Mining-the-Social-Web-2nd-Edition
@@ -8615,6 +8623,7 @@ soumith/convnet-benchmarks
 soundblogs/react-soundplayer
 soundcloud/lhm
 soundcloud/roshi
+sourcegraph/checkup
 sourcegraph/srclib
 soveran/cuba
 soveran/ohm
@@ -8734,6 +8743,7 @@ staltz/rxmarbles
 stamparm/maltrail
 stampit-org/stampit
 stanfordnlp/CoreNLP
+star7th/showdoc
 stascorp/rdpwrap
 statsmodels/statsmodels
 stealjs/steal
@@ -8939,6 +8949,7 @@ tc39/proposal-bind-operator
 tciuro/NoticeView
 tcorral/Design-Patterns-in-Javascript
 tcurdt/iProxy
+tdebatty/java-string-similarity
 tdenniston/bish
 tdginternet/TGCameraViewController
 tdryer/hangups
@@ -9260,6 +9271,7 @@ tristanhimmelman/AlamofireObjectMapper
 troessner/reek
 trogdoro/xiki
 troolee/gridstack.js
+troydhanson/uthash
 trueadm/inferno
 trueinteractions/tint2
 trulia/hologram
