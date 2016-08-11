@@ -114,6 +114,7 @@ ApmeM/android-flowlayout
 Apostolique/Agar.io-bot
 App-vNext/Polly
 AppScale/appscale
+Ar1i/PokemonGo-Bot
 Arachni/arachni
 ArduPilot/ardupilot
 AriaFallah/WebpackTutorial
@@ -123,6 +124,7 @@ ArtSabintsev/Harpy
 ArtSabintsev/Siren
 ArthurHub/Android-Image-Cropper
 Ashok-Varma/BottomNavigation
+Aspsine/SwipeToLoadLayout
 AssetSync/asset_sync
 AssistoLab/KVNProgress
 AsyncHttpClient/async-http-client
@@ -1935,6 +1937,7 @@ andrewplummer/Sugar
 andrewrk/groovebasin
 andrewt3000/DL4NLP
 andris9/jStorage
+andris9/mailparser
 andris9/mailtrain
 androguard/androguard
 android-cjj/Android-MaterialRefreshLayout
@@ -3195,6 +3198,7 @@ danielmiessler/SecLists
 danielquinn/paperless
 danielstjules/Stringy
 danielstjules/jsinspect
+danielwaterworth/Raphters
 danielzeller/Depth-LIB-Android-
 daniulive/SmarterStreaming
 danleech/simple-icons
@@ -3464,6 +3468,7 @@ documentcloud/visualsearch
 dodgepudding/wechat-php-sdk
 dodola/HotFix
 dodola/MetaballLoading
+dodola/RocooFix
 dogecoin/dogecoin
 dogescript/dogescript
 doggy8088/Learn-Git-in-30-days
@@ -4629,6 +4634,7 @@ h5bp/server-configs-apache
 h5bp/server-configs-nginx
 h6ah4i/android-advancedrecyclerview
 ha/doozerd
+habitat-sh/habitat
 hackappcom/ibrute
 hackers-painters/samurai-native
 hackerzhou/Love
@@ -5002,6 +5008,7 @@ itsgoingd/clockwork
 ivacf/archi
 ivaldi/brimir
 ivan-vasilev/neuralnetworks
+ivanakimov/hashids.js
 ivanakimov/hashids.php
 ivansafrin/Polycode
 ivopetkov/responsively-lazy
@@ -5508,6 +5515,7 @@ jupyter/notebook
 jupyterhub/jupyterhub
 jussi-kalliokoski/trine
 justinas/alice
+justinfrankel/licecap
 justinfrench/formtastic
 justinmeister/Mario-Level-1
 justinmk/vim-sneak
@@ -5705,6 +5713,7 @@ kneath/kss
 kni-labs/rrssb
 knightliao/disconf
 knockout/knockout
+knolleary/pubsubclient
 knownsec/KCon
 knrz/CSV.js
 knsv/mermaid
@@ -6308,6 +6317,7 @@ matthuhiggins/foreigner
 mattkersley/Responsive-Design-Testing
 mattkrick/meatier
 mattlag/Glyphr-Studio
+mattmakai/fullstackpython.com
 mattn/emmet-vim
 mattn/gist-vim
 mattn/go-gtk
@@ -7825,6 +7835,7 @@ react-native-community/react-native-video
 react-native-fellowship/react-native-navbar
 react-native-material-design/react-native-material-design
 react-toolbox/react-toolbox
+react-webpack-generators/generator-react-webpack
 reactGo/reactGo
 reactioncommerce/reaction
 reactive-streams/reactive-streams-jvm
@@ -7988,6 +7999,7 @@ rlerdorf/php7dev
 rlidwka/sinopia
 rmagick-temp/rmagick
 rmccue/Requests
+rmlewisuk/justdelete.me
 rmm5t/jquery-timeago
 rmtheis/android-ocr
 rmtheis/tess-two
@@ -9046,6 +9058,7 @@ thermogl/TISwipeableTableView
 thest1/LazyList
 thestinger/termite
 theturtle32/WebSocket-Node
+thewhitetulip/web-dev-golang-anti-textbook
 thiagopradi/octopus
 thingdom/node-neo4j
 thinkaurelius/titan
@@ -9779,6 +9792,7 @@ xianyi/OpenBLAS
 xiaoxu193/PyTeaser
 xicilion/fibjs
 xiekw2010/react-native-gitfeed
+xiepeijie/SwipeCardView
 ximan/dropload
 xing/wysihtml5
 xinthink/react-native-material-kit
@@ -9860,6 +9874,7 @@ yeoman/generator-webapp
 yeoman/generator-webapp_DEPRECATED
 yeoman/grunt-usemin
 yeoman/yeoman
+yeoman/yeoman-app
 yeoman/yo
 yesodweb/yesod
 yhat/db.py
