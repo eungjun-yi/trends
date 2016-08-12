@@ -781,6 +781,7 @@ LLK/scratch-flash
 LMAX-Exchange/disruptor
 LMMS/lmms
 LWJGL/lwjgl3
+LaiFengiOS/LFLiveKit
 LaraDock/laradock
 LarsWerkman/HoloColorPicker
 Lasagne/Lasagne
@@ -837,6 +838,7 @@ MacDownApp/macdown
 MacGapProject/MacGap1
 MacGapProject/MacGap2
 MacRuby/MacRuby
+MagicStack/asyncpg
 MagicStack/uvloop
 MahApps/MahApps.Metro
 MailCore/mailcore2
@@ -1111,6 +1113,7 @@ Peer5/ShareFest
 PerfDotNet/BenchmarkDotNet
 PerfectlySoft/Perfect
 Perspex/Perspex
+Pestov/essential-gulp-plugins
 PeterDing/iScript
 PhamBaTho/BTNavigationDropdownMenu
 PharkMillups/beautiful-docs
@@ -2259,6 +2262,7 @@ awslabs/git-secrets
 awslabs/s2n
 axkibe/lsyncd
 aymericdamien/TensorFlow-Examples
+aymericdamien/TopDeepLearning
 aziz/PlainTasks
 aziz/tmTheme-Editor
 b3log/solo
@@ -2501,6 +2505,7 @@ bolt/bolt
 boltdb/bolt
 bonnyfone/vectalign
 boo1ean/casual
+booksbyus/zguide
 boot-clj/boot
 boot2docker/boot2docker
 boot2docker/osx-installer
@@ -3941,6 +3946,7 @@ faisalman/ua-parser-js
 fakefs/fakefs
 falconry/falcon
 fancyapps/fancyBox
+fangwei716/30-days-of-react-native
 fanout/pushpin
 fanrunqi/MaterialLogin
 fantasyland/fantasy-land
@@ -4432,6 +4438,7 @@ google/cayley
 google/closure-compiler
 google/closure-library
 google/code-prettify
+google/codesearch
 google/deepdream
 google/eddystone
 google/end-to-end
@@ -5623,6 +5630,7 @@ keklikhasan/LDrawer
 keleshev/schema
 kelseyhightower/confd
 kemayo/sublime-text-git
+kenhub/giraffe
 kenkeiter/skeuocard
 kennethcachia/background-check
 kennethreitz/autoenv
@@ -6358,6 +6366,7 @@ maxwellito/vivus
 mayuur/MJParallaxCollectionView
 mbadolato/iTerm2-Color-Schemes
 mbcrawfo/GenericMakefile
+mbdavid/LiteDB
 mbebenita/Broadway
 mbebenita/LLJS
 mbenford/ngTagsInput
@@ -6428,6 +6437,7 @@ metajack/strophejs
 metalsmith/metalsmith
 meteor/meteor
 meteoric/meteor-ionic
+mewo2/terrain
 mewwts/addict
 mezzoblue/csszengarden.com
 mfornos/awesome-microservices
@@ -6486,6 +6496,7 @@ mihaip/dex-method-counts
 mik3y/usb-serial-for-android
 mikaelbr/node-notifier
 mike-zarandona/PrettyEmbed.js
+mike442144/node-crawler
 mikeal/watch
 mikeash/MAObjCRuntime
 mikecao/flight
@@ -7462,6 +7473,7 @@ phusion/traveling-ruby
 phuslu/goagent
 phuslu/goproxy
 pi-hole/pi-hole
+pickhardt/Guiders-JS
 pickhardt/betty
 picnicss/picnic
 picocms/Pico
@@ -7593,6 +7605,7 @@ prerender/prerender
 presidentbeef/brakeman
 pressly/sup
 prestodb/presto
+pret/pokered
 prettymuchbryce/easystarjs
 prey/prey-bash-client
 prikhi/pencil
@@ -7682,6 +7695,7 @@ pyro2927/ParallaxBlur
 pyrocms/pyrocms
 pyskell/slouchy
 pytest-dev/pytest
+python-excel/xlrd
 python-pillow/Pillow
 python-telegram-bot/python-telegram-bot
 python-visualization/folium
@@ -7881,6 +7895,7 @@ redcar/redcar
 reddit/reddit
 reddit/reddit-mobile
 redecentralize/alternative-internet
+redfin/react-server
 redguardtoo/mastering-emacs-in-one-year-guide
 redis-store/redis-store
 redis/hiredis
@@ -8022,6 +8037,7 @@ robbiehanson/CocoaHTTPServer
 robbiehanson/XMPPFramework
 robbyrussell/oh-my-zsh
 robconery/massive-js
+roberdam/Xaddress
 robertdavidgraham/masscan
 robertkrimen/otto
 robertpenner/as3-signals
@@ -8418,6 +8434,7 @@ shekhargulati/99-problems
 shellfire-dev/shellfire
 shelljs/shelljs
 shichuan/javascript-patterns
+shiffman/The-Nature-of-Code-Examples
 shiffman/The-Nature-of-Code-archive
 shinobicontrols/iOS7-day-by-day
 shinobicontrols/iOS8-day-by-day
@@ -8582,6 +8599,7 @@ snooda/net-speeder
 snorpey/jpg-glitch
 snowdream/awesome-android
 snowplow/snowplow
+snwh/paper-gtk-theme
 so-fancy/diff-so-fancy
 soapyigu/LeetCode_Swift
 soarcn/BottomSheet
@@ -9429,6 +9447,7 @@ umpirsky/country-list
 una/CSSgram
 unbit/uwsgi
 unbug/codelf
+unclebob/fitnesse
 unconed/MathBox.js
 unconed/TermKit
 uncrustify/uncrustify
