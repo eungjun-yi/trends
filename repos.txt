@@ -601,6 +601,7 @@ HumbleSoftware/Flotr2
 HumbleSoftware/envisionjs
 HunterLarco/voxel.css
 Huohua/HHRouter
+Huxpro/huxpro.github.io
 HypothesisWorks/hypothesis-python
 IBAnimatable/IBAnimatable
 IBM-Swift/Kitura
@@ -1515,6 +1516,7 @@ Vinodh-G/ParallaxTableViewHeader
 VirusTotal/yara
 VisualPHPUnit/VisualPHPUnit
 VitaliyRodnenko/geeknote
+VoLuong/Awesome-Linux-Software
 VodkaBears/Remodal
 VodkaBears/Vide
 VoltDB/voltdb
@@ -2344,6 +2346,7 @@ bboyfeiyu/android-tech-frontier
 bchanx/slidr
 bcit-ci/CodeIgniter
 bcosca/fatfree
+bda-research/node-crawler
 bdarnell/plop
 be-fe/iSlider
 be5invis/Iosevka
@@ -2451,6 +2454,7 @@ bitshadow/iconate
 bitstadium/HockeyKit
 bitstadium/QuincyKit
 bittorrenttorque/btapp
+bitwalker/exrm
 bitwiseshiftleft/sjcl
 bizz84/SwiftyStoreKit
 bjango/Bjango-Actions
@@ -2590,6 +2594,7 @@ bro/bro
 broccolijs/broccoli
 brocoo/BRFlabbyTable
 broofa/node-uuid
+brooklynDev/airborne
 brow/leaves
 brownhci/WebGazer
 browserhtml/browserhtml
@@ -2845,6 +2850,7 @@ chriso/validator.js
 chrissimpkins/Hack
 chrissimpkins/codeface
 christianalfoni/formsy-react
+christianalfoni/webpack-express-boilerplate
 christiannaths/Redacted-Font
 christoomey/vim-tmux-navigator
 christopherthielen/ui-router-extras
@@ -3735,6 +3741,7 @@ enyo/dropzone
 enyo/opentip
 enyojs/enyo
 eoecn/android-app
+eoinfogarty/Onboarding
 eowise/recyclerview-stickyheaders
 epeli/underscore.string
 ephread/Instructions
@@ -3971,6 +3978,7 @@ fastred/AHKActionSheet
 fastred/MotionBlur
 fat/bean
 fat/zoom.js
+fatedier/frp
 fatfreecrm/fat_free_crm
 fatih/color
 fatih/structs
@@ -3983,6 +3991,7 @@ fbrctr/fabricator
 fbsamples/f8app
 fcambus/ansiweather
 fcambus/nginx-resources
+fchollet/deep-learning-models
 fchollet/keras
 fdietz/team_dashboard
 fdzsergio/SFFocusViewLayout
@@ -4408,6 +4417,7 @@ golang/go
 golang/groupcache
 golang/lint
 golang/mobile
+golang/oauth2
 golang/protobuf
 golang/tools
 golbin/git-commander
@@ -5826,6 +5836,7 @@ l123456789jy/Lazy
 l20n/l20n.js
 lab2023/hierapolis
 labstack/echo
+lagom/lagom
 laher/goxc
 laktak/hjson
 laktek/punch
@@ -6681,6 +6692,7 @@ mourner/simplify-js
 mourner/suncalc
 mouse0270/bootstrap-notify
 movielala/VideoSplashKit
+moxie0/sslstrip
 moxiecode/plupload
 mozbrick/brick
 mozilla-b2g/B2G
@@ -6924,6 +6936,7 @@ nicklockwood/XMLDictionary
 nicklockwood/iCarousel
 nicklockwood/iRate
 nicklockwood/iVersion
+nickoala/telepot
 nickoneill/PermissionScope
 nickstenning/honcho
 nicktoumpelis/HiBeacons
@@ -7888,6 +7901,7 @@ reark/reark
 rebar/rebar
 recalbox/recalbox-os
 recastnavigation/recastnavigation
+recharts/recharts
 recruit-lifestyle/WaveSwipeRefreshLayout
 recruit-mp/RMPZoomTransitionAnimator
 red/red
@@ -8495,6 +8509,7 @@ sinatra/rack-protection
 sinatra/sinatra
 sinaweibosdk/weibo_android_sdk
 sinaweibosdk/weibo_ios_sdk
+sindresorhus/anatine
 sindresorhus/ava
 sindresorhus/awesome
 sindresorhus/awesome-electron
@@ -9591,6 +9606,7 @@ vpdn/MMAppSwitcher
 vpdn/MMLayershots
 vpulim/node-soap
 vrana/adminer
+vrapper/vrapper
 vsouza/awesome-ios
 vthibault/roBrowser
 vuejs-templates/webpack
