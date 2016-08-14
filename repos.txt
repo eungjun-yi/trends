@@ -136,6 +136,7 @@ AttackOnDobby/iOS-Core-Animation-Advanced-Techniques
 Attendize/Attendize
 AudithSoftworks/Uniform
 Aufree/ESTMusicPlayer
+Aufree/PHPHub-iOS
 Aufree/phphub-ios
 Aufree/trip-to-iOS
 Augus/ngAnimate
@@ -540,6 +541,7 @@ Guikunzhi/BeautifyFaceDemo
 GumbyFramework/Gumby
 H07000223/FlycoDialog_Master
 H07000223/FlycoTabLayout
+HFTrader/DeepLearningBook
 HIPS/autograd
 HabitRPG/habitrpg
 HackPlan/quark-shell-mac
@@ -1890,6 +1892,7 @@ amfe/article
 amfe/lib-flexible
 amir20/phantomjs-node
 amitburst/HackerNews
+amitp/mapgen2
 amix/vimrc
 amlcurran/ShowcaseView
 amoffat/bootstrap-application-wizard
@@ -2126,6 +2129,7 @@ arendjr/selectivity
 argon/node-apn
 aria2/aria2
 arialdomartini/oh-my-git
+arielf/weight-loss
 arimorty/floatingsearchview
 ariok/BWWalkthrough
 ariya/phantomjs
@@ -7454,6 +7458,7 @@ phodal/developer
 phodal/github-roam
 phodal/growth
 phodal/growth-ebook
+phodal/growth-in-action
 phodal/ideabook
 phoenixframework/phoenix
 phonegap/phonegap-plugin-push
