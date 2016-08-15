@@ -155,6 +155,7 @@ Automattic/kue
 Automattic/mongoose
 Automattic/monk
 Automattic/node-canvas
+Automattic/simplenote-ios
 Automattic/wp-calypso
 AutumnsWind/Front-end-questions-to-the-interview-stage
 AutumnsWind/Front-end-tutorial
@@ -2521,6 +2522,7 @@ bootcards/bootcards
 bootflat/bootflat.github.io
 bootstrap-ruby/rails-bootstrap-forms
 bootstrap-tagsinput/bootstrap-tagsinput
+bopoda/ace
 borgbackup/borg
 borismus/webvr-boilerplate
 borisrepl/boris
@@ -2534,6 +2536,7 @@ botwillacceptanything/botwillacceptanything
 bouchenoiremarc/Sketch-Constraints
 bower/bower
 box-project/box2
+box/Anemometer
 box/t3js
 boxen/boxen
 boxen/our-boxen
@@ -3732,6 +3735,8 @@ enaqx/awesome-pentest
 enaqx/awesome-react
 encharm/Font-Awesome-SVG-PNG
 ender-js/Ender
+endofunked/sidetiq
+endofunky/sidetiq
 endtwist/kerning.js
 engineyard/ey-cloud-recipes
 enormego/EGOCache
@@ -6406,6 +6411,7 @@ mcxiaoke/android-volley
 mcxiaoke/gradle-packer-plugin
 mcxiaoke/packer-ng-plugin
 mdaines/viz.js
+mde/ejs
 mdiep/MMMarkdown
 mdinacci/MDRadialProgress
 mdo/code-guide
@@ -7037,6 +7043,7 @@ noprompt/frak
 noraesae/perfect-scrollbar
 norman/friendly_id
 north/north
+north2014/A-MusicView
 nose-devs/nose
 nosir/cleave.js
 nosir/obelisk.js
@@ -8624,6 +8631,7 @@ so-fancy/diff-so-fancy
 soapyigu/LeetCode_Swift
 soarcn/BottomSheet
 sobri909/MGBoxKit
+sockeqwe/AdapterDelegates
 sockeqwe/mosby
 socketio/engine.io
 socketio/socket.io
@@ -9930,6 +9938,7 @@ yihui/knitr
 yiisoft/yii
 yiisoft/yii2
 yinwang0/pysonar2
+yipianfengye/android-adDialog
 yixia/VitamioBundle
 yixiangboy/IOSAnimationDemo
 ylechelle/OpenUDID
