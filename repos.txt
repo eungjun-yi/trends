@@ -95,6 +95,7 @@ AnalyticalGraphicsInc/cesium
 AnderWeb/discreteSeekBar
 AndrewBelt/hack.chat
 AndroidBootstrap/android-bootstrap
+AndroidStudyGroup/conferences
 AngleSharp/AngleSharp
 AngularClass/NG6-starter
 AngularClass/angular-websocket
@@ -474,6 +475,7 @@ Fooidge/PleaseJS
 FormidableLabs/radium
 FormidableLabs/spectacle
 FormidableLabs/victory
+FormidableLabs/webpack-dashboard
 FortAwesome/Font-Awesome
 FoxUSA/OpenNote
 Foxandxss/angular-toastr
@@ -1616,6 +1618,7 @@ Yomguithereal/react-blessed
 YorickPeterse/oga
 YouXianMing/Animations
 YouXianMing/YoCelsius
+YuzuJS/setImmediate
 Z3Prover/z3
 ZaBlanc/RaptureXML
 Zarel/Pokemon-Showdown
@@ -2128,6 +2131,7 @@ ardanlabs/gotraining
 arduino/Arduino
 arendjr/selectivity
 argon/node-apn
+arguman/arguman.org
 aria2/aria2
 arialdomartini/oh-my-git
 arielf/weight-loss
@@ -2180,6 +2184,7 @@ asmjit/asmjit
 aspnet/EntityFramework
 aspnet/Home
 aspnet/Identity
+aspnet/JavaScriptServices
 aspnet/KestrelHttpServer
 aspnet/MusicStore
 aspnet/Mvc
@@ -2438,6 +2443,7 @@ binarylogic/settingslogic
 binggg/mrn
 bingoogolapple/BGABadgeView-Android
 bingoogolapple/BGABanner-Android
+bingoogolapple/BGAQRCode-Android
 bingoogolapple/BGARefreshLayout-Android
 binux/pyspider
 binux/yaaw
@@ -6560,6 +6566,7 @@ mindbrix/UIImage-PDF
 mindreframer/golang-stuff
 mineschan/MZTimerLabel
 minetest/minetest
+ming1016/study
 miniMAC/magic
 minikomi/Bootstrap-Form-Builder
 minimagick/minimagick
@@ -7975,6 +7982,7 @@ requirejs/almond
 requirejs/r.js
 requirejs/requirejs
 rescrv/HyperDex
+resin-io/etcher
 resque/resque
 resque/resque-scheduler
 ressio/lazy-load-xt
@@ -8462,6 +8470,7 @@ shelljs/shelljs
 shichuan/javascript-patterns
 shiffman/The-Nature-of-Code-Examples
 shiffman/The-Nature-of-Code-archive
+shift-js/shift-js
 shinobicontrols/iOS7-day-by-day
 shinobicontrols/iOS8-day-by-day
 shinobicontrols/iOS9-day-by-day
