@@ -852,6 +852,7 @@ Malinskiy/SuperRecyclerView
 Manabu-GT/ExpandableTextView
 Mange/roadie
 Mango/slideout
+ManifestWebDesign/angular-gridster
 Manishearth/rust-clippy
 ManrajGrover/SingleDivProject
 Mantle/Mantle
@@ -3897,6 +3898,7 @@ facebook/facebook-php-sdk-v4
 facebook/fb-adb
 facebook/fbctf
 facebook/fbcunn
+facebook/fbthrift
 facebook/fishhook
 facebook/fixed-data-table
 facebook/flashcache
@@ -4185,6 +4187,7 @@ fsnotify/fsnotify
 fsouza/go-dockerclient
 ftlabs/fastclick
 ftlabs/ftscroller
+fuchsia-mirror/magenta
 fuel/fuel
 fulcrum-agile/fulcrum
 fullcalendar/fullcalendar
@@ -4396,6 +4399,7 @@ glyptodon/guacamole-server
 gma/nesta
 gmate/gmate
 gmetais/YellowLabTools
+gmetais/sw-delta
 gmoledina/GMGridView
 gnab/remark
 gnachman/iTerm2
@@ -4591,6 +4595,7 @@ greatfire/wiki
 greatghoul/remote-working
 greenplum-db/gpdb
 greenrobot/EventBus
+greenrobot/essentials
 greenrobot/greenDAO
 greensock/GreenSock-JS
 gregmalcolm/python_koans
@@ -4778,6 +4783,8 @@ hirak/prestissimo
 hishamhm/htop
 hitherejoe/Android-Boilerplate
 hitherejoe/animate
+hjson-lang/hjson
+hjson/hjson
 hkellaway/Gloss
 hlandau/acme
 hmkcode/Android
@@ -5214,6 +5221,7 @@ jeffkaufman/icdiff
 jeffknupp/sandman
 jegonzal/PowerGraph
 jejacks0n/mercury
+jejacks0n/teaspoon
 jekyll/jekyll
 jelmer/dulwich
 jemalloc/jemalloc
@@ -5425,6 +5433,7 @@ jorgebastida/gordon
 jorisvink/kore
 josdejong/jsoneditor
 josdejong/mathjs
+josephg/ShareJS
 josephmisiti/awesome-machine-learning
 josephschmitt/Clamp.js
 josephyzhou/github-trending
@@ -6291,6 +6300,7 @@ martanne/vis
 martinblech/xmltodict
 martinjuhasz/MJPopupViewController
 martinrusev/amonone
+marty-suzuki/SAHistoryNavigationViewController
 martyjs/marty
 martynsmith/node-irc
 maruel/panicparse
@@ -7335,6 +7345,7 @@ pallets/flask
 pallets/itsdangerous
 pallets/jinja
 pallets/werkzeug
+pamelafox/lscache
 pandao/editor.md
 pangloss/vim-javascript
 panicinc/ColorArt
@@ -7678,6 +7689,7 @@ psake/psake
 psaravan/JamsMusicPlayer
 psecio/iniscan
 pstadler/flightplan
+pstadler/keybase-gpg-github
 psychs/limechat
 ptaoussanis/sente
 ptaoussanis/timbre
@@ -8331,6 +8343,7 @@ scikit-image/scikit-image
 scikit-learn/scikit-learn
 scipy-lectures/scipy-lecture-notes
 scipy/scipy
+scmbreeze/scm_breeze
 sconsult/croppic
 scopatz/xonsh
 scopegate/octave
@@ -9117,6 +9130,7 @@ theturtle32/WebSocket-Node
 thewhitetulip/web-dev-golang-anti-textbook
 thiagopradi/octopus
 thingdom/node-neo4j
+think2011/localResizeIMG
 thinkaurelius/titan
 thinkgem/jeesite
 thinkpixellab/PxLoader
@@ -9768,6 +9782,7 @@ winjs/winjs
 winmarkltd/BootstrapFormHelpers
 winstonjs/winston
 winterbe/java8-tutorial
+wintercn/dog-fucked-zhihu
 wireapp/wire-android
 wireapp/wire-ios
 wireservice/csvkit
@@ -9876,6 +9891,7 @@ xyfeng/XYPieChart
 yabwe/medium-editor
 yackle/CLImageEditor
 yadav-rahul/TastyToast
+yadayada/acd_cli
 yagop/node-telegram-bot-api
 yagop/telegram-bot
 yahoo/AppDevKit
