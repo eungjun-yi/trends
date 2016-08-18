@@ -529,6 +529,7 @@ GoogleChrome/lighthouse
 GoogleChrome/samples
 GoogleChrome/sw-precache
 GoogleChrome/sw-toolbox
+GoogleChrome/ui-element-samples
 GoogleCloudPlatform/gcloud-node
 Gottox/socket.io-java-client
 GovernmentCommunicationsHeadquarters/Gaffer
@@ -725,6 +726,7 @@ JonasGessner/JGActionSheet
 JonasGessner/JGProgressHUD
 JorgeCastilloPrz/AndroidFillableLoaders
 JosephLenton/PHP-Error
+JosephusPaye/Keen-UI
 JoshClose/CsvHelper
 JoshuaKGoldberg/Old-Deleted-FullScreenMario
 JsAaron/jQuery
@@ -1820,6 +1822,7 @@ alexandersimoes/d3plus
 alexandru/scala-best-practices
 alexazhou/VeryNginx
 alexbw/novocaine
+alexcrichton/futures-rs
 alexdrone/Render
 alexdrone/ios-fontawesome
 alexdrone/ios-realtimeblur
@@ -3146,6 +3149,7 @@ cucumber/cucumber-ruby
 cujojs/curl
 cujojs/most
 cujojs/when
+cundong/HeaderAndFooterRecyclerView
 cundong/SmartAppUpdates
 cure53/DOMPurify
 cure53/H5SC
@@ -3454,6 +3458,7 @@ dleitee/strman
 dlew/joda-time-android
 dlitz/pycrypto
 dlmanning/gulp-sass
+dloss/python-pentest-tools
 dm77/barcodescanner
 dmauro/Keypress
 dmilicic/Android-Clean-Boilerplate
@@ -4740,6 +4745,7 @@ hbons/SparkleShare
 hdodenhof/CircleImageView
 headjs/headjs
 hebertialmeida/HAPaperViewController
+hedengcheng/tech
 heelhook/chardin.js
 hehonghui/AndroidEventBus
 hehonghui/Colorful
@@ -5294,6 +5300,7 @@ jim/carmen
 jimbojsb/launchrocket
 jimeh/git-aware-prompt
 jimhigson/oboe.js
+jingle1267/android-utils
 jingweno/ccat
 jingweno/hacker-menu
 jinzhu/gorm
@@ -7130,6 +7137,7 @@ oakes/Nightcode
 oakes/play-clj
 oampo/Audiolet
 oarrabi/OAStackView
+oarrabi/Swiftline
 oauth-io/oauthd
 oauthjs/node-oauth2-server
 obfuscurity/tasseo
@@ -7286,6 +7294,7 @@ orientechnologies/orientdb
 orlandotm/payment-webfont
 ornicar/lila
 orta/ARAnalytics
+orthes/medium-editor-insert-plugin
 ortuman/SwiftForms
 orvice/ss-panel
 ory-am/hydra
@@ -7369,6 +7378,7 @@ paranoida/sass-mediaqueries
 pardom/ActiveAndroid
 parkerbennett/stackicons
 parkjs814/AlgorithmVisualizer
+parnurzeal/gorequest
 part-cw/lambdanative
 passsy/android-HoloCircularProgressBar
 passy/angular-masonry
@@ -8375,6 +8385,7 @@ sdc-alibaba/SUI-Mobile
 sdegutis/mjolnir
 sdelements/lets-chat
 sdiehl/write-you-a-haskell
+sdispater/pendulum
 sdkman/sdkman-cli
 sdogruyol/awesome-ruby
 sdogruyol/kemal
@@ -8706,6 +8717,7 @@ soundcloud/lhm
 soundcloud/roshi
 sourcegraph/checkup
 sourcegraph/srclib
+sourcegraph/thyme
 soveran/cuba
 soveran/ohm
 sovereign/sovereign
@@ -9472,8 +9484,10 @@ typings/typings
 typpo/textbelt
 typus/typus
 tyrantgit/ExplosionField
+tyzlmjj/PagerBottomTabStrip
 u10int/URBMediaFocusViewController
 uWebSockets/uWebSockets
+uacaps/PageMenu
 uber-common/cpustat
 uber-go/zap
 uber/go-torch
@@ -9507,6 +9521,7 @@ undertow-io/undertow
 unicodeveloper/laravel-hackathon-starter
 uniqush/uniqush-push
 unisonweb/unison
+universal-ctags/ctags
 unixorn/awesome-zsh-plugins
 unruledboy/WebFrontEndStack
 upmin/upmin-admin-ruby
@@ -9972,6 +9987,7 @@ yoavlt/LiquidFloatingActionButton
 yob/pdf-reader
 yortus/asyncawait
 yoshuawuyts/choo
+yosinski/deep-visualization-toolbox
 youknowone/UI7Kit
 youngsoft/MyLinearLayout
 youtube/api-samples
