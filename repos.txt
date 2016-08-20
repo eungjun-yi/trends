@@ -1091,6 +1091,7 @@ OwlFonk/OwlCarousel
 P-H-C/phc-winner-argon2
 P0cL4bs/WiFi-Pumpkin
 PCSX2/pcsx2
+PHP-DI/PHP-DI
 PHP-FFMpeg/PHP-FFMpeg
 PHPMailer/PHPMailer
 PHPOffice/PHPExcel
@@ -1174,6 +1175,7 @@ PyCQA/pycodestyle
 PyGithub/PyGithub
 PyMySQL/PyMySQL
 Pylons/pyramid
+PythonJS/PythonJS
 Q42/AndroidScrollingImageView
 Qihoo360/Atlas
 Qihoo360/phptrace
@@ -1780,6 +1782,7 @@ airbnb/hypernova
 airbnb/infinity
 airbnb/javascript
 airbnb/polyglot.js
+airbnb/react-dates
 airbnb/ruby
 airbnb/synapse
 airyland/vux
@@ -3378,6 +3381,7 @@ deployphp/deployer
 derbyjs/derby
 derbyjs/racer
 derekparker/delve
+derekwyatt/vim-scala
 dersoncheng/MultipleTheme
 derv82/wifite
 desandro/draggabilly
@@ -5683,6 +5687,7 @@ keithwhor/nodal
 keklikhasan/LDrawer
 keleshev/schema
 kelseyhightower/confd
+kelseyhightower/kubernetes-the-hard-way
 kemayo/sublime-text-git
 kenhub/giraffe
 kenkeiter/skeuocard
@@ -6440,9 +6445,11 @@ mcasimir/mobile-angular-ui
 mceachen/closure_tree
 mcharmas/Android-ReactiveLocation
 mcharmas/android-parcelable-intellij-plugin
+mchav/with
 mchristopher/PokemonGo-DesktopMap
 mcollina/mosca
 mcostalba/Stockfish
+mcsoto/LogicJS
 mcxiaoke/RxDocs
 mcxiaoke/android-volley
 mcxiaoke/gradle-packer-plugin
