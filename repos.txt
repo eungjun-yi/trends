@@ -2236,6 +2236,7 @@ atom/electron
 atom/vim-mode
 atomicobject/objection
 atoum/atoum
+attentiveness/reading
 attic-labs/noms
 attr-encrypted/attr_encrypted
 attractivechaos/klib
@@ -2450,6 +2451,7 @@ bigcompany/know-your-http
 bignerdranch/Freddy
 bigspaceship/shine.js
 bigspotteddog/ScrollToFixed
+binIoter/GuideView
 binarydud/pyres
 binaryjs/binaryjs
 binarylogic/authlogic
@@ -3142,6 +3144,7 @@ cssmagic/CSS-Secrets
 cssmagic/blog
 cssstats/cssstats
 csswizardry/CSS-Guidelines
+csswizardry/Contract
 csswizardry/csswizardry-grids
 csswizardry/inuit.css
 ctavan/express-validator
@@ -6614,6 +6617,7 @@ minio/minio
 mintchaos/flippant.js
 mirah/mirah
 miripiruni/frontdesk
+miromannino/Justified-Gallery
 mishoo/UglifyJS
 mishoo/UglifyJS2
 mislav/git-deploy
@@ -6909,6 +6913,7 @@ nathansobo/treetop
 nathanvda/cocoon
 nathco/Office-Code-Pro
 nats-io/gnatsd
+nats-io/nats
 navasmdc/MaterialDesignLibrary
 naver/pinpoint
 nayafia/lemonade-stand
@@ -10012,6 +10017,8 @@ yob/pdf-reader
 yortus/asyncawait
 yoshuawuyts/choo
 yosinski/deep-visualization-toolbox
+you-dont-need/You-Dont-Need-Javascript
+you-dont-need/You-Dont-Need-Lodash-Underscore
 youknowone/UI7Kit
 youngsoft/MyLinearLayout
 youtube/api-samples
