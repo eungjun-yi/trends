@@ -60,6 +60,7 @@ Aerolab/midnight.js
 AgileBits/onepassword-app-extension
 Ahmed-Ali/JSONExport
 AigeStudio/DatePicker
+AigeStudio/MultiThreadDownloader
 AigeStudio/WheelPicker
 Akkyie/AKPickerView
 AlDanial/cloc
@@ -2310,6 +2311,7 @@ badges/shields
 badoo/Chatto
 badoo/android-weak-handler
 badoualy/morphy-toolbar
+badoualy/stepper-indicator
 bahmutov/code-snippets
 baidu-ife/ife
 baidu-research/warp-ctc
@@ -2551,6 +2553,7 @@ borgbackup/borg
 borismus/webvr-boilerplate
 borisrepl/boris
 borisyankov/react-sparklines
+borjabravo10/FocusResize
 bosun-monitor/bosun
 botherder/detekt
 boto/boto
@@ -3037,6 +3040,7 @@ comfy/comfortable-mexican-sofa
 commaai/research
 commadelimited/jQuery-Mobile-Bootstrap-Theme
 commercialhaskell/stack
+commitizen/cz-cli
 commonsguy/cw-advandroid
 commonsguy/cw-android
 commonsguy/cw-omnibus
@@ -3084,6 +3088,7 @@ coresmart/persistencejs
 coreybutler/fenix
 coreybutler/node-windows
 coreybutler/nvm-windows
+corin8823/Popover
 correll/Introduction-to-Autonomous-Robots
 cortesi/devd
 coryhouse/react-slingshot
@@ -3324,6 +3329,7 @@ dchelimsky/rspec
 dcjones/Gadfly.jl
 dcloudio/mui
 dcodeIO/protobuf.js
+dcos/dcos
 dcramer/django-devserver
 ddollar/forego
 ddollar/foreman
@@ -3444,6 +3450,7 @@ dinedal/textql
 dingo/api
 dinocore1/DevsmartLib-Android
 dinuscxj/LoadingDrawable
+dinuscxj/RecyclerRefreshLayout
 diogob/activerecord-postgres-hstore
 diogobernardino/WilliamChart
 directus/directus
@@ -3786,6 +3793,7 @@ eowise/recyclerview-stickyheaders
 epeli/underscore.string
 ephread/Instructions
 epochjs/epoch
+eqcss/eqcss
 equinusocio/material-theme
 erica/NSDate-Extensions
 erica/iOS-5-Cookbook
@@ -4049,6 +4057,7 @@ felixge/node-mysql
 felixge/node-style-guide
 felixhageloh/uebersicht
 felixonmars/dnsmasq-china-list
+fengjundev/Android-Skin-Loader
 fengsp/plan
 fengyuanchen/cropper
 fengyuanchen/cropperjs
@@ -4114,6 +4123,7 @@ flatiron/director
 flatiron/flatiron
 flatiron/plates
 flatiron/prompt
+flatlogic/angular-material-dashboard
 flatlogic/awesome-bootstrap-checkbox
 flavienlaurent/NotBoringActionBar
 flavienlaurent/datetimepicker
@@ -6596,6 +6606,7 @@ mileszs/ack.vim
 mileszs/wicked_pdf
 milkbikis/powerline-shell
 millermedeiros/crossroads.js
+millermedeiros/esformatter
 millermedeiros/js-signals
 millermedeiros/requirejs-plugins
 milligram/milligram
@@ -6781,6 +6792,7 @@ mozilla/task.js
 mozilla/togetherjs
 mpc-hc/mpc-hc
 mpeltonen/sbt-idea
+mperham/connection_pool
 mperham/inspeqtor
 mperham/sidekiq
 mpld3/mpld3
@@ -7214,6 +7226,7 @@ olado/doT
 olahol/reactpack
 oldj/SwitchHosts
 oldratlee/translations
+ole/OBShapedButton
 olebedev/go-starter-kit
 olefredrik/FoundationPress
 olgabot/prettyplotlib
@@ -8286,6 +8299,7 @@ ryanoasis/nerd-fonts
 ryanoasis/vim-devicons
 ryanss/vim-hackernews
 ryanto/acts_as_votable
+ryanve/response.js
 ryhan/fixie
 rzwitserloot/lombok
 s-a/iron-node
@@ -8331,6 +8345,7 @@ sandstorm-io/capnproto
 sandstorm-io/sandstorm
 santinic/how2
 sapegin/grunt-webfont
+sapegin/react-styleguidist
 sapegin/social-likes
 sapo/Ink
 sarabander/sicp
