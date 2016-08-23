@@ -20,6 +20,7 @@
 10up/sanitize.css
 12207480/DOPDropDownMenu-Enhanced
 12207480/TYAttributedLabel
+146BC/StyleKit
 1602/compound
 1602/jugglingdb
 18F/web-design-standards
@@ -532,6 +533,7 @@ GoogleChrome/sw-precache
 GoogleChrome/sw-toolbox
 GoogleChrome/ui-element-samples
 GoogleCloudPlatform/gcloud-node
+GoogleCloudPlatform/google-cloud-node
 Gottox/socket.io-java-client
 GovernmentCommunicationsHeadquarters/Gaffer
 GravityLabs/goose
@@ -759,6 +761,7 @@ KevinHM/ios-good-practices-the-lastest-version
 Keyamoon/IcoMoon-Free
 KeyboardFire/mkcast
 Khan/KaTeX
+Khan/SwiftTweaks
 Khan/aphrodite
 Khan/khan-exercises
 Khan/style-guides
@@ -1343,6 +1346,7 @@ SignalR/SignalR
 SiliconStudio/xenko
 Simbul/baker
 SimonVT/android-menudrawer
+SimonVT/schematic
 SirCmpwn/TrueCraft
 SirCmpwn/sway
 SirVer/ultisnips
@@ -3457,6 +3461,7 @@ directus/directus
 direnv/direnv
 discoproject/disco
 discourse/discourse
+disintegration/gift
 disintegration/imaging
 divan/expvarmon
 divio/django-cms
@@ -3656,6 +3661,7 @@ dzenbot/DZNWebViewController
 dzenbot/Iconic
 dzhibas/SublimePrettyJson
 e14n/pump.io
+eBay/NMessenger
 eBay/fabio
 ealeksandrov/EAIntroView
 easelinc/tourist
@@ -3953,6 +3959,7 @@ facebook/nuclide
 facebook/origami
 facebook/osquery
 facebook/pfff
+facebook/php-graph-sdk
 facebook/php-webdriver
 facebook/planout
 facebook/pop
@@ -4220,6 +4227,7 @@ fsnotify/fsnotify
 fsouza/go-dockerclient
 ftlabs/fastclick
 ftlabs/ftscroller
+fuchsia-mirror/fuchsia
 fuchsia-mirror/magenta
 fuel/fuel
 fulcrum-agile/fulcrum
@@ -4243,6 +4251,7 @@ fyhertz/libstreaming
 fzaninotto/Faker
 fzaninotto/screenshot-as-a-service
 fzaninotto/uptime
+g0hacker/go_command_tutorial
 gabelerner/canvg
 gabime/spdlog
 gabordemooij/redbean
@@ -5158,6 +5167,7 @@ jaredhanson/passport
 jaredhanson/passport-local
 jaredks/rumps
 jaredly/treed
+jaredpalmer/react-production-starter
 jaredpar/VsVim
 jaredreich/notie
 jaredsinclair/JTSImageViewController
@@ -5578,6 +5588,7 @@ julianshapiro/velocity
 julien-c/Circular
 julienXX/terminal-notifier
 julienschmidt/httprouter
+juliocesarfort/public-pentesting-reports
 julycoding/The-Art-Of-Programming-By-July
 jumpserver/jumpserver
 jumpsuit/jumpsuit
@@ -5724,6 +5735,7 @@ kentnguyen/KNSemiModalViewController
 kentya6/KYCircularProgress
 kenwheeler/cash
 kenwheeler/slick
+keremciu/sketch-iconfont
 kern/filepizza
 kesenhoo/android-training-course-in-chinese
 kevana/not-dockers-ui
@@ -6204,6 +6216,7 @@ madeye/gaeproxy
 madhums/node-express-mongoose-demo
 madisonmay/CommonRegex
 madisonmay/Tomorrow
+madler/pigz
 madmalik/mononoki
 madrobby/keymaster
 madrobby/microjs.com
@@ -6901,6 +6914,7 @@ nanopack/yoke
 nanotech/jellybeans.vim
 naoty/Timepiece
 naparuba/shinken
+nasa/openmct
 nate-parrott/Flashlight
 nategood/httpful
 natew/obtvse
@@ -7322,6 +7336,7 @@ orangeduck/BuildYourOwnLisp
 orangeduck/Cello
 orangeduck/mpc
 orbit/orbit
+orbitjs/orbit-core
 orbitjs/orbit.js
 orderedlist/minimal
 oreillymedia/open_government
@@ -7648,6 +7663,7 @@ pocketjoso/penthouse
 pocoproject/poco
 pocorall/scaloid
 podio/jquery-mentions-input
+pogodevorg/pgoapi
 pokeb/asi-http-request
 polaris1119/The-Golang-Standard-Library-by-Example
 polarmobile/coffeescript-style-guide
@@ -8400,6 +8416,7 @@ sconsult/croppic
 scopatz/xonsh
 scopegate/octave
 scotch-io/scotch-box
+scotteg/LayerPlayer
 scottjehl/Respond
 scottjehl/picturefill
 scottschiller/SoundManager2
@@ -8672,6 +8689,7 @@ slact/nchan
 slap-editor/slap
 slate/slate
 slazyk/Observable-Swift
+sleekbyte/tailor
 slembcke/Chipmunk2D
 slevithan/xregexp
 slick/slick
@@ -9624,6 +9642,7 @@ verekia/initializr
 verekia/initializr-template
 versionpress/versionpress
 vertiginous/pik
+vfaronov/httpolice
 vfr/Reader
 vgvassilev/cling
 vhf/free-programming-books
@@ -9721,6 +9740,7 @@ vvo/gifify
 vvo/lazyload
 vysheng/tg
 w0ng/vim-hybrid
+w3c/ServiceWorker
 w3c/web-platform-tests
 w3c/webcomponents
 w446108264/XhsEmoticonsKeyboard
@@ -9752,6 +9772,7 @@ wasabeef/Blurry
 wasabeef/awesome-android-libraries
 wasabeef/awesome-android-ui
 wasabeef/glide-transformations
+wasabeef/picasso-transformations
 wasabeef/recyclerview-animators
 wasabeef/richeditor-android
 watabou/pixel-dungeon
@@ -9883,6 +9904,7 @@ wrobstory/vincent
 wsargent/docker-cheat-sheet
 wting/autojump
 wuhaoyu1990/MagicCamera
+wujunyang/MobileProject
 wunderlist/android-sliding-layer-lib
 wuub/SublimeREPL
 wuye9036/CppTemplateTutorial
@@ -10110,6 +10132,7 @@ zeroclipboard/zeroclipboard
 zerodb/zerodb
 zeromq/jeromq
 zeromq/libzmq
+zeromq/netmq
 zeromq/pyzmq
 zerotier/ZeroTierOne
 zetbaitsu/Compressor
