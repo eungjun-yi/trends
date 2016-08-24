@@ -158,6 +158,7 @@ Automattic/kue
 Automattic/mongoose
 Automattic/monk
 Automattic/node-canvas
+Automattic/simplenote-android
 Automattic/simplenote-ios
 Automattic/wp-calypso
 AutumnsWind/Front-end-questions-to-the-interview-stage
@@ -475,6 +476,7 @@ FolioReader/FolioReaderKit
 FontCustom/fontcustom
 Fooidge/PleaseJS
 FormidableLabs/radium
+FormidableLabs/react-music
 FormidableLabs/spectacle
 FormidableLabs/victory
 FormidableLabs/webpack-dashboard
@@ -1390,6 +1392,7 @@ StackExchange/StackExchange.Redis
 StackExchange/blackbox
 StackExchange/dapper-dot-net
 StackStorm/st2
+SteamRE/SteamKit
 StefanLage/SLPagingView
 StevenBlack/hosts
 Strider-CD/strider
@@ -1403,6 +1406,7 @@ SublimeText-Markdown/MarkdownEditing
 SublimeText/CTags
 SublimeText/LaTeXTools
 SublimeText/Origami
+SugarRecord/SugarRecord
 Sumi-Interactive/SIAlertView
 SunLiner/MiaowShow
 Suor/funcy
@@ -2396,6 +2400,7 @@ begriffs/css-ratiocinator
 begriffs/postgrest
 belluzj/fantasque-sans
 ben-eb/cssnano
+ben-eb/gulp-uncss
 ben-manes/caffeine
 ben174/git-draw
 benbarnett/jquery-animate-enhanced
@@ -2405,6 +2410,7 @@ bendc/sprint
 bendytree/Objective-C-RegEx-Categories
 benedmunds/CodeIgniter-Ion-Auth
 bengottlieb/Twitter-OAuth-iPhone
+benhowdle89/grade
 benhowdle89/svgeezy
 benjamine/jsondiffpatch
 benjaminoakes/maid
@@ -2558,6 +2564,7 @@ borismus/webvr-boilerplate
 borisrepl/boris
 borisyankov/react-sparklines
 borjabravo10/FocusResize
+borjabravo10/ReadMoreTextView
 bosun-monitor/bosun
 botherder/detekt
 boto/boto
@@ -3844,6 +3851,7 @@ esdoc/esdoc
 eseedo/kidscoding
 esilverberg/ios-image-filters
 eslint/eslint
+esnet/iperf
 esnext/es6-module-transpiler
 esnme/ultrajson
 esotalk/esoTalk
@@ -4834,6 +4842,7 @@ hlandau/acme
 hmkcode/Android
 hmlb/phpunit-vw
 hoang8f/android-flat-button
+hoisie/mustache
 hoisie/web
 hojberg/cssarrowplease
 hokein/electron-sample-apps
@@ -5227,6 +5236,7 @@ jborg/attic
 jbranchaud/til
 jbrownlee/CleverAlgorithms
 jbt/markdown-editor
+jbtule/cdto
 jbutz/bootstrap-lightbox
 jcbrand/converse.js
 jceb/vim-orgmode
@@ -8257,6 +8267,7 @@ ruanyf/react-demos
 ruanyf/webpack-demos
 rubber/rubber
 rubensousa/FloatingToolbar
+rubensousa/ViewPagerCards
 rubinius/rubinius
 ruboto/ruboto
 ruby-concurrency/concurrent-ruby
@@ -9121,6 +9132,7 @@ technoweenie/restful-authentication
 techpines/express.io
 techtalk/SpecFlow
 tejado/pgoapi
+tejasmanohar/npm-algos
 tekezo/Karabiner
 tekknolagi/carp
 telegramdesktop/tdesktop
