@@ -234,6 +234,7 @@ CSSLint/csslint
 CWSpear/bootstrap-hover-dropdown
 CacheBrowser/cachebrowser
 CachetHQ/Cachet
+Caged/d3-tip
 Caged/gitnub
 Caliburn-Micro/Caliburn.Micro
 Caligatio/jsSHA
@@ -369,6 +370,7 @@ DemocracyOS/democracyos
 DenisMondon/material-design-library
 DesarrolloAntonio/FragmentTransactionExtended
 DeskConnect/SBShortcutMenuSimulator
+DevLight-Mobile-Agency/InfiniteCycleViewPager
 DevLight-Mobile-Agency/NavigationTabBar
 DevLight-Mobile-Agency/NavigationTabStrip
 DevinVinson/WordPress-Plugin-Boilerplate
@@ -749,6 +751,7 @@ JustinTulloss/zeromq.node
 Juude/awesome-android-performance
 Juude/droidReverse
 KJCracks/Clutch
+KMindeguia/movies
 KaimingHe/deep-residual-networks
 Kaopiz/android-segmented-control
 KartikTalwar/gmail.js
@@ -1864,6 +1867,7 @@ algolia/instantsearch.js
 algolia/places
 aliasaria/scrumblr
 alibaba/AndFix
+alibaba/DataX
 alibaba/LuaViewSDK
 alibaba/RocketMQ
 alibaba/anyproxy
@@ -4115,6 +4119,7 @@ filamentgroup/responsive-carousel
 filamentgroup/tablesaw
 filp/whoops
 fiorix/freegeoip
+firebase/FirebaseUI-Android
 firebase/angularfire
 firebase/firechat
 firebase/firepad
@@ -4197,6 +4202,7 @@ forkingdog/UITableView-FDTemplateLayoutCell
 forkingdog/UIView-FDCollapsibleConstraints
 formers/former
 formly-js/angular-formly
+formspree/formspree
 formvalidation/formvalidation
 fortinmike/XcodeBoost
 fortunejs/fortune
@@ -4566,6 +4572,7 @@ google/pyringe
 google/re2
 google/recaptcha
 google/roboto
+google/santa
 google/seesaw
 google/skia
 google/snappy
@@ -4921,6 +4928,7 @@ hylang/hy
 hyper-carrot/go_command_tutorial
 hyperhq/hyperd
 hyperium/hyper
+hyperledger-archives/fabric
 hyperledger/fabric
 hyperledger/hyperledger
 hyperopt/hyperopt
@@ -4949,6 +4957,7 @@ iam4x/pokemongo-webspoof
 iambus/xunlei-lixian
 iamceege/tooltipster
 iamdaiyuan/ios_top_1000
+iamduo/workq
 iammert/MaterialIntroView
 iammert/MusicPlayerView
 iandevlin/html5bones
@@ -5192,6 +5201,7 @@ jashkenas/underscore
 jasmine/jasmine
 jasny/bootstrap
 jasondavies/d3-cloud
+jasonlong/cayman-theme
 jasonlong/geo_pattern
 jasonlong/isometric-contributions
 jasonmorrissey/JMTabView
@@ -5647,6 +5657,7 @@ jxnblk/fitter-happier-text
 jxnblk/loading
 jxnblk/rebass
 jzaefferer/jquery-validation
+k0shk0sh/PermissionHelper
 k4rthik/git-cal
 k88hudson/git-flight-rules
 k9mail/k-9
@@ -6102,6 +6113,7 @@ livereload/LiveReload
 livid/v2ex
 lixuancn/LaneWeChat
 liyong03/YLGIFImage
+lizhangqu/CoreLink
 lj2007331/lnmp
 lkzhao/ElasticTransition
 lloyd/JSONSelect
@@ -6471,6 +6483,7 @@ mbenford/ngTagsInput
 mbj/mutant
 mbleigh/acts-as-taggable-on
 mbleigh/seed-fu
+mbloch/mapshaper
 mblode/burger
 mblode/marx
 mbostock/d3
@@ -6893,6 +6906,7 @@ mxn21/FlowingDrawer
 mxstbr/react-boilerplate
 mxstbr/sharingbuttons.io
 mybatis/mybatis-3
+mychoices/Jgraph
 mycolorway/simditor
 myell0w/MTStatusBarOverlay
 mynyml/watchr
@@ -8553,6 +8567,7 @@ shaojiankui/iOS-Categories
 shaps80/Peek
 share/ShareJS
 sharelatex/sharelatex
+sharkdp/cube-composer
 shaunlebron/parinfer
 shazow/ssh-chat
 shazow/urllib3
@@ -8684,6 +8699,7 @@ skavanagh/KeyBox
 skellock/reactotron
 sketchplugins/plugin-directory
 skidding/cosmos
+skidding/react-cosmos
 skulpt/skulpt
 skv-headless/react-native-scrollable-tab-view
 skwp/dotfiles
@@ -9584,6 +9600,7 @@ umbraco/Umbraco-CMS
 umdjs/umd
 umpirsky/country-list
 una/CSSgram
+unash/BarrageRenderer
 unbit/uwsgi
 unbug/codelf
 unclebob/fitnesse
@@ -10010,6 +10027,7 @@ yandex/ClickHouse
 yandex/yandex-tank
 yangfuhai/ASimpleCache
 yangfuhai/afinal
+yangshun1029/aria2gui
 yangyangwithgnu/hardseed
 yangyangwithgnu/use_vim_as_ide
 yanhaijing/zepto.fullpage
@@ -10202,6 +10220,7 @@ zyqf/DNS
 zythum/mama2
 zzarcon/focusable
 zzarcon/microm
+zzhoujay/RichText
 zzmp/juliusjs
 zzz40500/AndroidSweetSheet
 zzz40500/GsonFormat
