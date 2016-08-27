@@ -556,6 +556,7 @@ HFTrader/DeepLearningBook
 HIPS/autograd
 HabitRPG/habitrpg
 HackPlan/quark-shell-mac
+Hacker0x01/react-datepicker
 HackerNews/API
 Hammerspoon/hammerspoon
 Haneke/Haneke
@@ -686,6 +687,7 @@ JakeWharton/u2020
 Jam3/devtool
 Jam3/math-as-code
 JamesNK/Newtonsoft.Json
+JamesTheHacker/Neuron
 JamieAppleseed/selectToAutocomplete
 JamieMason/ImageOptim-CLI
 JanVanRyswyck/awesome-talks
@@ -777,6 +779,7 @@ Kintaro/wtftw
 Kinto/kinto
 KittenYang/A-GUIDE-TO-iOS-ANIMATION
 KittenYang/KYAnimatedPageControl
+KittenYang/KYCuteView
 KittenYang/KYGooeyMenu
 KittyKatt/screenFetch
 Kitware/CMake
@@ -1268,6 +1271,7 @@ RichiH/vcsh
 RickWong/react-isomorphic-starterkit
 RickWong/react-transmit
 Rip-Rip/clang_complete
+RisingStack/node-style-guide
 Robdel12/DropKick
 RobertWHurst/KeyboardJS
 RobinHerbots/jquery.inputmask
@@ -1630,6 +1634,7 @@ Yelp/elastalert
 Yelp/mrjob
 Yelp/osxcollector
 Yelp/paasta
+Yelp/undebt
 Yggdroot/indentLine
 Yixiaohan/codeparkshare
 Yixiaohan/show-me-the-code
@@ -2979,6 +2984,7 @@ clowwindy/Awesome-Networking
 clowwindy/ShadowVPN
 clu3/bootstro.js
 clusterinc/ClusterPrePermissions
+clutchski/coffeelint
 clvv/fasd
 cmderdev/cmder
 cmgmyr/laravel-messenger
@@ -3064,6 +3070,7 @@ commonsguy/cwac-endless
 componentjs/component
 composer/composer
 composer/satis
+comyar/Sol
 comyarzaheri/Sol
 concourse/concourse
 concurrencykit/ck
@@ -4233,6 +4240,7 @@ fritzy/SleekXMPP
 frogermcs/AndroidDevMetrics
 frogermcs/InstaMaterial
 frogermcs/LikeAnimation
+froggey/Mezzano
 fronteed/icheck
 frozenui/frozenui
 fruux/Baikal
@@ -4634,6 +4642,7 @@ grafana/grafana
 grails/grails-core
 grandcentrix/tray
 grangier/python-goose
+granoff/Lockbox
 grantland/android-autofittextview
 graphhopper/graphhopper
 graphific/DeepDreamVideo
@@ -5270,6 +5279,7 @@ jdsutton/Technical-Interview-Megarepo
 jeanphix/Ghost.py
 jeasonlzy0216/OkHttpUtils
 jech/polipo
+jed/140bytes
 jed/lave
 jedfoster/Readmore.js
 jedi4ever/veewee
@@ -6526,6 +6536,7 @@ medyo/Fancybuttons
 medyo/android-about-page
 meenie/8bit.js
 meenie/band.js
+meenie/munee
 melanke/Watch.JS
 meleyal/backbone-on-rails
 melonjs/melonJS
@@ -6905,6 +6916,7 @@ mxcl/PromiseKit
 mxn21/FlowingDrawer
 mxstbr/react-boilerplate
 mxstbr/sharingbuttons.io
+mybatis/generator
 mybatis/mybatis-3
 mychoices/Jgraph
 mycolorway/simditor
@@ -7065,6 +7077,7 @@ nieweidong/fetool
 niftylettuce/node-email-templates
 niftyn8/elixir_style_guide
 nightwatchjs/nightwatch
+niieani/bash-oo-framework
 nikgraf/belle
 nikic/FastRoute
 nikic/PHP-Parser
@@ -8040,6 +8053,7 @@ redodo/tortilla
 redox-os/redox
 redsolution/xabber-android
 redspread/spread
+redux-observable/redux-observable
 reduxframework/elusive-iconfont
 reduxframework/redux-framework
 reek/anti-adblock-killer
@@ -8269,6 +8283,7 @@ rstaib/jquery-steps
 rstudio/rstudio
 rstudio/shiny
 rswier/c4
+rt2zz/redux-persist
 rtfd/readthedocs.org
 rtfeldman/seamless-immutable
 rtomayko/ronn
