@@ -3067,6 +3067,7 @@ commonsguy/cw-android
 commonsguy/cw-omnibus
 commonsguy/cwac-camera
 commonsguy/cwac-endless
+company-mode/company-mode
 componentjs/component
 composer/composer
 composer/satis
@@ -3618,6 +3619,7 @@ drhenner/ror_ecommerce
 drichard/mindmaps
 driftyco/ionic
 driftyco/ionic-cli
+driftyco/ionic-conference-app
 driftyco/ionic-native
 driftyco/ionicons
 driftyco/ng-cordova
@@ -3706,6 +3708,7 @@ editorconfig/editorconfig-vim
 edmodo/cropper
 edn-format/edn
 edobashira/speech-language-processing
+eduardoboucas/include-media
 eduardolundgren/tracking.js
 edwardtufte/tufte-css
 edx/edx-platform
@@ -4019,6 +4022,7 @@ facebookarchive/three20
 facebookgo/grace
 facebookincubator/create-react-app
 facebookresearch/darkforestGo
+facebookresearch/deepmask
 facebookresearch/fastText
 facelessuser/BracketHighlighter
 facette/facette
@@ -5300,6 +5304,7 @@ jejacks0n/teaspoon
 jekyll/jekyll
 jelmer/dulwich
 jemalloc/jemalloc
+jendewalt/jennifer_dewalt
 jenius/roots
 jenkinsci/blueocean-plugin
 jenkinsci/pipeline-plugin
@@ -5457,6 +5462,7 @@ johnlui/Learn-Laravel-5
 johnlui/SwiftSideslipLikeQQ
 johnmyleswhite/ML_for_Hackers
 johnno1962/GitDiff
+johnno1962/Refactorator
 johnno1962/Xtrace
 johnno1962/injectionforxcode
 johnny/jquery-sortable
@@ -5937,6 +5943,7 @@ kyleneideck/BackgroundMusic
 kylestetz/CLNDR
 kymjs/KJFrameForAndroid
 kymjs/RxVolley
+l-lin/angular-datatables
 l123456789jy/Lazy
 l20n/l20n.js
 lab2023/hierapolis
@@ -7284,6 +7291,7 @@ olgabot/prettyplotlib
 olistic/warriorjs
 oliver-moran/jimp
 oliver006/elasticsearch-gmail
+olivere/elastic
 olivernn/lunr.js
 olivierlacan/keep-a-changelog
 olov/ng-annotate
@@ -7980,6 +7988,7 @@ raywenderlich/objective-c-style-guide
 raywenderlich/swift-algorithm-club
 raywenderlich/swift-style-guide
 razorjack/quicksand
+razum2um/awesome-clojure
 rbenv/rbenv
 rbenv/ruby-build
 rbgirshick/fast-rcnn
@@ -8558,6 +8567,7 @@ sfsheng0322/MarqueeView
 sfsheng0322/StickyHeaderListView
 sgaurav/understanding-es6
 sgentle/caniuse-cmd
+sgryschuk/SGNavigationProgress
 shadowsocks/ChinaDNS
 shadowsocks/Potatso
 shadowsocks/Potatso-iOS
@@ -9219,6 +9229,7 @@ theintern/intern
 theironcook/Backbone.ModelBinder
 thejameskyle/babel-handbook
 thejameskyle/babel-react-optimize
+thejameskyle/itsy-bitsy-data-structures
 thejameskyle/spectacle-code-slide
 thejameskyle/the-super-tiny-compiler
 themadinventor/esptool
