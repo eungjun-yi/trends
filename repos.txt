@@ -830,6 +830,7 @@ Leonidas-from-XIV/node-xml2js
 Level/levelup
 LewisJEllis/awesome-lua
 LibreVR/Revive
+Lickability/PinpointKit
 LightTable/LightTable
 Linuxbrew/legacy-linuxbrew
 Linuxbrew/linuxbrew
@@ -928,6 +929,7 @@ Microsoft/Pyjion
 Microsoft/TouchDevelop
 Microsoft/TypeScript
 Microsoft/TypeScriptSamples
+Microsoft/Win2D
 Microsoft/WinObjC
 Microsoft/Windows-driver-samples
 Microsoft/Windows-universal-samples
@@ -2126,6 +2128,7 @@ apitrace/apitrace
 apneadiving/Google-Maps-for-Rails
 apocas/dockerode
 apollostack/apollo
+apollostack/apollo-client
 aporter/coursera-android
 apotonick/cells
 apotonick/reform
@@ -2172,6 +2175,7 @@ arimorty/floatingsearchview
 ariok/BWWalkthrough
 ariya/phantomjs
 arkency/reactjs_koans
+armcha/Space-Navigation-View
 armon/bloomd
 armon/statsite
 arnauddri/algorithms
@@ -2319,6 +2323,7 @@ babel/babel-eslint
 babel/babel-loader
 babel/babel-sublime
 babel/babelify
+babel/babili
 babun/babun
 backbone-paginator/backbone.paginator
 backup-manager/backup-manager
@@ -2728,6 +2733,7 @@ cameronmcefee/plax
 camlistore/camlistore
 camoconnell/lazy-line-painter
 camsong/redux-in-chinese
+camwiegert/in-view
 candy-chat/candy
 canjs/canjs
 cantino/huginn
@@ -2795,6 +2801,7 @@ celery/kombu
 celluloid/celluloid
 celluloid/celluloid-io
 cemerick/friend
+cemerick/jsdifflib
 cemoody/lda2vec
 centrifugal/centrifugo
 ceolter/ag-grid
@@ -3416,6 +3423,7 @@ derekparker/delve
 derekwyatt/vim-scala
 dersoncheng/MultipleTheme
 derv82/wifite
+desandro/classie
 desandro/draggabilly
 desandro/imagesloaded
 desandro/masonry
@@ -3642,6 +3650,7 @@ drupal/drupal
 drush-ops/drush
 drwetter/testssl.sh
 dscape/nano
+dschep/ntfy
 dspinellis/unix-history-repo
 dsxNiubility/SXNews
 dsxNiubility/SXWaveAnimate
@@ -3704,6 +3713,7 @@ ed-lea/jquery-collagePlus
 edavis10/redmine
 eddiemachado/bones
 eddiezane/lunchy
+editorconfig/editorconfig
 editorconfig/editorconfig-vim
 edmodo/cropper
 edn-format/edn
@@ -4382,6 +4392,7 @@ gfranko/jquery.selectBoxIt.js
 gfwlist/gfwlist
 ggreer/the_silver_searcher
 gh-unit/gh-unit
+gharlan/alfred-github-workflow
 ghc/ghc
 ghcjs/ghcjs
 giakki/uncss
@@ -6891,6 +6902,7 @@ mthli/Knife
 mtjs/mt
 mtonio91/AMSmoothAlert
 mtrpcic/pathjs
+mtschirs/js-objectdetect
 mttkay/droid-fu
 mttkay/ignition
 mttrb/BeaconOSX
@@ -8733,6 +8745,7 @@ skyline75489/what-happens-when-zh_CN
 skylot/jadx
 skynetservices/skynet
 skywind3000/kcp
+skywinder/GaugeKit
 skywinder/github-changelog-generator
 slackhq/SlackTextViewController
 slackhq/hubot-slack
@@ -8844,6 +8857,7 @@ sparkle-project/Sparkle
 sparklemotion/mechanize
 sparklemotion/nokogiri
 spatie/laravel-backup
+spatie/laravel-medialibrary
 specialunderwear/Hosts.prefpane
 specta/expecta
 specta/specta
@@ -9894,6 +9908,7 @@ wesnoth/wesnoth
 wet-boew/wet-boew
 weui/weui
 wg/wrk
+wg689/Solve-App-Store-Review-Problem
 whackashoe/antimoderate
 what-studio/profiling
 white-cat/ThinkAndroid
