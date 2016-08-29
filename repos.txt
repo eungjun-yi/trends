@@ -2058,6 +2058,7 @@ ansible-semaphore/semaphore
 ansible/ansible
 ansible/ansible-container
 ansible/ansible-examples
+ansible/ansible-modules-core
 answer-huang/dSYMTools
 ant-design/ant-design
 ant0ine/go-json-rest
@@ -3315,6 +3316,7 @@ datasciencemasters/go
 datastax/spark-cassandra-connector
 date-fns/date-fns
 dato-code/PowerGraph
+datproject/dat
 davatron5000/FitText.js
 davatron5000/FitVids.js
 davatron5000/Lettering.js
@@ -3326,6 +3328,7 @@ davemorrissey/subsampling-scale-image-view
 daveray/seesaw
 davetron5000/gli
 davezuko/react-redux-starter-kit
+david-gpu/srez
 davidcelis/recommendable
 daviddrysdale/python-phonenumbers
 davideas/FlexibleAdapter
@@ -3790,6 +3793,7 @@ elves/elvish
 emacs-helm/helm
 emacs-tw/awesome-emacs
 email-spec/email-spec
+emaloney/CleanroomLogger
 ember-animation/liquid-fire
 ember-cli/ember-cli
 emberjs/data
@@ -3814,6 +3818,7 @@ endofunked/sidetiq
 endofunky/sidetiq
 endtwist/kerning.js
 engineyard/ey-cloud-recipes
+enkidevs/commit
 enormego/EGOCache
 enormego/EGOImageLoading
 enormego/EGOTableViewPullRefresh
@@ -4758,6 +4763,7 @@ hackappcom/ibrute
 hackers-painters/samurai-native
 hackerzhou/Love
 hackiftekhar/IQKeyboardManager
+hackmdio/hackmd
 hacksalot/HackMyResume
 hadley/adv-r
 hadley/devtools
@@ -5115,6 +5121,7 @@ ironmaniiith/Github-profile-name-writer
 irssi/irssi
 irungentoo/toxcore
 isRuslan/awesome-elm
+isaacs/github
 isaacs/minimatch
 isaacs/nave
 isaacs/node-glob
@@ -6324,6 +6331,7 @@ mamedev/mame
 mangini/gdocs2md
 mangos/MaNGOS
 manifestinteractive/jqvmap
+manosim/gitify
 manuelbieh/Geolib
 manuelkiessling/nodebeginner.org
 manuels/texlive.js
@@ -6385,6 +6393,7 @@ markushi/android-ui
 markyun/My-blog
 markzhai/AndroidPerformanceMonitor
 markzhai/blockcanary
+marmelab/awesome-rest
 marmelab/gremlins.js
 marmelab/ng-admin
 marmelab/universal.css
@@ -7515,6 +7524,7 @@ paulmillr/chokidar
 paulmillr/es6-shim
 paulmillr/exoskeleton
 paulrouget/firefox.html
+paulstraw/FancySelect
 pavel-odintsov/fastnetmon
 pavelgonchar/colornet
 paypal/PayPal-PHP-SDK
@@ -8181,6 +8191,7 @@ rishabhp/bideo.js
 ritz078/embed.js
 rkern/line_profiler
 rlabbe/Kalman-and-Bayesian-Filters-in-Python
+rlerdorf/opcache-status
 rlerdorf/php7dev
 rlidwka/sinopia
 rmagick-temp/rmagick
@@ -8866,6 +8877,7 @@ spf13/cobra
 spf13/hugo
 spf13/spf13-vim
 spf13/viper
+sphinx-doc/sphinx
 sphinxsearch/sphinx
 spikebrehm/isomorphic-tutorial
 spine/spine
@@ -10020,6 +10032,7 @@ xiepeijie/SwipeCardView
 ximan/dropload
 xing/wysihtml5
 xinthink/react-native-material-kit
+xiongwei-git/AndroidVideoPlayer
 xirong/my-git
 xitu/gold-miner
 xk/node-threads-a-gogo
