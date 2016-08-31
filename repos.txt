@@ -465,6 +465,7 @@ FiloSottile/whosthere
 Financial-Times/polyfill-service
 Finb/V2ex-Swift
 FineUploader/fine-uploader
+FixIssue/FixCode
 FlexMonkey/Filterpedia
 Flipboard/FLAnimatedImage
 Flipboard/FLEX
@@ -1177,6 +1178,7 @@ Prinzhorn/skrollr
 PrismJS/prism
 PrismLibrary/Prism
 Project-OSRM/osrm-backend
+ProjectSeptemberInc/gl-react
 ProjectSeptemberInc/gl-react-native
 PromyLOPh/pianobar
 ProseMirror/prosemirror
@@ -1843,6 +1845,7 @@ alex-seville/blanket
 alex-sherman/deco
 alex/django-taggit
 alex/what-happens-when
+alexa/alexa-avs-raspberry-pi
 alexanderGugel/ied
 alexanderdickson/waitForImages
 alexandersimoes/d3plus
@@ -2647,6 +2650,7 @@ bridgetkromhout/devops-against-humanity
 brigade/overcommit
 brigade/scss-lint
 brikis98/docker-osx-dev
+brillout/awesome-react-components
 brix/crypto-js
 brj/fly
 brndnmtthws/conky
@@ -2750,6 +2754,7 @@ capitaomorte/yasnippet
 cappuccino/cappuccino
 captbaritone/winamp2-js
 capttaco/Briefs
+carambalabs/SugarRecord
 card-io/card.io-Android-SDK
 card-io/card.io-iOS-SDK
 careercup/CtCI-6th-Edition
@@ -3899,6 +3904,7 @@ ether/pad
 ethereum/go-ethereum
 ethereum/mist
 ethereum/wiki
+ethicalhack3r/DVWA
 etianen/django-reversion
 etianen/html5media
 etrepat/baum
@@ -4606,6 +4612,7 @@ google/skia
 google/snappy
 google/stenographer
 google/styleguide
+google/tiger
 google/traceur-compiler
 google/tracing-framework
 google/vrview
@@ -4837,6 +4844,7 @@ hehonghui/iOS-tech-frontier
 hehonghuidev/AndroidEventBus
 hehonghuidev/android-tech-frontier
 helios-framework/helios
+hellerve/programming-talks
 helmetjs/helmet
 helmuthdu/aui
 hemanth/functional-programming-jargon
@@ -5951,6 +5959,7 @@ kumailht/flakes
 kumailht/gridforms
 kumailht/responsive-elements
 kuz/DeepMind-Atari-Deep-Q-Learner
+kvz/bash3boilerplate
 kvz/locutus
 kvz/phpjs
 kyleduo/SwitchButton
@@ -6689,6 +6698,7 @@ miloyip/rapidjson
 mina-deploy/mina
 minbrowser/min
 mindbrix/UIImage-PDF
+mindeavor/es-pipeline-operator
 mindreframer/golang-stuff
 mineschan/MZTimerLabel
 minetest/minetest
@@ -6870,6 +6880,7 @@ mperham/connection_pool
 mperham/inspeqtor
 mperham/sidekiq
 mpld3/mpld3
+mpociot/whiteboard
 mpospese/MPFoldTransition
 mps-youtube/mps-youtube
 mpv-player/mpv
@@ -6965,6 +6976,7 @@ n33/skel
 n8han/giter8
 nDmitry/grunt-autoprefixer
 nabla-c0d3/sslyze
+nacker/LZEasemob3
 nagadomi/waifu2x
 naholyr/github-todos
 nakiostudio/EasyPeasy
@@ -7523,6 +7535,7 @@ paulkinzett/toolbar
 paulmillr/chokidar
 paulmillr/es6-shim
 paulmillr/exoskeleton
+paulrouget/dzslides
 paulrouget/firefox.html
 paulstraw/FancySelect
 pavel-odintsov/fastnetmon
@@ -9947,6 +9960,7 @@ winterbe/java8-tutorial
 wintercn/dog-fucked-zhihu
 wireapp/wire-android
 wireapp/wire-ios
+wiredtiger/wiredtiger
 wireservice/csvkit
 wise9/enchant.js
 wiseio/paratext
