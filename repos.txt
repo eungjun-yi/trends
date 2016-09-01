@@ -159,6 +159,7 @@ Automattic/mongoose
 Automattic/monk
 Automattic/node-canvas
 Automattic/simplenote-android
+Automattic/simplenote-electron
 Automattic/simplenote-ios
 Automattic/wp-calypso
 AutumnsWind/Front-end-questions-to-the-interview-stage
@@ -584,6 +585,7 @@ Herzult/SimplePHPEasyPlus
 HeshamMegid/HMSegmentedControl
 Hextris/hextris
 Hexxeh/rpi-update
+HiFaraz/node-playbook
 HighBay/PageMenu
 HipByte/RubyMotionSamples
 Hitomis/FunGameRefresh
@@ -750,6 +752,7 @@ Julienh/Sharrre
 Julioacarrettoni/UIImageView_FaceAwareFill
 Jungerr/GridPasswordView
 Junnplus/awesome-python-books
+JustHTTP/Just
 JustinTulloss/zeromq.node
 Juude/awesome-android-performance
 Juude/droidReverse
@@ -1438,6 +1441,7 @@ TGMPA/TGM-Plugin-Activation
 TTLabs/EvaporateJS
 TTTAttributedLabel/TTTAttributedLabel
 TTimo/doom3.gpl
+TYVRNET/SRL
 TalAter/UpUp
 TalAter/annyang
 TalAter/awesome-service-workers
@@ -2341,6 +2345,7 @@ badoualy/stepper-indicator
 bahmutov/code-snippets
 baidu-ife/ife
 baidu-research/warp-ctc
+baidu/Paddle
 baidu/sofa-pbrpc
 balanced/balanced-dashboard
 balderdashy/sails
@@ -3256,6 +3261,7 @@ daimajia/NumberProgressBar
 daizhenjun/ImageFilterForAndroid
 dakrone/cheshire
 dakrone/clj-http
+dalelotts/angular-bootstrap-datetimepicker
 dalibo/pgbadger
 daltoniam/Starscream
 daltoniam/SwiftHTTP
@@ -3319,6 +3325,7 @@ databricks/scala-style-guide
 datamade/dedupe
 datasciencemasters/go
 datastax/spark-cassandra-connector
+dataxpress/UICountingLabel
 date-fns/date-fns
 dato-code/PowerGraph
 datproject/dat
@@ -3975,6 +3982,7 @@ facebook/draft-js
 facebook/facebook-android-sdk
 facebook/facebook-ios-sdk
 facebook/facebook-php-sdk-v4
+facebook/facebook-sdk-swift
 facebook/fb-adb
 facebook/fbctf
 facebook/fbcunn
@@ -4025,6 +4033,7 @@ facebook/wdt
 facebook/xcbuild
 facebook/xctool
 facebook/xhp-lib
+facebook/zstd
 facebookarchive/IGInterfaceDataTable
 facebookarchive/connect-js
 facebookarchive/facebook-php-sdk
@@ -5635,6 +5644,7 @@ jstat/jstat
 jstedfast/MailKit
 jsvine/waybackpack
 jsx/JSX
+jtangelder/sass-loader
 jtblin/angular-chart.js
 jteeuwen/go-bindata
 jtleek/datasharing
@@ -6738,6 +6748,7 @@ mjackson/history
 mjackson/mach
 mjibson/goread
 mjmlio/mjml
+mjohnston/react-native-webpack-server
 mjsarfatti/nestedSortable
 mkdocs/mkdocs
 mkdynamic/omniauth-facebook
@@ -6858,6 +6869,7 @@ mozilla/MozDef
 mozilla/bleach
 mozilla/fathom
 mozilla/firefox-ios
+mozilla/http-observatory
 mozilla/kuma
 mozilla/localForage
 mozilla/metrics-graphics
@@ -6969,6 +6981,7 @@ mythz/jquip
 myusuf3/delorean
 mzabriskie/axios
 mzabriskie/react-draggable
+mzlogin/awesome-adb
 n1k0/casperjs
 n1nj4sec/pupy
 n3-charts/line-chart
@@ -7466,6 +7479,7 @@ p8952/bocker
 pNre/ExSwift
 pa7/heatmap.js
 pa7/nude.js
+paarthneekhara/text-to-image
 pablojim/highcharts-ng
 pachyderm/pachyderm
 padolsey-archive/jquery.fn
@@ -8149,6 +8163,7 @@ ressio/lazy-load-xt
 rest-assured/rest-assured
 rest-client/rest-client
 restcookbook/restcookbook
+restic/restic
 restify/node-restify
 restsharp/RestSharp
 resume/resume.github.com
@@ -9108,6 +9123,7 @@ svg/svgo-gui
 swagger-api/swagger-codegen
 swagger-api/swagger-core
 swagger-api/swagger-editor
+swagger-api/swagger-js
 swagger-api/swagger-node
 swagger-api/swagger-ui
 swagger-api/swagger.io
@@ -9230,6 +9246,7 @@ tensorflow/tensorflow
 tent/tent.io
 teodorpatras/EasyTipView
 teracyhq/wireframe
+terkelg/ramme
 terminatorover/RGCardViewLayout
 ternjs/acorn
 ternjs/tern
@@ -9470,6 +9487,7 @@ topfunky/hpple
 toptal/chewy
 torch/torch7
 torchbox/wagtail
+torchnet/torchnet
 tornadoweb/tornado
 torodb/torodb
 torvalds/linux
@@ -9931,6 +9949,7 @@ wesm/feather
 wesm/pydata-book
 wesnoth/wesnoth
 wet-boew/wet-boew
+weui/react-weui
 weui/weui
 wg/wrk
 wg689/Solve-App-Store-Review-Problem
