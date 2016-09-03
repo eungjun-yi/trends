@@ -324,6 +324,7 @@ CreateJS/EaselJS
 CreateJS/PreloadJS
 CreateJS/SoundJS
 CreateJS/TweenJS
+Creatide/AnimateMate
 Crinsane/LaravelShoppingcart
 Croteam-official/Serious-Engine
 CtripMobile/DynamicAPK
@@ -475,6 +476,7 @@ Flipboard/react-canvas
 Flolagale/mailin
 Flotype/now
 Flowdalic/asmack
+Flowerowl/Big_Data_Resources
 Fody/Fody
 FolioReader/FolioReaderKit
 FontCustom/fontcustom
@@ -874,6 +876,7 @@ Mange/roadie
 Mango/slideout
 ManifestWebDesign/angular-gridster
 Manishearth/rust-clippy
+ManoMarks/docker-swarm-visualizer
 ManrajGrover/SingleDivProject
 Mantle/Mantle
 ManuelPeinado/FadingActionBar
@@ -1263,6 +1266,7 @@ ReactiveX/learnrx
 ReactiveX/rxjs
 ReactjsProgram/React-Fundamentals
 ReactjsProgram/react-fundamentals-curriculum
+Red5/red5-server
 RedHatBrand/overpass
 Redth/PushSharp
 Reportr/dashboard
@@ -1363,6 +1367,7 @@ SiliconStudio/xenko
 Simbul/baker
 SimonVT/android-menudrawer
 SimonVT/schematic
+SimpleRegex/SRL-PHP
 SirCmpwn/TrueCraft
 SirCmpwn/sway
 SirVer/ultisnips
@@ -1490,6 +1495,7 @@ ToothlessGear/node-gcm
 Topshelf/Topshelf
 TouchCode/TouchJSON
 ToxicBakery/ViewPagerTransforms
+TracksApp/tracks
 TradeMe/bootup.js
 TransitApp/SVPulsingAnnotationView
 TransitApp/SVWebViewController
@@ -1892,6 +1898,7 @@ alibaba/druid
 alibaba/dubbo
 alibaba/f2etest
 alibaba/fastjson
+alibaba/freeline
 alibaba/jstorm
 alibaba/macaca
 alibaba/mdrill
@@ -2070,6 +2077,7 @@ answer-huang/dSYMTools
 ant-design/ant-design
 ant0ine/go-json-rest
 antelle/keeweb
+anthonynsimon/bild
 anthonyshort/deku
 antiboredom/videogrep
 antiguab/BAFluidView
@@ -2115,6 +2123,7 @@ apache/kafka
 apache/libcloud
 apache/mahout
 apache/mesos
+apache/nutch
 apache/spark
 apache/storm
 apache/thrift
@@ -2472,6 +2481,7 @@ bevacqua/rome
 bevacqua/woofmark
 bevry/cson
 beworker/pinned-section-listview
+beyondred/lily
 bfirsh/jsnes
 bgrins/TinyColor
 bgrins/devtools-snippets
@@ -2743,6 +2753,7 @@ cameronmcefee/plax
 camlistore/camlistore
 camoconnell/lazy-line-painter
 camsong/redux-in-chinese
+camwiegert/baffle
 camwiegert/in-view
 candy-chat/candy
 canjs/canjs
@@ -2801,6 +2812,7 @@ ccgus/fmdb
 ccoenraets/backbone-cellar
 ccoenraets/backbone-directory
 ccoenraets/nodecellar
+ccrisan/motioneyeos
 cdarwin/go-koans
 cdhigh/KindleEar
 cdmedia/cms.js
@@ -3103,6 +3115,7 @@ constabulary/gb
 containous/traefik
 contentful-labs/Concorde
 contiki-os/contiki
+contra/react-responsive
 conventional-changelog/conventional-changelog
 convox/rack
 coocood/freecache
@@ -3273,6 +3286,7 @@ daneden/animate.css
 danfang/me-api
 dangdangdotcom/elastic-job
 dangdangdotcom/sharding-jdbc
+danger/danger
 dangrossman/bootstrap-daterangepicker
 danialfarid/ng-file-upload
 daniel-lundin/snabbt.js
@@ -3385,6 +3399,7 @@ ddwht/sketch-dynamic-button
 deanmalmgren/textract
 deanmao/node-chimera
 deano2390/MaterialShowcaseView
+deanoemcke/thegreatsuspender
 dear-github/dear-github
 debian-pi/raspbian-ua-netinst
 debops/debops
@@ -3950,6 +3965,7 @@ expressjs/body-parser
 expressjs/cors
 expressjs/express
 expressjs/express-resource
+expressjs/expressjs.com
 expressjs/morgan
 expressjs/multer
 expressjs/session
@@ -4054,6 +4070,7 @@ facebookincubator/create-react-app
 facebookresearch/darkforestGo
 facebookresearch/deepmask
 facebookresearch/fastText
+facebookresearch/multipathnet
 facelessuser/BracketHighlighter
 facette/facette
 faif/python-patterns
@@ -4361,6 +4378,7 @@ gcanti/tcomb-form
 gcanti/tcomb-form-native
 gchp/iota
 gcuisinier/jenv
+geany/geany
 geddski/csstyle
 geddy/geddy
 geedmo/yamm3
@@ -4854,6 +4872,7 @@ hehonghuidev/AndroidEventBus
 hehonghuidev/android-tech-frontier
 helios-framework/helios
 hellerve/programming-talks
+helloqingfeng/Awsome-Front-End-learning-resource
 helmetjs/helmet
 helmuthdu/aui
 hemanth/functional-programming-jargon
@@ -5173,6 +5192,7 @@ j4mie/idiorm
 j4mie/paris
 jMonkeyEngine/jmonkeyengine
 jOOQ/jOOQ
+jabez128/stream-handbook
 jackmoore/autosize
 jackmoore/colorbox
 jackmoore/zoom
@@ -5434,6 +5454,7 @@ jlongster/blog
 jlongster/transducers.js
 jlord/git-it
 jlord/sheetsee.js
+jlsutherland/doc2text
 jlund/streisand
 jmascia/KLCPopup
 jmcarp/robobrowser
@@ -5890,6 +5911,7 @@ koekeishiya/kwm
 koenbok/Cactus
 koenbok/Framer
 kohana/kohana
+kohler/gifsicle
 koistya/react-static-boilerplate
 kolber/audiojs
 kolber/stacey
@@ -6029,6 +6051,7 @@ lawloretienne/QuickReturn
 layerhq/Atlas-iOS
 layervault/psd.rb
 lbrndnr/ImagePickerSheetController
+lcobucci/jwt
 ldandersen/scifihifi-iphone
 ldoublem/LoadingView
 leachim6/hello-world
@@ -6038,6 +6061,7 @@ leafo/moonscript
 leafo/scssphp
 leafo/sticky-kit
 leah/PullToRefresh
+leancloud/ChatKit-OC
 leanote/leanote
 leapmotion/leapjs
 lebinh/nginx-conf
@@ -6096,6 +6120,7 @@ liammclennan/JavaScript-Koans
 liaohuqiu/android-GridViewWithHeaderAndFooter
 liaohuqiu/android-UCToast
 liaohuqiu/android-Ultra-Pull-To-Refresh
+liaohuqiu/android-support-23.2-sample
 liaohuqiu/cube-sdk
 lib/pq
 libgdx/libgdx
@@ -6126,6 +6151,7 @@ lihaoyi/macropy
 lihongxun945/jquery-weui
 likeastore/ngDialog
 limetext/lime
+limonte/sweetalert2
 linagora/hublin
 lincanbin/Carbon-Forum
 lincolnloop/python-qrcode
@@ -6923,6 +6949,7 @@ msanders/snipmate.vim
 mscdex/node-imap
 mscdex/ssh2
 msgpack/msgpack
+msgpack/msgpack-c
 mshang/python-elevator-challenge
 msiemens/tinydb
 mstamy2/PyPDF2
@@ -7046,6 +7073,7 @@ necolas/normalize.css
 necolas/react-native-web
 necolt/Swifton
 needim/noty
+nefarius/ScpToolkit
 neiesc/ListOfMinimalistFrameworks
 neilj/Squire
 nekocode/CameraFilter
@@ -7086,6 +7114,7 @@ nfarina/calloutview
 nfarina/homebridge
 nfl/react-helmet
 nfnt/resize
+ng-bootstrap/ng-bootstrap
 ngReact/ngReact
 ngaut/builddatabase
 ngbp/ngbp
@@ -7455,6 +7484,7 @@ osxfuse/osxfuse
 otoolep/rqlite
 ottoyiu/django-cors-headers
 outpunk/evil-icons
+ouvens/frontend-system-map
 overboming/ZCAnimatedLabel
 overshare/overshare-kit
 overtake/telegram
@@ -7518,6 +7548,7 @@ papyros/papyros-shell
 papyros/qml-material
 paradoxxxzero/butterfly
 paragonie/awesome-appsec
+paralax/awesome-honeypots
 paralect/robomongo
 paramiko/paramiko
 paranoida/sass-mediaqueries
@@ -8155,6 +8186,7 @@ request/request-promise
 requirejs/almond
 requirejs/r.js
 requirejs/requirejs
+res0nat0r/gitosis
 rescrv/HyperDex
 resin-io/etcher
 resque/resque
@@ -8356,6 +8388,7 @@ ruanyf/react-demos
 ruanyf/webpack-demos
 rubber/rubber
 rubensousa/FloatingToolbar
+rubensousa/RecyclerViewSnap
 rubensousa/ViewPagerCards
 rubinius/rubinius
 ruboto/ruboto
@@ -8490,6 +8523,7 @@ scalanlp/breeze
 scalatra/scalatra
 scalaz/scalaz
 scalessec/Toast
+scalyr/angular
 scambra/devise_invitable
 schachmat/wego
 schacon/git-scribe
@@ -8543,6 +8577,7 @@ sd6352051/NiftyNotification
 sdc-alibaba/SUI-Mobile
 sdegutis/mjolnir
 sdelements/lets-chat
+sdiehl/wiwinwlh
 sdiehl/write-you-a-haskell
 sdispater/pendulum
 sdkman/sdkman-cli
@@ -9236,6 +9271,7 @@ telerik/kendo-ui-core
 telly/TLYShyNavBar
 tenXer/xcharts
 tencent-php/tsf
+tencent-wechat/phxsql
 tenex/rails-assets
 tennc/webshell
 tensorflow/magenta
@@ -9381,6 +9417,7 @@ timehop/sticky-headers-recyclerview
 timekit-io/booking-js
 timjacobi/angular2-education
 timjansen/minified.js
+timmywil/jquery.panzoom
 timothycrosley/hug
 timoxley/best-practices
 timoxley/functional-javascript-workshop
@@ -9416,6 +9453,7 @@ tjmehta/101
 tjoudeh/AngularJSAuthentication
 tjunnone/npm-check-updates
 tldr-pages/tldr
+tleunen/react-mdl
 tmallfe/tmallfe.github.io
 tmate-io/tmate
 tmbdev/ocropy
@@ -9766,6 +9804,7 @@ victorstanciu/dbv
 videlalvaro/gifsockets
 videogular/videogular
 videojs/video.js
+videojs/videojs-contrib-hls
 videolan/vlc
 viewfinderco/viewfinder
 vigetlabs/gulp-starter
@@ -10037,6 +10076,7 @@ x2on/OpenSSL-for-iPhone
 x64dbg/x64dbg
 xamarin/Xamarin.Forms
 xamarin/XobotOS
+xamarin/ios-samples
 xamarin/mobile-samples
 xamarin/monodroid-samples
 xamarin/monotouch-samples
@@ -10268,6 +10308,7 @@ zhxnlai/ZLSwipeableViewSwift
 ziadoz/awesome-php
 ziahamza/webui-aria2
 zingchart/zingtouch
+zipmark/rspec_api_documentation
 zipme/RQShineLabel
 zircote/swagger-php
 zk00006/OpenTLD
