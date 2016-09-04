@@ -454,6 +454,7 @@ Famous/famous-angular
 Fantomas42/django-blog-zinnia
 FaridSafi/react-native-gifted-chat
 FaridSafi/react-native-gifted-messenger
+FascinatedBox/lily
 FastLED/FastLED
 FasterXML/jackson
 FasterXML/jackson-core
@@ -1246,6 +1247,7 @@ RangelReale/osin
 Ranks/emojify.js
 Ranks/emojione
 Raynos/mercury
+Rdatatable/data.table
 ReSwift/ReSwift
 ReactJSTraining/history
 ReactKit/ReactKit
@@ -1303,6 +1305,7 @@ RubaXa/Sortable
 RubaXa/jquery.fileapi
 RubyLouvre/avalon
 RubyMoney/money
+RubyMoney/money-rails
 Runscope/httpbin
 Russell91/pythonpy
 Russell91/sshrc
@@ -3817,6 +3820,7 @@ elrumordelaluz/csshake
 eluleci/FlatUI
 elvanderb/TCP-32764
 elves/elvish
+elye/loaderviewlibrary
 emacs-helm/helm
 emacs-tw/awesome-emacs
 email-spec/email-spec
@@ -4962,6 +4966,7 @@ httprb/http
 httpswift/swifter
 htty/htty
 huangz1990/annotated_redis_source
+huangz1990/redis
 huangz1990/redis-3.0-annotated
 huangz1990/redisbook
 huboard/huboard
@@ -7136,6 +7141,7 @@ nicklockwood/AutoCoding
 nicklockwood/FXBlurView
 nicklockwood/FXForms
 nicklockwood/FastCoding
+nicklockwood/SwiftFormat
 nicklockwood/SwipeView
 nicklockwood/XMLDictionary
 nicklockwood/iCarousel
@@ -7369,6 +7375,7 @@ oliver006/elasticsearch-gmail
 olivere/elastic
 olivernn/lunr.js
 olivierlacan/keep-a-changelog
+olivierverdier/zsh-git-prompt
 olov/ng-annotate
 olton/Metro-UI-CSS
 omab/django-social-auth
