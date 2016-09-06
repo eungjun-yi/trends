@@ -420,6 +420,7 @@ EasyNetQ/EasyNetQ
 EddyBorja/EBPhotoPages
 EddyBorja/MLPAutoCompleteTextField
 EddyVerbruggen/SocialSharing-PhoneGap-Plugin
+ElemeFE/element
 ElemeFE/mint-ui
 Elgg/Elgg
 EmergingTechnologyAdvisors/node-serialport
@@ -506,6 +507,7 @@ Frege/frege
 FriendsOfPHP/Goutte
 FriendsOfPHP/PHP-CS-Fixer
 FriendsOfPHP/Sami
+FriendsOfPHP/pickle
 FriendsOfSymfony/FOSRestBundle
 FrontendMasters/front-end-handbook
 FrozenNode/Laravel-Administrator
@@ -870,6 +872,7 @@ MacRuby/MacRuby
 MagicStack/asyncpg
 MagicStack/uvloop
 MahApps/MahApps.Metro
+MaiaVictor/WebMonkeys
 MailCore/mailcore2
 Malinskiy/SuperRecyclerView
 Manabu-GT/ExpandableTextView
@@ -1158,6 +1161,7 @@ Pixelkit/PixelKit-Bootstrap-UI-Kits
 PixelsCommander/HTML-GL
 PixelsCommander/ViralJS
 Pixen/Pixen
+PizzaLiu/PHP-FIG
 PkmX/lcamera
 Pkmmte/CircularImageView
 PlusHaze/TrayNotification
@@ -1287,6 +1291,7 @@ Rip-Rip/clang_complete
 RisingStack/node-style-guide
 Robdel12/DropKick
 RobertWHurst/KeyboardJS
+RobinHerbots/Inputmask
 RobinHerbots/jquery.inputmask
 RoboBinding/RoboBinding
 Robot-Will/Stino
@@ -2181,6 +2186,7 @@ arasatasaygin/is.js
 arashpayan/appirater
 arc90/git-sweep
 archagon/tasty-imitation-keyboard
+arclanguage/anarki
 ardagnir/athame
 ardagnir/pterosaur
 ardanlabs/gotraining
@@ -2549,6 +2555,7 @@ blei-lab/edward
 blevesearch/bleve
 blipinsk/RecyclerViewHeader
 blivesta/animsition
+blizzard-op/VideoPlayerKit
 bloodycoder/githack
 bloomberg/bqplot
 bloomberg/bucklescript
@@ -2840,6 +2847,7 @@ cesarferreira/dryrun
 cezarywojcik/CWStatusBarNotification
 cferdinandi/smooth-scroll
 cgiffard/node-simplecrawler
+cglib/cglib
 cgrand/enlive
 cgriego/active_attr
 cgross/angular-busy
@@ -3598,6 +3606,7 @@ dokan-dev/dokany
 dokku-alt/dokku-alt
 dokku/dokku
 dokterdok/Continuity-Activation-Tool
+dolce/iziModal
 dolphin-emu/dolphin
 domaindrivendev/Swashbuckle
 domchristie/to-markdown
@@ -3682,6 +3691,7 @@ druid-io/druid
 drupal/drupal
 drush-ops/drush
 drwetter/testssl.sh
+drzoidberg33/plexpy
 dscape/nano
 dschep/ntfy
 dspinellis/unix-history-repo
@@ -4587,6 +4597,7 @@ google/brotli
 google/cadvisor
 google/cayley
 google/closure-compiler
+google/closure-compiler-js
 google/closure-library
 google/code-prettify
 google/codesearch
@@ -5116,6 +5127,7 @@ influitive/apartment
 influxdata/influxdb
 influxdata/surgemq
 influxdata/telegraf
+infobyte/faraday
 inikulin/parse5
 inkle/ink
 inmite/android-selector-chapek
@@ -5173,6 +5185,7 @@ isnowfy/snownlp
 isobar-idev/code-standards
 isocpp/CppCoreGuidelines
 isohuntto/openbay
+istanbuljs/nyc
 istarkov/google-map-react
 isteven/angular-multi-select
 itchyny/lightline.vim
@@ -7140,6 +7153,7 @@ nicklockwood/AsyncImageView
 nicklockwood/AutoCoding
 nicklockwood/FXBlurView
 nicklockwood/FXForms
+nicklockwood/FXLabel
 nicklockwood/FastCoding
 nicklockwood/SwiftFormat
 nicklockwood/SwipeView
@@ -7186,6 +7200,7 @@ ninjudd/drip
 niorgai/StatusBarCompat
 nispok/snackbar
 nisrulz/easydeviceinfo
+nivwusquorum/tensorflow-deepq
 nixzhu/MonkeyKing
 nixzhu/dev-blog
 njdehoog/NHBalancedFlowLayout
@@ -7483,6 +7498,7 @@ os-js/OS.js
 oscarotero/Embed
 oskarkrawczyk/heyoffline.js
 osmandapp/Osmand
+osrg/gobgp
 osscafe/gulp-cheatsheet
 ossec/ossec-hids
 ossrs/srs
@@ -7519,6 +7535,7 @@ pa7/nude.js
 paarthneekhara/text-to-image
 pablojim/highcharts-ng
 pachyderm/pachyderm
+paddingme/Front-end-Web-Development-Interview-Question
 padolsey-archive/jquery.fn
 padraic/mockery
 padrino/padrino-framework
@@ -8265,6 +8282,7 @@ rmagick-temp/rmagick
 rmccue/Requests
 rmlewisuk/justdelete.me
 rmm5t/jquery-timeago
+rmosolgo/graphql-ruby
 rmtheis/android-ocr
 rmtheis/tess-two
 rmurphey/jqfundamentals
@@ -8449,6 +8467,7 @@ ryanflorence/ember-tools
 ryanflorence/react-project
 ryanflorence/react-training
 ryankiros/neural-storyteller
+ryankiros/skip-thoughts
 ryanmcgrath/twython
 ryanmjacobs/c
 ryanoasis/nerd-fonts
@@ -8506,6 +8525,7 @@ sapegin/social-likes
 sapo/Ink
 sarabander/sicp
 sarabander/sicp-pdf
+sarcadass/granim.js
 sass-mq/sass-mq
 sass/libsass
 sass/node-sass
@@ -9471,6 +9491,7 @@ tmm1/rbtrace
 tmm1/stackprof
 tmort/Socialite
 tmpvar/jsdom
+tmrts/go-patterns
 tmux-plugins/tmux-resurrect
 tmux-plugins/tpm
 tmux/tmux
@@ -10091,6 +10112,7 @@ xamarin/xamarin-forms-samples
 xat/castnow
 xaviershay/enki
 xbmc/xbmc
+xcatliu/mobi.css
 xcc3641/SeeWeather
 xcltapestry/XCL-Charts
 xdan/datetimepicker
