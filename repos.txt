@@ -222,11 +222,13 @@ BrowserSync/browser-sync
 BuildCraft/BuildCraft
 Bukkit/Bukkit
 BuoyantIO/linkerd
+BurntSushi/nflgame
 BurntSushi/toml
 ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
 CISOfy/lynis
 CN-Chrome-DevTools/CN-Chrome-DevTools
+CNSRE/ABTestingGateway
 COCOPi/cockpit
 CRYTEK-CRYENGINE/CRYENGINE
 CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift
@@ -710,6 +712,7 @@ JeffreySu/WeiXinMPSDK
 JeffreyWay/Laravel-4-Generators
 JeffreyZhao/wind
 JelteF/PyLaTeX
+JensRavens/Interstellar
 JeremySkinner/FluentValidation
 Jermolene/TiddlyWiki5
 JeroenMols/LandscapeVideoCamera
@@ -1063,6 +1066,7 @@ NextStepWebs/simplemde-markdown-editor
 NghiaTranUIT/FeSpinner
 Nickersoft/push.js
 Nightonke/BoomMenu
+Nightonke/CoCoin
 Nightonke/WoWoViewPager
 Nike-Inc/Willow
 NikolaiT/GoogleScraper
@@ -1165,6 +1169,7 @@ PizzaLiu/PHP-FIG
 PkmX/lcamera
 Pkmmte/CircularImageView
 PlusHaze/TrayNotification
+Pluto-Y/iOS-Echarts
 PocketMine/PocketMine-MP
 PointCloudLibrary/pcl
 PokemonGoF/PokemonGo-Bot
@@ -1288,6 +1293,7 @@ RichiH/vcsh
 RickWong/react-isomorphic-starterkit
 RickWong/react-transmit
 Rip-Rip/clang_complete
+RisingStack/graffiti
 RisingStack/node-style-guide
 Robdel12/DropKick
 RobertWHurst/KeyboardJS
@@ -1441,6 +1447,7 @@ Supervisor/supervisor
 Sutto/rocket_pants
 SwiftBond/Bond
 SwiftGGTeam/Developing_iOS_8_Apps_With_Swift
+SwiftKickMobile/SwiftMessages
 SwiftyBeaver/SwiftyBeaver
 SwiftyJSON/Alamofire-SwiftyJSON
 SwiftyJSON/SwiftyJSON
@@ -1559,6 +1566,7 @@ Vestride/Shuffle
 ViccAlexander/Chameleon
 Victa/curtain.js
 Victa/path-menu
+VictorAlbertos/RxCache
 VictorBjelkholm/ngProgress
 VictorBjelkholm/trymodule
 ViewDeck/ViewDeck
@@ -1669,6 +1677,7 @@ YouXianMing/Animations
 YouXianMing/YoCelsius
 YuzuJS/setImmediate
 Z3Prover/z3
+ZQiang94/Andriod-collect-blogs
 ZaBlanc/RaptureXML
 Zarel/Pokemon-Showdown
 Zepo/MLeaksFinder
@@ -2023,6 +2032,7 @@ android10/Android-CleanArchitecture
 android10/frodo
 androidquery/androidquery
 andsens/homeshick
+andyearnshaw/Intl.js
 andyedinborough/stress-css
 andyet/SimpleWebRTC
 andymccurdy/redis-py
@@ -2192,6 +2202,7 @@ ardagnir/pterosaur
 ardanlabs/gotraining
 arduino/Arduino
 arendjr/selectivity
+argon/mas
 argon/node-apn
 arguman/arguman.org
 aria2/aria2
@@ -2498,6 +2509,7 @@ bgrins/spectrum
 bgrins/videoconverter.js
 bhauman/devcards
 bhauman/lein-figwheel
+bhilburn/powerlevel9k
 biezhi/blade
 bigardone/phoenix-trello
 bigbluebutton/bigbluebutton
@@ -2588,6 +2600,7 @@ bodymovin/bodymovin
 bokeh/bokeh
 bokmann/font-awesome-rails
 bolasblack/http-api-guide
+boldpoker/edeliver
 bolshchikov/js-must-watch
 bolt/bolt
 boltdb/bolt
@@ -2743,6 +2756,7 @@ c3js/c3
 c4milo/node-webkit-agent
 c9/core
 c9s/Pux
+cSploit/android
 caesar0301/awesome-public-datasets
 caiogondim/bullet-train-oh-my-zsh-theme
 caiorss/Functional-Programming
@@ -2768,6 +2782,7 @@ camwiegert/in-view
 candy-chat/candy
 canjs/canjs
 cantino/huginn
+canvg/canvg
 caolan/async
 caolan/forms
 caolan/highland
@@ -3172,6 +3187,7 @@ cowboyd/therubyracer
 cozy/cozy-setup
 cparnot/ASCIImage
 cpettitt/dagre
+cpettitt/dagre-d3
 cpfair/tapiriik
 cplusplus/draft
 cppformat/cppformat
@@ -3340,6 +3356,7 @@ darkskyapp/skycons
 darktable-org/darktable
 darlinghq/darling
 darsain/sly
+dart-lang/sdk
 das-labor/panopticon
 dasdom/BreakOutToRefresh
 dask/dask
@@ -3382,6 +3399,7 @@ davidshimjs/qrcodejs
 davidsonfellipe/awesome-wpo
 davidstutz/bootstrap-multiselect
 davidtheclark/scalable-css-reading-list
+davisking/dlib
 davist11/jQuery-One-Page-Nav
 davist11/jQuery-Stickem
 daylerees/colour-schemes
@@ -3547,6 +3565,7 @@ django-haystack/django-haystack
 django-mptt/django-mptt
 django-oscar/django-oscar
 django-tastypie/django-tastypie
+django/channels
 django/django
 djyde/WebShell
 dkhamsing/open-source-ios-apps
@@ -4229,6 +4248,7 @@ flickr/justified-layout
 flightjs/flight
 flike/kingshard
 flitbit/diff
+florent37/GlidePalette
 florent37/HollyViewPager
 florent37/MaterialViewPager
 florent37/ViewAnimator
@@ -4288,6 +4308,7 @@ fpillet/NSLogger
 fpinscala/fpinscala
 fpt-software/Material-Controls-For-iOS
 fqrouter/fqrouter
+franciscop/cookies.js
 frankiesardo/auto-parcel
 frankiesardo/icepick
 frankpf/gridless-boilerplate
@@ -4322,6 +4343,7 @@ fullcalendar/fullcalendar
 fulldecent/system-bus-radio
 fullstackio/FlappySwift
 functional-koans/clojure-koans
+fundon/vue-admin
 furf/jquery-ui-touch-punch
 future-architect/vuls
 futurepress/epub.js
@@ -4479,6 +4501,7 @@ git/git-scm.com
 gitblit/gitblit
 gitbucket/gitbucket
 gitextensions/gitextensions
+github-archive/developer.github.com
 github/Rebel
 github/brubeck
 github/developer.github.com
@@ -4739,6 +4762,7 @@ grevory/angular-local-storage
 gritzko/swarm
 grobie/soundcloud2000
 grocer/grocer
+grommet/grommet
 groovy/groovy-core
 grosser/parallel
 grosser/parallel_tests
@@ -4747,6 +4771,7 @@ groundworkcss/groundwork
 groupon/greenscreen
 grpc/grpc
 grpc/grpc-common
+grpc/grpc-experiments
 grpc/grpc-go
 grpc/grpc-java
 gruns/furl
@@ -4789,6 +4814,7 @@ guysoft/FullPageOS
 guzzle/guzzle
 gwatts/jquery.sparkline
 gwendall/way.js
+gztchan/awesome-design
 gzu-liyujiang/AndroidPicker
 h2non/imaginary
 h2non/toxy
@@ -4905,6 +4931,7 @@ hexojs/hexo
 hexorx/countries
 heyalexej/awesome-images
 heygrady/scss-blend-modes
+heynickc/awesome-ddd
 hfossli/AGGeometryKit
 hfossli/AGGeometryKit-POP
 hgoebl/mobile-detect.js
@@ -4922,6 +4949,7 @@ hippyvm/hippyvm
 hirak/prestissimo
 hishamhm/htop
 hitherejoe/Android-Boilerplate
+hitherejoe/Bourbon
 hitherejoe/animate
 hjson-lang/hjson
 hjson/hjson
@@ -4980,6 +5008,7 @@ huangz1990/annotated_redis_source
 huangz1990/redis
 huangz1990/redis-3.0-annotated
 huangz1990/redisbook
+huazhiyuan2008/RecyclerViewCardGallery
 huboard/huboard
 hubtee/awesome-opensource-documents
 hueniverse/hawk
@@ -5318,6 +5347,7 @@ jayphelps/git-blame-someone-else
 jaysalvat/buzz
 jaysalvat/vegas
 jayway/JsonPath
+jayway/powermock
 jayway/rest-assured
 jaywcjlove/awesome-mac
 jaz303/tipsy
@@ -5338,6 +5368,7 @@ jcbrand/converse.js
 jceb/vim-orgmode
 jch/html-pipeline
 jcjohnson/neural-style
+jcjohnson/torch-rnn
 jcoglan/sylvester
 jcoleman/tomcat-redis-session-manager
 jcs/lobsters
@@ -5425,6 +5456,7 @@ jgrossi/corcel
 jgthms/bulma
 jgthms/web-design-in-4-minutes
 jhalterman/failsafe
+jharwig/PPSSignatureView
 jhipster/generator-jhipster
 jhnns/rewire
 jhollingworth/bootstrap-wysihtml5
@@ -5714,6 +5746,7 @@ jupyter/jupyterlab
 jupyter/notebook
 jupyterhub/jupyterhub
 jussi-kalliokoski/trine
+justdeleteme/justdelete.me
 justinas/alice
 justinfrankel/licecap
 justinfrench/formtastic
@@ -5733,6 +5766,7 @@ jverdi/JVFloatLabeledTextField
 jverkoey/iOS-Framework
 jverkoey/nimbus
 jvns/pandas-cookbook
+jw84/messenger-bot-tutorial
 jwagner/smartcrop.js
 jwiegley/use-package
 jwilder/docker-gen
@@ -6627,6 +6661,7 @@ medyo/android-about-page
 meenie/8bit.js
 meenie/band.js
 meenie/munee
+mehrdadrad/mylg
 melanke/Watch.JS
 meleyal/backbone-on-rails
 melonjs/melonJS
@@ -6785,6 +6820,7 @@ mitro-co/mitro
 mitsuhiko/flask-sqlalchemy
 mixi-inc/AndroidTraining
 mixi-inc/iOSTraining
+mixu/distsysbook
 mixu/singlepageappbook
 mizzy/serverspec
 mjackson/expect
@@ -7027,6 +7063,7 @@ myusuf3/delorean
 mzabriskie/axios
 mzabriskie/react-draggable
 mzlogin/awesome-adb
+mzule/ActivityRouter
 n1k0/casperjs
 n1nj4sec/pupy
 n3-charts/line-chart
@@ -7647,6 +7684,7 @@ pennersr/django-allauth
 pepibumur/SugarRecord
 peritor/webistrano
 perwendel/spark
+pester/Pester
 petdance/ack
 petdance/ack2
 petehunt/jsxstyle
@@ -7705,6 +7743,7 @@ phonegap/phonegap-start
 photo/frontend
 photonstorm/phaser
 photonstorm/phaser-examples
+php-ai/php-ml
 php-amqplib/php-amqplib
 php-curl-class/php-curl-class
 php-ds/extension
@@ -7722,6 +7761,7 @@ phpro/grumphp
 phpseclib/phpseclib
 phpspec/phpspec
 phptodayorg/php-must-watch
+phstc/shoryuken
 phusion/baseimage-docker
 phusion/juvia
 phusion/passenger
@@ -7839,6 +7879,7 @@ postrank-labs/goliath
 postwait/node-amqp
 pote/gpm
 pouchdb/pouchdb
+powdahound/ec2instances.info
 power-assert-js/power-assert
 powerline/fonts
 powerline/powerline
@@ -8992,6 +9033,7 @@ spray/spray
 spree/spree
 spring-projects/spring-boot
 spring-projects/spring-framework
+spring-projects/spring-integration-samples
 spring-projects/spring-loaded
 spring-projects/spring-mvc-showcase
 spring-projects/spring-petclinic
@@ -9206,6 +9248,7 @@ sxyx2008/DevArticles
 sxyx2008/awesome-ios-animation
 syedhali/EZAudio
 syl20bnr/spacemacs
+sylnsfar/qrcode
 sylvinus/node-crawler
 symfony/symfony
 symfony/symfony-docs
@@ -9518,6 +9561,7 @@ tomahawk-player/tomahawk
 tomaka/glium
 tomakehurst/wiremock
 tomasr/molokai
+tomav/docker-mailserver
 tomaz/appledoc
 tombatossals/angular-leaflet-directive
 tombenner/nui
@@ -9772,6 +9816,7 @@ urho3d/Urho3D
 urish/angular-moment
 usablica/front-end-frameworks
 usablica/intro.js
+usablica/kissui.scrollanim
 usablica/label.css
 usablica/progress.js
 usablica/widearea
@@ -9933,6 +9978,7 @@ wal-e/wal-e
 walkor/Workerman
 walkor/workerman-todpole
 wallabag/wallabag
+wallproxy/wallproxy
 walmartlabs/thorax
 walterhiggins/ScriptCraft
 walu/phpbook
@@ -10039,6 +10085,7 @@ wilwaldon/flatstrap
 wimagguc/ios-custom-alertview
 wincent/command-t
 wingjay/BlurImageView
+wingjay/android-open-source-project-cracking
 winjs/winjs
 winmarkltd/BootstrapFormHelpers
 winstonjs/winston
@@ -10273,6 +10320,7 @@ yyuu/pyenv-virtualenv
 yyx990803/pod
 yyx990803/zoomerang
 z3t0/Arduino-IRremote
+z56402344/BaseAnimation
 zTree/zTree_v3
 zaach/jison
 zaach/jsonlint
