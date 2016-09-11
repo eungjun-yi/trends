@@ -536,6 +536,7 @@ GitbookIO/editor-legacy
 GitbookIO/gitbook
 GitbookIO/javascript
 Glimpse/Glimpse
+GoesToEleven/GolangTraining
 GooTechnologies/goojs
 GoogleChrome/big-rig
 GoogleChrome/chrome-app-samples
@@ -785,6 +786,7 @@ Khan/aphrodite
 Khan/khan-exercises
 Khan/style-guides
 Khan/tota11y
+KhronosGroup/glTF
 Kickball/awesome-selfhosted
 KieranLafferty/KLNoteViewController
 Kintaro/wtftw
@@ -2441,6 +2443,7 @@ be5invis/Iosevka
 be9/acl9
 bear/python-twitter
 beardedspice/beardedspice
+beautifulcode/ssh-copy-id-for-OSX
 beautify-web/js-beautify
 beberlei/assert
 bebraw/jswiki
@@ -2687,6 +2690,7 @@ brianreavis/sifter.js
 bridgetkromhout/devops-against-humanity
 brigade/overcommit
 brigade/scss-lint
+brigand/react-mixin
 brikis98/docker-osx-dev
 brillout/awesome-react-components
 brix/crypto-js
@@ -2960,6 +2964,7 @@ chrisnager/ungrid
 chriso/validator.js
 chrissimpkins/Hack
 chrissimpkins/codeface
+christabor/flask_jsondash
 christianalfoni/formsy-react
 christianalfoni/webpack-express-boilerplate
 christiannaths/Redacted-Font
@@ -4769,6 +4774,7 @@ grosser/parallel_tests
 groue/GRMustache
 groundworkcss/groundwork
 groupon/greenscreen
+grpc-ecosystem/grpc-gateway
 grpc/grpc
 grpc/grpc-common
 grpc/grpc-experiments
@@ -4939,6 +4945,7 @@ hhatto/autopep8
 hibernate/hibernate-orm
 hickford/MechanicalSoup
 hiddentao/squel
+hidroh/materialistic
 highcharts/highcharts
 hilen/TSWeChat
 hilios/jQuery.countdown
@@ -8926,6 +8933,7 @@ sniperwolf/taggingJS
 snooda/net-speeder
 snorpey/jpg-glitch
 snowdream/awesome-android
+snowie2000/mactype
 snowplow/snowplow
 snwh/paper-gtk-theme
 so-fancy/diff-so-fancy
