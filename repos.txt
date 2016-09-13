@@ -234,6 +234,7 @@ CRYTEK-CRYENGINE/CRYENGINE
 CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift
 CSS-Tricks/AnythingSlider
 CSSLint/csslint
+CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout
 CWSpear/bootstrap-hover-dropdown
 CacheBrowser/cachebrowser
 CachetHQ/Cachet
@@ -1833,6 +1834,7 @@ airbnb/infinity
 airbnb/javascript
 airbnb/polyglot.js
 airbnb/react-dates
+airbnb/react-native-maps
 airbnb/ruby
 airbnb/synapse
 airyland/vux
@@ -2929,6 +2931,7 @@ chjj/tty.js
 chjj/ttystudio
 chloerei/writings
 chmln/flatpickr
+chneukirchen/nq
 chockenberry/Provisioning
 chocolatey/choco
 chocolatey/chocolatey
@@ -3348,6 +3351,7 @@ danluu/post-mortems
 danmactough/node-feedparser
 danmar/cppcheck
 danmayer/coverband
+danoz73/RecyclerViewFastScroller
 danqing/2048
 danvk/dygraphs
 danwrong/restler
@@ -3476,6 +3480,7 @@ demonnico/PinterestSwift
 denkGroot/Spina
 dennis714/RE-for-beginners
 dennisreimann/ioctocat
+dennybritz/deeplearning-papernotes
 dennybritz/neal-react
 densitydesign/raw
 denysdovhan/bash-handbook
@@ -4072,6 +4077,7 @@ facebook/proxygen
 facebook/react
 facebook/react-devtools
 facebook/react-native
+facebook/react-native-fbsdk
 facebook/reason
 facebook/rebound
 facebook/rebound-js
@@ -4751,6 +4757,7 @@ graphql/graphiql
 graphql/graphql-js
 graphsketcher/GraphSketcher
 gratipay/gratipay.com
+gravitational/teleconsole
 gravitational/teleport
 grbl/grbl
 greasemonkey/greasemonkey
@@ -5032,6 +5039,7 @@ humiaozuzu/awesome-flask
 humiaozuzu/dot-vimrc
 hummingbird-me/hummingbird
 hunterloftis/newton
+hustcc/timeago.js
 hut/ranger
 huyng/bashmarks
 huytd/agar.io-clone
@@ -5530,6 +5538,7 @@ jnicklas/turnip
 jnicol/particleground
 jnordberg/gif.js
 jnordberg/wintersmith
+jnunemaker/flipper
 jnunemaker/httparty
 jnv/lists
 joaotavora/yasnippet
@@ -5922,6 +5931,7 @@ kilimchoi/engineering-blogs
 killbill/killbill
 killme2008/Metamorphosis
 killrweather/killrweather
+kimchi-project/kimchi
 kimmobrunfeldt/progressbar.js
 kimsungwhee/KSHObjcUML
 kippt/jekyll-incorporated
@@ -6123,6 +6133,7 @@ leah/PullToRefresh
 leancloud/ChatKit-OC
 leanote/leanote
 leapmotion/leapjs
+lebabjs/lebab
 lebinh/nginx-conf
 lebinh/ngxtop
 lecho/hellocharts-android
@@ -6478,6 +6489,7 @@ marionettejs/backbone.marionette
 mariotaku/twidere
 mariuszostrowski/subway
 markbates/goth
+markdalgleish/redial
 markdalgleish/stellar.js
 markdown-it/markdown-it
 markdregan/Bayesian-Modelling-in-Python
@@ -7685,6 +7697,7 @@ peerigon/updtr
 peers/peerjs
 peers/peerjs-server
 pegjs/pegjs
+pelias/pelias
 pencilblue/pencilblue
 pengjianbo/GalleryFinal
 pennersr/django-allauth
@@ -7738,6 +7751,7 @@ phishman3579/java-algorithms-implementation
 phoboslab/Ejecta
 phoboslab/jsmpeg
 phoboslab/jsmpeg-vnc
+phodal/designiot
 phodal/developer
 phodal/github-roam
 phodal/growth
@@ -8152,6 +8166,7 @@ rcrowley/goagain
 rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
+react-native-community/React-Native-Elements
 react-native-community/react-native-navbar
 react-native-community/react-native-video
 react-native-fellowship/react-native-navbar
@@ -8429,6 +8444,7 @@ rs/SDWebImage
 rs/pushd
 rschmukler/agenda
 rse/es6-features
+rsercano/mongoclient
 rshipp/awesome-malware-analysis
 rsl/stringex
 rsms/fb-mac-messenger
@@ -9375,6 +9391,7 @@ tesseract-ocr/tesseract
 test-kitchen/test-kitchen
 testem/testem
 texane/stlink
+text-mask/text-mask
 textmate/textmate
 tflearn/tflearn
 tfredrich/RestApiTutorial.com
@@ -10112,6 +10129,7 @@ witheve/Eve
 withoutboats/notty
 witoldsz/angular-http-auth
 wix/react-templates
+wjakob/nanogui
 wkhtmltopdf/wkhtmltopdf
 wklken/k-vim
 wnafee/vector-compat
