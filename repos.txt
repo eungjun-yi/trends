@@ -408,6 +408,7 @@ DreaminginCodeZH/MaterialColdStart
 DreaminginCodeZH/MaterialProgressBar
 Dreampie/Resty
 DrewDahlman/Mason
+DrkSephy/django-hackathon-starter
 DrkSephy/es6-cheatsheet
 DroidPluginTeam/DroidPlugin
 DroidsOnRoids/MPParallaxView
@@ -421,6 +422,7 @@ EFForg/https-everywhere
 EasyDarwin/EasyDarwin
 EasyEngine/easyengine
 EasyNetQ/EasyNetQ
+Easyfood/pageAccelerator
 EddyBorja/EBPhotoPages
 EddyBorja/MLPAutoCompleteTextField
 EddyVerbruggen/SocialSharing-PhoneGap-Plugin
@@ -748,6 +750,7 @@ JohnSundell/Unbox
 JonAbrams/synth
 JonasGessner/JGActionSheet
 JonasGessner/JGProgressHUD
+JonnyWong16/plexpy
 JorgeCastilloPrz/AndroidFillableLoaders
 JosephLenton/PHP-Error
 JosephusPaye/Keen-UI
@@ -1169,6 +1172,7 @@ PeterDing/iScript
 PhamBaTho/BTNavigationDropdownMenu
 PharkMillups/beautiful-docs
 PhilJay/MPAndroidChart
+PistonDevelopers/conrod
 PistonDevelopers/piston
 PixarAnimationStudios/OpenSubdiv
 Pixate/pixate-freestyle-ios
@@ -1308,6 +1312,7 @@ Rip-Rip/clang_complete
 RisingStack/graffiti
 RisingStack/node-style-guide
 Robdel12/DropKick
+RobertGummesson/BuildTimeAnalyzer-for-Xcode
 RobertWHurst/KeyboardJS
 RobinHerbots/Inputmask
 RobinHerbots/jquery.inputmask
@@ -1726,6 +1731,7 @@ abpetkov/switchery
 abraham/twitteroauth
 abrasive/shairport
 acani/Chats
+acassen/keepalived
 acaudwell/Gource
 acaudwell/Logstalgia
 accord-net/framework
@@ -2171,6 +2177,7 @@ apereo/cas
 apex/apex
 aphyr/distsys-class
 aphyr/jepsen
+api-platform/api-platform
 apiaryio/api-blueprint
 apiaryio/dredd
 apidoc/apidoc
@@ -2778,6 +2785,7 @@ cSploit/android
 caesar0301/awesome-public-datasets
 caiogondim/bullet-train-oh-my-zsh-theme
 caiorss/Functional-Programming
+cake-build/cake
 cakephp/cakephp
 cakephp/debug_kit
 calabash/calabash-android
@@ -3206,6 +3214,7 @@ cowboy/dotfiles
 cowboy/jquery-bbq
 cowboy/jquery-hashchange
 cowboy/jquery-throttle-debounce
+cowboy/jquery-tiny-pubsub
 cowboyd/therubyracer
 cozy/cozy-setup
 cparnot/ASCIImage
@@ -3270,6 +3279,7 @@ cucumber/cucumber-js
 cucumber/cucumber-jvm
 cucumber/cucumber-rails
 cucumber/cucumber-ruby
+cuemacro/finmarketpy
 cujojs/curl
 cujojs/most
 cujojs/when
@@ -3528,7 +3538,9 @@ devongovett/pdfkit
 devopsgroup-io/vagrant-digitalocean
 devopsgroup-io/vagrant-hostmanager
 devote/HTML5-History-API
+devsnd/cherrymusic
 devstructure/blueprint
+devtools-html/debugger.html
 devttys0/binwalk
 devunwired/recyclerview-playground
 devxoul/Then
@@ -3585,6 +3597,7 @@ djacobs/PyAPNs
 djaiss/mapsicon
 django-admin-bootstrapped/django-admin-bootstrapped
 django-compressor/django-compressor
+django-crispy-forms/django-crispy-forms
 django-debug-toolbar/django-debug-toolbar
 django-extensions/django-extensions
 django-guardian/django-guardian
@@ -6282,6 +6295,7 @@ littlebee/git-time-machine
 liuling07/SimpleNews
 liuliu/ccv
 liuruoze/EasyPR
+liuwons/wxBot
 liuxinyu95/AlgoXY
 livereload/LiveReload
 livid/v2ex
@@ -6696,6 +6710,7 @@ mdznr/What-s-New
 me-abhinav/NumberMorphView
 me115/design_patterns
 me115/linuxtools_rst
+meandmax/lory
 meanjs/mean
 mechio/takana
 medcl/elasticsearch-analysis-ik
@@ -8833,6 +8848,7 @@ shower/shower
 shpakovski/Popup
 shu223/AnimatedTransitionGallery
 shu223/PulsingHalo
+shu223/iOS-10-Sampler
 shu223/iOS-9-Sampler
 shu223/iOS7-Sampler
 shu223/iOS8-Sampler
@@ -9434,6 +9450,7 @@ tgriesser/bookshelf
 tgriesser/knex
 thalesians/pythalesians
 thampiman/reverse-geocoder
+the-teacher/cocktails_for_programmers
 theDazzler/droidicon
 theScrabi/NewPipe
 theaqua/redux-logger
@@ -10075,6 +10092,7 @@ wdullaer/MaterialDateTimePicker
 weareoutman/clockpicker
 weavejester/compojure
 weavejester/hiccup
+weaveworks/scope
 weaveworks/weave
 web-animations/web-animations-js
 web2py/web2py
@@ -10128,6 +10146,7 @@ wg/wrk
 wg689/Solve-App-Store-Review-Problem
 whackashoe/antimoderate
 what-studio/profiling
+wheybags/freeablo
 white-cat/ThinkAndroid
 whitesmith/rubycritic
 whomwah/qlstephen
@@ -10241,6 +10260,7 @@ xiekw2010/react-native-gitfeed
 xiepeijie/SwipeCardView
 ximan/dropload
 xing/wysihtml5
+xinghongfei/LookLook
 xinthink/react-native-material-kit
 xiongwei-git/AndroidVideoPlayer
 xirong/my-git
