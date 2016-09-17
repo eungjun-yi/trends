@@ -184,6 +184,7 @@ Bearded-Hen/Android-Bootstrap
 BearishSun/BansheeEngine
 BeatSwitch/lock
 BeauNouvelle/AspectFillFaceAware
+BeauNouvelle/FaceAware
 Behat/Behat
 Benjamin-Dobell/Heimdall
 BigZaphod/Chameleon
@@ -533,6 +534,7 @@ GcsSloop/AndroidNote
 Geal/nom
 GeekyAnts/NativeBase
 GeniusVJR/LearningNotes
+GetBlimp/django-rest-framework-jwt
 GetExpert/redux-blog-example
 GetmeUK/ContentTools
 Ghosh/uiGradients
@@ -1645,6 +1647,7 @@ Xcode-Snippets/Objective-C
 XcodeGhostSource/XcodeGhost
 Xethron/migrations-generator
 Xfennec/progress
+Xiao187/Cto
 XiaoMi/open-falcon
 XunMengWinter/CircularAnim
 Xuzz/newsyc
@@ -10308,6 +10311,7 @@ yahoo/gryffin
 yahoo/kafka-manager
 yahoo/mojito
 yahoo/mysql_perf_analyzer
+yahoo/pulsar
 yahoo/pure
 yahoo/react-intl
 yahoo/squidb
