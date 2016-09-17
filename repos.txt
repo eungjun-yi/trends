@@ -490,6 +490,7 @@ FolioReader/FolioReaderKit
 FontCustom/fontcustom
 Fooidge/PleaseJS
 FormidableLabs/radium
+FormidableLabs/react-game-kit
 FormidableLabs/react-music
 FormidableLabs/spectacle
 FormidableLabs/victory
@@ -569,6 +570,7 @@ H07000223/FlycoDialog_Master
 H07000223/FlycoTabLayout
 HFTrader/DeepLearningBook
 HIPS/autograd
+HIT-Alibaba/interview
 HabitRPG/habitrpg
 HackPlan/quark-shell-mac
 Hacker0x01/react-datepicker
@@ -1844,6 +1846,7 @@ airbnb/airpal
 airbnb/caravel
 airbnb/css
 airbnb/enzyme
+airbnb/epoxy
 airbnb/hypernova
 airbnb/infinity
 airbnb/javascript
@@ -3868,6 +3871,7 @@ electron/electron-quick-start
 electronicarts/EASTL
 eleith/emailjs
 elementalui/elemental
+elendirx/web2web
 elevation/event_calendar
 elevenetc/TextSurface
 eliangcs/http-prompt
@@ -4454,6 +4458,7 @@ gbeced/pyalgotrade
 gcanti/tcomb
 gcanti/tcomb-form
 gcanti/tcomb-form-native
+gcc-mirror/gcc
 gchp/iota
 gcuisinier/jenv
 geany/geany
@@ -4885,6 +4890,7 @@ hackerzhou/Love
 hackiftekhar/IQKeyboardManager
 hackmdio/hackmd
 hacksalot/HackMyResume
+hackware1993/MagicIndicator
 hadley/adv-r
 hadley/devtools
 hadley/dplyr
@@ -5123,6 +5129,7 @@ ianmiell/shutit
 ianstormtaylor/slate
 ianyh/Amethyst
 ibaaj/dijkstra-cartography
+ibab/tensorflow-wavenet
 ibireme/YYCache
 ibireme/YYKit
 ibireme/YYModel
@@ -5192,6 +5199,7 @@ incanter/incanter
 inconshreveable/ngrok
 indexzero/http-server
 indexzero/nconf
+indragiek/CocoaMarkdown
 indragiek/INAppStoreWindow
 indutny/node-spdy
 indyplanets/flexnav
@@ -7361,6 +7369,7 @@ noraesae/perfect-scrollbar
 norman/friendly_id
 north/north
 north2014/A-MusicView
+north2014/T-MVP
 nose-devs/nose
 nosir/cleave.js
 nosir/obelisk.js
@@ -7596,6 +7605,7 @@ orvice/ss-panel
 ory-am/hydra
 os-js/OS.js
 oscarotero/Embed
+oskarkrawczyk/Heyoffline
 oskarkrawczyk/heyoffline.js
 osmandapp/Osmand
 osrg/gobgp
