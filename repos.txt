@@ -1064,6 +1064,7 @@ Netflix/archaius
 Netflix/asgard
 Netflix/astyanax
 Netflix/atlas
+Netflix/bless
 Netflix/curator
 Netflix/dynomite
 Netflix/eureka
@@ -3106,6 +3107,7 @@ codebutler/firesheep
 codecentric/spring-boot-admin
 codeclimate/codeclimate
 codecombat/codecombat
+codeestX/GeekNews
 codef0rmer/angular-dragdrop
 codegangsta/cli
 codegangsta/gin
@@ -3298,6 +3300,7 @@ curran/screencasts
 cutestrap/cutestrap
 cutting-room-floor/mi-sdk-legacy
 cviebrock/eloquent-sluggable
+cwRichardKim/RKCardView
 cwRichardKim/RKDropdownAlert
 cwRichardKim/RKNotificationHub
 cwRichardKim/RKSwipeBetweenViewControllers
@@ -4669,6 +4672,7 @@ google/binnavi
 google/blockly
 google/brotli
 google/cadvisor
+google/cameraview
 google/cayley
 google/closure-compiler
 google/closure-compiler-js
@@ -5692,6 +5696,7 @@ joshbuchea/HEAD
 joshcam/PHP-MySQLi-Database-Class
 joshfire/jsonform
 joshfng/railsready
+joshgeller/react-redux-jwt-auth-example
 joshnewlan/say_what
 joshuaclayton/blueprint-css
 joshuagatcke/HTML-KickStart
@@ -7386,6 +7391,7 @@ nothings/stb
 nothirst/TICoreDataSync
 notifyjs/notifyjs
 notnoop/java-apns
+notro/fbtft
 nov/fb_graph
 novoda/android-demos
 novoda/image-loader
@@ -10042,6 +10048,7 @@ vuejs/vue
 vuejs/vue-cli
 vuejs/vue-devtools
 vuejs/vue-hackernews
+vuejs/vue-loader
 vuejs/vue-resource
 vuejs/vue-router
 vuejs/vue-validator
@@ -10094,6 +10101,7 @@ watabou/pixel-dungeon
 watilde/beeplay
 wavded/humane-js
 waylan/Python-Markdown
+waynell/VideoListPlayer
 waynewbishop/SwiftStructures
 wbkd/awesome-d3
 wbond/package_control
