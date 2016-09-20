@@ -44,6 +44,7 @@
 500px/greedo-layout-for-android
 75team/thinkjs
 81813780/AVLoadingIndicatorView
+91yun/serverspeeder
 9miao/Firefly
 ACRA/acra
 AFNetworking/AFIncrementalStore
@@ -526,6 +527,7 @@ GDG-Korea/PinterestLikeAdapterView
 Gabriel439/post-rfc
 GabrielAlva/Cool-iOS-Camera
 Gallopsled/pwntools
+GameServerManagers/LinuxGSM
 Gamua/Starling-Framework
 GarageGames/Torque2D
 GarageGames/Torque3D
@@ -1704,6 +1706,7 @@ ZQiang94/Andriod-collect-blogs
 ZaBlanc/RaptureXML
 Zarel/Pokemon-Showdown
 Zepo/MLeaksFinder
+Zewo/Venice
 Zewo/Zewo
 ZhaoKaiQiang/KLog
 ZhipingYang/UUChatTableView
@@ -3573,6 +3576,7 @@ didierbrun/DBPathRecognizer
 diegonetto/generator-ionic
 diesel-rs/diesel
 dieulot/instantclick
+digego/extempore
 digitalBush/jquery.maskedinput
 digitalbazaar/forge
 digitalfruit/limejs
@@ -4499,6 +4503,7 @@ getgrav/grav
 getguesstimate/guesstimate-app
 getify/LABjs
 getify/You-Dont-Know-JS
+getify/asynquence
 getlantern/forum
 getlantern/lantern
 getlantern/lantern-binaries
@@ -5862,6 +5867,7 @@ kaimallea/isMobile
 kairosdb/kairosdb
 kaishengtai/neuralart
 kaishin/Gifu
+kaishin/ImageScout
 kakserpom/phpdaemon
 kaldi-asr/kaldi
 kamalgill/flask-appengine-template
@@ -6104,6 +6110,7 @@ kstenerud/iOS-Universal-Framework
 ksuther/KSImageNamed-Xcode
 kswedberg/jquery-smooth-scroll
 kuba/simp_le
+kubernetes/heapster
 kubernetes/kubernetes
 kubernetes/minikube
 kud1ing/awesome-rust
@@ -6304,6 +6311,7 @@ listen1/listen1_chrome_extension
 litaio/lita
 litehelpers/Cordova-sqlite-storage
 litesuits/android-common
+litesuits/android-lite-orm
 litl/rauth
 litten/hexo-theme-yilia
 littleark/githut
@@ -8189,6 +8197,7 @@ rancher/os
 rancher/rancher
 randym/axlsx
 ranger/ranger
+rangle/augury
 raphaelcruzeiro/jquery-notebook
 raphw/byte-buddy
 rapid7/metasploit-framework
@@ -8288,6 +8297,7 @@ redguardtoo/mastering-emacs-in-one-year-guide
 redis-store/redis-store
 redis/hiredis
 redis/redis-rb
+redisson/redisson
 redmine/redmine
 redodo/tortilla
 redox-os/redox
@@ -8596,6 +8606,7 @@ ryanb/ruby-warrior
 ryanflorence/ember-tools
 ryanflorence/react-project
 ryanflorence/react-training
+ryanhoo/StylishMusicPlayer
 ryankiros/neural-storyteller
 ryankiros/skip-thoughts
 ryanmcgrath/twython
