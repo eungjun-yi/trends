@@ -756,6 +756,7 @@ JohnSundell/Unbox
 JonAbrams/synth
 JonasGessner/JGActionSheet
 JonasGessner/JGProgressHUD
+JonathanSalwan/ROPgadget
 JonnyWong16/plexpy
 JorgeCastilloPrz/AndroidFillableLoaders
 JosephLenton/PHP-Error
@@ -1466,6 +1467,7 @@ SublimeText/Origami
 SugarRecord/SugarRecord
 Sumi-Interactive/SIAlertView
 SunLiner/MiaowShow
+Sunzxyong/Recovery
 Suor/funcy
 Supervisor/supervisor
 Sutto/rocket_pants
@@ -2301,6 +2303,7 @@ assaf/zombie
 assemble/assemble
 assemble/handlebars-helpers
 assimp/assimp
+astaxie/Go-best-practice
 astaxie/Go-in-Action
 astaxie/bat
 astaxie/beego
@@ -3838,6 +3841,7 @@ eduardolundgren/tracking.js
 edwardtufte/tufte-css
 edx/edx-platform
 egoist/hack
+egoist/vuepack
 egonSchiele/contracts.ruby
 egorsmkv/google-spaces
 egrcc/zhihu-python
@@ -3894,6 +3898,7 @@ elixir-lang/elixir
 elixir-lang/plug
 elliotcondon/acf
 elliottminns/blackfish
+ellisonbg/altair
 ellisonleao/clumsy-bird
 ellisonleao/magictools
 ellisonleao/sharer.js
@@ -4465,6 +4470,7 @@ gavinkwoe/BeeFramework
 gawel/pyquery
 gazay/gon
 gbeced/pyalgotrade
+gcacace/android-signaturepad
 gcanti/tcomb
 gcanti/tcomb-form
 gcanti/tcomb-form-native
@@ -5093,6 +5099,7 @@ hustcc/timeago.js
 hut/ranger
 huyng/bashmarks
 huytd/agar.io-clone
+hwdsl2/setup-ipsec-vpn
 hwi/HWIOAuthBundle
 hxgf/smoke.js
 hybridauth/hybridauth
@@ -5452,6 +5459,7 @@ jdg/MBProgressHUD
 jdorn/json-editor
 jdsutton/Technical-Interview-Megarepo
 jeanphix/Ghost.py
+jeasonlzy/OkHttpUtils
 jeasonlzy0216/OkHttpUtils
 jech/polipo
 jed/140bytes
@@ -6669,6 +6677,7 @@ mattt/Navajo
 mattt/Ono
 mattt/Surge
 mattupstate/overholt
+mattvh/jekyllthemes
 matz/streem
 matze/mtheme
 mauricecruz/chrome-devtools-zerodarkmatrix-theme
@@ -7164,6 +7173,7 @@ naholyr/github-todos
 nakiostudio/EasyPeasy
 nakupanda/bootstrap3-dialog
 naman14/Timber
+name5566/leaf
 namuol/cheet.js
 nanobox-io/nanobox
 nanoc/nanoc
@@ -8240,6 +8250,7 @@ rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
 react-native-community/React-Native-Elements
+react-native-community/react-native-elements
 react-native-community/react-native-navbar
 react-native-community/react-native-video
 react-native-fellowship/react-native-navbar
@@ -8387,6 +8398,7 @@ rhomobile/rhodes
 rhummelmose/BluetoothKit
 rhysd/NyaoVim
 ribot/android-guidelines
+ribot/ribot-app-android
 ricardochimal/taps
 riccardoscalco/textures
 richardshepherd/Parallax-Scrolling
@@ -8873,6 +8885,7 @@ shoes/shoes
 shoes/shoes4
 shogun-toolbox/shogun
 shouldjs/should.js
+shoutem/ui
 showdownjs/showdown
 shower/shower
 shpakovski/Popup
@@ -9212,6 +9225,7 @@ stanfordnlp/CoreNLP
 star7th/showdoc
 stascorp/rdpwrap
 stasinopoulos/commix
+staticfile/static
 statsmodels/statsmodels
 stealjs/steal
 stedolan/jq
@@ -9249,6 +9263,7 @@ stevenmiller888/mind
 stevenschobert/instafeed.js
 stevenwanderski/bxslider-4
 stewdio/beep.js
+stfalcon-studio/FrescoImageViewer
 stffn/declarative_authorization
 stig/json-framework
 stitchfix/pyxley
@@ -9334,6 +9349,7 @@ swagger-api/swagger-js
 swagger-api/swagger-node
 swagger-api/swagger-ui
 swagger-api/swagger.io
+swanandp/acts_as_list
 swannodette/lt-cljs-tutorial
 swannodette/mori
 swanson/stringer
@@ -10020,6 +10036,7 @@ visualfc/liteide
 vitalets/angular-xeditable
 vitalets/checklist-model
 vitalets/x-editable
+vitaly-t/pg-promise
 vitch/jScrollPane
 vitmalina/w2ui
 vizicities/vizicities
