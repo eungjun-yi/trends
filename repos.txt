@@ -718,6 +718,7 @@ JasonMortonNZ/bs3-sublime-plugin
 JaviSoto/JSBadgeView
 Jawbone/JBChartView
 JazysYu/JZNavigationExtension
+JeasonWong/Particle
 JedWatson/classnames
 JedWatson/react-select
 JeffreySu/WeiXinMPSDK
@@ -1812,6 +1813,7 @@ adobe/brackets
 adobe/brackets-shell
 adonisjs/adonis-framework
 adrai/flowchart.js
+adrianco/spigo
 adriancooney/console.image
 adtile/fixed-nav
 adunkman/connect-assets
@@ -1939,6 +1941,7 @@ alibaba/AndFix
 alibaba/DataX
 alibaba/LuaViewSDK
 alibaba/RocketMQ
+alibaba/TProfiler
 alibaba/anyproxy
 alibaba/canal
 alibaba/cobar
@@ -3038,6 +3041,7 @@ ckeditor/ckeditor-dev
 clappr/clappr
 claritylab/lucida
 clauderic/react-infinite-calendar
+clauderic/react-sortable-hoc
 claudiajs/claudia
 clayallsopp/react.backbone
 clayallsopp/routable-ios
@@ -3817,6 +3821,7 @@ easychen/howto-make-more-money
 easylogging/easyloggingpp
 easymotion/vim-easymotion
 easysoft/zui
+ebidel/appmetrics.js
 ebidel/filer.js
 eclipse/che
 eclipse/jetty.project
@@ -4270,6 +4275,7 @@ filamentgroup/loadCSS
 filamentgroup/responsive-carousel
 filamentgroup/tablesaw
 filp/whoops
+finagle/finch
 fiorix/freegeoip
 firebase/FirebaseUI-Android
 firebase/angularfire
@@ -4339,6 +4345,7 @@ fogleman/Craft
 fogleman/Minecraft
 fogleman/ln
 fogleman/nes
+fogleman/primitive
 fogleman/pt
 fontello/fontello
 fontforge/fontforge
@@ -4369,6 +4376,7 @@ fpillet/NSLogger
 fpinscala/fpinscala
 fpt-software/Material-Controls-For-iOS
 fqrouter/fqrouter
+frakbot/JumpingBeans
 franciscop/cookies.js
 frankiesardo/auto-parcel
 frankiesardo/icepick
@@ -4882,6 +4890,7 @@ guysoft/FullPageOS
 guzzle/guzzle
 gwatts/jquery.sparkline
 gwendall/way.js
+gzc/CLRS
 gztchan/awesome-design
 gzu-liyujiang/AndroidPicker
 h2non/imaginary
@@ -5529,6 +5538,7 @@ jgrahamc/httpdiff
 jgregory-zynga/scroller
 jgrossi/corcel
 jgthms/bulma
+jgthms/lavalamp.js
 jgthms/web-design-in-4-minutes
 jhalterman/failsafe
 jharwig/PPSSignatureView
@@ -5961,6 +5971,7 @@ kentnguyen/KNSemiModalViewController
 kentya6/KYCircularProgress
 kenwheeler/cash
 kenwheeler/slick
+keonkim/awesome-nlp
 keremciu/sketch-iconfont
 kern/filepizza
 kesenhoo/android-training-course-in-chinese
@@ -7380,6 +7391,7 @@ noflo/noflo
 noidontdig/gitdown
 nojhan/colout
 nojhan/liquidprompt
+nolanlawson/optimize-js
 nolanlawson/pokedex.org
 nolimits4web/Framework7
 nolimits4web/Swiper
@@ -8011,6 +8023,7 @@ pret/pokered
 prettymuchbryce/easystarjs
 prey/prey-bash-client
 prikhi/pencil
+primefaces/primeng
 primer/octicons
 primer/primer
 primus/primus
@@ -9033,6 +9046,7 @@ smileyborg/UIView-AutoLayout
 smira/aptly
 smore-inc/clippy.js
 snabbco/snabb
+snabbdom/snabbdom
 snare/voltron
 snide/sphinx_rtd_theme
 snipe/snipe-it
@@ -9539,6 +9553,7 @@ thestinger/termite
 theturtle32/WebSocket-Node
 thewhitetulip/web-dev-golang-anti-textbook
 thiagopradi/octopus
+thibmaek/awesome-raspberrypi
 thingdom/node-neo4j
 think2011/localResizeIMG
 thinkaurelius/titan
@@ -10231,6 +10246,7 @@ witheve/Eve
 withoutboats/notty
 witoldsz/angular-http-auth
 wix/react-templates
+wiztools/rest-client
 wjakob/nanogui
 wkhtmltopdf/wkhtmltopdf
 wklken/k-vim
