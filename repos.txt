@@ -221,6 +221,7 @@ BowlerHatLLC/feathers
 BradLarson/GPUImage
 BradLarson/GPUImage2
 BrightcoveOS/Diamond
+BroadleafCommerce/BroadleafCommerce
 BrowserSync/browser-sync
 BuildCraft/BuildCraft
 Bukkit/Bukkit
@@ -611,10 +612,12 @@ Hitomis/FunGameRefresh
 HoTT/book
 Homebrew/brew
 Homebrew/homebrew-bundle
+Homebrew/homebrew-core
 Homebrew/homebrew-php
 Homebrew/legacy-homebrew
 HoneyNeutrons/RecyclerViewUndoSwipe
 HospitalRun/hospitalrun-frontend
+HotBitmapGG/bilibili
 HouzuoGuo/tiedot
 HubPress/hubpress.io
 HubSpot/BuckyClient
@@ -1918,6 +1921,7 @@ alexdrone/Render
 alexdrone/ios-fontawesome
 alexdrone/ios-realtimeblur
 alexei/sprintf.js
+alexflint/gallium
 alexgibson/notify.js
 alexgibson/shake.js
 alexgorbatchev/jquery-textext
@@ -2654,6 +2658,7 @@ bootflat/bootflat.github.io
 bootstrap-ruby/rails-bootstrap-forms
 bootstrap-tagsinput/bootstrap-tagsinput
 bopoda/ace
+boramalper/himawaripy
 borgbackup/borg
 borismus/webvr-boilerplate
 borisrepl/boris
@@ -3686,6 +3691,7 @@ dokku-alt/dokku-alt
 dokku/dokku
 dokterdok/Continuity-Activation-Tool
 dolce/iziModal
+dollarshaveclub/reframe.js
 dolphin-emu/dolphin
 domaindrivendev/Swashbuckle
 domchristie/to-markdown
@@ -5103,6 +5109,7 @@ humhub/humhub
 humiaozuzu/awesome-flask
 humiaozuzu/dot-vimrc
 hummingbird-me/hummingbird
+hungtraan/FacebookBot
 hunterloftis/newton
 hustcc/timeago.js
 hut/ranger
@@ -6526,6 +6533,7 @@ mamaral/Neon
 mamaral/Onboard
 mame/quine-relay
 mamedev/mame
+mandatoryprogrammer/NorthKoreaDNSLeak
 mangini/gdocs2md
 mangos/MaNGOS
 manifestinteractive/jqvmap
@@ -6626,6 +6634,7 @@ matejlatin/Gutenberg
 mateogianolio/ocr
 mateusortiz/webcomponents-the-right-way
 mathiasbynens/dotfiles
+mathiasbynens/he
 mathiasbynens/jquery-placeholder
 mathics/Mathics
 mathieudutour/git-sketch-plugin
@@ -6826,6 +6835,7 @@ michaeldfallen/git-radar
 michaeldv/awesome_print
 michaelficarra/CoffeeScriptRedux
 michaelhenry/FlipBoardNavigationController
+michaelhenry/MHFacebookImageViewer
 michaelliao/awesome-python-webapp
 michaelliao/sinaweibopy
 michaelmacinnis/oh
@@ -8327,6 +8337,7 @@ redodo/tortilla
 redox-os/redox
 redsolution/xabber-android
 redspread/spread
+redux-loop/redux-loop
 redux-observable/redux-observable
 reduxframework/elusive-iconfont
 reduxframework/redux-framework
@@ -8925,6 +8936,7 @@ silentbicycle/greatest
 silexphp/Pimple
 silexphp/Silex
 silviomoreto/bootstrap-select
+simogeo/Filemanager
 simon-weber/gmusicapi
 simongog/sdsl-lite
 simonwhitaker/gibo
@@ -9001,6 +9013,7 @@ sjl/gundo.vim
 sjl/learnvimscriptthehardway
 sjwhitworth/golearn
 sk89q/WorldEdit
+skatejs/skatejs
 skavanagh/KeyBox
 skellock/reactotron
 sketchplugins/plugin-directory
@@ -9058,6 +9071,7 @@ snowie2000/mactype
 snowplow/snowplow
 snwh/paper-gtk-theme
 so-fancy/diff-so-fancy
+soabase/exhibitor
 soapyigu/LeetCode_Swift
 soarcn/BottomSheet
 sobri909/MGBoxKit
@@ -9615,6 +9629,7 @@ tiimgreen/github-cheat-sheet
 tildeio/htmlbars
 tildeio/router.js
 tildeio/rsvp.js
+tilemill-project/tilemill
 timber/timber
 timburks/nu
 timcreative/material-kit
@@ -10547,6 +10562,7 @@ zoofIO/flexx
 zoonooz/ZFDragableModalTransition
 zoonooz/ZFRippleButton
 zootreeves/Objective-C-HMTL-Parser
+zplug/zplug
 zpz1237/NirZhihuDaily2.0
 zquestz/s
 zsaleeba/picoc
