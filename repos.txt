@@ -141,6 +141,7 @@ Attendize/Attendize
 AudithSoftworks/Uniform
 Aufree/ESTMusicPlayer
 Aufree/PHPHub-iOS
+Aufree/awesome-wechat-weapp
 Aufree/phphub-ios
 Aufree/trip-to-iOS
 Augus/ngAnimate
@@ -532,6 +533,7 @@ GameServerManagers/LinuxGSM
 Gamua/Starling-Framework
 GarageGames/Torque2D
 GarageGames/Torque3D
+GavinFoo/elasticsearch-definitive-guide
 Gazler/githug
 GcsSloop/AndroidNote
 Geal/nom
@@ -771,6 +773,7 @@ JrCs/docker-letsencrypt-nginx-proxy-companion
 JsAaron/jQuery
 JuanPotato/Legofy
 JuanitoFatas/fast-ruby
+Jude95/EasyRecyclerView
 JuliaLang/IJulia.jl
 JuliaLang/julia
 Julian/jsonschema
@@ -803,8 +806,10 @@ Khan/KaTeX
 Khan/SwiftTweaks
 Khan/aphrodite
 Khan/khan-exercises
+Khan/react-components
 Khan/style-guides
 Khan/tota11y
+KhaosT/HAP-NodeJS
 KhronosGroup/glTF
 Kickball/awesome-selfhosted
 KieranLafferty/KLNoteViewController
@@ -1187,6 +1192,7 @@ PhilJay/MPAndroidChart
 PistonDevelopers/conrod
 PistonDevelopers/piston
 PixarAnimationStudios/OpenSubdiv
+PixarAnimationStudios/USD
 Pixate/pixate-freestyle-ios
 Pixelkit/PixelKit-Bootstrap-UI-Kits
 PixelsCommander/HTML-GL
@@ -1357,6 +1363,7 @@ SFTtech/openage
 SSilence/selfoss
 STRML/react-grid-layout
 SUSE/Portus
+SVG-Edit/svgedit
 SVGKit/SVGKit
 SVProgressHUD/SVProgressHUD
 Sage/streamlinejs
@@ -1789,6 +1796,8 @@ adamschwartz/magic-of-css
 adamwdraper/Numeral-js
 adamwulf/app-launch-guide
 adamzap/landslide
+adaptivethreat/Empire
+adazzle/react-data-grid
 adchsm/Slidebars
 addthis/stream-lib
 addyosmani/a11y
@@ -1981,6 +1990,7 @@ alskipp/ASProgressPopUpView
 alskipp/ASValueTrackingSlider
 alsotang/node-lessons
 alssndro/sandros-sketch-plugins
+altair-viz/altair
 altercation/solarized
 altercation/vim-colors-solarized
 aluzzardi/wssh
@@ -2102,6 +2112,7 @@ angular/angular-phonecat
 angular/angular-seed
 angular/angular.dart
 angular/angular.js
+angular/angularfire2
 angular/batarang
 angular/material
 angular/material-start
@@ -3308,6 +3319,7 @@ cujojs/most
 cujojs/when
 cundong/HeaderAndFooterRecyclerView
 cundong/SmartAppUpdates
+cundong/ZhihuPaper
 cure53/DOMPurify
 cure53/H5SC
 curl/curl
@@ -3671,6 +3683,7 @@ docker/swarm
 docker/swarmkit
 docopt/docopt
 docpad/docpad
+doctrine/dbal
 doctrine/doctrine2
 doctyper/flexie
 documentationjs/documentation
@@ -4184,6 +4197,7 @@ faisalman/ua-parser-js
 fakefs/fakefs
 falconry/falcon
 fancyapps/fancyBox
+fancymax/12306ForMac
 fangwei716/30-days-of-react-native
 fanout/pushpin
 fanrunqi/MaterialLogin
@@ -4481,6 +4495,7 @@ gaubert/gmvault
 gavinbunney/Toucan
 gavindinubilo/jam-api
 gavinkwoe/BeeFramework
+gavinkwoe/weapp-ide-crack
 gawel/pyquery
 gazay/gon
 gbeced/pyalgotrade
@@ -4972,6 +4987,7 @@ hashicorp/consul
 hashicorp/consul-template
 hashicorp/nomad
 hashicorp/otto
+hashicorp/raft
 hashicorp/serf
 hashicorp/terraform
 hashicorp/vault
@@ -6002,6 +6018,7 @@ kgn/KGNoise
 khamidou/kite
 khanlou/SKBounceAnimation
 kharrison/CodeExamples
+kholia/OSX-KVM
 kickstarter/rack-attack
 kien/ctrlp.vim
 kif-framework/KIF
@@ -6188,6 +6205,7 @@ laravel/socialite
 laravelio/laravel.io
 larcus94/ImagePickerSheetController
 larrynatalicio/15DaysofAnimationsinSwift
+larsbrinkhoff/awesome-cpus
 larsenwork/Gidole
 larsenwork/monoid
 laruence/php7-internal
@@ -6333,6 +6351,7 @@ liquibase/liquibase
 liriliri/eruda
 lisa-lab/DeepLearningTutorials
 lisa-lab/pylearn2
+lisbethz/Swift
 listen1/listen1_chrome_extension
 litaio/lita
 litehelpers/Cordova-sqlite-storage
@@ -6798,6 +6817,7 @@ metafizzy/isotope
 metafizzy/packery
 metagrover/ES6-for-humans
 metajack/strophejs
+metakirby5/codi.vim
 metalsmith/metalsmith
 meteor/meteor
 meteoric/meteor-ionic
@@ -8375,6 +8395,7 @@ rengwuxian/RxJavaSamples
 rentzsch/jrswizzle
 rentzsch/mogenerator
 renzifeng/ZFPlayer
+reorx/httpstat
 replit/repl.it
 requery/requery
 request/request
@@ -9097,6 +9118,7 @@ sohutv/cachecloud
 soimort/translate-shell
 soimort/you-get
 sokolovstas/SublimeWebInspector
+soldair/node-qrcode
 solidsnack/GraphpostgresQL
 solidusio/solidus
 soliury/noder-react-native
@@ -9488,6 +9510,7 @@ telerik/kendo-ui-core
 telly/TLYShyNavBar
 tenXer/xcharts
 tencent-php/tsf
+tencent-wechat/phxpaxos
 tencent-wechat/phxsql
 tenex/rails-assets
 tennc/webshell
