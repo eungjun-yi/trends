@@ -228,6 +228,7 @@ BuildCraft/BuildCraft
 Bukkit/Bukkit
 BuoyantIO/linkerd
 BurntSushi/nflgame
+BurntSushi/ripgrep
 BurntSushi/toml
 ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
@@ -455,6 +456,7 @@ ExactTarget/fuelux
 EyalAr/lwip
 FFmpeg/FFmpeg
 FLIF-hub/FLIF
+FWeinb/grunt-svgstore
 FX-Max/Point-of-Android
 Factual/drake
 FahimF/FloatLabelFields
@@ -867,6 +869,7 @@ LeoNatan/LNPopupController
 Leonidas-from-XIV/node-xml2js
 Level/levelup
 LewisJEllis/awesome-lua
+Lexikos/AutoHotkey_L
 LibreVR/Revive
 Lickability/PinpointKit
 LightTable/LightTable
@@ -1513,6 +1516,7 @@ TeehanLax/Upcoming
 TelescopeJS/Telescope
 Templarian/MaterialDesign
 Templarian/WindowsIcons
+Tencent/tinker
 TencentOpen/GT
 Terry-Mao/goim
 Terry-Mao/gopush-cluster
@@ -2865,6 +2869,7 @@ carlbutron/Swift
 carlhuda/janus
 carljm/django-model-utils
 carllerche/mio
+carlosbtn/Swift
 carlsednaoui/ouibounce
 carltongibson/django-filter
 carmaa/inception
@@ -3664,6 +3669,7 @@ dmvaldman/samsara
 dmytrodanylyk/android-process-button
 dmytrodanylyk/circular-progress-button
 dmytrodanylyk/folding-plugin
+dmytrodanylyk/shadow-layout
 dnschneid/crouton
 dobtco/formbuilder
 docker-library/docs
@@ -4342,6 +4348,7 @@ florent37/ViewAnimator
 florian/cookie.js
 florianheinemann/passwordless
 floriankugler/FLKAutoLayout
+flosch/pongo2
 flot/flot
 flowjs/flow.js
 flowjs/ng-flow
@@ -5727,6 +5734,7 @@ jordansissel/fpm
 jordansissel/pleaserun
 jorgebastida/glue
 jorgebastida/gordon
+jorgenschaefer/elpy
 jorisvink/kore
 josdejong/jsoneditor
 josdejong/mathjs
@@ -5868,6 +5876,7 @@ justinwalsh/daux.io
 justjavac/Google-IPs
 justjavac/Programming-Alpha-To-Omega
 justjavac/awesome-awesomeness-zh_CN
+justjavac/awesome-wechat-weapp
 justjavac/free-programming-books-zh_CN
 justjohn/twig.js
 justmarkham/DAT8
@@ -6197,6 +6206,7 @@ laracasts/PHP-Vars-To-Js-Transformer
 laravel-ardent/ardent
 laravel/cashier
 laravel/elixir
+laravel/envoy
 laravel/framework
 laravel/homestead
 laravel/laravel
@@ -6543,6 +6553,7 @@ makeusabrew/bootbox
 makovkastar/FloatingActionButton
 malarkey/320andup
 malcommac/SwiftDate
+malcommac/SwiftLocation
 malihu/malihu-custom-scrollbar-plugin
 malsup/blockui
 malsup/cycle
@@ -7078,6 +7089,7 @@ moxiecode/plupload
 mozbrick/brick
 mozilla-b2g/B2G
 mozilla-b2g/gaia
+mozilla-mobile/firefox-ios
 mozilla-services/heka
 mozilla/BrowserQuest
 mozilla/Fira
@@ -8108,6 +8120,7 @@ puikinsh/Bootstrap-Admin-Template
 puikinsh/gentelella
 puls/objc-TimesSquare
 puma/puma
+pump-io/pump.io
 puniverse/capsule
 puniverse/quasar
 punkave/apostrophe
