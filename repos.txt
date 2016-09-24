@@ -2094,6 +2094,7 @@ andyxialm/SmoothCheckBox
 angr/angr
 angrave/SystemProgramming
 angular-app/angular-app
+angular-dashboard-framework/angular-dashboard-framework
 angular-fullstack/generator-angular-fullstack
 angular-gantt/angular-gantt
 angular-google-chart/angular-google-chart
