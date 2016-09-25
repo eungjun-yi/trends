@@ -1414,6 +1414,7 @@ Shougo/neocomplete.vim
 Shougo/unite.vim
 Shougo/vimshell.vim
 SiCKRAGETV/SiCKRAGE
+SickRage/SickRage
 Sigil-Ebook/Sigil
 SignalR/SignalR
 SiliconStudio/xenko
@@ -1841,6 +1842,7 @@ aerofs/react-native-auto-updater
 aerospike/aerospike-server
 aerys/minko
 afaqurk/linux-dash
+afollestad/drag-select-recyclerview
 afollestad/material-camera
 afollestad/material-dialogs
 afragen/github-updater
@@ -1989,6 +1991,7 @@ almende/vis
 alohaeditor/Aloha-Editor
 alols/xcape
 alongubkin/spider
+alrojo/tensorflow-tutorial
 alrra/browser-logos
 alskipp/ASProgressPopUpView
 alskipp/ASValueTrackingSlider
@@ -2264,6 +2267,7 @@ argon/node-apn
 arguman/arguman.org
 aria2/aria2
 arialdomartini/oh-my-git
+arielelkin/PocketSVG
 arielf/weight-loss
 arimorty/floatingsearchview
 ariok/BWWalkthrough
@@ -4342,6 +4346,7 @@ flickr/justified-layout
 flightjs/flight
 flike/kingshard
 flitbit/diff
+floooh/oryol
 florent37/GlidePalette
 florent37/HollyViewPager
 florent37/MaterialViewPager
@@ -5900,6 +5905,7 @@ jwtk/jjwt
 jwysiwyg/jwysiwyg
 jxcore/jxcore
 jxnblk/fitter-happier-text
+jxnblk/geomicons-open
 jxnblk/loading
 jxnblk/rebass
 jzaefferer/jquery-validation
@@ -7574,6 +7580,7 @@ oldratlee/translations
 ole/OBShapedButton
 olebedev/go-starter-kit
 olefredrik/FoundationPress
+olegakbarov/redux-blog-example
 olgabot/prettyplotlib
 olistic/warriorjs
 oliver-moran/jimp
@@ -9518,6 +9525,7 @@ techtalk/SpecFlow
 tejado/pgoapi
 tejasmanohar/npm-algos
 tekezo/Karabiner
+tekezo/Karabiner-Elements
 tekknolagi/carp
 telegramdesktop/tdesktop
 telerik/kendo-ui-core
