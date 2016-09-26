@@ -230,6 +230,7 @@ BuoyantIO/linkerd
 BurntSushi/nflgame
 BurntSushi/ripgrep
 BurntSushi/toml
+BurntSushi/xsv
 ButchersBoy/MaterialDesignInXamlToolkit
 CEWendel/SWTableViewCell
 CISOfy/lynis
@@ -434,6 +435,7 @@ EddyVerbruggen/SocialSharing-PhoneGap-Plugin
 ElemeFE/element
 ElemeFE/mint-ui
 Elgg/Elgg
+Eloston/ungoogled-chromium
 EmergingTechnologyAdvisors/node-serialport
 Emsu/prophet
 Engelberg/instaparse
@@ -785,6 +787,7 @@ Julioacarrettoni/UIImageView_FaceAwareFill
 Jungerr/GridPasswordView
 Junnplus/awesome-python-books
 JustHTTP/Just
+JustWayward/BookReader
 JustinTulloss/zeromq.node
 Juude/awesome-android-performance
 Juude/droidReverse
@@ -1304,6 +1307,7 @@ Reactive-Extensions/Rx.NET
 Reactive-Extensions/RxJS
 ReactiveCocoa/ReactiveCocoa
 ReactiveCocoa/ReactiveViewModel
+ReactiveKit/Bond
 ReactiveRaven/jqBootstrapValidation
 ReactiveX/RxAndroid
 ReactiveX/RxJava
@@ -1507,8 +1511,10 @@ TalAter/UpUp
 TalAter/annyang
 TalAter/awesome-service-workers
 TalksLab/metro-bootstrap
+TangoAgency/material-intro-screen
 TanguyAladenise/BBBadgeBarButtonItem
 TargetProcess/tauCharts
+TeamNewPipe/NewPipe
 TeamStuQ/skill-map
 TechEmpower/FrameworkBenchmarks
 TedGoas/Cerberus
@@ -2138,6 +2144,7 @@ anijs/anijs
 anishathalye/git-remote-dropbox
 anishathalye/lumen
 anishathalye/neural-style
+anjlab/android-inapp-billing-v3
 ankane/ahoy
 ankane/chartkick
 ankane/groupdate
@@ -2414,6 +2421,7 @@ aymericdamien/TensorFlow-Examples
 aymericdamien/TopDeepLearning
 aziz/PlainTasks
 aziz/tmTheme-Editor
+azkaban/azkaban
 b3log/solo
 b3log/wide
 b4winckler/macvim
@@ -2840,6 +2848,7 @@ callmecavs/layzr.js
 callumboddy/CBZSplashView
 cambecc/earth
 cameron/squirt
+cameron314/concurrentqueue
 cameronmcefee/plax
 camlistore/camlistore
 camoconnell/lazy-line-painter
@@ -2964,6 +2973,7 @@ chef/bento
 chef/chef
 chef/chef-repo
 chef/cookbooks
+cheggaaa/pb
 chenglou/react-motion
 chenglou/react-tween-state
 chengr28/Pcap_DNSProxy
@@ -3458,6 +3468,7 @@ davatron5000/FitVids.js
 davatron5000/Lettering.js
 davebalmer/jo
 davecgh/go-spew
+davecheney/httpstat
 davedelong/CHCSVParser
 davej/angular-classy
 davemorrissey/subsampling-scale-image-view
@@ -3945,6 +3956,7 @@ elvanderb/TCP-32764
 elves/elvish
 elye/loaderviewlibrary
 emacs-helm/helm
+emacs-mirror/emacs
 emacs-tw/awesome-emacs
 email-spec/email-spec
 emaloney/CleanroomLogger
@@ -4098,6 +4110,7 @@ expressjs/morgan
 expressjs/multer
 expressjs/session
 eyecatchup/SEOstats
+ezyang/htmlpurifier
 f2prateek/rx-preferences
 fabianp/memory_profiler
 fabien-d/alertify.js
@@ -5308,6 +5321,7 @@ iovisor/bcc
 ipader/SwiftGuide
 ipfs/go-ipfs
 ipfs/ipfs
+iphone5solo/PYPhotoBrowser
 ipkn/crow
 ipselon/react-ui-builder
 ipselon/structor
@@ -5708,6 +5722,7 @@ joliss/jquery-ui-rails
 jonan/ForkHub
 jonas/tig
 jonase/kibit
+jonashaag/bjoern
 jonathanpenn/ui-auto-monkey
 jonathanpenn/ui-screen-shooter
 jonathanslenders/ptpython
@@ -5866,6 +5881,7 @@ junegunn/redis-stat
 junegunn/vim-easy-align
 junegunn/vim-plug
 junit-team/junit4
+junyanz/iGAN
 jupyter/jupyterhub
 jupyter/jupyterlab
 jupyter/notebook
@@ -6184,6 +6200,7 @@ kyleduo/SwitchButton
 kylef/swiftenv
 kylefox/jquery-modal
 kylemanna/docker-openvpn
+kylemcdonald/ofxFaceTracker
 kyleneideck/BackgroundMusic
 kylestetz/CLNDR
 kymjs/KJFrameForAndroid
@@ -6604,6 +6621,7 @@ marcoarment/FCModel
 marcoarment/secondcrack
 marcolago/flowtime.js
 marcosvidal/Sketch-Notebook
+marcotcr/lime
 marcshilling/react-native-image-picker
 marcuswestin/WebViewJavascriptBridge
 marcuswestin/store.js
@@ -7219,6 +7237,7 @@ myusuf3/delorean
 mzabriskie/axios
 mzabriskie/react-draggable
 mzlogin/awesome-adb
+mzucker/noteshrink
 mzule/ActivityRouter
 n1k0/casperjs
 n1nj4sec/pupy
@@ -7326,6 +7345,7 @@ nfarina/calloutview
 nfarina/homebridge
 nfl/react-helmet
 nfnt/resize
+ng-book/angular2-rxjs-chat
 ng-bootstrap/ng-bootstrap
 ngReact/ngReact
 ngaut/builddatabase
@@ -7450,6 +7470,7 @@ nomad/shenzhen
 nomiddlename/log4js-node
 non/spire
 noodlewerk/NWPusher
+nopSolutions/nopCommerce
 noplay/docker-osx
 noprompt/frak
 noraesae/perfect-scrollbar
@@ -7736,6 +7757,7 @@ pablojim/highcharts-ng
 pachyderm/pachyderm
 paddingme/Front-end-Web-Development-Interview-Question
 padolsey-archive/jquery.fn
+padraic/humbug
 padraic/mockery
 padrino/padrino-framework
 pagekit/pagekit
@@ -7866,6 +7888,7 @@ petkaantonov/bluebird
 petrnohejl/Android-Templates-And-Utilities
 petruisfan/node-supervisor
 petuum/bosen
+pfalcon/esp-open-sdk
 pfn/keepasshttp
 pfnet/chainer
 pfsense/pfsense
@@ -8316,6 +8339,7 @@ react-bootstrap/react-bootstrap
 react-native-community/React-Native-Elements
 react-native-community/react-native-elements
 react-native-community/react-native-navbar
+react-native-community/react-native-side-menu
 react-native-community/react-native-video
 react-native-fellowship/react-native-navbar
 react-native-material-design/react-native-material-design
@@ -8725,6 +8749,7 @@ samccone/drool
 samdutton/simpl
 sameersbn/docker-gitlab
 samizdatco/arbor
+samratashok/nishang
 samshadwell/TrumpScript
 samsquire/ideas
 samuelclay/NewsBlur
@@ -8854,6 +8879,7 @@ seebi/dircolors-solarized
 seejohnrun/haste-server
 seejohnrun/ice_cube
 seenaburns/dex-ui
+seetaface/SeetaFaceEngine
 segmentio/analytics.js
 segmentio/daydream
 segmentio/myth
@@ -9100,6 +9126,7 @@ smileyborg/TableViewCellWithAutoLayoutiOS8
 smileyborg/UIView-AutoLayout
 smira/aptly
 smore-inc/clippy.js
+smyte/jsxstyle
 snabbco/snabb
 snabbdom/snabbdom
 snare/voltron
@@ -9171,6 +9198,7 @@ soundcloud/roshi
 sourcegraph/checkup
 sourcegraph/srclib
 sourcegraph/thyme
+sourcelair/xterm.js
 soveran/cuba
 soveran/ohm
 sovereign/sovereign
