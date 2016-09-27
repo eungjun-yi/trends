@@ -1896,6 +1896,7 @@ ajalt/fuckitpy
 ajaxorg/ace
 ajaxorg/ace-builds
 ajaxorg/cloud9
+ajbrock/Neural-Photo-Editor
 ajenti/ajenti
 ajinabraham/Mobile-Security-Framework-MobSF
 ajlkn/skel
@@ -2586,6 +2587,7 @@ bigardone/phoenix-trello
 bigbluebutton/bigbluebutton
 bigcompany/know-your-http
 bignerdranch/Freddy
+bignerdranch/expandable-recycler-view
 bigspaceship/shine.js
 bigspotteddog/ScrollToFixed
 binIoter/GuideView
@@ -3483,6 +3485,7 @@ davidhalter/jedi
 davidhalter/jedi-vim
 davidhund/styleguide-generators
 davidjbradshaw/iframe-resizer
+davidkpiano/react-redux-form
 davidlazar/vuvuzela
 davidmerfield/Typeset
 davidmerfield/randomColor
@@ -3601,6 +3604,7 @@ devtools-html/debugger.html
 devttys0/binwalk
 devunwired/recyclerview-playground
 devxoul/Then
+devxoul/URLNavigator
 dexafree/MaterialList
 dfahlander/Dexie.js
 dfcb/BigVideo.js
@@ -3793,6 +3797,7 @@ driftyco/ionic-conference-app
 driftyco/ionic-native
 driftyco/ionicons
 driftyco/ng-cordova
+dripcap/dripcap
 drmeister/clasp
 drnic/ruby-on-rails-tmbundle
 drone/drone
@@ -4277,6 +4282,7 @@ felixge/node-mysql
 felixge/node-style-guide
 felixhageloh/uebersicht
 felixonmars/dnsmasq-china-list
+femmebot/google-type
 fengjundev/Android-Skin-Loader
 fengsp/plan
 fengyuanchen/cropper
@@ -4531,6 +4537,7 @@ gcanti/tcomb-form
 gcanti/tcomb-form-native
 gcc-mirror/gcc
 gchp/iota
+gchq/Gaffer
 gcuisinier/jenv
 geany/geany
 geddski/csstyle
@@ -4562,6 +4569,7 @@ gernest/utron
 getflourish/Sketch-Style-Inventory
 getgrav/grav
 getguesstimate/guesstimate-app
+getify/Functional-Light-JS
 getify/LABjs
 getify/You-Dont-Know-JS
 getify/asynquence
@@ -4792,6 +4800,7 @@ google/pyringe
 google/re2
 google/recaptcha
 google/roboto
+google/sanitizers
 google/santa
 google/seesaw
 google/skia
@@ -5984,6 +5993,7 @@ katzer/cordova-plugin-local-notifications
 kaushikgopal/RxJava-Android-Samples
 kazzkiq/balloon.css
 kbandla/APTnotes
+kbastani/spring-cloud-microservice-example
 kbengine/kbengine
 kcbanner/connect-mongo
 kchmck/vim-coffee-script
@@ -6772,6 +6782,7 @@ maxogden/menubar
 maxogden/monu
 maxogden/screencat
 maxogden/voxel-engine
+maxogden/yo-yo
 maxtaco/tamejs
 maxwellito/vivus
 mayuur/MJParallaxCollectionView
@@ -7795,6 +7806,7 @@ paradoxxxzero/butterfly
 paragonie/awesome-appsec
 paralax/awesome-honeypots
 paralect/robomongo
+parallel-js/parallel.js
 paramiko/paramiko
 paranoida/sass-mediaqueries
 pardom/ActiveAndroid
@@ -9237,6 +9249,7 @@ sporkrb/spork
 sporritt/jsPlumb
 spotify/SPTPersistentCache
 spotify/annoy
+spotify/apollo
 spotify/dh-virtualenv
 spotify/docker-gc
 spotify/helios
@@ -9265,6 +9278,7 @@ spyder-ide/spyder
 sq/JSIL
 sqlcipher/android-database-sqlcipher
 sqlcipher/sqlcipher
+sqlectron/sqlectron-gui
 sqlitebrowser/sqlitebrowser
 sqlmapproject/sqlmap
 sqren/fb-sleep-stats
