@@ -64,6 +64,7 @@ Ahmed-Ali/JSONExport
 AigeStudio/DatePicker
 AigeStudio/MultiThreadDownloader
 AigeStudio/WheelPicker
+Airblader/i3
 Akkyie/AKPickerView
 AlDanial/cloc
 Alamofire/Alamofire
@@ -940,6 +941,7 @@ MassTransit/MassTransit
 MasteringOpenCV/code
 Masterminds/glide
 Masterminds/squirrel
+MatejKustec/SpinThatShit
 Matt-Esch/virtual-dom
 MattWilcox/Adaptive-Images
 MatthewYork/DateTools
@@ -2825,6 +2827,7 @@ buzzfeed/Sketch-Toolbox
 bvaughn/react-virtualized
 bwsewell/tablecloth
 byoutline/kickmaterial
+byt3bl33d3r/CrackMapExec
 byt3bl33d3r/MITMf
 bytedeco/javacpp
 bytedeco/javacv
@@ -2860,6 +2863,7 @@ camwiegert/in-view
 candy-chat/candy
 canjs/canjs
 cantino/huginn
+cantino/ruby-readability
 canvg/canvg
 caolan/async
 caolan/forms
@@ -3299,6 +3303,7 @@ crosbymichael/not-dockers-ui
 crosbymichael/skydock
 crossbario/autobahn-python
 crossbario/crossbar
+crossroadlabs/Express
 crosswalk-project/crosswalk
 crowdint/rails3-jquery-autocomplete
 crsmithdev/arrow
@@ -5033,6 +5038,7 @@ hawx1993/Front-end-Interview-questions
 haxiomic/GPU-Fluid-Experiments
 haxpax/gosms
 hayaku/hayaku
+haywire/haywire
 hazelcast/hazelcast
 hbons/SparkleShare
 hdodenhof/CircleImageView
@@ -5352,6 +5358,7 @@ isaacs/node-glob
 isaacs/node-lru-cache
 isaacs/rimraf
 isagalaev/highlight.js
+ishkawa/APIKit
 isnowfy/snownlp
 isobar-idev/code-standards
 isocpp/CppCoreGuidelines
@@ -5991,7 +5998,9 @@ kattrali/Xcode-Plugin-Template
 kattrali/cocoapods-xcode-plugin
 katzer/cordova-plugin-local-notifications
 kaushikgopal/RxJava-Android-Samples
+kayalshri/tableExport.jquery.plugin
 kazzkiq/balloon.css
+kba7/trugithub
 kbandla/APTnotes
 kbastani/spring-cloud-microservice-example
 kbengine/kbengine
@@ -7217,6 +7226,7 @@ munificent/vigil
 munificent/wren
 munin-monitoring/contrib
 munin-monitoring/munin
+munki/munki
 murtaugh/HTML5-Reset
 murtaugh/HTML5-Reset-WordPress-Theme
 musescore/MuseScore
@@ -7602,6 +7612,7 @@ okTurtles/dnschain
 okfn/recline
 oklai/koala
 okmr-d/DOFavoriteButton
+okoala/vue-antd
 okonet/react-dropzone
 okor/justice
 okulbilisim/awesome-datascience
@@ -7729,6 +7740,7 @@ oscarotero/Embed
 oskarkrawczyk/Heyoffline
 oskarkrawczyk/heyoffline.js
 osmandapp/Osmand
+osmdroid/osmdroid
 osrg/gobgp
 osscafe/gulp-cheatsheet
 ossec/ossec-hids
@@ -7771,6 +7783,7 @@ padolsey-archive/jquery.fn
 padraic/humbug
 padraic/mockery
 padrino/padrino-framework
+pagehelper/Mybatis-PageHelper
 pagekit/pagekit
 pagespeed/ngx_pagespeed
 pahen/madge
@@ -8744,6 +8757,7 @@ sachinchoolur/lightGallery
 sachinchoolur/lightgallery.js
 sachinchoolur/lightslider
 saeedalipoor/icono
+saenzramiro/rambox
 sagivo/algorithms
 sahat/hackathon-starter
 sahat/megaboilerplate
@@ -10356,6 +10370,8 @@ wnafee/vector-compat
 wojodesign/simplecart-js
 wojteklu/Watchdog
 wonderfo/wonderfogo
+woocommerce/FlexSlider
+woocommerce/woocommerce
 wooga/Pocket-Island
 wooorm/alex
 wooorm/franc
@@ -10528,6 +10544,7 @@ yiisoft/yii
 yiisoft/yii2
 yinwang0/pysonar2
 yipianfengye/android-adDialog
+yipianfengye/android-zxingLibrary
 yixia/VitamioBundle
 yixiangboy/IOSAnimationDemo
 ylechelle/OpenUDID
