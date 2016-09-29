@@ -113,6 +113,7 @@ Antaris/RazorEngine
 AntennaPod/AntennaPod
 Anthony25/gnome-terminal-colors-solarized
 Anviking/Decodable
+AnyRTC/AnyRTC-RTMP
 ApiGen/ApiGen
 Apipie/apipie-rails
 ApmeM/android-flowlayout
@@ -152,6 +153,7 @@ Augustyniak/RATreeView
 AutoFixture/AutoFixture
 AutoMapper/AutoMapper
 Automattic/_s
+Automattic/amp-wp
 Automattic/antiscroll
 Automattic/cli-table
 Automattic/expect.js
@@ -444,6 +446,7 @@ EnjoySR/ESJsonFormat-Xcode
 Ensighten/grunt-spritesmith
 EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 Eonasdan/bootstrap-datetimepicker
+EpicGames/Signup
 Epix37/Hearthstone-Deck-Tracker
 Ereza/CustomActivityOnCrash
 EricssonResearch/openwebrtc
@@ -2090,6 +2093,7 @@ android-cn/android-dev-com
 android-cn/android-discuss
 android-cn/android-jobs
 android-cn/android-open-project-analysis
+android-cn/android-open-project-demo
 android/platform_development
 android/platform_frameworks_base
 android/platform_frameworks_support
@@ -2144,6 +2148,7 @@ angus-c/just
 angusshire/greenhat
 anicollection/anicollection
 anijs/anijs
+anishathalye/dotbot
 anishathalye/git-remote-dropbox
 anishathalye/lumen
 anishathalye/neural-style
@@ -3464,6 +3469,7 @@ dataarts/webgl-globe
 databricks/learning-spark
 databricks/scala-style-guide
 datamade/dedupe
+datasciencebr/serenata-de-amor
 datasciencemasters/go
 datastax/spark-cassandra-connector
 dataxpress/UICountingLabel
@@ -7452,6 +7458,7 @@ nnnick/Chart.js
 nnupoor/js_designpatterns
 noahd1/oink
 noamraph/tqdm
+node-apn/node-apn
 node-app/Interpreter
 node-ffi/node-ffi
 node-gh/gh
@@ -7623,6 +7630,7 @@ oldratlee/translations
 ole/OBShapedButton
 olebedev/go-starter-kit
 olefredrik/FoundationPress
+olegakbarov/react-redux-starter-kit
 olegakbarov/redux-blog-example
 olgabot/prettyplotlib
 olistic/warriorjs
@@ -8902,6 +8910,7 @@ sebyddd/SDVersion
 secgroundzero/warberry
 secretsquirrel/the-backdoor-factory
 seebi/dircolors-solarized
+seedante/CardAnimation
 seejohnrun/haste-server
 seejohnrun/ice_cube
 seenaburns/dex-ui
@@ -10094,6 +10103,7 @@ vanhauser-thc/thc-hydra
 vanilla/vanilla
 vapor/vapor
 variadico/noti
+variety/variety
 varnish/Varnish-Cache
 varnish/hitch
 vasanthk/css-refresher-notes
@@ -10326,6 +10336,7 @@ wg/wrk
 wg689/Solve-App-Store-Review-Problem
 whackashoe/antimoderate
 what-studio/profiling
+whatwg/html
 wheybags/freeablo
 white-cat/ThinkAndroid
 whitesmith/rubycritic
@@ -10361,6 +10372,7 @@ wit-ai/duckling
 witheve/Eve
 withoutboats/notty
 witoldsz/angular-http-auth
+wix/react-native-navigation
 wix/react-templates
 wiztools/rest-client
 wjakob/nanogui
