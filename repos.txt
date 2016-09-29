@@ -8993,6 +8993,7 @@ shea256/angular-flask
 sheerun/vim-polyglot
 shekhargulati/52-technologies-in-2016
 shekhargulati/99-problems
+shekhargulati/java8-the-missing-tutorial
 shellfire-dev/shellfire
 shelljs/shelljs
 shichuan/javascript-patterns
