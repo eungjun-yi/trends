@@ -3319,6 +3319,7 @@ crosswalk-project/crosswalk
 crowdint/rails3-jquery-autocomplete
 crsmithdev/arrow
 cruffenach/CRToast
+crufter/borg
 crypto101/book
 cryptocat/cryptocat-legacy
 cryptosphere/cryptosphere
@@ -4301,6 +4302,7 @@ felixge/node-mysql
 felixge/node-style-guide
 felixhageloh/uebersicht
 felixonmars/dnsmasq-china-list
+felixrieseberg/npm-windows-upgrade
 femmebot/google-type
 fengjundev/Android-Skin-Loader
 fengsp/plan
@@ -5548,6 +5550,7 @@ jdg/MBProgressHUD
 jdorn/json-editor
 jdsutton/Technical-Interview-Megarepo
 jeanphix/Ghost.py
+jeasonlzy/OkGo
 jeasonlzy/OkHttpUtils
 jeasonlzy0216/OkHttpUtils
 jech/polipo
@@ -6161,6 +6164,7 @@ konifar/android-material-design-icon-generator-plugin
 konmik/konmik.github.io
 konmik/nucleus
 konvajs/konva
+kootenpv/whereami
 koral--/android-gif-drawable
 koreader/koreader
 korma/Korma
@@ -6536,6 +6540,7 @@ lyft/scissors
 lynndylanhurley/devise_token_auth
 lynndylanhurley/ng-token-auth
 lynndylanhurley/redux-auth
+lysyi3m/osx-terminal-themes
 lzfse/lzfse
 lzyzsd/Awesome-RxJava
 lzyzsd/CircleProgress
@@ -7218,6 +7223,7 @@ mshang/python-elevator-challenge
 msiemens/tinydb
 mstamy2/PyPDF2
 mstarke/MacPass
+msurguy/background-blur
 msurguy/ladda-bootstrap
 msysgit/msysgit
 mtdowling/cron-expression
@@ -10289,6 +10295,7 @@ waylan/Python-Markdown
 waynell/VideoListPlayer
 waynewbishop/SwiftStructures
 wbkd/awesome-d3
+wbkd/awesome-interactive-journalism
 wbond/package_control
 wbond/package_control_channel
 wbotelhos/raty
