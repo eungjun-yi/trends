@@ -2182,6 +2182,7 @@ antirez/disque
 antirez/kilo
 antirez/lamernews
 antirez/linenoise
+antirez/neural-redis
 antirez/redis
 antirez/sds
 antitypical/Result
@@ -2397,6 +2398,7 @@ aui/font-spider
 aurajs/aura
 aurelhubert/ahbottomnavigation
 aurelia/framework
+austintoddj/canvas
 austinzheng/swift-2048
 auth0/angular-jwt
 auth0/express-jwt
@@ -3398,6 +3400,7 @@ daCapricorn/ArcMenu
 dabeaz/curio
 dabeaz/python-cookbook
 dae/anki
+dagwieers/unoconv
 dahlbyk/posh-git
 dahlia/awesome-sqlalchemy
 dailymotion/hls.js
@@ -3547,6 +3550,7 @@ dear-github/dear-github
 debian-pi/raspbian-ua-netinst
 debops/debops
 debops/debops-tools
+decaffeinate/decaffeinate
 decosoftware/deco-ide
 ded/bonzo
 ded/bowser
@@ -5666,6 +5670,7 @@ jkbrzt/cloudtunes
 jkbrzt/httpie
 jlevy/og-equity-compensation
 jlevy/the-art-of-command-line
+jlmakes/scrollreveal
 jlmakes/scrollreveal.js
 jlmd/AnimatedCircleLoadingView
 jlong/serve
@@ -6037,6 +6042,7 @@ keithamus/jwerty
 keithclark/selectivizr
 keithwhor/nodal
 keklikhasan/LDrawer
+kelektiv/node.bcrypt.js
 keleshev/schema
 kelseyhightower/confd
 kelseyhightower/kubernetes-the-hard-way
@@ -6247,6 +6253,7 @@ l-lin/angular-datatables
 l123456789jy/Lazy
 l20n/l20n.js
 lab2023/hierapolis
+labstack/armor
 labstack/echo
 lagom/lagom
 laher/goxc
@@ -8798,6 +8805,7 @@ saltstack/salt
 samaaron/sonic-pi
 samccone/The-cost-of-transpiling-es2015-in-2016
 samccone/drool
+samdark/yii2-cookbook
 samdutton/simpl
 sameersbn/docker-gitlab
 samizdatco/arbor
@@ -9779,6 +9787,7 @@ tinkerpop/blueprints
 tinkerpop/gremlin
 tiny-dnn/tiny-dnn
 tinymce/tinymce
+tista500/Adapta
 titoBouzout/SideBarEnhancements
 titon/toolkit
 tj/axon
@@ -10017,6 +10026,7 @@ twitter/twurl
 twitter/typeahead.js
 twitter/util
 twitterdev/furni-ios
+twoscoops/django-twoscoops-project
 twosigma/beaker-notebook
 twostairs/paperwork
 twostraws/HackingWithSwift
@@ -10239,6 +10249,7 @@ vuejs/vue
 vuejs/vue-cli
 vuejs/vue-devtools
 vuejs/vue-hackernews
+vuejs/vue-hackernews-2.0
 vuejs/vue-loader
 vuejs/vue-resource
 vuejs/vue-router
@@ -10507,6 +10518,7 @@ yadayada/acd_cli
 yagop/node-telegram-bot-api
 yagop/telegram-bot
 yahoo/AppDevKit
+yahoo/CaffeOnSpark
 yahoo/anthelion
 yahoo/boomerang
 yahoo/flux-examples
@@ -10516,6 +10528,7 @@ yahoo/gryffin
 yahoo/kafka-manager
 yahoo/mojito
 yahoo/mysql_perf_analyzer
+yahoo/open_nsfw
 yahoo/pulsar
 yahoo/pure
 yahoo/react-intl
@@ -10594,6 +10607,7 @@ you-dont-need/You-Dont-Need-Lodash-Underscore
 youknowone/UI7Kit
 youngsoft/MyLinearLayout
 youtube/api-samples
+youtube/doorman
 youtube/spfjs
 youtube/vitess
 youyudehexie/node123
@@ -10689,6 +10703,7 @@ ziahamza/webui-aria2
 zingchart/zingtouch
 zipmark/rspec_api_documentation
 zipme/RQShineLabel
+zippyui/react-datagrid
 zircote/swagger-php
 zk00006/OpenTLD
 zloirock/core-js
