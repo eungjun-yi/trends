@@ -1537,6 +1537,7 @@ TencentOpen/GT
 TencentOpen/behaviac
 Terry-Mao/goim
 Terry-Mao/gopush-cluster
+Tetrachrome/subpixel
 The-Compiler/qutebrowser
 TheAmazingAudioEngine/TheAmazingAudioEngine
 TheBerkin/Rant
