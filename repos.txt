@@ -546,6 +546,7 @@ Gazler/githug
 GcsSloop/AndroidNote
 Geal/nom
 GeekyAnts/NativeBase
+GeertJohan/go.rice
 GeniusVJR/LearningNotes
 GetBlimp/django-rest-framework-jwt
 GetExpert/redux-blog-example
@@ -586,6 +587,7 @@ H07000223/FlycoTabLayout
 HFTrader/DeepLearningBook
 HIPS/autograd
 HIT-Alibaba/interview
+HabitRPG/habitica
 HabitRPG/habitrpg
 HackPlan/quark-shell-mac
 Hacker0x01/react-datepicker
@@ -1629,6 +1631,7 @@ ViewDeck/ViewDeck
 VinceG/Bootstrap-Admin-Theme
 VinceG/twitter-bootstrap-wizard
 VincentGarreau/particles.js
+Vincit/objection.js
 Vinodh-G/ParallaxTableViewHeader
 VirusTotal/yara
 VisualPHPUnit/VisualPHPUnit
@@ -3063,6 +3066,7 @@ christabor/flask_jsondash
 christianalfoni/formsy-react
 christianalfoni/webpack-express-boilerplate
 christiannaths/Redacted-Font
+christinecha/choreographer-js
 christoomey/vim-tmux-navigator
 christopherthielen/ui-router-extras
 christophery/pushy
@@ -3183,6 +3187,7 @@ codejoust/session.js
 codekitchen/dinghy
 codelucas/newspaper
 codemirror/CodeMirror
+codemix/babel-plugin-typecheck
 codemix/fast.js
 codepath/android_guides
 codepath/ios_guides
@@ -3730,6 +3735,7 @@ docker/libcontainer
 docker/machine
 docker/swarm
 docker/swarmkit
+docker/toolbox
 docopt/docopt
 docpad/docpad
 doctrine/dbal
@@ -3863,6 +3869,7 @@ dustinrue/ControlPlane
 dustturtle/RealReachability
 dutchcoders/transfer.sh
 dvLden/Vidage
+dvajs/dva
 dvyukov/go-fuzz
 dwelch67/raspberrypi
 dxa4481/Pastejacking
@@ -4129,6 +4136,7 @@ evrone/quiet_assets
 excilys/androidannotations
 exercism/exercism.io
 exif-js/exif-js
+explosion/spaCy
 expressjs/body-parser
 expressjs/cors
 expressjs/express
@@ -5668,6 +5676,7 @@ jjoe64/GraphView
 jkaving/intellij-colors-solarized
 jkbrzt/cloudtunes
 jkbrzt/httpie
+jleclanche/django-push-notifications
 jlevy/og-equity-compensation
 jlevy/the-art-of-command-line
 jlmakes/scrollreveal
@@ -6548,6 +6557,7 @@ lynndylanhurley/devise_token_auth
 lynndylanhurley/ng-token-auth
 lynndylanhurley/redux-auth
 lysyi3m/osx-terminal-themes
+lz4/lz4
 lzfse/lzfse
 lzyzsd/Awesome-RxJava
 lzyzsd/CircleProgress
@@ -6725,6 +6735,7 @@ maruel/panicparse
 marvelapp/FancyTabBar
 marvelapp/devices.css
 maryrosecook/gitlet
+mas-cli/mas
 masayuki0812/c3
 mashery/iodocs
 mashpie/i18n-node
@@ -6749,6 +6760,7 @@ matrixxun/ProductTour
 matryer/bitbar
 matt-42/silicon
 matt-curtis/Fluid-for-Sketch
+mattbaird/elastigo
 mattboldt/typed.js
 mattbryson/TouchSwipe-Jquery-Plugin
 mattdesl/budo
@@ -8478,6 +8490,7 @@ relatedcode/ParseAlternatives
 relatedcode/ProgressHUD
 relatedcode/RealtimeChat
 relax/relax
+relayjs/relay-starter-kit
 rembo10/headphones
 remie/YouTransfer
 remind101/empire
@@ -9298,6 +9311,7 @@ spockframework/spock
 sporkmonger/addressable
 sporkrb/spork
 sporritt/jsPlumb
+spotify/HubFramework
 spotify/SPTPersistentCache
 spotify/annoy
 spotify/apollo
@@ -10286,6 +10300,7 @@ wangdan/AisenWeiBo
 wangfupeng1988/wangEditor
 wangjiegulu/RapidFloatingActionButton
 wangmchn/WMPageController
+wangshengjia/LeeGo
 wangshengjia/VWInstantRun
 wardowsmcc/badass
 warmcat/libwebsockets
