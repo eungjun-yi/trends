@@ -45,6 +45,7 @@
 75team/thinkjs
 81813780/AVLoadingIndicatorView
 91yun/serverspeeder
+9magnets/iOS-Developer-and-Designer-Interview-Questions
 9miao/Firefly
 ACRA/acra
 AFNetworking/AFIncrementalStore
@@ -385,6 +386,7 @@ DemocracyOS/democracyos
 DenisMondon/material-design-library
 DesarrolloAntonio/FragmentTransactionExtended
 DeskConnect/SBShortcutMenuSimulator
+DevLight-Mobile-Agency/ArcProgressStackView
 DevLight-Mobile-Agency/InfiniteCycleViewPager
 DevLight-Mobile-Agency/NavigationTabBar
 DevLight-Mobile-Agency/NavigationTabStrip
@@ -3597,6 +3599,7 @@ dennis714/RE-for-beginners
 dennisreimann/ioctocat
 dennybritz/deeplearning-papernotes
 dennybritz/neal-react
+dennybritz/reinforcement-learning
 densitydesign/raw
 denysdovhan/bash-handbook
 deployd/deployd
@@ -3874,6 +3877,7 @@ dvajs/dva
 dvyukov/go-fuzz
 dwelch67/raspberrypi
 dxa4481/Pastejacking
+dylanaraps/neofetch
 dylang/grunt-notify
 dylang/npm-check
 dylang/shortid
@@ -5240,6 +5244,7 @@ iRareMedia/iCloudDocumentSync
 iSimar/HackerNews-React-Native
 iam4x/pokemongo-webspoof
 iambus/xunlei-lixian
+iamcal/php-emoji
 iamceege/tooltipster
 iamdaiyuan/ios_top_1000
 iamduo/workq
@@ -6765,6 +6770,7 @@ mattbaird/elastigo
 mattboldt/typed.js
 mattbryson/TouchSwipe-Jquery-Plugin
 mattdesl/budo
+mattdesl/color-wander
 mattdesl/graphics-resources
 mattdesl/lwjgl-basics
 mattdesl/promise-cookbook
@@ -7521,6 +7527,7 @@ nodemailer/nodemailer
 nodemcu/nodemcu-firmware
 nodesource/distributions
 noelboss/featherlight
+noffle/art-of-readme
 noflo/noflo
 noidontdig/gitdown
 nojhan/colout
@@ -7733,6 +7740,7 @@ openfl/openfl
 openframeworks/openFrameworks
 opengapps/opengapps
 openhab/openhab
+openimages/dataset
 openlayers/ol2
 openlayers/ol3
 openpgpjs/openpgpjs
@@ -9602,6 +9610,7 @@ tastejs/todomvc
 tatsuhiro-t/aria2
 tautologistics/node-htmlparser
 taviso/ctypes.sh
+tawian/text-spinners
 taye/interact.js
 tayiorbeii/egghead.io_redux_course_notes
 tayllan/awesome-algorithms
@@ -9719,6 +9728,7 @@ there4/markdown-resume
 thermogl/TISwipeableTableView
 thest1/LazyList
 thestinger/termite
+thestonefox/SteamVR_Unity_Toolkit
 theturtle32/WebSocket-Node
 thewhitetulip/web-dev-golang-anti-textbook
 thiagopradi/octopus
@@ -10445,7 +10455,9 @@ wordpress-mobile/WordPress-Android
 wordpress-mobile/WordPress-iOS
 worker8/TourGuide
 workshirt/WSCoachMarksView
+workshopper/javascripting
 workshopper/learnyounode
+workshopper/stream-adventure
 workshopper/workshopper
 worldveil/dejavu
 worrydream/Tangle
