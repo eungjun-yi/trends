@@ -984,6 +984,7 @@ Microsoft/ProjectOxford-ClientSDK
 Microsoft/Pyjion
 Microsoft/TouchDevelop
 Microsoft/TypeScript
+Microsoft/TypeScript-Sublime-Plugin
 Microsoft/TypeScriptSamples
 Microsoft/Win2D
 Microsoft/WinObjC
@@ -1122,6 +1123,7 @@ NoamB/sorcery
 NodeBB/NodeBB
 NodeOS/NodeOS
 NodeRedis/node_redis
+NorthwoodsSoftware/GoJS
 Nummer/Destroy-Windows-10-Spying
 Nyr/openvpn-install
 Nyx0uf/NYXImagesKit
@@ -1947,6 +1949,7 @@ alex-sherman/deco
 alex/django-taggit
 alex/what-happens-when
 alexa/alexa-avs-raspberry-pi
+alexa/alexa-avs-sample-app
 alexanderGugel/ied
 alexanderdickson/waitForImages
 alexandersimoes/d3plus
@@ -2541,6 +2544,7 @@ beetbox/beets
 begeekmyfriend/yasea
 begriffs/css-ratiocinator
 begriffs/postgrest
+behave/behave
 belluzj/fantasque-sans
 ben-eb/cssnano
 ben-eb/gulp-uncss
@@ -3558,6 +3562,7 @@ dear-github/dear-github
 debian-pi/raspbian-ua-netinst
 debops/debops
 debops/debops-tools
+debugger22/github-audio
 decaffeinate/decaffeinate
 decosoftware/deco-ide
 ded/bonzo
@@ -3965,6 +3970,7 @@ ele828/react-native-guide
 electerious/Lychee
 electron-userland/electron-builder
 electron-userland/electron-packager
+electron/devtron
 electron/electron
 electron/electron-api-demos
 electron/electron-quick-start
@@ -4152,6 +4158,7 @@ expressjs/multer
 expressjs/session
 eyecatchup/SEOstats
 ezyang/htmlpurifier
+f2prateek/dart
 f2prateek/rx-preferences
 fabianp/memory_profiler
 fabien-d/alertify.js
@@ -4309,6 +4316,7 @@ fdzsergio/SFFocusViewLayout
 feathersjs/feathers
 feedbin/feedbin
 feedjira/feedjira
+feimosi/baguetteBox.js
 felicegattuso/datedropper
 felipecsl/AsymmetricGridView
 felipecsl/wombat
@@ -5625,6 +5633,7 @@ jfelchner/ruby-progressbar
 jfinal/jfinal
 jfirebaugh/konacha
 jflesch/paperwork
+jflinter/Dwifft
 jfrazelle/dockerfiles
 jgh-/VideoCore
 jgilfelt/SystemBarTint
@@ -5964,6 +5973,7 @@ jverkoey/nimbus
 jvns/pandas-cookbook
 jw84/messenger-bot-tutorial
 jwagner/smartcrop.js
+jwasham/google-interview-university
 jwiegley/use-package
 jwilder/docker-gen
 jwilder/docker-squash
@@ -6640,6 +6650,7 @@ makovkastar/FloatingActionButton
 malarkey/320andup
 malcommac/SwiftDate
 malcommac/SwiftLocation
+malfunkt/hyperfox
 malihu/malihu-custom-scrollbar-plugin
 malsup/blockui
 malsup/cycle
@@ -7520,6 +7531,7 @@ nodejitsu/node-http-proxy
 nodejs/http-parser
 nodejs/nan
 nodejs/node
+nodejs/node-chakracore
 nodejs/node-convergence-archive
 nodejs/node-gyp
 nodejs/node-v0.x-archive
