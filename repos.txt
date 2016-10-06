@@ -1410,6 +1410,7 @@ Semantic-Org/Semantic-UI
 Sephiroth87/ODRefreshControl
 Serhioromano/bootstrap-calendar
 ServiceStack/ServiceStack
+ServiceStack/ServiceStack.OrmLite
 ServiceStack/ServiceStack.Redis
 ShareKit/ShareKit
 ShareX/ShareX
@@ -1600,6 +1601,7 @@ Uncodin/bypass
 UnionOfRAD/lithium
 Unitech/pm2
 Unknwon/go-fundamental-programming
+Unknwon/go-web-foundation
 Unknwon/the-way-to-go_ZH_CN
 UrbanApps/UAModalPanel
 UrbanApps/UAProgressView
@@ -2154,6 +2156,7 @@ angular/material2
 angular/protractor
 angular/quickstart
 angular/universal
+angular/universal-starter
 angular/zone.js
 angularjs-nvd3-directives/angularjs-nvd3-directives
 angulartics/angulartics
@@ -2685,6 +2688,7 @@ bmizerany/pat
 bmizerany/sinatra
 bmkmanoj/js-by-examples
 bmrf/tron
+bnb/awesome-hyper
 bnb/awesome-hyperterm
 bnoguchi/everyauth
 bnoordhuis/node-heapdump
@@ -3002,6 +3006,7 @@ chef/bento
 chef/chef
 chef/chef-repo
 chef/cookbooks
+chef/omnibus
 cheggaaa/pb
 chenglou/react-motion
 chenglou/react-tween-state
@@ -3825,6 +3830,7 @@ drduh/pwd.sh
 dreamhead/moco
 dreikanter/ruby-bookmarks
 dresende/node-orm2
+drewm/mailchimp-api
 drewmccormack/ensembles
 drewwilson/atvImg
 drhenner/ror_ecommerce
@@ -4163,6 +4169,7 @@ f2prateek/rx-preferences
 fabianp/memory_profiler
 fabien-d/alertify.js
 fabric/fabric
+fabtools/fabtools
 facebook/AsyncDisplayKit
 facebook/FBMemoryProfiler
 facebook/FBRetainCycleDetector
@@ -4866,6 +4873,7 @@ googlecreativelab/anypixel
 googlecreativelab/coder
 googlei18n/libphonenumber
 googlemaps/android-maps-utils
+googlemaps/js-marker-clusterer
 googlesamples/android-UniversalMusicPlayer
 googlesamples/android-architecture
 googlesamples/android-ndk
@@ -4878,6 +4886,7 @@ googlesamples/easypermissions
 googlesamples/google-services
 googlevr/gvr-android-sdk
 googlevr/gvr-unity-sdk
+googlevr/vrview
 googollee/eviltransform
 googollee/go-socket.io
 gopatrik/space.js
@@ -5383,6 +5392,7 @@ ipkn/crow
 ipselon/react-ui-builder
 ipselon/structor
 ipup/PPRevealSideViewController
+ipython-contrib/jupyter_contrib_nbextensions
 ipython/ipython
 ircmaxell/password_compat
 iridakos/duckrails
@@ -5421,6 +5431,7 @@ ivansafrin/Polycode
 ivopetkov/responsively-lazy
 iwasrobbed/Objective-C-CheatSheet
 iwasrobbed/RPFloatingPlaceholders
+iwgang/CountdownView
 iziz/libPhoneNumber-iOS
 izqui/Taylor
 izzyleung/ZhihuDailyPurify
@@ -5466,6 +5477,7 @@ jakubgarfield/Bonobo-Git-Server
 jakubpawlowicz/clean-css
 jaliss/securesocial
 jalxob/cool-kitten
+james2m/seedbank
 jamesallardice/Placeholders.js
 jamesflorentino/nanoScrollerJS
 jamesgpearce/confess
@@ -5578,6 +5590,7 @@ jdsutton/Technical-Interview-Megarepo
 jeanphix/Ghost.py
 jeasonlzy/OkGo
 jeasonlzy/OkHttpUtils
+jeasonlzy/okhttp-OkGo
 jeasonlzy0216/OkHttpUtils
 jech/polipo
 jed/140bytes
@@ -7279,6 +7292,7 @@ mudcube/MIDI.js
 muhku/FreeStreamer
 muicss/mui
 mulgore/Front-End-Develop-Guide
+multidots/android-common-tasks
 mumble-voip/mumble
 munificent/game-programming-patterns
 munificent/vigil
@@ -8128,6 +8142,7 @@ pmwkaa/sophia
 pnikosis/materialish-progress
 pockethub/PocketHub
 pocketjoso/penthouse
+pocketsvg/PocketSVG
 pocoproject/poco
 pocorall/scaloid
 podio/jquery-mentions-input
@@ -8440,6 +8455,7 @@ reactGo/reactGo
 reactioncommerce/reaction
 reactive-streams/reactive-streams-jvm
 reactiveui/ReactiveUI
+reactjs/React.NET
 reactjs/express-react-views
 reactjs/react-a11y
 reactjs/react-art
@@ -8540,6 +8556,7 @@ request/request-promise
 requirejs/almond
 requirejs/r.js
 requirejs/requirejs
+requirejs/text
 res0nat0r/gitosis
 rescrv/HyperDex
 resin-io/etcher
@@ -9421,6 +9438,7 @@ staltz/flux-challenge
 staltz/rxmarbles
 stamparm/maltrail
 stampit-org/stampit
+stanfordjournalism/search-script-scrape
 stanfordnlp/CoreNLP
 star7th/showdoc
 stascorp/rdpwrap
@@ -9459,6 +9477,7 @@ steshaw/plt
 stevedekorte/io
 stevegraham/slanger
 stevekwan/best-practices
+stevemao/left-pad
 stevenmiller888/mind
 stevenschobert/instafeed.js
 stevenwanderski/bxslider-4
@@ -10159,6 +10178,7 @@ utkusen/hidden-tear
 utom/sketch-measure
 uutils/coreutils
 uxebu/bonsai
+uxsolutions/bootstrap-datepicker
 uzysjung/UzysAnimatedGifPullToRefresh
 v2ray/v2ray-core
 v8/v8
@@ -10510,6 +10530,7 @@ xaviershay/enki
 xbmc/xbmc
 xcatliu/mobi.css
 xcc3641/SeeWeather
+xchaoinfo/fuck-login
 xcltapestry/XCL-Charts
 xdan/datetimepicker
 xdebug/xdebug
@@ -10700,6 +10721,7 @@ zdfs/toscani
 zealdocs/zeal
 zedapp/zed
 zedshaw/lpthw-study-projects
+zeit/hyper
 zeit/hyperterm
 zeit/micro
 zeit/micro-cli
