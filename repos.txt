@@ -713,6 +713,7 @@ JakeWharton/Android-DirectionalViewPager
 JakeWharton/DiskLruCache
 JakeWharton/NineOldAndroids
 JakeWharton/RxBinding
+JakeWharton/RxRelay
 JakeWharton/Telecine
 JakeWharton/ThreeTenABP
 JakeWharton/ViewPagerIndicator
@@ -2035,6 +2036,7 @@ alvises/FPPopover
 amaas/stanford_dl_ex
 amark/gun
 amatsuda/kaminari
+amattson21/gitjob
 amayne/SwiftString
 amazeui/amazeui
 amazeui/amazeui-react
@@ -2682,6 +2684,7 @@ bluelinelabs/Conductor
 bluelinelabs/LoganSquare
 bluesmoon/node-geoip
 blynn/gitmagic
+bm-x/PhotoView
 bmatzelle/gow
 bmelnychuk/AndroidTreeView
 bmizerany/pat
@@ -2788,6 +2791,7 @@ briannesbitt/Carbon
 brianreavis/sifter.js
 bridgetkromhout/devops-against-humanity
 brigade/overcommit
+brigade/react-waypoint
 brigade/scss-lint
 brigand/react-mixin
 brikis98/docker-osx-dev
@@ -3604,6 +3608,7 @@ delba/TextAttributes
 delight-im/FreeGeoDB
 dellis23/ispy
 demonnico/PinterestSwift
+dempfi/ayu
 denkGroot/Spina
 dennis714/RE-for-beginners
 dennisreimann/ioctocat
@@ -3743,6 +3748,7 @@ docker/docker-bench-security
 docker/docker-py
 docker/docker-registry
 docker/dockercraft
+docker/infrakit
 docker/kitematic
 docker/libchan
 docker/libcontainer
@@ -4605,6 +4611,7 @@ geekcompany/ResumeSample
 geekcomputers/Python
 geelen/x-gif
 geftimov/android-pathview
+geftimov/android-player
 gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5
 gelstudios/gitfiti
 geminabox/geminabox
@@ -4704,6 +4711,7 @@ github/pages-gem
 github/scientist
 github/swift-style-guide
 github/time-elements
+github/training-kit
 gitlabhq/gitlab-ci
 gitlabhq/gitlabhq
 gitpython-developers/GitPython
@@ -5799,6 +5807,7 @@ jonan/ForkHub
 jonas/tig
 jonase/kibit
 jonashaag/bjoern
+jonathan-bower/DataScienceResources
 jonathanpenn/ui-auto-monkey
 jonathanpenn/ui-screen-shooter
 jonathanslenders/ptpython
@@ -7080,6 +7089,7 @@ mitchellh/vagrant-aws
 mitmproxy/mitmproxy
 mitro-co/mitro
 mitsuhiko/flask-sqlalchemy
+mitsuhiko/pipsi
 mixi-inc/AndroidTraining
 mixi-inc/iOSTraining
 mixu/distsysbook
@@ -7292,6 +7302,7 @@ mudcube/MIDI.js
 muhku/FreeStreamer
 muicss/mui
 mulgore/Front-End-Develop-Guide
+multidots/android-app-common-tasks
 multidots/android-common-tasks
 mumble-voip/mumble
 munificent/game-programming-patterns
@@ -7509,6 +7520,7 @@ ninjudd/drip
 niorgai/StatusBarCompat
 nispok/snackbar
 nisrulz/easydeviceinfo
+nitrogen/nitrogen
 nivwusquorum/tensorflow-deepq
 nixzhu/MonkeyKing
 nixzhu/dev-blog
@@ -9763,6 +9775,7 @@ thestonefox/SteamVR_Unity_Toolkit
 theturtle32/WebSocket-Node
 thewhitetulip/web-dev-golang-anti-textbook
 thiagopradi/octopus
+thibmaek/awesome-raspberry-pi
 thibmaek/awesome-raspberrypi
 thingdom/node-neo4j
 think2011/localResizeIMG
@@ -10224,6 +10237,7 @@ vhf/free-programming-books
 vic317yeh/One-Click-to-Be-Pro
 vicpenap/PrettyKit
 victorBaro/VBFPopFlatButton
+victorcoder/dkron
 victorporof/Sublime-HTMLPrettify
 victorstanciu/dbv
 videlalvaro/gifsockets
@@ -10503,6 +10517,7 @@ wsargent/docker-cheat-sheet
 wting/autojump
 wuhaoyu1990/MagicCamera
 wujunyang/MobileProject
+wulkano/kap
 wunderlist/android-sliding-layer-lib
 wuub/SublimeREPL
 wuye9036/CppTemplateTutorial
