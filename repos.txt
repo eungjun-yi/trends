@@ -525,6 +525,7 @@ FreeRDP/FreeRDP
 Freeboard/freeboard
 Freelander/Android_Data
 Frege/frege
+Friend-LGA/LGSideMenuController
 FriendsOfPHP/Goutte
 FriendsOfPHP/PHP-CS-Fixer
 FriendsOfPHP/Sami
@@ -1763,6 +1764,7 @@ Zizaco/confide
 Zizaco/entrust
 Zomato/AndroidPhotoFilters
 ZoneMinder/ZoneMinder
+ZuYun/Jgraph
 Zulko/moviepy
 a0viedo/demystifying-js-engines
 a11yproject/a11yproject.com
@@ -4877,6 +4879,7 @@ google/xi-editor
 google/yapf
 google/zopfli
 googleanalytics/autotrack
+googlecartographer/cartographer
 googlecreativelab/anypixel
 googlecreativelab/coder
 googlei18n/libphonenumber
@@ -6961,6 +6964,7 @@ mewwts/addict
 mezzoblue/csszengarden.com
 mfornos/awesome-microservices
 mgcrea/angular-strap
+mgechev/angular-seed
 mgechev/angular2-seed
 mgechev/angular2-style-guide
 mgechev/angularjs-in-patterns
@@ -8116,6 +8120,7 @@ pixie-lang/pixie
 pixijs/pixi.js
 pjreddie/darknet
 pkg/errors
+pkgcloud/pkgcloud
 pkluz/PKHUD
 pkluz/PKRevealController
 pkmital/tensorflow_tutorials
@@ -9085,6 +9090,7 @@ shekhargulati/99-problems
 shekhargulati/java8-the-missing-tutorial
 shellfire-dev/shellfire
 shelljs/shelljs
+shellphish/how2heap
 shichuan/javascript-patterns
 shiffman/The-Nature-of-Code-Examples
 shiffman/The-Nature-of-Code-archive
@@ -10106,6 +10112,7 @@ txusballesteros/bubbles-for-android
 txusballesteros/welcome-coordinator
 ty4z2008/Qix
 tybenz/vimdeck
+tylerb/graceful
 tylermcginnis/re-base
 tylertate/semantic.gs
 tylertreat/chan
@@ -10356,6 +10363,7 @@ wang-bin/QtAV
 wangdan/AisenWeiBo
 wangfupeng1988/wangEditor
 wangjiegulu/RapidFloatingActionButton
+wangjiegulu/WheelView
 wangmchn/WMPageController
 wangshengjia/LeeGo
 wangshengjia/VWInstantRun
@@ -10576,6 +10584,7 @@ xmartlabs/XLActionController
 xmartlabs/XLForm
 xmartlabs/XLPagerTabStrip
 xmuSistone/android-card-slide-panel
+xmuSistone/android-page-transition
 xmuSistone/android-vertical-slide-view
 xonsh/xonsh
 xoreaxeaxeax/movfuscator
