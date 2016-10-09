@@ -47,6 +47,7 @@
 91yun/serverspeeder
 9magnets/iOS-Developer-and-Designer-Interview-Questions
 9miao/Firefly
+AAkira/ExpandableLayout
 ACRA/acra
 AFNetworking/AFIncrementalStore
 AFNetworking/AFNetworking
@@ -1728,6 +1729,7 @@ Yalantis/pull-to-make-soup
 Yalantis/uCrop
 YaroslavGaponov/node-jvm
 YePpHa/YouTubeCenter
+Yelp/MOE
 Yelp/dockersh
 Yelp/dumb-init
 Yelp/elastalert
@@ -2118,6 +2120,7 @@ android/platform_frameworks_base
 android/platform_frameworks_support
 android10/Android-CleanArchitecture
 android10/frodo
+androidannotations/androidannotations
 androidquery/androidquery
 andsens/homeshick
 andyearnshaw/Intl.js
@@ -2566,6 +2569,7 @@ benedmunds/CodeIgniter-Ion-Auth
 bengottlieb/Twitter-OAuth-iPhone
 benhowdle89/grade
 benhowdle89/svgeezy
+beniz/deepdetect
 benjamine/jsondiffpatch
 benjaminoakes/maid
 benjamn/recast
@@ -3347,6 +3351,7 @@ cruffenach/CRToast
 crufter/borg
 crypto101/book
 cryptocat/cryptocat-legacy
+cryptomator/cryptomator
 cryptosphere/cryptosphere
 crystal-lang/crystal
 cs109/content
@@ -3834,6 +3839,7 @@ drakeet/MaterialDialog
 drakeet/Meizhi
 drapergem/draper
 drduh/OS-X-Security-and-Privacy-Guide
+drduh/macOS-Security-and-Privacy-Guide
 drduh/pwd.sh
 dreamhead/moco
 dreikanter/ruby-bookmarks
@@ -4866,6 +4872,7 @@ google/roboto
 google/sanitizers
 google/santa
 google/seesaw
+google/shaka-player
 google/skia
 google/snappy
 google/stenographer
@@ -5581,6 +5588,7 @@ jbutz/bootstrap-lightbox
 jcbrand/converse.js
 jceb/vim-orgmode
 jch/html-pipeline
+jcjohnson/fast-neural-style
 jcjohnson/neural-style
 jcjohnson/torch-rnn
 jcoglan/sylvester
@@ -5748,6 +5756,7 @@ jnordberg/wintersmith
 jnunemaker/flipper
 jnunemaker/httparty
 jnv/lists
+joanbruna/stat212b
 joaotavora/yasnippet
 jobbole/awesome-c-cn
 jobbole/awesome-ios-cn
@@ -6031,6 +6040,7 @@ kaishengtai/neuralart
 kaishin/Gifu
 kaishin/ImageScout
 kakserpom/phpdaemon
+kalcaddle/KODExplorer
 kaldi-asr/kaldi
 kamalgill/flask-appengine-template
 kamens/jQuery-menu-aim
@@ -6931,6 +6941,7 @@ medyo/android-about-page
 meenie/8bit.js
 meenie/band.js
 meenie/munee
+meetecho/janus-gateway
 mehrdadrad/mylg
 melanke/Watch.JS
 meleyal/backbone-on-rails
@@ -7216,6 +7227,7 @@ mouse0270/bootstrap-notify
 movielala/VideoSplashKit
 moxie0/sslstrip
 moxiecode/plupload
+moyix/panda
 mozbrick/brick
 mozilla-b2g/B2G
 mozilla-b2g/gaia
@@ -7696,6 +7708,7 @@ offensive-security/kali-nethunter
 officert/mongotron
 ogaclejapan/ArcLayout
 ogaclejapan/SmartTabLayout
+ogham/exa
 ogrisel/parallel_ml_tutorial
 oguzbilgener/CircularFloatingActionMenu
 oh-my-fish/oh-my-fish
@@ -8976,6 +8989,7 @@ sd6352051/NiftyNotification
 sdc-alibaba/SUI-Mobile
 sdegutis/mjolnir
 sdelements/lets-chat
+sdg-mit/gitless
 sdiehl/wiwinwlh
 sdiehl/write-you-a-haskell
 sdispater/pendulum
@@ -10151,6 +10165,7 @@ ubolonton/js-csp
 ubuwaits/beautiful-web-type
 ubuwaits/css3-buttons
 udacity/Sunshine-Version-2
+udacity/self-driving-car
 ueberauth/guardian
 uglide/RedisDesktopManager
 ugol/pomodoro
