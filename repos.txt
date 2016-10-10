@@ -2283,6 +2283,7 @@ apple/swift-package-manager
 applidium/ADTransitionController
 apprenticeharper/DeDRM_tools
 appsquickly/Typhoon
+appunite/AndroidFFmpeg
 aquynh/capstone
 arachnys/athenapdf
 arachnys/cabot
@@ -2294,6 +2295,7 @@ aras-p/glsl-optimizer
 arasatasaygin/is.js
 arashpayan/appirater
 arc90/git-sweep
+arcadefire/nice-spinner
 archagon/tasty-imitation-keyboard
 arclanguage/anarki
 ardagnir/athame
@@ -2699,6 +2701,7 @@ bmkmanoj/js-by-examples
 bmrf/tron
 bnb/awesome-hyper
 bnb/awesome-hyperterm
+bndr/pipreqs
 bnoguchi/everyauth
 bnoordhuis/node-heapdump
 bobthecow/genghis
@@ -2844,6 +2847,7 @@ buger/gor
 buildbot/buildbot
 buildinternet/supersized
 bulletphysics/bullet3
+bulutyazilim/awesome-datascience
 bumptech/glide
 bumptech/stud
 bundestag/gesetze
@@ -2937,6 +2941,7 @@ carrot/share-button
 carsonperrotti/CNPPopupController
 cartalyst/sentry
 carteb/carte-blanche
+casatwy/RTNetworking
 casesandberg/react-color
 casesandberg/reactcss
 caskroom/homebrew-cask
@@ -2975,6 +2980,7 @@ centrifugal/centrifugo
 ceolter/ag-grid
 ceph/ceph
 cer/event-sourcing-examples
+cerebral/cerebral
 cerebris/jsonapi-resources
 certbot/certbot
 cesanta/mongoose
@@ -3648,6 +3654,7 @@ developit/preact
 deviantony/docker-elk
 devinhunt/typebase.css
 devinross/tapkulibrary
+devlint/gridlex
 devongovett/pdfkit
 devopsgroup-io/vagrant-digitalocean
 devopsgroup-io/vagrant-hostmanager
@@ -4890,6 +4897,7 @@ googlecartographer/cartographer
 googlecreativelab/anypixel
 googlecreativelab/coder
 googlei18n/libphonenumber
+googlei18n/noto-fonts
 googlemaps/android-maps-utils
 googlemaps/js-marker-clusterer
 googlesamples/android-UniversalMusicPlayer
@@ -5606,6 +5614,7 @@ jdewit/bootstrap-timepicker
 jdg/MBProgressHUD
 jdorn/json-editor
 jdsutton/Technical-Interview-Megarepo
+jdwittenauer/ipython-notebooks
 jeanphix/Ghost.py
 jeasonlzy/OkGo
 jeasonlzy/OkHttpUtils
@@ -5639,6 +5648,7 @@ jenkinsci/blueocean-plugin
 jenkinsci/pipeline-plugin
 jenssegers/agent
 jenssegers/laravel-mongodb
+jepsen-io/jepsen
 jeremyevans/sequel
 jeremyw/stamp
 jeresig/processing-js
@@ -5945,6 +5955,7 @@ jsonmodel/jsonmodel
 jsonresume/resume-cli
 jsor/jcarousel
 jspahrsummers/libextobjc
+jsplumb/jsPlumb
 jspm/jspm-cli
 jssor/slider
 jsstyles/jss
@@ -6229,6 +6240,7 @@ kombai/freewall
 konifar/android-material-design-icon-generator-plugin
 konmik/konmik.github.io
 konmik/nucleus
+kontena/kontena
 konvajs/konva
 kootenpv/whereami
 koral--/android-gif-drawable
@@ -6415,6 +6427,7 @@ leucos/ansible-tuto
 leveros/leveros
 levey/AwesomeMenu
 levionessa/elixir_style_guide
+lewagon/dotfiles
 lewis617/react-redux-tutorial
 lexborisov/myhtml
 lexrus/LTMorphingLabel
@@ -6640,6 +6653,7 @@ madisonmay/CommonRegex
 madisonmay/Tomorrow
 madler/pigz
 madmalik/mononoki
+madoublet/respond
 madrobby/keymaster
 madrobby/microjs.com
 madrobby/scriptaculous
@@ -9393,6 +9407,7 @@ sprang/Brushes
 sprang/Inkpad
 spray/spray
 spree/spree
+spring-guides/tut-spring-security-and-angular-js
 spring-projects/spring-boot
 spring-projects/spring-framework
 spring-projects/spring-integration-samples
@@ -10475,6 +10490,7 @@ whyrusleeping/gx
 widuu/chinese_docker
 wikimedia/wikipedia-ios
 wildabeast/BarcodeScanner
+wilddeer/stickyfill
 wildfly/wildfly
 willfarrell/alfred-workflows
 williamngan/roll
