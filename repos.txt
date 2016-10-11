@@ -522,6 +522,7 @@ FredKSchott/the-node-way
 FredrikNoren/ungit
 FreeCAD/FreeCAD
 FreeCodeCamp/FreeCodeCamp
+FreeCodeCampChina/freecodecamp.cn
 FreeRDP/FreeRDP
 Freeboard/freeboard
 Freelander/Android_Data
@@ -556,6 +557,7 @@ GetBlimp/django-rest-framework-jwt
 GetExpert/redux-blog-example
 GetmeUK/ContentTools
 Ghosh/uiGradients
+GiovineItalia/Gadfly.jl
 Giphy/GiphyAPI
 GitbookIO/editor-legacy
 GitbookIO/gitbook
@@ -621,6 +623,7 @@ Herzult/SimplePHPEasyPlus
 HeshamMegid/HMSegmentedControl
 Hextris/hextris
 Hexxeh/rpi-update
+Heydon/fukol-grids
 HiFaraz/node-playbook
 HighBay/PageMenu
 HipByte/RubyMotionSamples
@@ -630,6 +633,7 @@ Homebrew/brew
 Homebrew/homebrew-bundle
 Homebrew/homebrew-core
 Homebrew/homebrew-php
+Homebrew/homebrew-science
 Homebrew/legacy-homebrew
 HoneyNeutrons/RecyclerViewUndoSwipe
 HospitalRun/hospitalrun-frontend
@@ -5677,6 +5681,7 @@ jfirebaugh/konacha
 jflesch/paperwork
 jflinter/Dwifft
 jfrazelle/dockerfiles
+jgamblin/Mirai-Source-Code
 jgh-/VideoCore
 jgilfelt/SystemBarTint
 jgilfelt/android-actionbarstylegenerator
@@ -6475,6 +6480,7 @@ lightningtgc/MProgress.js
 lihaoyi/Ammonite
 lihaoyi/macropy
 lihongxun945/jquery-weui
+lijin-THU/notes-python
 likeastore/ngDialog
 limetext/lime
 limonte/sweetalert2
@@ -6716,6 +6722,7 @@ manifestinteractive/jqvmap
 manosim/gitify
 manuelbieh/Geolib
 manuelkiessling/nodebeginner.org
+manuelruder/artistic-videos
 manuels/texlive.js
 maoruibin/TranslateApp
 mapbox/maki
@@ -7728,6 +7735,7 @@ oguzbilgener/CircularFloatingActionMenu
 oh-my-fish/oh-my-fish
 ohler55/oj
 ohoachuck/wwdc-downloader
+ok-borg/borg
 okTurtles/dnschain
 okfn/recline
 oklai/koala
@@ -7789,6 +7797,7 @@ oortcloud/unofficial-meteor-faq
 ooyala/barkeep
 opal/opal
 opauth/opauth
+open-guides/og-aws
 open-power-workgroup/Hospital
 open-source-parsers/jsoncpp
 open-source-society/computer-science
@@ -8503,6 +8512,7 @@ reactjs/React.NET
 reactjs/express-react-views
 reactjs/react-a11y
 reactjs/react-art
+reactjs/react-autocomplete
 reactjs/react-basic
 reactjs/react-chartjs
 reactjs/react-future
@@ -10283,6 +10293,7 @@ videojs/video.js
 videojs/videojs-contrib-hls
 videolan/vlc
 viewfinderco/viewfinder
+viewflow/django-material
 vigetlabs/gulp-starter
 viki-org/VKVideoPlayer
 vikmeup/SCLAlertView-Swift
@@ -10670,6 +10681,7 @@ yanzhenjie/NoHttp
 yaoweibin/nginx_tcp_proxy_module
 yapstudios/YapDatabase
 yargs/yargs
+yarnpkg/yarn
 yaronn/blessed-contrib
 yaronn/wopr
 yarrick/iodine
