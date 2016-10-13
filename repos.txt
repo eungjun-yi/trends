@@ -681,6 +681,7 @@ ImmortalZ/StereoView
 Indamix/real-shadow
 Indatus/dispatcher
 InfyOmLabs/laravel-generator
+Instagram/IGListKit
 Instagram/ig-json-parser
 InterNations/antwort
 Intervention/image
@@ -1081,6 +1082,7 @@ NanoHttpd/nanohttpd
 Naoki2015/CircleDemo
 NarrativeScience/Log.io
 Narzerus/angular-permission
+NathanWalker/angular-seed-advanced
 NathanWalker/angular2-seed-advanced
 NationalSecurityAgency/SIMP
 NativeScript/NativeScript
@@ -1753,6 +1755,7 @@ YouXianMing/Animations
 YouXianMing/YoCelsius
 YuzuJS/setImmediate
 Z3Prover/z3
+ZBar/ZBar
 ZQiang94/Andriod-collect-blogs
 ZaBlanc/RaptureXML
 Zarel/Pokemon-Showdown
@@ -1863,6 +1866,7 @@ adobe-webplatform/dropcap.js
 adobe/brackets
 adobe/brackets-shell
 adonisjs/adonis-framework
+adonovan/gopl.io
 adrai/flowchart.js
 adrianco/spigo
 adriancooney/console.image
@@ -2272,6 +2276,7 @@ apotonick/cells
 apotonick/reform
 apotonick/roar
 apotonick/trailblazer
+appbaseio/mirage
 appc/spec
 appcelerator/KitchenSink
 appcelerator/alloy
@@ -3654,6 +3659,7 @@ detailyang/awesome-cheatsheet
 detro/ghostdriver
 devbridge/Styleguide
 devbridge/jQuery-Autocomplete
+devcxm/iOS-Images-Extractor
 developit/preact
 deviantony/docker-elk
 devinhunt/typebase.css
@@ -5999,6 +6005,7 @@ jupyter/jupyterhub
 jupyter/jupyterlab
 jupyter/notebook
 jupyterhub/jupyterhub
+jupyterlab/jupyterlab
 jussi-kalliokoski/trine
 justdeleteme/justdelete.me
 justinas/alice
@@ -6161,6 +6168,7 @@ kevinsawicki/http-request
 kevinzhow/PNChart
 kevinzhow/PNChart-Swift
 kewlbear/FFmpeg-iOS-build-script
+keybase/client
 keyboardsurfer/Crouton
 keyboardsurfer/idea-live-templates
 keycastr/keycastr
@@ -7404,6 +7412,7 @@ nanopack/yoke
 nanotech/jellybeans.vim
 naoty/Timepiece
 naparuba/shinken
+naptha/tesseract.js
 nasa/openmct
 nate-parrott/Flashlight
 nategood/httpful
@@ -7933,6 +7942,7 @@ pallets/jinja
 pallets/werkzeug
 pamelafox/lscache
 pandao/editor.md
+pandas-dev/pandas
 pangloss/vim-javascript
 panicinc/ColorArt
 panicinc/PunchClock
@@ -10218,6 +10228,7 @@ universal-ctags/ctags
 unixorn/awesome-zsh-plugins
 unruledboy/WebFrontEndStack
 upmin/upmin-admin-ruby
+uraimo/Awesome-Swift-Playgrounds
 urbanairship/tessera
 urbit/urbit
 urfave/cli
@@ -10275,6 +10286,7 @@ venmo/synx
 venomous0x/WhatsAPI
 verekia/initializr
 verekia/initializr-template
+verekia/js-stack-from-scratch
 versionpress/versionpress
 vertiginous/pik
 vfaronov/httpolice
@@ -10746,6 +10758,7 @@ ytisf/theZoo
 yuantiku/YTKKeyValueStore
 yuantiku/YTKNetwork
 yuanyan/boron
+yuanyan/halogen
 yuche/vue-strap
 yudai/gotty
 yui/yui3
