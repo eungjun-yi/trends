@@ -229,6 +229,7 @@ BradLarson/GPUImage2
 BrightcoveOS/Diamond
 BroadleafCommerce/BroadleafCommerce
 BrowserSync/browser-sync
+BruceDone/awesome-crawler
 BuildCraft/BuildCraft
 Bukkit/Bukkit
 BuoyantIO/linkerd
@@ -504,6 +505,7 @@ Fody/Fody
 FolioReader/FolioReaderKit
 FontCustom/fontcustom
 Fooidge/PleaseJS
+FormidableLabs/nodejs-dashboard
 FormidableLabs/radium
 FormidableLabs/react-game-kit
 FormidableLabs/react-music
@@ -596,6 +598,7 @@ HIT-Alibaba/interview
 HabitRPG/habitica
 HabitRPG/habitrpg
 HackPlan/quark-shell-mac
+HackathonHackers/programming-ebooks
 Hacker0x01/react-datepicker
 HackerNews/API
 Hammerspoon/hammerspoon
@@ -1339,6 +1342,7 @@ ReactiveX/learnrx
 ReactiveX/rxjs
 ReactjsProgram/React-Fundamentals
 ReactjsProgram/react-fundamentals-curriculum
+ReadyTalk/avian
 Red5/red5-server
 RedHatBrand/overpass
 Redth/PushSharp
@@ -1362,6 +1366,7 @@ RobertGummesson/BuildTimeAnalyzer-for-Xcode
 RobertWHurst/KeyboardJS
 RobinHerbots/Inputmask
 RobinHerbots/jquery.inputmask
+RobinLinus/snapdrop
 RoboBinding/RoboBinding
 Robot-Will/Stino
 RobotiumTech/robotium
@@ -1922,6 +1927,7 @@ airbnb/react-dates
 airbnb/react-native-maps
 airbnb/ruby
 airbnb/synapse
+airen/DemoHouse
 airyland/vux
 aisuhua/restful-api-design-references
 ajalt/fuckitpy
@@ -1936,6 +1942,7 @@ ajoslin/angular-mobile-nav
 ajvb/kala
 akavache/Akavache
 akdubya/dustjs
+akexorcist/Android-BluetoothSPPLibrary
 akexorcist/Android-RoundCornerProgressBar
 akheron/jansson
 akhodakivskiy/VimFx
@@ -3341,6 +3348,7 @@ cppformat/cppformat
 cpvrlab/ImagePlay
 craftyjs/Crafty
 crate/crate
+crazycodeboy/TakePhoto
 crcn/mesh.js
 creaktive/rainbarf
 creationix/haml-js
@@ -5754,6 +5762,7 @@ jlong/serve
 jlongster/blog
 jlongster/transducers.js
 jlord/git-it
+jlord/git-it-electron
 jlord/sheetsee.js
 jlsutherland/doc2text
 jlund/streisand
@@ -5909,6 +5918,7 @@ jpetazzo/nsenter
 jpetazzo/pipework
 jpfuentes2/php-activerecord
 jphp-compiler/jphp
+jpillora/notifyjs
 jpillora/xdomain
 jpmens/jo
 jprante/elasticsearch-jdbc
@@ -7672,6 +7682,7 @@ nst/iOS-Runtime-Headers
 nst/objc_dep
 nswbmw/N-blog
 nteract/hydrogen
+ntop/ntopng
 numba/numba
 numbbbbb/the-swift-programming-language-in-chinese
 numbers/numbers.js
@@ -7877,6 +7888,7 @@ ortuman/SwiftForms
 orvice/ss-panel
 ory-am/hydra
 os-js/OS.js
+os/slacker
 oscarotero/Embed
 oskarkrawczyk/Heyoffline
 oskarkrawczyk/heyoffline.js
@@ -8505,6 +8517,7 @@ rcrowley/goagain
 rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
+react-mdl/react-mdl
 react-native-community/React-Native-Elements
 react-native-community/react-native-elements
 react-native-community/react-native-navbar
@@ -8666,6 +8679,7 @@ ricardochimal/taps
 riccardoscalco/textures
 richardshepherd/Parallax-Scrolling
 richardwilly98/elasticsearch-river-mongodb
+rickbergfalk/sqlpad
 rickharrison/validate.js
 rickynils/scalacheck
 rickyrauch/Balloons.IO
@@ -8934,6 +8948,7 @@ samvermette/SVSegmentedControl
 samyk/evercookie
 samyk/magspoof
 samyk/skyjack
+sandeepmistry/bleno
 sandeepmistry/noble
 sandstorm-io/capnproto
 sandstorm-io/sandstorm
@@ -9074,6 +9089,7 @@ sendwithus/templates
 senecajs/seneca
 sensu/sensu
 sentsin/layer
+sentsin/layui
 sephiroth74/HorizontalVariableListView
 sephiroth74/ImageViewZoom
 seppo0010/rlite
@@ -9575,6 +9591,7 @@ stuartsierra/component
 stubbornella/oocss
 stutrek/scrollMonitor
 stuyam/pressure
+styled-components/styled-components
 stylelint/stylelint
 stylus/stylus
 stympy/faker
@@ -10323,6 +10340,7 @@ vimeo/graph-explorer
 vimwiki/vimwiki
 vinc3m1/RoundedImageView
 vinta/awesome-python
+viper-framework/viper
 vipulasri/Timeline-View
 visionmedia/debug
 visionmedia/deploy
@@ -10472,6 +10490,7 @@ websocket-rails/websocket-rails
 websockets/ws
 websymphony/almost-flat-ui
 wechat-python-sdk/wechat-python-sdk
+weechat/weechat
 weibocom/motan
 weixin/WeFlow
 weixin/tmt-workflow
@@ -10482,6 +10501,7 @@ welaika/wordmove
 wellcaffeinated/PhysicsJS
 weng1250/WZLBadge
 wenmingvs/AndroidProcess
+wenmingvs/NotifyUtil
 wenmingvs/WeiBo
 wentin/ResponsifyJS
 wentin/underlineJS
