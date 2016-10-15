@@ -295,6 +295,7 @@ Citrrus/BlurryModalSegue
 Clans/FloatingActionButton
 CleverRaven/Cataclysm-DDA
 Cleveroad/SlidingTutorial-Android
+Cleveroad/WaveInApp
 Cleveroad/slidingtutorial-android
 Clouda-team/Cloudajs
 ClusterHQ/flocker
@@ -729,6 +730,7 @@ JakeWharton/ThreeTenABP
 JakeWharton/ViewPagerIndicator
 JakeWharton/butterknife
 JakeWharton/hugo
+JakeWharton/kotterknife
 JakeWharton/pidcat
 JakeWharton/scalpel
 JakeWharton/sdk-manager-plugin
@@ -1843,6 +1845,7 @@ adamschwartz/magic-of-css
 adamwdraper/Numeral-js
 adamwulf/app-launch-guide
 adamzap/landslide
+adapta-project/adapta-gtk-theme
 adaptivethreat/Empire
 adazzle/react-data-grid
 adchsm/Slidebars
@@ -3262,6 +3265,7 @@ collectd/collectd
 collectiveidea/audited
 collectiveidea/awesome_nested_set
 collectiveidea/interactor
+collectiveidea/json_spec
 collinhundley/Swift-AI
 colszowka/simplecov
 comeforu2012/truth
@@ -4091,6 +4095,7 @@ eoinfogarty/Onboarding
 eowise/recyclerview-stickyheaders
 epeli/underscore.string
 ephread/Instructions
+epoberezkin/ajv
 epochjs/epoch
 eqcss/eqcss
 equinusocio/material-theme
@@ -4460,6 +4465,7 @@ flitbit/diff
 floooh/oryol
 florent37/GlidePalette
 florent37/HollyViewPager
+florent37/MaterialTextField
 florent37/MaterialViewPager
 florent37/ViewAnimator
 florian/cookie.js
@@ -4475,6 +4481,7 @@ fluent-ffmpeg/node-fluent-ffmpeg
 fluent/fluentd
 flutter/engine
 flutter/flutter
+fluxcapacitor/pipeline
 flycheck/flycheck
 flyerhzm/bullet
 flyjs/fly
@@ -4689,6 +4696,7 @@ gh-unit/gh-unit
 gharlan/alfred-github-workflow
 ghc/ghc
 ghcjs/ghcjs
+ghosh/uiGradients
 giakki/uncss
 giampaolo/psutil
 gianarb/awesome-angularjs
@@ -5946,6 +5954,7 @@ jquerytools/jquerytools
 jrief/django-angular
 jrjohansson/scientific-python-lectures
 jrnewell/spotify-ripper
+jroimartin/gocui
 jrowberg/i2cdevlib
 jruby/jruby
 js-cookie/js-cookie
@@ -6367,6 +6376,7 @@ lapism/SearchView
 lapwinglabs/x-ray
 laracasts/Laravel-5-Generators-Extended
 laracasts/PHP-Vars-To-Js-Transformer
+laracasts/flash
 laravel-ardent/ardent
 laravel/cashier
 laravel/elixir
@@ -9844,6 +9854,7 @@ thermogl/TISwipeableTableView
 thest1/LazyList
 thestinger/termite
 thestonefox/SteamVR_Unity_Toolkit
+thestonefox/VRTK
 theturtle32/WebSocket-Node
 thewhitetulip/web-dev-golang-anti-textbook
 thiagopradi/octopus
@@ -10060,6 +10071,7 @@ traex/ExpandableLayout
 traex/RippleEffect
 trailsjs/trails
 transcode-open/apt-cyg
+transcranial/keras-js
 transloadit/uppy
 traverseda/pycraft
 travis-ci/travis-ci
@@ -10230,6 +10242,7 @@ umbraco/Umbraco-CMS
 umdjs/umd
 umpirsky/country-list
 una/CSSgram
+una/YouMightNotNeedJS
 unash/BarrageRenderer
 unbit/uwsgi
 unbug/codelf
