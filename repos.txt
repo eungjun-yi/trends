@@ -569,6 +569,7 @@ Glimpse/Glimpse
 GoesToEleven/GolangTraining
 GooTechnologies/goojs
 GoogleChrome/accessibility-developer-tools
+GoogleChrome/application-shell
 GoogleChrome/big-rig
 GoogleChrome/chrome-app-samples
 GoogleChrome/chromedeveditor
@@ -918,6 +919,7 @@ Lusitanian/PHPoAuthLib
 LyndonChin/AndroidRubberIndicator
 LyndonChin/MasteringAndroidDataBinding
 M66B/XPrivacy
+MDCC2016/Android-Session-Slides
 MHaroonBaig/MotionKit
 MLstate/opalang
 Maatwebsite/Laravel-Excel
@@ -1961,6 +1963,7 @@ akullpp/awesome-java
 akveo/blur-admin
 akveo/ng2-admin
 alamkanak/Android-Week-View
+alanshaw/markdown-pdf
 albertlatacz/java-repl
 alcatraz/Alcatraz
 alda-lang/alda
@@ -5362,6 +5365,7 @@ ifandelse/machina.js
 igniterealtime/Openfire
 igniterealtime/Smack
 igorescobar/jQuery-Mask-Plugin
+igorprado/react-notification-system
 igrigorik/em-http-request
 igrigorik/em-synchrony
 igrigorik/em-websocket
@@ -6020,6 +6024,7 @@ junegunn/vim-easy-align
 junegunn/vim-plug
 junit-team/junit4
 junyanz/iGAN
+jupyter/docker-stacks
 jupyter/jupyterhub
 jupyter/jupyterlab
 jupyter/notebook
@@ -6547,6 +6552,7 @@ litl/rauth
 litten/hexo-theme-yilia
 littleark/githut
 littlebee/git-time-machine
+littlecodersh/ItChat
 liuling07/SimpleNews
 liuliu/ccv
 liuruoze/EasyPR
@@ -6906,6 +6912,7 @@ mattpass/ICEcoder
 mattprecious/telescope
 mattt/AnimatedGIFImageSerialization
 mattt/CargoBay
+mattt/Euler
 mattt/FormatterKit
 mattt/GroundControl
 mattt/Navajo
@@ -8486,6 +8493,7 @@ rancher/rancher
 randym/axlsx
 ranger/ranger
 rangle/augury
+rap2hpoutre/laravel-log-viewer
 raphaelcruzeiro/jquery-notebook
 raphw/byte-buddy
 rapid7/metasploit-framework
@@ -9082,6 +9090,7 @@ seejohnrun/haste-server
 seejohnrun/ice_cube
 seenaburns/dex-ui
 seetaface/SeetaFaceEngine
+segiddins/ThisCouldBeUsButYouPlaying
 segmentio/analytics.js
 segmentio/daydream
 segmentio/myth
@@ -9866,6 +9875,7 @@ thinkaurelius/titan
 thinkgem/jeesite
 thinkpixellab/PxLoader
 thinkpixellab/flatland
+thisandagain/sentiment
 thlorenz/browserify-shim
 thlorenz/doctoc
 thlorenz/proxyquire
@@ -10274,6 +10284,7 @@ usablica/widearea
 ushahidi/Ushahidi_Web
 usmanhalalit/charisma
 usrbinnc/netcat-cpi-kernel-module
+ustwo/ustwo.com-frontend
 utahta/pythonbrew
 utkusen/hidden-tear
 utom/sketch-measure
