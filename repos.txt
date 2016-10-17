@@ -972,6 +972,7 @@ MatthewYork/iPhone-IntroductionTutorial
 MaximAbramchuck/awesome-interview-questions
 MaximAbramchuck/awesome-interviews
 Maximus5/ConEmu
+Maxwin-z/XListView-Android
 McPants/jquery.shapeshift
 Mechazawa/FuckFuckAdblock
 MediaBrowser/Emby
@@ -3023,6 +3024,7 @@ chancejs/chancejs
 chandlerprall/Physijs
 chanjarster/weixin-java-tools
 chanks/que
+channelcat/sanic
 chaplinjs/chaplin
 chaps-io/public_activity
 charlierguo/gmail
@@ -4875,6 +4877,7 @@ google/google-api-python-client
 google/google-api-ruby-client
 google/google-authenticator
 google/googletest
+google/gopacket
 google/grafika
 google/grr
 google/gson
@@ -5187,6 +5190,7 @@ hickford/MechanicalSoup
 hiddentao/squel
 hidroh/materialistic
 highcharts/highcharts
+hightman/scws
 hilen/TSWeChat
 hilios/jQuery.countdown
 hiloteam/Hilo
@@ -6788,6 +6792,7 @@ marcotcr/lime
 marcshilling/react-native-image-picker
 marcuswestin/WebViewJavascriptBridge
 marcuswestin/store.js
+marcwebbie/passpie
 marianoguerra/json.human.js
 marick/Midje
 marijnh/Eloquent-JavaScript
@@ -10372,6 +10377,7 @@ visionmedia/masteringnode
 visionmedia/move.js
 visionmedia/node-progress
 visionmedia/page.js
+visionmedia/screenshot-app
 visionmedia/superagent
 visionmedia/supertest
 visionmedia/uikit
