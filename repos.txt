@@ -604,6 +604,7 @@ HackathonHackers/programming-ebooks
 Hacker0x01/react-datepicker
 HackerNews/API
 Hammerspoon/hammerspoon
+HandBrake/HandBrake
 Haneke/Haneke
 Haneke/HanekeSwift
 HangfireIO/Hangfire
@@ -1785,6 +1786,7 @@ Zomato/AndroidPhotoFilters
 ZoneMinder/ZoneMinder
 ZuYun/Jgraph
 Zulko/moviepy
+ZuzooVn/machine-learning-for-software-engineers
 a0viedo/demystifying-js-engines
 a11yproject/a11yproject.com
 a1anyip/AYVibrantButton
@@ -2010,6 +2012,7 @@ alfredxing/brick
 algolia/instantsearch.js
 algolia/places
 aliasaria/scrumblr
+alibaba/AliSQL
 alibaba/AndFix
 alibaba/DataX
 alibaba/LuaViewSDK
@@ -5566,6 +5569,7 @@ jaredly/treed
 jaredpalmer/react-production-starter
 jaredpar/VsVim
 jaredreich/notie
+jaredrummler/AnimatedSvgView
 jaredsinclair/JTSImageViewController
 jariz/vibrant.js
 jas/playground
@@ -6900,6 +6904,7 @@ matthewhudson/device.js
 matthewmueller/date
 matthewpalmer/Locksmith
 matthewwithanm/django-imagekit
+matthiasn/BirdWatch
 matthiasn/talk-transcripts
 matthieua/WOW
 matthuhiggins/foreigner
@@ -7598,6 +7603,7 @@ ninjudd/drip
 niorgai/StatusBarCompat
 nispok/snackbar
 nisrulz/easydeviceinfo
+nisrulz/sensey
 nitrogen/nitrogen
 nivwusquorum/tensorflow-deepq
 nixzhu/MonkeyKing
@@ -9035,6 +9041,7 @@ scopatz/xonsh
 scopegate/octave
 scotch-io/scotch-box
 scotteg/LayerPlayer
+scottjehl/Device-Bugs
 scottjehl/Respond
 scottjehl/picturefill
 scottschiller/SoundManager2
@@ -9759,6 +9766,7 @@ tbruyelle/RxPermissions
 tc39/ecma262
 tc39/ecmascript-asyncawait
 tc39/proposal-bind-operator
+tc39/proposal-observable
 tciuro/NoticeView
 tcorral/Design-Patterns-in-Javascript
 tcurdt/iProxy
@@ -9777,6 +9785,7 @@ technomancy/emacs-starter-kit
 technomancy/leiningen
 technoweenie/attachment_fu
 technoweenie/restful-authentication
+techpines/bone.io
 techpines/express.io
 techtalk/SpecFlow
 tejado/pgoapi
@@ -10239,6 +10248,7 @@ uber/go-torch
 uber/image-diff
 uber/react-map-gl
 uber/react-vis
+uber/ringpop-node
 ubilabs/geocomplete
 ubolonton/js-csp
 ubuwaits/beautiful-web-type
@@ -10391,6 +10401,7 @@ vitalets/x-editable
 vitaly-t/pg-promise
 vitch/jScrollPane
 vitmalina/w2ui
+vitorfs/bootcamp
 vizicities/vizicities
 vladikoff/chromeos-apk
 vladikoff/grunt-devtools
@@ -10470,6 +10481,7 @@ wangshengjia/LeeGo
 wangshengjia/VWInstantRun
 wardowsmcc/badass
 warmcat/libwebsockets
+warmheartli/ChatBotCourse
 warpling/Macmoji
 warrenm/AHEasing
 waruqi/tbox
@@ -10740,6 +10752,7 @@ yaniswang/HTMLHint
 yannickcr/eslint-plugin-react
 yannickl/DynamicColor
 yanzhenjie/NoHttp
+yanzhenjie/SwipeRecyclerView
 yaoweibin/nginx_tcp_proxy_module
 yapstudios/YapDatabase
 yargs/yargs
