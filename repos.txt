@@ -644,6 +644,7 @@ Homebrew/legacy-homebrew
 HoneyNeutrons/RecyclerViewUndoSwipe
 HospitalRun/hospitalrun-frontend
 HotBitmapGG/bilibili
+HotBitmapGG/bilibili-android-client
 HouzuoGuo/tiedot
 HubPress/hubpress.io
 HubSpot/BuckyClient
@@ -823,6 +824,7 @@ Karumi/Dexter
 Karumi/Rosie
 Katee/quietnet
 KeenSoftwareHouse/SpaceEngineers
+KeepSafe/ReLinker
 KeepSafe/TapTargetView
 KeepSafe/aiohttp
 KeepSafe/android-resource-remover
@@ -996,6 +998,7 @@ Microsoft/CNTK
 Microsoft/ChakraCore
 Microsoft/DMTK
 Microsoft/GSL
+Microsoft/LightGBM
 Microsoft/PTVS
 Microsoft/ProjectOxford-ClientSDK
 Microsoft/Pyjion
@@ -1497,6 +1500,7 @@ SpongePowered/SpongeAPI
 SpongePowered/SpongeForge
 SpookyJS/SpookyJS
 SquareSquash/web
+Squirrel/Squirrel.Mac
 Squirrel/Squirrel.Windows
 StackExchange/StackExchange.Redis
 StackExchange/blackbox
@@ -1915,6 +1919,7 @@ ai/easings.net
 ai/visibilityjs
 aickin/react-dom-stream
 aigamedev/scikit-neuralnetwork
+aimacode/aima-python
 aino/galleria
 airblade/paper_trail
 airblade/vim-gitgutter
@@ -2304,6 +2309,7 @@ appium/appium
 appjs/appjs
 apple/swift
 apple/swift-corelibs-foundation
+apple/swift-corelibs-libdispatch
 apple/swift-evolution
 apple/swift-package-manager
 applidium/ADTransitionController
@@ -2351,6 +2357,7 @@ arslanbilal/git-cheat-sheet
 artberri/sidr
 artem-zinnatullin/qualitymatters
 artf/grapesjs
+arthepsy/ssh-audit
 artofrawr/profoundgrid
 artpolikarpov/fotorama
 artsy/eidolon
@@ -3936,6 +3943,7 @@ dustturtle/RealReachability
 dutchcoders/transfer.sh
 dvLden/Vidage
 dvajs/dva
+dvcrn/markright
 dvyukov/go-fuzz
 dwelch67/raspberrypi
 dxa4481/Pastejacking
@@ -5003,6 +5011,7 @@ greenrobot/EventBus
 greenrobot/essentials
 greenrobot/greenDAO
 greensock/GreenSock-JS
+greggman/webgl-fundamentals
 gregmalcolm/python_koans
 gregoryyoung/m-r
 grevory/angular-local-storage
@@ -5116,6 +5125,7 @@ hangtwenty/dive-into-machine-learning
 hangyan/docker-resources
 hankcs/HanLP
 hanks-zyh/HTextView
+hanks-zyh/SmallBang
 hannes-brt/hebel
 hanton/HTY360Player
 haoel/leetcode
@@ -5485,6 +5495,7 @@ itchyny/lightline.vim
 itouch2/PhotoTweaks
 itsabot/abot
 itsgoingd/clockwork
+itsjavi/bootstrap-colorpicker
 ivacf/archi
 ivaldi/brimir
 ivan-vasilev/neuralnetworks
@@ -5572,6 +5583,7 @@ jaredreich/notie
 jaredrummler/AnimatedSvgView
 jaredsinclair/JTSImageViewController
 jariz/vibrant.js
+jarun/googler
 jas/playground
 jasarien/Provenance
 jashkenas/backbone
@@ -5714,6 +5726,7 @@ jfinal/jfinal
 jfirebaugh/konacha
 jflesch/paperwork
 jflinter/Dwifft
+jfoenixadmin/JFoenix
 jfrazelle/dockerfiles
 jgamblin/Mirai-Source-Code
 jgh-/VideoCore
@@ -6675,6 +6688,7 @@ lzyzsd/Awesome-RxJava
 lzyzsd/CircleProgress
 lzyzsd/JsBridge
 m1entus/MZFormSheetController
+mRemoteNG/mRemoteNG
 ma6174/vim
 mac-cain13/R.swift
 macbre/phantomas
@@ -7099,6 +7113,7 @@ mik3y/usb-serial-for-android
 mikaelbr/node-notifier
 mike-zarandona/PrettyEmbed.js
 mike442144/node-crawler
+mikeal/roll-call
 mikeal/watch
 mikeash/MAObjCRuntime
 mikecao/flight
@@ -7783,6 +7798,7 @@ oguzbilgener/CircularFloatingActionMenu
 oh-my-fish/oh-my-fish
 ohler55/oj
 ohoachuck/wwdc-downloader
+oikomi/FishChatServer
 ok-borg/borg
 okTurtles/dnschain
 okfn/recline
@@ -8012,6 +8028,7 @@ part-cw/lambdanative
 passsy/android-HoloCircularProgressBar
 passy/angular-masonry
 pat/thinking-sphinx
+patchthecode/JTAppleCalendar
 path/FastImageCache
 path/android-priority-jobqueue
 patrick-steele-idem/morphdom
@@ -10215,6 +10232,7 @@ txusballesteros/welcome-coordinator
 ty4z2008/Qix
 tybenz/vimdeck
 tylerb/graceful
+tylerchilds/cutestrap
 tylermcginnis/re-base
 tylertate/semantic.gs
 tylertreat/chan
@@ -10546,6 +10564,7 @@ wenmingvs/AndroidProcess
 wenmingvs/NotifyUtil
 wenmingvs/WeiBo
 wentin/ResponsifyJS
+wentin/cssicon
 wentin/underlineJS
 wenzhixin/bootstrap-table
 wenzhixin/multiple-select
@@ -10570,6 +10589,7 @@ wheybags/freeablo
 white-cat/ThinkAndroid
 whitesmith/rubycritic
 whomwah/qlstephen
+whoshuu/cpr
 whtsky/WeRoBot
 whyrusleeping/gx
 widuu/chinese_docker
