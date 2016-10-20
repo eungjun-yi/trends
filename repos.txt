@@ -43,6 +43,7 @@
 500px/500px-android-blur
 500px/greedo-layout-for-android
 75team/thinkjs
+7kfpun/FinanceReactNative
 81813780/AVLoadingIndicatorView
 91yun/serverspeeder
 9magnets/iOS-Developer-and-Designer-Interview-Questions
@@ -793,6 +794,7 @@ JonasGessner/JGProgressHUD
 JonathanSalwan/ROPgadget
 JonnyWong16/plexpy
 JorgeCastilloPrz/AndroidFillableLoaders
+JorgeCastilloPrz/FABProgressCircle
 JosephLenton/PHP-Error
 JosephusPaye/Keen-UI
 JoshClose/CsvHelper
@@ -1067,6 +1069,7 @@ MrRio/vtop
 MrSwitch/hello.js
 MugunthKumar/MKNetworkKit
 MugunthKumar/MKStoreKit
+MunGell/awesome-for-beginners
 MvvmCross/MvvmCross
 MxABC/LBXScan
 MyCATApache/Mycat-Server
@@ -2076,6 +2079,8 @@ amazeui/amazeui
 amazeui/amazeui-react
 ambethia/recaptcha
 amdjs/amdjs-api
+ameizi/DevArticles
+ameizi/awesome-ios-animation
 amfe/article
 amfe/lib-flexible
 amir20/phantomjs-node
@@ -2124,6 +2129,7 @@ andreis/interview
 andremion/Music-Player
 andreruffert/rangeslider.js
 andresriancho/w3af
+andrew-worsfold/tailor
 andrewculver/koudoku
 andrewelkins/Laravel-4-Bootstrap-Starter-Site
 andrewfiorillo/sketch-palettes
@@ -2409,6 +2415,7 @@ astaxie/Go-in-Action
 astaxie/bat
 astaxie/beego
 astaxie/build-web-application-with-golang
+astaxie/go-best-practice
 astoilkov/jsblocks
 astrada/google-drive-ocamlfuse
 astropy/astropy
@@ -3996,6 +4003,7 @@ eduardoboucas/include-media
 eduardolundgren/tracking.js
 edwardtufte/tufte-css
 edx/edx-platform
+egoist/eme
 egoist/hack
 egoist/vuepack
 egonSchiele/contracts.ruby
@@ -4558,6 +4566,7 @@ freedomofpress/securedrop
 freerange/mocha
 freqdec/slabText
 frida/frida
+friendlyrobotnyc/TinyDancer
 fritzy/SleekXMPP
 frogermcs/AndroidDevMetrics
 frogermcs/InstaMaterial
@@ -7163,6 +7172,7 @@ miniMAC/magic
 minikomi/Bootstrap-Form-Builder
 minimagick/minimagick
 minimaxir/big-list-of-naughty-strings
+minimaxir/facebook-page-post-scraper
 mininet/mininet
 minio/minio
 mintchaos/flippant.js
@@ -10110,6 +10120,7 @@ tracelytics/pageguide
 traex/CalendarListview
 traex/ExpandableLayout
 traex/RippleEffect
+trailblazer/trailblazer
 trailsjs/trails
 transcode-open/apt-cyg
 transcranial/keras-js
@@ -10295,6 +10306,7 @@ unconed/TermKit
 uncrustify/uncrustify
 undertow-io/undertow
 unicodeveloper/laravel-hackathon-starter
+unicorn-engine/unicorn
 uniqush/uniqush-push
 unisonweb/unison
 universal-ctags/ctags
