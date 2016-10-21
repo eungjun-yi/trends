@@ -3317,6 +3317,7 @@ concourse/concourse
 concurrencykit/ck
 conda/conda
 conditionizr/conditionizr
+confluentinc/bottledwater-pg
 connors/photon
 conopsys/COSTouchVisualizer
 conorpp/u2f-zero
@@ -6490,6 +6491,7 @@ leonar15/startup-checklist
 leongersen/noUiSlider
 leonidas/transparency
 lepture/editor
+lepture/flask-oauthlib
 lepture/github-cards
 lerna/lerna
 lerrua/remote-jobs-brazil
@@ -9443,6 +9445,7 @@ somebee/imba
 somerandomdude/Frank
 somerandomdude/Iconic
 sonata-project/SonataAdminBundle
+songrotek/Deep-Learning-Papers-Reading-Roadmap
 sonoramac/Sonora
 sophron/wifiphisher
 sorccu/cufon
