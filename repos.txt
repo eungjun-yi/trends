@@ -842,6 +842,7 @@ Khan/react-components
 Khan/style-guides
 Khan/tota11y
 KhaosT/HAP-NodeJS
+KhronosGroup/Vulkan-Docs
 KhronosGroup/glTF
 Kickball/awesome-selfhosted
 KieranLafferty/KLNoteViewController
@@ -1117,6 +1118,7 @@ Netflix/asgard
 Netflix/astyanax
 Netflix/atlas
 Netflix/bless
+Netflix/chaosmonkey
 Netflix/curator
 Netflix/dynomite
 Netflix/eureka
@@ -1433,6 +1435,7 @@ SeleniumHQ/selenium
 SelfControlApp/selfcontrol
 Selz/plyr
 Semantic-Org/Semantic-UI
+Semantic-Org/Semantic-UI-React
 Sephiroth87/ODRefreshControl
 Serhioromano/bootstrap-calendar
 ServiceStack/ServiceStack
@@ -1636,6 +1639,7 @@ Urigo/angular-meteor
 Urinx/WeixinBot
 UweTrottmann/SeriesGuide
 VPenkov/okayNav
+VSCodeVim/Vim
 Valloric/YouCompleteMe
 Valve/fingerprintjs
 Valve/fingerprintjs2
@@ -2659,6 +2663,7 @@ bhauman/devcards
 bhauman/lein-figwheel
 bhilburn/powerlevel9k
 biezhi/blade
+biezhi/java-bible
 bigardone/phoenix-trello
 bigbluebutton/bigbluebutton
 bigcompany/know-your-http
@@ -3263,6 +3268,7 @@ codepath/ios_guides
 codeplant/simple-navigation
 coderwall/coderwall-legacy
 coderyi/Monkey
+coderyi/NetworkEye
 codestergit/SweetAlert-iOS
 codesuki/react-d3-components
 codetainerapp/codetainer
@@ -4049,6 +4055,7 @@ electron/electron-api-demos
 electron/electron-quick-start
 electronicarts/EASTL
 eleith/emailjs
+eleme/Amigo
 elementalui/elemental
 elendirx/web2web
 elevation/event_calendar
@@ -4835,6 +4842,7 @@ gobackspaces/DLCImagePickerController
 gocardless/angularjs-style-guide
 gocd/gocd
 gocircuit/circuit
+gocql/gocql
 gocraft/web
 godlygeek/tabular
 godotengine/godot
@@ -6168,6 +6176,7 @@ kcbanner/connect-mongo
 kchmck/vim-coffee-script
 kconner/KMCGeigerCounter
 kdchang/reactjs101
+kdeldycke/awesome-falsehood
 kdzwinel/betwixt
 kean/DFImageManager
 kean/Nuke
@@ -7250,6 +7259,7 @@ mogujie/TeamTalk
 mogutt/TTServer
 mohayonao/timbre.js
 mohebifar/lebab
+mojilala/VideoSplashKit
 mojombo/chronic
 mojombo/clippy
 mojombo/god
@@ -7347,6 +7357,7 @@ mozilla/shumway
 mozilla/source-map
 mozilla/sweet.js
 mozilla/task.js
+mozilla/thimble.mozilla.org
 mozilla/togetherjs
 mpc-hc/mpc-hc
 mpeltonen/sbt-idea
@@ -8061,6 +8072,7 @@ paulmillr/es6-shim
 paulmillr/exoskeleton
 paulrouget/dzslides
 paulrouget/firefox.html
+paulsonnentag/swip
 paulstraw/FancySelect
 pavel-odintsov/fastnetmon
 pavelgonchar/colornet
@@ -9180,6 +9192,7 @@ sgryschuk/SGNavigationProgress
 shadowsocks/ChinaDNS
 shadowsocks/Potatso
 shadowsocks/Potatso-iOS
+shadowsocks/ShadowsocksX-NG
 shadowsocks/openwrt-shadowsocks
 shadowsocks/shadowsocks
 shadowsocks/shadowsocks-android
@@ -10150,6 +10163,7 @@ troydhanson/uthash
 trueadm/inferno
 trueinteractions/tint2
 trulia/hologram
+trustedsec/ptf
 trustedsec/social-engineer-toolkit
 tschaub/grunt-newer
 tschellenbach/Django-facebook
