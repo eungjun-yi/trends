@@ -309,6 +309,7 @@ Code52/DownmarkerWPF
 CodeSeven/toastr
 CodeboxIDE/codebox
 Codecademy/EventHub
+Codeception/CodeceptJS
 Codeception/Codeception
 Codegyre/Robo
 Codeido/PMAlertController
@@ -2980,10 +2981,12 @@ carltongibson/django-filter
 carmaa/inception
 carols10cents/rustlings
 carp-lang/Carp
+carpedm20/DCGAN-tensorflow
 carpedm20/awesome-hacking
 carrierwaveuploader/carrierwave
 carrot/share-button
 carsonperrotti/CNPPopupController
+cartalyst/sentinel
 cartalyst/sentry
 carteb/carte-blanche
 casatwy/RTNetworking
@@ -4062,6 +4065,7 @@ elendirx/web2web
 elevation/event_calendar
 elevenetc/TextSurface
 eliangcs/http-prompt
+eliben/pycparser
 eligrey/FileSaver.js
 eliotfowler/EFCircularSlider
 eliotsykes/rspec-rails-examples
@@ -5520,6 +5524,7 @@ ivan-vasilev/neuralnetworks
 ivanakimov/hashids.js
 ivanakimov/hashids.php
 ivansafrin/Polycode
+ivanseidel/IAMDinosaur
 ivopetkov/responsively-lazy
 iwasrobbed/Objective-C-CheatSheet
 iwasrobbed/RPFloatingPlaceholders
@@ -6594,6 +6599,7 @@ litten/hexo-theme-yilia
 littleark/githut
 littlebee/git-time-machine
 littlecodersh/ItChat
+liuguangqiang/SwipeBack
 liuling07/SimpleNews
 liuliu/ccv
 liuruoze/EasyPR
@@ -8668,6 +8674,7 @@ refinery/refinerycms
 reflux/refluxjs
 rehorn/livepool
 reinderien/mimic
+rekihattori/awesome-programmers
 relatedcode/EncryptedChat
 relatedcode/FirebaseChat
 relatedcode/ParseAlternatives
