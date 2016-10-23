@@ -2091,6 +2091,7 @@ amfe/lib-flexible
 amir20/phantomjs-node
 amitburst/HackerNews
 amitp/mapgen2
+amitshekhariitbhu/Fast-Android-Networking
 amix/vimrc
 amlcurran/ShowcaseView
 amoffat/bootstrap-application-wizard
@@ -3305,6 +3306,7 @@ commaai/research
 commadelimited/jQuery-Mobile-Bootstrap-Theme
 commercialhaskell/stack
 commitizen/cz-cli
+commixproject/commix
 commonsguy/cw-advandroid
 commonsguy/cw-android
 commonsguy/cw-omnibus
@@ -4499,6 +4501,7 @@ flightjs/flight
 flike/kingshard
 flitbit/diff
 floooh/oryol
+florent37/DiagonalLayout
 florent37/GlidePalette
 florent37/HollyViewPager
 florent37/MaterialTextField
@@ -5633,6 +5636,7 @@ java-decompiler/jd-gui
 java-native-access/jna
 javaee-samples/javaee7-samples
 javallone/regexper
+javallone/regexper-static
 javan/whenever
 javascript-society/javascript-path
 javascript/augment
@@ -7997,6 +8001,7 @@ ozodrukh/CircularReveal
 p-e-w/finalterm
 p-e-w/krill
 p-e-w/maybe
+p-org/P
 p8952/bocker
 pNre/ExSwift
 pa7/heatmap.js
@@ -8342,6 +8347,7 @@ praw-dev/praw
 prawnpdf/prawn
 prawnsalad/KiwiIRC
 pre-commit/pre-commit
+preboot/angular2-webpack
 preciousforever/sketch-data-populator
 premailer/premailer
 prerender/prerender
