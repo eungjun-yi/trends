@@ -391,6 +391,7 @@ DemocracyOS/democracyos
 DenisMondon/material-design-library
 DesarrolloAntonio/FragmentTransactionExtended
 DeskConnect/SBShortcutMenuSimulator
+DevExpress/testcafe
 DevLight-Mobile-Agency/ArcProgressStackView
 DevLight-Mobile-Agency/InfiniteCycleViewPager
 DevLight-Mobile-Agency/NavigationTabBar
@@ -706,6 +707,7 @@ Itseez/opencv_contrib
 Izzimach/react-three
 J7mbo/twitter-api-php
 JACoders/OpenJK
+JCTools/JCTools
 JEG2/highline
 JSONModel/JSONModel
 JStumpp/awesome-android
@@ -980,6 +982,7 @@ MaximAbramchuck/awesome-interview-questions
 MaximAbramchuck/awesome-interviews
 Maximus5/ConEmu
 Maxwin-z/XListView-Android
+McFrankline/Blockchain-stuff
 McPants/jquery.shapeshift
 Mechazawa/FuckFuckAdblock
 MediaBrowser/Emby
@@ -1454,6 +1457,7 @@ Shopify/liquid
 Shopify/sarama
 Shopify/superdb
 Shopify/toxiproxy
+Shougo/dein.vim
 Shougo/deoplete.nvim
 Shougo/neobundle.vim
 Shougo/neocomplcache.vim
@@ -1588,6 +1592,7 @@ ThisIsDallas/Simple-Grid
 Thomas101/wmail
 Thomvis/BrightFutures
 ThrivingKings/animo.js
+Tibolte/AgendaCalendarView
 Tibolte/ElasticDownload
 Tim9Liu9/TimLiu-Android
 Tim9Liu9/TimLiu-iOS
@@ -2051,6 +2056,7 @@ aliceui/aliceui.github.io
 aliceui/aliceui.org
 alignedleft/d3-book
 alikaragoz/MCSwipeTableViewCell
+allegro/bigcache
 allenhwkim/angularjs-google-maps
 allenwong/30DaysofSwift
 allinurl/goaccess
@@ -3004,6 +3010,7 @@ cayleygraph/cayley
 cazala/synaptic
 cbpowell/MarqueeLabel
 cbrauckmuller/helium
+ccMSC/ckb
 ccampbell/chromephp
 ccampbell/mousetrap
 ccampbell/rainbow
@@ -3553,6 +3560,7 @@ danylovolokh/VideoPlayerManager
 darcyclarke/Repo.js
 dariubs/GoBooks
 dariusk/corpora
+darkk/redsocks
 darklow/django-suit
 darknessomi/musicbox
 darkskyapp/skycons
@@ -9043,6 +9051,7 @@ sapo/Ink
 sarabander/sicp
 sarabander/sicp-pdf
 sarcadass/granim.js
+sarxos/webcam-capture
 sass-mq/sass-mq
 sass/libsass
 sass/node-sass
@@ -9357,7 +9366,9 @@ sixohsix/twitter
 siyamed/android-satellite-menu
 siyamed/android-shape-imageview
 sj26/mailcatcher
+sjchoi86/Tensorflow-101
 sjchoi86/dl_tutorials
+sjdirect/abot
 sjl/gundo.vim
 sjl/learnvimscriptthehardway
 sjwhitworth/golearn
@@ -9966,6 +9977,7 @@ thoughtbot/bitters
 thoughtbot/bourbon
 thoughtbot/capybara-webkit
 thoughtbot/clearance
+thoughtbot/design-sprint
 thoughtbot/dotfiles
 thoughtbot/factory_girl
 thoughtbot/factory_girl_rails
