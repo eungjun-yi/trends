@@ -2509,6 +2509,7 @@ aymericdamien/TopDeepLearning
 aziz/PlainTasks
 aziz/tmTheme-Editor
 azkaban/azkaban
+b374k/b374k
 b3log/solo
 b3log/wide
 b4winckler/macvim
@@ -3409,6 +3410,7 @@ crocodilejs/crocodile-node-mvc-framework
 crocodilejs/node-email-templates
 crosbymichael/not-dockers-ui
 crosbymichael/skydock
+crossbario/autobahn-android
 crossbario/autobahn-python
 crossbario/crossbar
 crossroadlabs/Express
@@ -3454,6 +3456,7 @@ cuemacro/finmarketpy
 cujojs/curl
 cujojs/most
 cujojs/when
+cujojs/wire
 cundong/HeaderAndFooterRecyclerView
 cundong/SmartAppUpdates
 cundong/ZhihuPaper
@@ -3771,6 +3774,7 @@ diogob/activerecord-postgres-hstore
 diogobernardino/WilliamChart
 directus/directus
 direnv/direnv
+dirtycow/dirtycow.github.io
 discoproject/disco
 discourse/discourse
 disintegration/gift
@@ -3828,6 +3832,7 @@ docker/docker-registry
 docker/dockercraft
 docker/infrakit
 docker/kitematic
+docker/labs
 docker/libchan
 docker/libcontainer
 docker/machine
@@ -4124,6 +4129,7 @@ ender-js/Ender
 endofunked/sidetiq
 endofunky/sidetiq
 endtwist/kerning.js
+engineerapart/TheRemoteFreelancer
 engineyard/ey-cloud-recipes
 enkidevs/commit
 enormego/EGOCache
@@ -5314,6 +5320,7 @@ hugeinc/styleguide
 hughsk/disc
 huhamhire/huhamhire-hosts
 huichen/wukong
+huiyan-fe/mapv
 hukl/Smyck-Color-Scheme
 huluoyang/freecodecamp.cn
 humaan/Modaal
@@ -6943,6 +6950,7 @@ matteocrippa/awesome-swift
 matteodem/meteor-boilerplate
 matteogobbi/MGSpotyViewController
 mattermost/platform
+mattes/migrate
 mattgallagher/AudioStreamer
 mattgemmell/MGImageUtilities
 mattgemmell/MGSplitViewController
@@ -8477,6 +8485,7 @@ qibaoguang/Spring-Boot-Reference-Guide
 qii/weiciyuan
 qinjx/30min_guides
 qinwf/awesome-R
+qiu-deqing/FE-interview
 qiu-deqing/FE-learning
 qiujuer/Genius-Android
 qiujuer/ImageBlurring
@@ -8607,6 +8616,7 @@ rcrowley/goagain
 rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
+react-cosmos/react-cosmos
 react-mdl/react-mdl
 react-native-community/React-Native-Elements
 react-native-community/react-native-elements
@@ -8859,6 +8869,7 @@ romainguy/ViewServer
 romainguy/google-io-2014
 romainguy/road-trip
 romanbican/roles
+romandanylyk/PageIndicatorView
 romannurik/Android-MonthCalendarWidget
 romannurik/Android-SwipeToDismiss
 romannurik/Android-WizardPager
@@ -9608,10 +9619,12 @@ sroze/ngInfiniteScroll
 sshwsfc/django-xadmin
 sshwsfc/xadmin
 ssloy/tinyrenderer
+sstalle/php7cc
 sstephenson/bats
 sstephenson/eco
 sstephenson/prototype
 sstephenson/stitch
+sstur/react-rte
 sta/websocket-sharp
 stackgl/shader-school
 stacktracejs/stacktrace.js
