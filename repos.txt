@@ -217,6 +217,7 @@ BlueMor/DragLayout
 BlueSpire/Durandal
 BoltsFramework/Bolts-Android
 BoltsFramework/Bolts-ObjC
+BoltsFramework/Bolts-Swift
 BonsaiDen/JavaScript-Garden
 BonzaiThePenguin/WikiSort
 BootstrapCMS/CMS
@@ -354,6 +355,7 @@ Cyan4973/lz4
 Cyan4973/xxHash
 Cyan4973/zstd
 CyberAgent/android-gpuimage
+CycloneAxe/phphub-android
 CymChad/BaseRecyclerViewAdapterHelper
 D-Programming-Language/dmd
 DIYgod/APlayer
@@ -436,6 +438,7 @@ DylanPiercey/auto-sni
 Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
 EFForg/https-everywhere
+EZLippi/Tinyhttpd
 EasyDarwin/EasyDarwin
 EasyEngine/easyengine
 EasyNetQ/EasyNetQ
@@ -545,6 +548,7 @@ Fuck-You-GFW/p2pspider
 FuzzyAutocomplete/FuzzyAutocompletePlugin
 Fyrd/caniuse
 GDG-Korea/PinterestLikeAdapterView
+GSA/data.gov
 Gabriel439/post-rfc
 GabrielAlva/Cool-iOS-Camera
 Gallopsled/pwntools
@@ -1814,6 +1818,7 @@ a8m/go-lang-cheat-sheet
 aFarkas/html5shiv
 aFarkas/lazysizes
 aFarkas/webshim
+aalhour/C-Sharp-Algorithms
 aanand/deadweight
 aanand/git-up
 aaronn/ANBlurredImageView
@@ -2533,6 +2538,7 @@ bahmutov/code-snippets
 baidu-ife/ife
 baidu-research/warp-ctc
 baidu/Paddle
+baidu/bfs
 baidu/sofa-pbrpc
 balanced/balanced-dashboard
 balderdashy/sails
@@ -2912,6 +2918,7 @@ burczyk/XcodeSwiftSnippets
 burke/zeus
 burnash/gspread
 burocratik/outdated-browser
+bustoutsolutions/siesta
 busyloop/lolcat
 butterproject/butter-desktop
 button/DeepLinkKit
@@ -2940,6 +2947,7 @@ calabash/calabash-android
 calabash/calabash-ios
 calebd/SimpleAuth
 calebmer/postgraphql
+calimarkus/JDStatusBarNotification
 callemall/material-ui
 callmecavs/bricks.js
 callmecavs/jump.js
@@ -3721,6 +3729,7 @@ developit/preact
 deviantony/docker-elk
 devinhunt/typebase.css
 devinross/tapkulibrary
+devinus/poolboy
 devlint/gridlex
 devongovett/pdfkit
 devopsgroup-io/vagrant-digitalocean
@@ -5217,6 +5226,7 @@ hellerve/programming-talks
 helloqingfeng/Awsome-Front-End-learning-resource
 helmetjs/helmet
 helmuthdu/aui
+helpyio/helpy
 hemanth/functional-programming-jargon
 henriquea/minigrid
 henryboldi/felony
@@ -9249,6 +9259,7 @@ shaojiankui/iOS-Categories
 shaps80/Peek
 share/ShareJS
 sharelatex/sharelatex
+sharetribe/sharetribe
 sharkdp/cube-composer
 shaunlebron/parinfer
 shazow/ssh-chat
@@ -9262,6 +9273,7 @@ shellfire-dev/shellfire
 shelljs/shelljs
 shellphish/how2heap
 shichuan/javascript-patterns
+shiffman/The-Nature-of-Code
 shiffman/The-Nature-of-Code-Examples
 shiffman/The-Nature-of-Code-archive
 shift-js/shift-js
@@ -9548,6 +9560,7 @@ spotify/dh-virtualenv
 spotify/docker-gc
 spotify/helios
 spotify/luigi
+spragunr/deep_q_rl
 sprang/Brushes
 sprang/Inkpad
 spray/spray
@@ -9638,6 +9651,7 @@ star7th/showdoc
 stascorp/rdpwrap
 stasinopoulos/commix
 staticfile/static
+statsite/statsite
 statsmodels/statsmodels
 stealjs/steal
 stedolan/jq
@@ -9756,6 +9770,7 @@ svenfuchs/rails-i18n
 svent/sift
 svg/svgo
 svg/svgo-gui
+svgdotjs/svg.js
 swagger-api/swagger-codegen
 swagger-api/swagger-core
 swagger-api/swagger-editor
@@ -10955,6 +10970,7 @@ zeit/hyper
 zeit/hyperterm
 zeit/micro
 zeit/micro-cli
+zeit/next.js
 zeithq/micro
 zeman/perfmap
 zenazn/goji
