@@ -198,6 +198,7 @@ Benjamin-Dobell/Heimdall
 BigZaphod/Chameleon
 Bilibili/DanmakuFlameMaster
 Bilibili/MagicaSakura
+Bilibili/flv.js
 Bilibili/ijkplayer
 BinaryAnalysisPlatform/qira
 BinaryMuse/fluxxor
@@ -1210,6 +1211,7 @@ PHPOffice/PHPWord
 PHPSocialNetwork/phpfastcache
 PHPixie/Project
 PMSI-AlignAlytics/dimple
+PRML/PRMLT
 Pana/node-books
 PaoloRotolo/AppIntro
 PaperAirplane-Dev-Team/BlackLight
@@ -1470,6 +1472,7 @@ Shougo/unite.vim
 Shougo/vimshell.vim
 SiCKRAGETV/SiCKRAGE
 SickRage/SickRage
+SideBarEnhancements-org/SideBarEnhancements
 Sigil-Ebook/Sigil
 SignalR/SignalR
 SiliconStudio/xenko
@@ -1783,6 +1786,7 @@ YoSmudge/dnsyo
 Yomguithereal/baobab
 Yomguithereal/react-blessed
 YorickPeterse/oga
+YouTransfer/YouTransfer
 YouXianMing/Animations
 YouXianMing/YoCelsius
 YuzuJS/setImmediate
@@ -2241,6 +2245,7 @@ ansible/ansible
 ansible/ansible-container
 ansible/ansible-examples
 ansible/ansible-modules-core
+ansman/validate.js
 answer-huang/dSYMTools
 ant-design/ant-design
 ant0ine/go-json-rest
@@ -2412,6 +2417,7 @@ ashleydw/lightbox
 ashleymills/Reachability.swift
 ashtuchkin/iconv-lite
 askmike/gekko
+aslanyanhaik/youtube-iOS
 asmjit/asmjit
 aspnet/EntityFramework
 aspnet/Home
@@ -3362,6 +3368,7 @@ coopernurse/node-pool
 copy/v86
 copycat-killer/awesome-copycats
 corbanbrook/dsp.js
+corcel/corcel
 core-plot/core-plot
 coreos/clair
 coreos/coreos-vagrant
@@ -4228,6 +4235,7 @@ etianen/django-reversion
 etianen/html5media
 etrepat/baum
 etsy/AndroidStaggeredGrid
+etsy/MIDAS
 etsy/deployinator
 etsy/hound
 etsy/logster
@@ -4626,6 +4634,7 @@ fullcalendar/fullcalendar
 fulldecent/system-bus-radio
 fullstackio/FlappySwift
 functional-koans/clojure-koans
+functionaljava/functionaljava
 fundon/vue-admin
 furf/jquery-ui-touch-punch
 future-architect/vuls
@@ -4729,6 +4738,7 @@ gephi/gephi
 gerhard/deliver
 germanysbestkeptsecret/Wookmark-jQuery
 gernest/utron
+getbem/getbem.com
 getflourish/Sketch-Style-Inventory
 getgrav/grav
 getguesstimate/guesstimate-app
@@ -4871,6 +4881,7 @@ goaop/framework
 goatslacker/alt
 gobackspaces/DLCImagePickerController
 gocardless/angularjs-style-guide
+gocardless/statesman
 gocd/gocd
 gocircuit/circuit
 gocql/gocql
@@ -5553,6 +5564,7 @@ ivanakimov/hashids.js
 ivanakimov/hashids.php
 ivansafrin/Polycode
 ivanseidel/IAMDinosaur
+iview/iview
 ivopetkov/responsively-lazy
 iwasrobbed/Objective-C-CheatSheet
 iwasrobbed/RPFloatingPlaceholders
@@ -6649,6 +6661,7 @@ llvm-mirror/clang
 llvm-mirror/llvm
 lmacken/pyrasite
 lmatteis/peer-tweet
+lmcd/LMAlertView
 lmenezes/elasticsearch-kopf
 lmgonzalves/segment
 lo-th/3d.city
@@ -7270,6 +7283,7 @@ mmcgrana/services-engineering
 mmin18/AndroidDynamicLoader
 mmin18/FlexLayout
 mmin18/LayoutCast
+mmin18/RealtimeBlurView
 mmistakes/minimal-mistakes
 mmozuras/pronto
 mnielsen/neural-networks-and-deep-learning
@@ -7690,6 +7704,7 @@ nlintz/TensorFlow-Tutorials
 nlohmann/json
 nlp-compromise/nlp_compromise
 nltk/nltk
+nmathewson/Libevent
 nmattisson/DropdownMenu
 nnhubbard/ZSSRichTextEditor
 nnnick/Chart.js
@@ -8013,6 +8028,7 @@ overtake/telegram
 overtone/emacs-live
 overtone/overtone
 overtrue/pinyin
+overtrue/share.js
 overtrue/wechat
 overviewer/Minecraft-Overviewer
 owainlewis/awesome-artificial-intelligence
@@ -8648,6 +8664,7 @@ reactjs/react-art
 reactjs/react-autocomplete
 reactjs/react-basic
 reactjs/react-chartjs
+reactjs/react-docgen
 reactjs/react-future
 reactjs/react-modal
 reactjs/react-rails
