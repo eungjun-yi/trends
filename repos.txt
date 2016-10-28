@@ -2576,6 +2576,7 @@ bartblaze/PHP-backdoors
 barteksc/AndroidPdfViewer
 bartobri/no-more-secrets
 bartonhammond/snowflake
+basarat/typescript-book
 basecamp/local_time
 basecamp/mail_view
 basecamp/pow
@@ -4869,6 +4870,7 @@ gmoledina/GMGridView
 gnab/remark
 gnachman/iTerm2
 gnemoug/distribute_crawler
+go-authboss/authboss
 go-bootstrap/go-bootstrap
 go-gomail/gomail
 go-gorp/gorp
@@ -5933,6 +5935,7 @@ johnkerl/miller
 johnkil/Android-AppMsg
 johnlui/AutoLayout
 johnlui/Learn-Laravel-5
+johnlui/Pitaya
 johnlui/SwiftSideslipLikeQQ
 johnmyleswhite/ML_for_Hackers
 johnno1962/GitDiff
@@ -6326,6 +6329,7 @@ kivy/kivy
 kivy/python-for-android
 kiwi-bdd/Kiwi
 kjbekkelund/writings
+kjur/jsrsasign
 kjw0612/awesome-deep-vision
 kjw0612/awesome-rnn
 kkga/spacegray
@@ -8093,6 +8097,7 @@ panique/mini
 panteng/wechat-h5-boilerplate
 panwrona/DownloadProgressBar
 panzhangwang/getAwesomeness
+paolorotolo/AppIntro
 paperjs/paper.js
 paperlesspost/graphiti
 papers-we-love/papers-we-love
@@ -8935,6 +8940,7 @@ rovo89/Xposed
 rovo89/XposedBridge
 rovo89/XposedInstaller
 rowanmanning/joblint
+roylee0704/react-flexbox-grid
 royrusso/elasticsearch-HQ
 rpicard/explore-flask
 rpominov/kefir
@@ -9500,6 +9506,7 @@ sockjs/sockjs-client
 sockjs/sockjs-node
 soffes/SAMKeychain
 soffes/SSKeychain
+soffes/SSPullToRefresh
 soffes/sspulltorefresh
 soffes/sstoolkit
 sofish/pen
