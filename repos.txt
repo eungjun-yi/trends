@@ -812,6 +812,7 @@ JsAaron/jQuery
 JuanPotato/Legofy
 JuanitoFatas/fast-ruby
 Jude95/EasyRecyclerView
+Jude95/SwipeBackHelper
 JuliaLang/IJulia.jl
 JuliaLang/julia
 Julian/jsonschema
@@ -1018,6 +1019,7 @@ Microsoft/TouchDevelop
 Microsoft/TypeScript
 Microsoft/TypeScript-Sublime-Plugin
 Microsoft/TypeScriptSamples
+Microsoft/UWPCommunityToolkit
 Microsoft/Win2D
 Microsoft/WinObjC
 Microsoft/Windows-driver-samples
@@ -1438,6 +1440,7 @@ SaschaWillems/Vulkan
 SassDoc/sassdoc
 Schepp/box-sizing-polyfill
 ScottHamper/Cookies
+Seedstars/django-react-redux-base
 Seldaek/monolog
 SeldonIO/seldon-server
 SeleniumHQ/docker-selenium
@@ -1563,6 +1566,7 @@ TTLabs/EvaporateJS
 TTTAttributedLabel/TTTAttributedLabel
 TTimo/doom3.gpl
 TYVRNET/SRL
+TailorDev/monod
 TalAter/UpUp
 TalAter/annyang
 TalAter/awesome-service-workers
@@ -2484,6 +2488,7 @@ aurelhubert/ahbottomnavigation
 aurelia/framework
 austintoddj/canvas
 austinzheng/swift-2048
+auth0-blog/angular2-authentication-sample
 auth0/angular-jwt
 auth0/express-jwt
 auth0/node-jsonwebtoken
@@ -2909,6 +2914,7 @@ bububa/MongoHub-Mac
 bucaran/fly
 bucketsio/buckets
 buckket/twtxt
+budgie-desktop/budgie-desktop
 buger/gor
 buildbot/buildbot
 buildinternet/supersized
@@ -4275,6 +4281,7 @@ expressjs/expressjs.com
 expressjs/morgan
 expressjs/multer
 expressjs/session
+exyte/Macaw
 eyecatchup/SEOstats
 ezyang/htmlpurifier
 f2prateek/dart
@@ -4282,6 +4289,7 @@ f2prateek/rx-preferences
 fabianp/memory_profiler
 fabien-d/alertify.js
 fabric/fabric
+fabric8io/fabric8
 fabtools/fabtools
 facebook/AsyncDisplayKit
 facebook/FBMemoryProfiler
@@ -4629,6 +4637,7 @@ ftlabs/ftscroller
 fuchsia-mirror/fuchsia
 fuchsia-mirror/magenta
 fuel/fuel
+fugue/credstash
 fulcrum-agile/fulcrum
 fullcalendar/fullcalendar
 fulldecent/system-bus-radio
@@ -8274,6 +8283,7 @@ pilgr/Paper
 pili-engineering/PLCameraStreamingKit
 pili-engineering/PLDroidPlayer
 pillarjs/hbs
+pilu/fresh
 pilu/web-app-theme
 pilwon/ultimate-seed
 pinax/pinax
@@ -9094,6 +9104,7 @@ sass-mq/sass-mq
 sass/libsass
 sass/node-sass
 sass/sass
+sasstools/sass-lint
 satoshiiizuka/siggraph2016_colorization
 satyan/sugar
 saulmm/Android-Material-Examples
@@ -10043,6 +10054,7 @@ thoughtbot/suspenders
 thoughtbot/til
 thoughtbot/trail-map
 threatstream/mhn
+threepointone/glamor
 thrust/thrust
 thumbor/thumbor
 thx/RAP
@@ -10162,6 +10174,7 @@ tomwhite/hadoop-book
 tonsky/AnyBar
 tonsky/FiraCode
 tonsky/datascript
+tony/tmux-config
 tony/tmuxp
 tonymillion/Reachability
 tonytomov/jqGrid
