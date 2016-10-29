@@ -340,6 +340,7 @@ CouchPotato/CouchPotatoV1
 Countly/countly-server
 CppCon/CppCon2014
 CppCon/CppCon2015
+CppCon/CppCon2016
 CrawlScript/WebCollector
 CreateJS/EaselJS
 CreateJS/PreloadJS
@@ -2795,6 +2796,7 @@ booksbyus/zguide
 boot-clj/boot
 boot2docker/boot2docker
 boot2docker/osx-installer
+boot2docker/windows-installer
 bootcards/bootcards
 bootflat/bootflat.github.io
 bootstrap-ruby/rails-bootstrap-forms
@@ -6483,6 +6485,7 @@ laracasts/PHP-Vars-To-Js-Transformer
 laracasts/flash
 laravel-ardent/ardent
 laravel/cashier
+laravel/docs
 laravel/elixir
 laravel/envoy
 laravel/framework
@@ -7631,6 +7634,7 @@ newrelic/centurion
 newrelic/rpm
 newsapps/beeswithmachineguns
 newtriks/generator-react-webpack
+nextcloud/server
 nfarina/calloutview
 nfarina/homebridge
 nfl/react-helmet
@@ -9268,6 +9272,7 @@ sfsheng0322/StickyHeaderListView
 sgaurav/understanding-es6
 sgentle/caniuse-cmd
 sgryschuk/SGNavigationProgress
+sh4nks/flaskbb
 shadowsocks/ChinaDNS
 shadowsocks/Potatso
 shadowsocks/Potatso-iOS
@@ -9736,6 +9741,7 @@ storehouse/Advance
 stormzhang/9GAG
 stowball/jQuery-rwdImageMaps
 stoyan/cssshrink
+strapi/strapi
 streadway/amqp
 streamio/streamio-ffmpeg
 stretchr/arg.js
@@ -10687,6 +10693,7 @@ wentin/cssicon
 wentin/underlineJS
 wenzhixin/bootstrap-table
 wenzhixin/multiple-select
+wepe/MachineLearning
 wequick/Small
 werner77/WEPopover
 wesbos/React-For-Beginners-Starter-Files
