@@ -259,6 +259,7 @@ Caged/gitnub
 Caliburn-Micro/Caliburn.Micro
 Caligatio/jsSHA
 CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+CameloeAnthony/AndroidArchitectureCollection
 CameronBanga/iOS-Developer-and-Designer-Interview-Questions
 CanCanCommunity/cancancan
 CanvasPod/Canvas
@@ -2030,6 +2031,7 @@ alexgibson/shake.js
 alexgorbatchev/jquery-textext
 alexhultman/uWebSockets
 alexjc/neural-doodle
+alexjc/neural-enhance
 alexk111/SVG-Morpheus
 alexk111/ngImgCrop
 alexkuz/react-input-enhancements
@@ -7721,6 +7723,7 @@ nlintz/TensorFlow-Tutorials
 nlohmann/json
 nlp-compromise/nlp_compromise
 nltk/nltk
+nmap/nmap
 nmathewson/Libevent
 nmattisson/DropdownMenu
 nnhubbard/ZSSRichTextEditor
@@ -8367,6 +8370,7 @@ pokeb/asi-http-request
 polaris1119/The-Golang-Standard-Library-by-Example
 polarmobile/coffeescript-style-guide
 ponylang/ponyc
+ponyorm/pony
 poole/hyde
 poole/lanyon
 poole/poole
@@ -8408,6 +8412,7 @@ praw-dev/praw
 prawnpdf/prawn
 prawnsalad/KiwiIRC
 pre-commit/pre-commit
+preboot/angular-webpack
 preboot/angular2-webpack
 preciousforever/sketch-data-populator
 premailer/premailer
@@ -8503,6 +8508,7 @@ pyinvoke/invoke
 pymc-devs/pymc3
 pypa/pip
 pypa/virtualenv
+pypa/warehouse
 pypyjs/pypyjs
 pyro2927/ParallaxBlur
 pyrocms/pyrocms
@@ -11062,6 +11068,7 @@ zloirock/core-js
 zmap/zmap
 zmmbreeze/lining.js
 zmoazeni/csscss
+zmywly8866/Worth-Reading-the-Android-technical-articles
 znc/znc
 zolrath/wemux
 zonination/investing
