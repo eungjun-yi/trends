@@ -1416,6 +1416,7 @@ RubyMoney/money-rails
 Runscope/httpbin
 Russell91/pythonpy
 Russell91/sshrc
+RyanNielson/awesome-unity
 SAP/openui5
 SBoudrias/Inquirer.js
 SC5/sc5-styleguide
@@ -1531,6 +1532,7 @@ StackExchange/dapper-dot-net
 StackStorm/st2
 SteamRE/SteamKit
 StefanLage/SLPagingView
+StephenGrider/ReduxSimpleStarter
 StevenBlack/hosts
 Strider-CD/strider
 Studio-42/elFinder
@@ -1573,6 +1575,7 @@ TalAter/UpUp
 TalAter/annyang
 TalAter/awesome-service-workers
 TalksLab/metro-bootstrap
+TangXiaoLv/TelegramGallery
 TangoAgency/material-intro-screen
 TanguyAladenise/BBBadgeBarButtonItem
 TargetProcess/tauCharts
@@ -1694,6 +1697,7 @@ VirusTotal/yara
 VisualPHPUnit/VisualPHPUnit
 VitaliyRodnenko/geeknote
 VoLuong/Awesome-Linux-Software
+VoLuong/Begin-Latex-in-minutes
 VodkaBears/Remodal
 VodkaBears/Vide
 VoltDB/voltdb
@@ -1711,6 +1715,7 @@ WebDevStudios/CMB2
 WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress
 WebKit/webkit
 WebpageFX/emoji-cheat-sheet.com
+Webschool-io/be-mean
 Webschool-io/be-mean-instagram
 WechatFE/vConsole
 WenchaoD/FSCalendar
@@ -2200,6 +2205,7 @@ angular-dashboard-framework/angular-dashboard-framework
 angular-fullstack/generator-angular-fullstack
 angular-gantt/angular-gantt
 angular-google-chart/angular-google-chart
+angular-slider/angularjs-slider
 angular-translate/angular-translate
 angular-ui-tree/angular-ui-tree
 angular-ui/AngularJS-sublime-package
@@ -2538,6 +2544,7 @@ babel/babel-loader
 babel/babel-sublime
 babel/babelify
 babel/babili
+babel/gulp-babel
 babun/babun
 backbone-paginator/backbone.paginator
 backup-manager/backup-manager
@@ -2756,6 +2763,7 @@ blizzard-op/VideoPlayerKit
 bloodycoder/githack
 bloomberg/bqplot
 bloomberg/bucklescript
+blue-yonder/tsfresh
 blueimp/Bootstrap-Image-Gallery
 blueimp/Gallery
 blueimp/JavaScript-Load-Image
@@ -4658,6 +4666,7 @@ futuretap/InAppSettingsKit
 futurice/android-best-practices
 futurice/ios-good-practices
 futurice/pepperoni-app-kit
+fuzzdb-project/fuzzdb
 fvbock/endless
 fxbois/web-mode
 fxn/tkn
@@ -4796,6 +4805,7 @@ gilbitron/Nivo-Slider
 gilbitron/Raneto
 gildas-lormeau/zip.js
 gilesbowkett/rewind
+giltene/wrk2
 gimenete/iOS-boilerplate
 gimite/google-drive-ruby
 gimite/web-socket-js
@@ -5099,6 +5109,7 @@ grosser/parallel_tests
 groue/GRMustache
 groundworkcss/groundwork
 groupon/greenscreen
+groveco/django-sql-explorer
 grpc-ecosystem/grpc-gateway
 grpc/grpc
 grpc/grpc-common
@@ -7282,6 +7293,7 @@ mizzy/serverspec
 mjackson/expect
 mjackson/history
 mjackson/mach
+mjavascript/practical-es6
 mjibson/goread
 mjmlio/mjml
 mjohnston/react-native-webpack-server
@@ -8294,6 +8306,7 @@ pikock/bootstrap-magic
 pilgr/Paper
 pili-engineering/PLCameraStreamingKit
 pili-engineering/PLDroidPlayer
+pili-engineering/PLPlayerKit
 pillarjs/hbs
 pilu/fresh
 pilu/web-app-theme
@@ -10015,6 +10028,7 @@ thephpleague/oauth2-client
 thephpleague/oauth2-server
 thephpleague/omnipay
 there4/markdown-resume
+therecipe/qt
 thermogl/TISwipeableTableView
 thest1/LazyList
 thestinger/termite
@@ -10085,11 +10099,13 @@ tictail/bounce.js
 tid-kijyun/Kanna
 tidwall/buntdb
 tidwall/tile38
+tidyverse/ggplot2
 tiimgreen/github-cheat-sheet
 tildeio/htmlbars
 tildeio/router.js
 tildeio/rsvp.js
 tilemill-project/tilemill
+timarney/react-faq
 timber/timber
 timburks/nu
 timcreative/material-kit
@@ -10207,6 +10223,7 @@ topazproject/topaz
 topcoat/topcoat
 topfunky/gruff
 topfunky/hpple
+topojson/topojson
 toptal/chewy
 torch/torch7
 torchbox/wagtail
@@ -11053,6 +11070,7 @@ zhengwenming/WMPlayer
 zhengxiaopeng/android-dev-bookmarks
 zhihu/kids
 zhuangbiaowei/learn-with-open-source
+zhuhaow/SpechtLite
 zhukov/webogram
 zhxnlai/ZLSwipeableView
 zhxnlai/ZLSwipeableViewSwift
