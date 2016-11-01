@@ -303,6 +303,7 @@ Cleveroad/WaveInApp
 Cleveroad/slidingtutorial-android
 Clouda-team/Cloudajs
 ClusterHQ/flocker
+CoXier/LowPoly
 CocoaChina-editors/Welcome-to-Swift
 CocoaLumberjack/CocoaLumberjack
 CocoaPods/CocoaPods
@@ -689,6 +690,7 @@ IFTTT/jot
 IanLunn/Hover
 IanLunn/Sequence
 IanLunn/jQuery-Parallax
+IcaliaLabs/Presentr
 IcaliaLabs/furatto
 IdentityServer/IdentityServer3
 Idered/Editr.js
@@ -1658,6 +1660,7 @@ Unknwon/the-way-to-go_ZH_CN
 UrbanApps/UAModalPanel
 UrbanApps/UAProgressView
 Urigo/angular-meteor
+Urigo/awesome-meteor
 Urinx/WeixinBot
 UweTrottmann/SeriesGuide
 VPenkov/okayNav
@@ -5871,6 +5874,7 @@ jisungk/deepjazz
 jitsi/jitsi
 jivadevoe/UIAlertView-Blocks
 jivesoftware/PDTSimpleCalendar
+jjdxmashl/jjdxm_ijkplayer
 jjoe64/GraphView
 jkaving/intellij-colors-solarized
 jkbrzt/cloudtunes
@@ -6124,6 +6128,7 @@ julianshapiro/blast
 julianshapiro/velocity
 julien-c/Circular
 julienXX/terminal-notifier
+julienschmidt/go-http-routing-benchmark
 julienschmidt/httprouter
 juliocesarfort/public-pentesting-reports
 julycoding/The-Art-Of-Programming-By-July
@@ -6561,6 +6566,7 @@ lelylan/betterspecs
 lemonmade/bigfoot
 lendylongli/qianghongbao
 lengstrom/falcon
+lengstrom/fast-style-transfer
 leolin310148/ShortcutBadger
 leonar15/startup-checklist
 leongersen/noUiSlider
@@ -6681,6 +6687,7 @@ lixuancn/LaneWeChat
 liyong03/YLGIFImage
 lizhangqu/CoreLink
 lj2007331/lnmp
+ljharb/qs
 lkzhao/ElasticTransition
 lloyd/JSONSelect
 lloyd/node-memwatch
@@ -7264,6 +7271,7 @@ minimaxir/big-list-of-naughty-strings
 minimaxir/facebook-page-post-scraper
 mininet/mininet
 minio/minio
+minoca/os
 mintchaos/flippant.js
 mirah/mirah
 miripiruni/frontdesk
@@ -8026,6 +8034,7 @@ orbitjs/orbit.js
 orderedlist/minimal
 oreillymedia/open_government
 orfjackal/retrolambda
+orgsync/active_interaction
 orhanobut/dialogplus
 orhanobut/hawk
 orhanobut/logger
@@ -8576,6 +8585,7 @@ quicksilver/Quicksilver
 quil/quil
 quilljs/quill
 quirkey/sammy
+qunitjs/qunit
 quokkaproject/quokka
 quozd/awesome-dotnet
 ququplay/jquery-mobile-flat-ui-theme
@@ -8680,6 +8690,7 @@ rcrowley/goagain
 rdash/rdash-angular
 rdio/jsfmt
 react-bootstrap/react-bootstrap
+react-bootstrap/react-router-bootstrap
 react-cosmos/react-cosmos
 react-mdl/react-mdl
 react-native-community/React-Native-Elements
@@ -8755,6 +8766,7 @@ redux-loop/redux-loop
 redux-observable/redux-observable
 reduxframework/elusive-iconfont
 reduxframework/redux-framework
+redwarp/9-Patch-Resizer
 reek/anti-adblock-killer
 reenhanced/gitreflow
 reeze/tipi
@@ -9649,6 +9661,7 @@ sqlcipher/sqlcipher
 sqlectron/sqlectron-gui
 sqlitebrowser/sqlitebrowser
 sqlmapproject/sqlmap
+sqreen/awesome-nodejs-projects
 sqren/fb-sleep-stats
 square/PonyDebugger
 square/SocketRocket
@@ -10091,6 +10104,7 @@ threepointone/glamor
 thrust/thrust
 thumbor/thumbor
 thx/RAP
+tiann/understand-plugin-framework
 tianon/gosu
 tianzhijiexian/Android-Best-Practices
 tianzhuo112/VTMagic
@@ -10611,6 +10625,7 @@ vuejs/vue-resource
 vuejs/vue-router
 vuejs/vue-validator
 vuejs/vuex
+vulcand/oxy
 vulcand/vulcand
 vulpino/jolteon
 vurtun/nuklear
@@ -11007,6 +11022,7 @@ yydcdut/PhotoNoter
 yyuu/pyenv
 yyuu/pyenv-virtualenv
 yyx990803/pod
+yyx990803/vue-resource
 yyx990803/zoomerang
 z3t0/Arduino-IRremote
 z56402344/BaseAnimation
