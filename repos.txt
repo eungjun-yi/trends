@@ -564,6 +564,7 @@ GavinFoo/elasticsearch-definitive-guide
 Gazler/githug
 GcsSloop/AndroidNote
 Geal/nom
+GeekZooStudio/ECMobile_iOS
 GeekyAnts/NativeBase
 GeertJohan/go.rice
 GeniusVJR/LearningNotes
@@ -1321,6 +1322,7 @@ RPISEC/Malware
 RaRe-Technologies/gensim
 RadLikeWhoa/Countable
 RafalWilinski/express-status-monitor
+Rafase282/My-FreeCodeCamp-Code
 RafeKettler/magicmethods
 RailsApps/rails-composer
 RailsApps/rails-stripe-membership-saas
@@ -1738,6 +1740,7 @@ WizTeam/WizQTClient
 Wizcorp/phonegap-facebook-plugin
 Wolfr/clank
 Wolg/awesome-swift
+WordPress-Coding-Standards/WordPress-Coding-Standards
 WordPress/WordPress
 Workiva/go-datastructures
 Wox-launcher/Wox
@@ -1915,6 +1918,7 @@ adobe-fonts/source-sans-pro
 adobe-fonts/source-serif-pro
 adobe-research/theseus
 adobe-webplatform/Snap.svg
+adobe-webplatform/balance-text
 adobe-webplatform/dropcap.js
 adobe/brackets
 adobe/brackets-shell
@@ -2575,6 +2579,7 @@ banago/PHPloy
 banchichen/TZImagePickerController
 bang590/JSPatch
 banga/powerline-shell
+bannedbook/fanqiang
 baoyachi/StepView
 baoyongzhang/SwipeMenuListView
 baoyongzhang/android-PullRefreshLayout
@@ -3123,6 +3128,8 @@ chenglou/react-tween-state
 chengr28/Pcap_DNSProxy
 chengr28/RevokeChinaCerts
 chenshuo/muduo
+chentao0707/QrCodeScan
+chentao0707/SimplifyReader
 chentsulin/awesome-graphql
 chentsulin/electron-react-boilerplate
 chenupt/DragTopLayout
@@ -3219,6 +3226,7 @@ cjlin1/libsvm
 cjwirth/awesome-ios-ui
 ckan/ckan
 ckeditor/ckeditor-dev
+ckreibich/scholar.py
 clappr/clappr
 claritylab/lucida
 clauderic/react-infinite-calendar
@@ -4871,6 +4879,7 @@ gliderlabs/logspout
 gliderlabs/registrator
 glittershark/reactable
 globalize/globalize
+globalizejs/globalize
 glock45/iOS-Hierarchy-Viewer
 glomadrian/RoadRunner
 glomadrian/loading-balls
@@ -4944,6 +4953,7 @@ google/ExoPlayer
 google/WebFundamentals
 google/agera
 google/android-classyshark
+google/android-ui-toolkit-demos
 google/auto
 google/battery-historian
 google/benchmark
@@ -5216,6 +5226,7 @@ hanks-zyh/HTextView
 hanks-zyh/SmallBang
 hannes-brt/hebel
 hanton/HTY360Player
+hanzichi/underscore-analysis
 haoel/leetcode
 hapijs/hapi
 hapijs/joi
@@ -5645,6 +5656,7 @@ jaliss/securesocial
 jalxob/cool-kitten
 james2m/seedbank
 jamesallardice/Placeholders.js
+jamesdbloom/mockserver
 jamesflorentino/nanoScrollerJS
 jamesgpearce/confess
 jamesmawm/High-Frequency-Trading-Model-with-IB
@@ -7039,6 +7051,7 @@ mattn/gom
 mattneub/Programming-iOS-Book-Examples
 mattpass/ICEcoder
 mattprecious/telescope
+mattrajca/sudo-touchid
 mattt/AnimatedGIFImageSerialization
 mattt/CargoBay
 mattt/Euler
@@ -7677,6 +7690,7 @@ nhachicha/SnappyDB
 nhibernate/nhibernate-core
 ni-c/heimcontrol.js
 nicinabox/superslides
+nickbutcher/AnimatorDurationTile
 nickbutcher/plaid
 nickel-org/nickel.rs
 nicklockwood/AsyncImageView
@@ -9482,6 +9496,8 @@ skynetservices/skynet
 skywind3000/kcp
 skywinder/GaugeKit
 skywinder/github-changelog-generator
+slackapi/hubot-slack
+slackapi/node-slack-sdk
 slackhq/SlackTextViewController
 slackhq/hubot-slack
 slackhq/node-slack-sdk
@@ -9637,6 +9653,7 @@ sprang/Inkpad
 spray/spray
 spree/spree
 spring-guides/tut-spring-security-and-angular-js
+spring-io/sagan
 spring-projects/spring-boot
 spring-projects/spring-framework
 spring-projects/spring-integration-samples
@@ -10001,6 +10018,7 @@ tgalal/yowsup
 tgdwyer/WebCola
 tgriesser/bookshelf
 tgriesser/knex
+th0r/webpack-bundle-analyzer
 thalesians/pythalesians
 thampiman/reverse-geocoder
 the-teacher/cocktails_for_programmers
@@ -10196,6 +10214,7 @@ toddmotto/fireshell
 toddmotto/html5blank
 toddmotto/public-apis
 toddway/MaterialTransitions
+toddwschneider/nyc-taxi-data
 todoroo/astrid
 toji/gl-matrix
 toland/qlmarkdown
