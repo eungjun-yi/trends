@@ -317,6 +317,8 @@ Codeception/CodeceptJS
 Codeception/Codeception
 Codegyre/Robo
 Codeido/PMAlertController
+Codeinwp/Ideal-Image-Slider-JS
+Codeinwp/Nivo-Slider-jQuery
 CodepadME/laravel-tricks
 CoderMJLee/MJExtension
 CoderMJLee/MJRefresh
@@ -433,6 +435,7 @@ Dreampie/Resty
 DrewDahlman/Mason
 DrkSephy/django-hackathon-starter
 DrkSephy/es6-cheatsheet
+DroidNinja/Android-FilePicker
 DroidPluginTeam/DroidPlugin
 DroidsOnRoids/MPParallaxView
 Droogans/unmaintainable-code
@@ -560,6 +563,7 @@ GameServerManagers/LinuxGSM
 Gamua/Starling-Framework
 GarageGames/Torque2D
 GarageGames/Torque3D
+Gargron/mastodon
 GavinFoo/elasticsearch-definitive-guide
 Gazler/githug
 GcsSloop/AndroidNote
@@ -2407,6 +2411,7 @@ artem-zinnatullin/qualitymatters
 artf/grapesjs
 arthepsy/ssh-audit
 artofrawr/profoundgrid
+artoolkit/artoolkit5
 artpolikarpov/fotorama
 artsy/eidolon
 artsy/eigen
@@ -2476,6 +2481,7 @@ atebits/SimFinger
 aterrien/jQuery-Knob
 atljeremy/JFMinimalNotifications
 atmos/camo
+atom/apm
 atom/atom
 atom/electron
 atom/vim-mode
@@ -4287,6 +4293,7 @@ eventmachine/eventmachine
 evernote/android-job
 everpix/Everpix-Intelligence
 evgenyrodionov/redux-logger
+evil-icons/evil-icons
 evilcos/papers
 evilsocket/bettercap
 evilstreak/markdown-js
@@ -5686,6 +5693,7 @@ jaredpar/VsVim
 jaredreich/notie
 jaredrummler/AnimatedSvgView
 jaredsinclair/JTSImageViewController
+jareware/css-architecture
 jariz/vibrant.js
 jarun/googler
 jas/playground
@@ -6513,6 +6521,7 @@ lapwinglabs/x-ray
 laracasts/Laravel-5-Generators-Extended
 laracasts/PHP-Vars-To-Js-Transformer
 laracasts/flash
+laradock/laradock
 laravel-ardent/ardent
 laravel/cashier
 laravel/docs
@@ -6554,6 +6563,7 @@ leafo/scssphp
 leafo/sticky-kit
 leah/PullToRefresh
 leancloud/ChatKit-OC
+leanote/desktop-app
 leanote/leanote
 leapmotion/leapjs
 lebab/lebab
@@ -6785,6 +6795,7 @@ luruke/barba.js
 luster-io/impulse
 luvit/luvit
 lvivski/animatic
+lw-lin/CoolplaySpark
 lwansbrough/react-native-camera
 lxc/lxc
 lxc/lxd
@@ -6978,6 +6989,7 @@ marty-suzuki/SAHistoryNavigationViewController
 martyjs/marty
 martynsmith/node-irc
 maruel/panicparse
+maruos/maruos
 marvelapp/FancyTabBar
 marvelapp/devices.css
 maryrosecook/gitlet
@@ -8017,6 +8029,7 @@ openpgpjs/openpgpjs
 openresty/lua-nginx-module
 openresty/nginx-tutorials
 openresty/openresty
+openresty/openresty.org
 openscad/openscad
 openseadragon/openseadragon
 openshift/origin
@@ -8581,6 +8594,7 @@ qiwsir/StarterLearningPython
 qklabs/qksms
 ql-io/ql.io
 qor/qor
+qos-ch/logback
 qrohlf/trianglify
 qs-lll/ExpandingPager
 qtile/qtile
@@ -10573,6 +10587,7 @@ vim-airline/vim-airline
 vim-awesome/vim-awesome
 vim-ctrlspace/vim-ctrlspace
 vim-ruby/vim-ruby
+vim-syntastic/syntastic
 vim/vim
 vimeo/graph-explorer
 vimwiki/vimwiki
