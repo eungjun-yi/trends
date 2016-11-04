@@ -55,6 +55,7 @@ AFNetworking/AFNetworking
 AFNetworking/AFOAuth2Manager
 AGWA/git-crypt
 AHAAAAAAA/PokemonGo-Map
+ARMmbed/mbed-os
 AaronRandall/Screentendo
 Activiti/Activiti
 AdamAtomic/flixel
@@ -88,6 +89,7 @@ AllThingsSmitty/css-protips
 AllThingsSmitty/jquery-tips-everyone-should-know
 AllThingsSmitty/must-watch-css
 AllThingsSmitty/must-watch-javascript
+AllenFang/react-bootstrap-table
 AlloyTeam/AlloyImage
 AlloyTeam/JX
 AlloyTeam/Mars
@@ -615,6 +617,7 @@ HIPS/autograd
 HIT-Alibaba/interview
 HabitRPG/habitica
 HabitRPG/habitrpg
+HackPlan/AndroidCharts
 HackPlan/quark-shell-mac
 HackathonHackers/programming-ebooks
 Hacker0x01/react-datepicker
@@ -2706,6 +2709,7 @@ bevry/cson
 beworker/pinned-section-listview
 beyondred/lily
 bfirsh/jsnes
+bfred-it/iphone-inline-video
 bgrins/TinyColor
 bgrins/devtools-snippets
 bgrins/spectrum
@@ -2868,6 +2872,7 @@ brandonwamboldt/utilphp
 brandwaffle/flexibility
 brave/browser-android
 brave/browser-laptop
+brave/link-bubble
 braydie/HowToBeAProgrammer
 braziljs/js-the-right-way
 breach/breach_core
@@ -3337,6 +3342,7 @@ codetainerapp/codetainer
 codrops/Animocons
 codrops/DistortedButtonEffects
 codrops/HoverEffectIdeas
+codrops/ModalWindowEffects
 codrops/NotificationStyles
 codrops/PageTransitions
 codrops/SeatPreview
@@ -3426,6 +3432,7 @@ corymsmith/react-native-icons
 cosenary/Instagram-PHP-API
 cosven/FeelUOwn
 coteditor/CotEditor
+couchbase/couchbase-lite-android
 couchbase/couchbase-lite-ios
 coursera-dl/coursera-dl
 cowbell/sharedrop
@@ -3742,6 +3749,7 @@ dempfi/ayu
 denkGroot/Spina
 dennis714/RE-for-beginners
 dennisreimann/ioctocat
+dennybritz/cnn-text-classification-tf
 dennybritz/deeplearning-papernotes
 dennybritz/neal-react
 dennybritz/reinforcement-learning
@@ -3915,6 +3923,7 @@ dokku/dokku
 dokterdok/Continuity-Activation-Tool
 dolce/iziModal
 dollarshaveclub/reframe.js
+dollarshaveclub/shave
 dolphin-emu/dolphin
 domaindrivendev/Swashbuckle
 domchristie/to-markdown
@@ -4348,6 +4357,7 @@ facebook/facebook-ios-sdk
 facebook/facebook-php-sdk-v4
 facebook/facebook-sdk-swift
 facebook/fb-adb
+facebook/fb.resnet.torch
 facebook/fbctf
 facebook/fbcunn
 facebook/fbthrift
@@ -4872,6 +4882,7 @@ gitlabhq/gitlab-ci
 gitlabhq/gitlabhq
 gitpython-developers/GitPython
 gizak/termui
+gka/canvid
 gka/chroma.js
 gkz/LiveScript
 gkz/grasp
@@ -5014,6 +5025,7 @@ google/lovefield
 google/material-design-icons
 google/material-design-lite
 google/mr4c
+google/netstack
 google/nogotofail
 google/novm
 google/or-tools
@@ -5509,6 +5521,7 @@ imakewebthings/waypoints
 imathis/fancy-buttons
 imathis/octopress
 imatix/zguide
+imbryk/LoopingViewPager
 immobiliare/ApnsPHP
 immutables/immutables
 impeterstone/PSCollectionView
@@ -5538,6 +5551,7 @@ influxdata/telegraf
 infobyte/faraday
 inikulin/parse5
 inkle/ink
+inloop/svg2android
 inmite/android-selector-chapek
 inorganik/countUp.js
 insanum/gcalcli
@@ -5861,6 +5875,7 @@ jgthms/web-design-in-4-minutes
 jhalterman/failsafe
 jharwig/PPSSignatureView
 jhipster/generator-jhipster
+jhlywa/chess.js
 jhnns/rewire
 jhollingworth/bootstrap-wysihtml5
 jhuckaby/webcamjs
@@ -5939,6 +5954,7 @@ jobbole/awesome-c-cn
 jobbole/awesome-ios-cn
 jobbole/awesome-java-cn
 jobbole/awesome-javascript-cn
+jobbole/awesome-programming-books
 jobbole/awesome-python-cn
 joealcorn/laboratory
 joeblau/gitignore.io
@@ -6522,6 +6538,7 @@ laracasts/Laravel-5-Generators-Extended
 laracasts/PHP-Vars-To-Js-Transformer
 laracasts/flash
 laradock/laradock
+laramies/theHarvester
 laravel-ardent/ardent
 laravel/cashier
 laravel/docs
@@ -7818,6 +7835,7 @@ nomad/houston
 nomad/shenzhen
 nomiddlename/log4js-node
 non/spire
+nonstriater/Learn-Algorithms
 noodlewerk/NWPusher
 nopSolutions/nopCommerce
 noplay/docker-osx
@@ -7889,6 +7907,7 @@ nyanp/tiny-cnn
 nygard/class-dump
 nylas/N1
 nylas/sync-engine
+nylira/prism-break
 nytlabs/streamtools
 nzakas/computer-science-in-javascript
 nzakas/understandinges6
@@ -8744,6 +8763,7 @@ reactjs/react-chartjs
 reactjs/react-docgen
 reactjs/react-future
 reactjs/react-modal
+reactjs/react-php-v8js
 reactjs/react-rails
 reactjs/react-redux
 reactjs/react-router
@@ -9802,6 +9822,7 @@ stolksdorf/Parallaxjs
 stonesam92/ChitChat
 storehouse/Advance
 stormzhang/9GAG
+storybooks/react-storybook
 stowball/jQuery-rwdImageMaps
 stoyan/cssshrink
 strapi/strapi
@@ -10035,6 +10056,7 @@ tgriesser/knex
 th0r/webpack-bundle-analyzer
 thalesians/pythalesians
 thampiman/reverse-geocoder
+the-control-group/voyager
 the-teacher/cocktails_for_programmers
 the5fire/backbonejs-learning-note
 theDazzler/droidicon
@@ -10778,6 +10800,7 @@ wesnoth/wesnoth
 wet-boew/wet-boew
 weui/react-weui
 weui/weui
+weui/weui-design
 wg/wrk
 wg689/Solve-App-Store-Review-Problem
 whackashoe/antimoderate
