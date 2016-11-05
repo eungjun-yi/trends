@@ -300,6 +300,7 @@ CiscoCloud/mantl
 Citrrus/BlurryModalSegue
 Clans/FloatingActionButton
 CleverRaven/Cataclysm-DDA
+Cleveroad/FanLayoutManager
 Cleveroad/SlidingTutorial-Android
 Cleveroad/WaveInApp
 Cleveroad/slidingtutorial-android
@@ -705,6 +706,7 @@ Idered/Editr.js
 IdleHandsApps/IHKeyboardAvoiding
 ImageOptim/ImageOptim
 ImmortalZ/StereoView
+ImmortalZ/TransitionHelper
 Indamix/real-shadow
 Indatus/dispatcher
 InfyOmLabs/laravel-generator
@@ -769,6 +771,7 @@ JamieMason/ImageOptim-CLI
 JanVanRyswyck/awesome-talks
 Jasig/cas
 JasonMortonNZ/bs3-sublime-plugin
+Jasonette/JASONETTE-iOS
 JaviSoto/JSBadgeView
 Jawbone/JBChartView
 JazysYu/JZNavigationExtension
@@ -945,6 +948,7 @@ Luracast/Restler
 Lusitanian/PHPoAuthLib
 LyndonChin/AndroidRubberIndicator
 LyndonChin/MasteringAndroidDataBinding
+M66B/NetGuard
 M66B/XPrivacy
 MDCC2016/Android-Session-Slides
 MHaroonBaig/MotionKit
@@ -1226,6 +1230,7 @@ PHPSocialNetwork/phpfastcache
 PHPixie/Project
 PMSI-AlignAlytics/dimple
 PRML/PRMLT
+PX4/Firmware
 Pana/node-books
 PaoloRotolo/AppIntro
 PaperAirplane-Dev-Team/BlackLight
@@ -1616,6 +1621,7 @@ Theano/Theano
 Thibaut/devdocs
 ThinkUpLLC/ThinkUp
 ThisIsDallas/Simple-Grid
+ThisIsMissEm/node-websocket-server
 Thomas101/wmail
 Thomvis/BrightFutures
 ThrivingKings/animo.js
@@ -1982,6 +1988,7 @@ airbnb/epoxy
 airbnb/hypernova
 airbnb/infinity
 airbnb/javascript
+airbnb/knowledge-repo
 airbnb/polyglot.js
 airbnb/react-dates
 airbnb/react-native-maps
@@ -2632,6 +2639,7 @@ bbatsov/ruby-style-guide
 bblanchon/ArduinoJson
 bblimke/webmock
 bborn/communityengine
+bboyairwreck/PieMessage
 bboyfeiyu/AndroidEventBus
 bboyfeiyu/android-tech-frontier
 bchanx/slidr
@@ -3950,6 +3958,7 @@ dontcontactme/p2pspider
 doorkeeper-gem/doorkeeper
 doraemonext/wechat-python-sdk
 dotless-de/vagrant-vbguest
+dotnet-state-machine/stateless
 dotnet/cli
 dotnet/core
 dotnet/coreclr
@@ -3975,6 +3984,7 @@ draios/sysdig
 drakeet/MaterialDialog
 drakeet/Meizhi
 drapergem/draper
+drathier/stack-overflow-import
 drduh/OS-X-Security-and-Privacy-Guide
 drduh/macOS-Security-and-Privacy-Guide
 drduh/pwd.sh
@@ -4663,6 +4673,7 @@ freqdec/slabText
 frida/frida
 friendlyrobotnyc/TinyDancer
 fritzy/SleekXMPP
+froala/wysiwyg-editor
 frogermcs/AndroidDevMetrics
 frogermcs/InstaMaterial
 frogermcs/LikeAnimation
@@ -4997,6 +5008,7 @@ google/fonts
 google/git-appraise
 google/glog
 google/go-github
+google/google-api-go-client
 google/google-api-nodejs-client
 google/google-api-php-client
 google/google-api-python-client
@@ -8094,6 +8106,7 @@ orvice/ss-panel
 ory-am/hydra
 os-js/OS.js
 os/slacker
+osTicket/osTicket
 oscarotero/Embed
 oskarkrawczyk/Heyoffline
 oskarkrawczyk/heyoffline.js
@@ -8145,6 +8158,7 @@ padraic/mockery
 padrino/padrino-framework
 pagehelper/Mybatis-PageHelper
 pagekit/pagekit
+pagekit/vue-resource
 pagespeed/ngx_pagespeed
 pahen/madge
 pahimar/Equivalent-Exchange-3
@@ -10562,6 +10576,7 @@ vasanthk/js-bits
 vbarbaresi/MetroGit
 vcr/vcr
 vczero/react-native-lesson
+vdaubry/github-awards
 vdemedes/gifi
 vega/vega
 veggiemonk/awesome-docker
@@ -10879,6 +10894,7 @@ wpscanteam/wpscan
 wrapp/floatlabelededittext
 wrobstory/vincent
 wsargent/docker-cheat-sheet
+wsdjeg/DotFiles
 wting/autojump
 wuhaoyu1990/MagicCamera
 wujunyang/MobileProject
