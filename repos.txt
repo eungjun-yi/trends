@@ -524,6 +524,7 @@ FontCustom/fontcustom
 Fooidge/PleaseJS
 FormidableLabs/nodejs-dashboard
 FormidableLabs/radium
+FormidableLabs/react-animations
 FormidableLabs/react-game-kit
 FormidableLabs/react-music
 FormidableLabs/spectacle
@@ -1026,6 +1027,7 @@ Microsoft/BotBuilder
 Microsoft/CNTK
 Microsoft/ChakraCore
 Microsoft/DMTK
+Microsoft/DirectX-Graphics-Samples
 Microsoft/GSL
 Microsoft/LightGBM
 Microsoft/PTVS
@@ -2158,6 +2160,7 @@ amscanne/huptime
 amsul/pickadate.js
 amueller/word_cloud
 amulyakhare/TextDrawable
+amyhaber/cnki-downloader
 amzn/alexa-avs-raspberry-pi
 amznlabs/amazon-dsstne
 anacrolix/torrent
@@ -5220,6 +5223,7 @@ h5bp/server-configs-apache
 h5bp/server-configs-nginx
 h6ah4i/android-advancedrecyclerview
 ha/doozerd
+haad/proxychains
 habitat-sh/habitat
 hackappcom/ibrute
 hackers-painters/samurai-native
@@ -8840,6 +8844,7 @@ reinderien/mimic
 rekihattori/awesome-programmers
 relatedcode/EncryptedChat
 relatedcode/FirebaseChat
+relatedcode/Messenger
 relatedcode/ParseAlternatives
 relatedcode/ProgressHUD
 relatedcode/RealtimeChat
