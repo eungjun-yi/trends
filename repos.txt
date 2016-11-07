@@ -1442,6 +1442,7 @@ SFML/SFML
 SFTtech/openage
 SSilence/selfoss
 STRML/react-grid-layout
+STRML/strml.net
 SUSE/Portus
 SVG-Edit/svgedit
 SVGKit/SVGKit
@@ -1864,6 +1865,7 @@ abourget/gevent-socketio
 abpetkov/switchery
 abraham/twitteroauth
 abrasive/shairport
+acacha/adminlte-laravel
 acani/Chats
 acassen/keepalived
 acaudwell/Gource
@@ -2111,6 +2113,7 @@ almende/vis
 alohaeditor/Aloha-Editor
 alols/xcape
 alongubkin/spider
+alorma/TimelineView
 alrojo/tensorflow-tutorial
 alrra/browser-logos
 alskipp/ASProgressPopUpView
@@ -2277,6 +2280,7 @@ ankane/pghero
 ankane/searchkick
 ankurp/Dollar
 anmoljagetia/Flatabulous
+anselmh/object-fit
 ansible-semaphore/semaphore
 ansible/ansible
 ansible/ansible-container
@@ -2448,6 +2452,7 @@ asciinema/asciinema.org
 ascribe/image-match
 aseemk/json5
 aseprite/aseprite
+aserg-ufmg/JSCity
 ashfurrow/C-41
 ashima/webgl-noise
 ashishb/android-security-awesome
@@ -2535,6 +2540,7 @@ avajs/ava
 avalanche123/Imagine
 avast/android-butterknife-zelezny
 avast/android-styled-dialogs
+avatsaev/touchbar_nyancat
 avdi/naught
 avelino/awesome-go
 avinassh/rockstar
@@ -4043,6 +4049,7 @@ duilib/duilib
 dularion/streama
 duojs/duo
 duplicati/duplicati
+dustin/go-humanize
 dustingetz/react-cursor
 dustinrue/ControlPlane
 dustturtle/RealReachability
@@ -4889,6 +4896,7 @@ github/objective-c-style-guide
 github/octicons
 github/pages-gem
 github/scientist
+github/scripts-to-rule-them-all
 github/swift-style-guide
 github/time-elements
 github/training-kit
@@ -6256,6 +6264,7 @@ kaishengtai/neuralart
 kaishin/Gifu
 kaishin/ImageScout
 kakserpom/phpdaemon
+kakuilan/china_area_mysql
 kalcaddle/KODExplorer
 kaldi-asr/kaldi
 kamalgill/flask-appengine-template
@@ -6936,6 +6945,7 @@ mangini/gdocs2md
 mangos/MaNGOS
 manifestinteractive/jqvmap
 manosim/gitify
+mantl/mantl
 manuelbieh/Geolib
 manuelkiessling/nodebeginner.org
 manuelruder/artistic-videos
@@ -7145,6 +7155,7 @@ mblode/marx
 mbostock/d3
 mbostock/stack
 mbostock/topojson
+mbr/flask-bootstrap
 mcamara/laravel-localization
 mcasimir/mobile-angular-ui
 mceachen/closure_tree
@@ -7257,6 +7268,7 @@ michaelvillar/dynamics.js
 michalkonturek/GraphKit
 michalsnik/aos
 michelf/php-markdown
+micheloosterhof/cowrie
 michelson/Dante
 michelson/lazy_high_charts
 michenriksen/gitrob
@@ -9273,6 +9285,7 @@ scrapy/dirbot
 scrapy/scrapely
 scrapy/scrapy
 scribejava/scribejava
+scribu/wp-posts-to-posts
 scriptcs/scriptcs
 scripted-editor/scripted
 scrod/nv
@@ -10392,6 +10405,7 @@ tumblr/TMCache
 tumblr/colossus
 tumblr/jetpants
 tumtumtum/StreamingKit
+turbo/js
 turbolinks/turbolinks
 turbolinks/turbolinks-classic
 turbulenz/turbulenz_engine
@@ -10544,6 +10558,7 @@ urfave/cli
 urfave/negroni
 urho3d/Urho3D
 urish/angular-moment
+urwid/urwid
 usablica/front-end-frameworks
 usablica/intro.js
 usablica/kissui.scrollanim
@@ -11013,6 +11028,7 @@ yanhaijing/zepto.fullpage
 yaniswang/HTMLHint
 yannickcr/eslint-plugin-react
 yannickl/DynamicColor
+yannickl/YLProgressBar
 yanzhenjie/NoHttp
 yanzhenjie/SwipeRecyclerView
 yaoweibin/nginx_tcp_proxy_module
