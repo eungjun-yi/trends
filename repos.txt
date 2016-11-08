@@ -941,6 +941,7 @@ Lokaltog/vim-powerline
 LuRsT/hr
 LuaDist/lua
 Lucifier129/react-lite
+LuckyJayce/LargeImage
 LuckyJayce/MVCHelper
 LuckyJayce/ViewPagerIndicator
 LukyVj/family.scss
@@ -1665,6 +1666,7 @@ TwidereProject/Twidere-Android
 TykTechnologies/tyk
 TylerBrock/mongo-hacker
 UDST/vizicities
+UFreedom/FloatingView
 USArmyResearchLab/Dshell
 USCiLab/cereal
 Uberi/speech_recognition
@@ -2128,6 +2130,7 @@ alvarotrigo/fullPage.js
 alvarotrigo/multiscroll.js
 alvarotrigo/pagePiling.js
 alvises/FPPopover
+alwsl/alwsl
 amaas/stanford_dl_ex
 amark/gun
 amatsuda/kaminari
@@ -2609,6 +2612,7 @@ baoyachi/StepView
 baoyongzhang/SwipeMenuListView
 baoyongzhang/android-PullRefreshLayout
 barbushin/php-console
+barnybug/cli53
 barryclark/bashstrap
 barryclark/jekyll-now
 barryvdh/laravel-cors
@@ -3816,6 +3820,7 @@ dfcb/BigVideo.js
 dfm/osrc
 dgraph-io/dgraph
 dgrijalva/jwt-go
+dhamaniasad/HeadlessBrowsers
 dhamaniasad/awesome-postgres
 dherman/asm.js
 dhg/Skeleton
@@ -4281,6 +4286,7 @@ esnme/ultrajson
 esotalk/esoTalk
 esp8266/Arduino
 esp8266/esp8266-wiki
+espressif/esptool
 espruino/Espruino
 este/este
 estelle/clowncar
@@ -5361,6 +5367,7 @@ hitherejoe/animate
 hjson-lang/hjson
 hjson/hjson
 hkellaway/Gloss
+hkirat/notification-logger
 hlandau/acme
 hmkcode/Android
 hmlb/phpunit-vw
@@ -5584,6 +5591,7 @@ insin/nwb
 insin/react-hn
 insoshi/insoshi
 inspirit/jsfeat
+instant-solutions/ISTimeline
 instructure/canvas-lms
 intellij-rust/intellij-rust
 intelsdi-x/snap
@@ -5607,6 +5615,7 @@ ipader/SwiftGuide
 ipfs/go-ipfs
 ipfs/ipfs
 iphone5solo/PYPhotoBrowser
+iphone5solo/PYSearch
 ipkn/crow
 ipselon/react-ui-builder
 ipselon/structor
@@ -5638,6 +5647,7 @@ istanbuljs/nyc
 istarkov/google-map-react
 isteven/angular-multi-select
 itchyny/lightline.vim
+itheima1/Android
 itouch2/PhotoTweaks
 itsabot/abot
 itsgoingd/clockwork
@@ -5891,6 +5901,7 @@ jgm/CommonMark
 jgm/gitit
 jgm/pandoc
 jgrahamc/httpdiff
+jgraph/draw.io
 jgregory-zynga/scroller
 jgrossi/corcel
 jgthms/bulma
@@ -6264,6 +6275,7 @@ kaishengtai/neuralart
 kaishin/Gifu
 kaishin/ImageScout
 kakserpom/phpdaemon
+kaku2015/ColorfulNews
 kakuilan/china_area_mysql
 kalcaddle/KODExplorer
 kaldi-asr/kaldi
@@ -6642,6 +6654,7 @@ lerna/lerna
 lerrua/remote-jobs-brazil
 less/less.js
 less/less.ruby
+lesspass/lesspass
 letsencrypt/acme-spec
 letsencrypt/boulder
 letsencrypt/letsencrypt
@@ -6847,6 +6860,7 @@ lxn/walk
 lyfeyaj/awesome-resources
 lyft/confidant
 lyft/scissors
+lygttpod/SuperTextView
 lynndylanhurley/devise_token_auth
 lynndylanhurley/ng-token-auth
 lynndylanhurley/redux-auth
@@ -7873,6 +7887,8 @@ norman/friendly_id
 north/north
 north2014/A-MusicView
 north2014/T-MVP
+north2016/A-MusicView
+north2016/T-MVP
 nose-devs/nose
 nosir/cleave.js
 nosir/obelisk.js
@@ -8760,6 +8776,7 @@ rbenv/rbenv
 rbenv/ruby-build
 rbgirshick/fast-rcnn
 rbgirshick/py-faster-rcnn
+rbgirshick/rcnn
 rchipka/node-osmosis
 rcrowley/go-metrics
 rcrowley/go-tigertonic
