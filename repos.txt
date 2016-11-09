@@ -196,6 +196,7 @@ BeatSwitch/lock
 BeauNouvelle/AspectFillFaceAware
 BeauNouvelle/FaceAware
 Behat/Behat
+BelooS/ChipsLayoutManager
 Benjamin-Dobell/Heimdall
 BigZaphod/Chameleon
 Bilibili/DanmakuFlameMaster
@@ -1264,6 +1265,7 @@ PeterDing/iScript
 PhamBaTho/BTNavigationDropdownMenu
 PharkMillups/beautiful-docs
 PhilJay/MPAndroidChart
+Piasy/RxAndroidAudio
 PistonDevelopers/conrod
 PistonDevelopers/piston
 PixarAnimationStudios/OpenSubdiv
@@ -2145,6 +2147,7 @@ ameizi/awesome-ios-animation
 amfe/article
 amfe/lib-flexible
 amir20/phantomjs-node
+amireh/happypack
 amitburst/HackerNews
 amitp/mapgen2
 amitshekhariitbhu/Fast-Android-Networking
@@ -2748,6 +2751,7 @@ bignerdranch/expandable-recycler-view
 bigspaceship/shine.js
 bigspotteddog/ScrollToFixed
 bijection/g9
+bikkelbroeders/TouchBarDemoApp
 binIoter/GuideView
 binarydud/pyres
 binaryjs/binaryjs
@@ -4333,6 +4337,7 @@ evilcos/papers
 evilsocket/bettercap
 evilstreak/markdown-js
 evnaz/ENSwiftSideMenu
+evolus/pencil
 evonove/django-oauth-toolkit
 evrone/quiet_assets
 excilys/androidannotations
@@ -9439,6 +9444,7 @@ shekhargulati/java8-the-missing-tutorial
 shellfire-dev/shellfire
 shelljs/shelljs
 shellphish/how2heap
+sherjilozair/char-rnn-tensorflow
 shichuan/javascript-patterns
 shiffman/The-Nature-of-Code
 shiffman/The-Nature-of-Code-Examples
@@ -10417,6 +10423,7 @@ ttezel/twit
 ttsvetko/HTML5-Desktop-Notifications
 tudou527/marketch
 tuesda/CircleRefreshLayout
+tum-vision/lsd_slam
 tumblr/Backboard
 tumblr/TMCache
 tumblr/colossus
