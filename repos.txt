@@ -1013,6 +1013,7 @@ Mechazawa/FuckFuckAdblock
 MediaBrowser/Emby
 MediaCrush/MediaCrush
 Medium/matador
+Medium/phantomjs
 Meetic/Shuffle
 MengTo/AppStoreSketch
 MengTo/DesignerNewsApp
@@ -1161,6 +1162,7 @@ Netflix/ribbon
 Netflix/security_monkey
 Netflix/servo
 Netflix/vector
+Netflix/vizceral
 Netflix/zuul
 Newmu/Theano-Tutorials
 Newmu/dcgan_code
@@ -1751,6 +1753,7 @@ WhisperSystems/Signal-Desktop
 WhisperSystems/Signal-iOS
 WhiteHouse/api-standards
 WhiteHouse/petitions
+WhitestormJS/whitestorm.js
 WickyNilliams/enquire.js
 WickyNilliams/headroom.js
 Windows-XAML/Template10
@@ -2001,6 +2004,7 @@ airbnb/polyglot.js
 airbnb/react-dates
 airbnb/react-native-maps
 airbnb/ruby
+airbnb/superset
 airbnb/synapse
 airen/DemoHouse
 airyland/vux
@@ -3074,6 +3078,7 @@ carsonperrotti/CNPPopupController
 cartalyst/sentinel
 cartalyst/sentry
 carteb/carte-blanche
+casatwy/HandyAutoLayout
 casatwy/RTNetworking
 casesandberg/react-color
 casesandberg/reactcss
@@ -3404,6 +3409,7 @@ commonsguy/cwac-endless
 company-mode/company-mode
 componentjs/component
 composer/composer
+composer/packagist
 composer/satis
 comyar/Sol
 comyarzaheri/Sol
@@ -3977,6 +3983,7 @@ doorkeeper-gem/doorkeeper
 doraemonext/wechat-python-sdk
 dotless-de/vagrant-vbguest
 dotnet-state-machine/stateless
+dotnet/BenchmarkDotNet
 dotnet/cli
 dotnet/core
 dotnet/coreclr
@@ -4763,6 +4770,7 @@ galenframework/galen
 galetahub/ckeditor
 gali8/Tesseract-OCR-iOS
 gamelab/kiwi.js
+gamelinux/passivedns
 gameplay3d/GamePlay
 gaosboy/iOSSF
 garand/sticky
@@ -5677,6 +5685,7 @@ j256/ormlite-android
 j4mie/idiorm
 j4mie/paris
 jMonkeyEngine/jmonkeyengine
+jOOQ/jOOL
 jOOQ/jOOQ
 jabez128/stream-handbook
 jackmoore/autosize
@@ -6798,6 +6807,7 @@ longld/peda
 lookingstars/meituan
 looly/elasticsearch-definitive-guide-cn
 loomio/loomio
+loopeer/CardStackView
 loopj/android-async-http
 loopj/android-smart-image-view
 loopj/jquery-tokeninput
@@ -7259,6 +7269,7 @@ mgonto/restangular
 mgp25/Chat-API
 mgravell/protobuf-net
 mhagger/git-imerge
+mhart/alpine-node
 mhart/react-server-example
 mher/flower
 mhevery/jasmine-node
@@ -7656,6 +7667,7 @@ nakiostudio/EasyPeasy
 nakupanda/bootstrap3-dialog
 naman14/Timber
 name5566/leaf
+nameko/nameko
 namuol/cheet.js
 nanobox-io/nanobox
 nanoc/nanoc
@@ -7665,6 +7677,7 @@ nanotech/jellybeans.vim
 naoty/Timepiece
 naparuba/shinken
 naptha/tesseract.js
+nasa/NASA-3D-Resources
 nasa/openmct
 nate-parrott/Flashlight
 nategood/httpful
@@ -8669,6 +8682,7 @@ qrohlf/trianglify
 qs-lll/ExpandingPager
 qtile/qtile
 quantmind/pulsar
+quantopian/pyfolio
 quantopian/zipline
 quartermaster/DB5
 quartermaster/QSKit
@@ -9257,6 +9271,7 @@ saulmm/Material-Movies
 savonrb/savon
 sb2nov/mac-setup
 sberrevoets/SDCAlertView
+sbilly/awesome-security
 sbstjn/noduino
 sbstjn/timesheet.js
 sbt/sbt
@@ -9744,6 +9759,7 @@ spree/spree
 spring-guides/tut-spring-security-and-angular-js
 spring-io/sagan
 spring-projects/spring-boot
+spring-projects/spring-data-examples
 spring-projects/spring-framework
 spring-projects/spring-integration-samples
 spring-projects/spring-loaded
@@ -9963,6 +9979,7 @@ swannodette/lt-cljs-tutorial
 swannodette/mori
 swanson/stringer
 sweet-js/sweet.js
+swfobject/swfobject
 swiftcodex/Swift-Radio-Pro
 swiftmailer/swiftmailer
 swig/swig
@@ -11195,6 +11212,7 @@ zeromq/netmq
 zeromq/pyzmq
 zerotier/ZeroTierOne
 zetbaitsu/Compressor
+zeux/pugixml
 zfsonlinux/zfs
 zh-google-styleguide/zh-google-styleguide
 zhangkaitao/es
