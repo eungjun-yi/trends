@@ -60,6 +60,8 @@ AaronRandall/Screentendo
 Activiti/Activiti
 AdamAtomic/flixel
 AdamWhitcroft/Apaxy
+AdamWhitcroft/apaxy
+AdamWhitcroft/package-Apaxy
 Addepar/ember-table
 AdoptOpenJDK/jitwatch
 Aerolab/midnight.js
@@ -450,6 +452,7 @@ Dynalon/mdwiki
 ECSlidingViewController/ECSlidingViewController
 EFForg/https-everywhere
 EZLippi/Tinyhttpd
+EZLippi/practical-programming-books
 EasyDarwin/EasyDarwin
 EasyEngine/easyengine
 EasyNetQ/EasyNetQ
@@ -939,6 +942,7 @@ LiuLang/bcloud
 Lobos/react-ui
 LockerProject/Locker
 Lokaltog/vim-powerline
+LouisBarranqueiro/hexo-theme-tranquilpeak
 LuRsT/hr
 LuaDist/lua
 Lucifier129/react-lite
@@ -1488,6 +1492,7 @@ SheetJS/js-xlsx
 ShiqiYu/libfacedetection
 Shmoopi/iOS-System-Services
 Shopify/dashing
+Shopify/go-lua
 Shopify/identity_cache
 Shopify/liquid
 Shopify/sarama
@@ -1612,6 +1617,8 @@ TeehanLax/Upcoming
 TelescopeJS/Telescope
 Templarian/MaterialDesign
 Templarian/WindowsIcons
+Tencent/GT
+Tencent/behaviac
 Tencent/tinker
 TencentOpen/GT
 TencentOpen/behaviac
@@ -3811,6 +3818,7 @@ developit/preact
 deviantony/docker-elk
 devinhunt/typebase.css
 devinross/tapkulibrary
+devinus/poison
 devinus/poolboy
 devlint/gridlex
 devongovett/pdfkit
@@ -6260,6 +6268,7 @@ jwasham/google-interview-university
 jwiegley/use-package
 jwilder/docker-gen
 jwilder/docker-squash
+jwilder/dockerize
 jwilder/nginx-proxy
 jwilling/JNWSpringAnimation
 jwplayer/jwplayer
@@ -7631,6 +7640,7 @@ mwaskom/seaborn
 mwaterfall/MWFeedParser
 mwaterfall/MWPhotoBrowser
 mwolfson/android-historian
+mwrlabs/drozer
 mxcl/PromiseKit
 mxgmn/WaveFunctionCollapse
 mxn21/FlowingDrawer
@@ -7653,6 +7663,7 @@ mzabriskie/react-draggable
 mzlogin/awesome-adb
 mzucker/noteshrink
 mzule/ActivityRouter
+mzule/FantasySlide
 n1k0/casperjs
 n1nj4sec/pupy
 n3-charts/line-chart
@@ -7870,6 +7881,7 @@ nodebox/opentype.js
 nodeca/js-yaml
 nodegit/nodegit
 nodejitsu/node-http-proxy
+nodejs/docker-node
 nodejs/http-parser
 nodejs/nan
 nodejs/node
@@ -11028,6 +11040,7 @@ xtaci/kcptun
 xufei/blog
 xunit/xunit
 xupefei/Locale-Emulator
+xviniette/FlappyLearning
 xxv/android-lifecycle
 xyfeng/XYPieChart
 yabwe/medium-editor
