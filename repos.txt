@@ -1113,6 +1113,7 @@ MrKepzie/Natron
 MrRio/jsPDF
 MrRio/vtop
 MrSwitch/hello.js
+Mrs4s/BaiduPanDownload
 MugunthKumar/MKNetworkKit
 MugunthKumar/MKStoreKit
 MunGell/awesome-for-beginners
@@ -1410,6 +1411,7 @@ ReactjsProgram/React-Fundamentals
 ReactjsProgram/react-fundamentals-curriculum
 ReadyTalk/avian
 Red5/red5-server
+RedHatBrand/Overpass
 RedHatBrand/overpass
 Redth/PushSharp
 Reportr/dashboard
@@ -2799,6 +2801,7 @@ bitcoinj/bitcoinj
 bitcoinjs/bitcoinjs-lib
 bitemyapp/learnhaskell
 bitinn/node-fetch
+bitly/dablooms
 bitly/data_hacks
 bitly/go-simplejson
 bitly/oauth2_proxy
@@ -4482,6 +4485,7 @@ facebookarchive/flashcache
 facebookarchive/hadoop-20
 facebookarchive/huxley
 facebookarchive/instagram-ruby-gem
+facebookarchive/origami
 facebookarchive/phpsh
 facebookarchive/python-instagram
 facebookarchive/react-meteor
@@ -4914,6 +4918,7 @@ gionkunz/chartist-js
 git-cola/git-cola
 git-ftp/git-ftp
 git-game/git-game
+git-lfs/git-lfs
 git-tfs/git-tfs
 git-tips/tips
 git-up/GitUp
@@ -7590,6 +7595,7 @@ mpeltonen/sbt-idea
 mperham/connection_pool
 mperham/inspeqtor
 mperham/sidekiq
+mpetroff/pannellum
 mpld3/mpld3
 mpociot/whiteboard
 mpospese/MPFoldTransition
@@ -7620,6 +7626,7 @@ mruby/mruby
 mrwonderman/android-square-progressbar
 mrzool/bash-sensible
 msanders/snipmate.vim
+mscdex/busboy
 mscdex/node-imap
 mscdex/ssh2
 msgpack/msgpack
@@ -9177,6 +9184,7 @@ rtomayko/tilt
 rtsisyk/luafun
 rtyley/bfg-repo-cleaner
 ruanyf/es6tutorial
+ruanyf/jstraining
 ruanyf/jstutorial
 ruanyf/react-demos
 ruanyf/webpack-demos
