@@ -675,6 +675,7 @@ Homebrew/homebrew-science
 Homebrew/legacy-homebrew
 HoneyNeutrons/RecyclerViewUndoSwipe
 HospitalRun/hospitalrun-frontend
+HotBitmapGG/CreditSesameRingView
 HotBitmapGG/bilibili
 HotBitmapGG/bilibili-android-client
 HouzuoGuo/tiedot
@@ -999,6 +1000,7 @@ MarioRicalde/SCSS.tmbundle
 MarlinFirmware/Marlin
 MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
 Marswin/MarsDaemon
+MartinRGB/MTMaterialDelete
 MartinRGB/Replace-iOS
 Marxon13/M13Checkbox
 Marxon13/M13ProgressSuite
@@ -1128,6 +1130,7 @@ NLPchina/ansj_seg
 NLPchina/elasticsearch-sql
 NLog/NLog
 NUKnightLab/TimelineJS
+NUKnightLab/TimelineJS3
 NV/chrome-devtools-autosave
 NVIDIA/DIGITS
 NVIDIA/nvidia-docker
@@ -1518,6 +1521,7 @@ Shougo/neocomplcache.vim
 Shougo/neocomplete.vim
 Shougo/unite.vim
 Shougo/vimshell.vim
+Show-Me-the-Code/python
 SiCKRAGETV/SiCKRAGE
 SickRage/SickRage
 SideBarEnhancements-org/SideBarEnhancements
@@ -2864,6 +2868,7 @@ bobthecow/mustache.php
 bobthecow/psysh
 boctor/idev-recipes
 bodymovin/bodymovin
+bodyno/react-starter-kit
 bokeh/bokeh
 bokmann/font-awesome-rails
 bolasblack/http-api-guide
@@ -2900,6 +2905,7 @@ bouchenoiremarc/Sketch-Constraints
 bower/bower
 box-project/box2
 box/Anemometer
+box/spout
 box/t3js
 boxen/boxen
 boxen/our-boxen
@@ -3089,6 +3095,7 @@ carlhuda/janus
 carljm/django-model-utils
 carllerche/mio
 carlosbtn/Swift
+carloscuesta/gitmoji
 carlsednaoui/ouibounce
 carltongibson/django-filter
 carmaa/inception
@@ -3697,6 +3704,7 @@ datamade/dedupe
 datasciencebr/serenata-de-amor
 datasciencemasters/go
 datastax/spark-cassandra-connector
+datawrapper/datawrapper
 dataxpress/UICountingLabel
 date-fns/date-fns
 dato-code/PowerGraph
@@ -4037,6 +4045,7 @@ draft-js-plugins/draft-js-plugins
 draios/sysdig
 drakeet/MaterialDialog
 drakeet/Meizhi
+drakeet/MultiType
 drapergem/draper
 drathier/stack-overflow-import
 drduh/OS-X-Security-and-Privacy-Guide
@@ -5522,6 +5531,7 @@ i-tu/Hasklig
 i18next/i18next
 i2y/mochi
 i3/i3
+i5ting/nodejs-fullstack
 iBaa/PlexConnect
 iBotPeaches/Apktool
 iCHAIT/awesome-macOS
@@ -5724,6 +5734,7 @@ jMonkeyEngine/jmonkeyengine
 jOOQ/jOOL
 jOOQ/jOOQ
 jabez128/stream-handbook
+jackdempsey/acts_as_commentable
 jackmoore/autosize
 jackmoore/colorbox
 jackmoore/zoom
@@ -5992,6 +6003,7 @@ jisaacks/GitGutter
 jistr/vim-nerdtree-tabs
 jisungk/deepjazz
 jitsi/jitsi
+jitsi/jitsi-meet
 jivadevoe/UIAlertView-Blocks
 jivesoftware/PDTSimpleCalendar
 jjdxmashl/jjdxm_ijkplayer
@@ -6875,6 +6887,7 @@ ltebean/LTNavigationBar
 ltebean/Live
 luakit/luakit
 lucadegasperi/oauth2-server-laravel
+lucasmotta/dploy
 lucasr/smoothie
 lucasr/twoway-view
 lucb1e/cookielesscookies
@@ -8235,6 +8248,7 @@ owenversteeg/min
 owncloud/android
 owncloud/core
 owner888/phpspider
+owocki/pytrader
 oxidane/tmuxomatic
 oyvindeh/ucss
 oyvindkinsey/easyXDM
@@ -8677,6 +8691,7 @@ purifycss/purifycss
 purplecabbage/phonegap-plugins
 pusher/atom-pair
 pushtorefresh/storio
+putterpanda/mimikittenz
 pwnall/chromeview
 pwnn/is.js
 pxb1988/dex2jar
@@ -9297,6 +9312,7 @@ samvermette/SVPullToRefresh
 samvermette/SVSegmentedControl
 samyk/evercookie
 samyk/magspoof
+samyk/poisontap
 samyk/skyjack
 sandeepmistry/bleno
 sandeepmistry/noble
@@ -9317,6 +9333,7 @@ sass/node-sass
 sass/sass
 sasstools/sass-lint
 satoshiiizuka/siggraph2016_colorization
+saturngod/IAPHelper
 satyan/sugar
 saulmm/Android-Material-Examples
 saulmm/Avengers
@@ -9503,6 +9520,7 @@ share/ShareJS
 sharelatex/sharelatex
 sharetribe/sharetribe
 sharkdp/cube-composer
+shashankmehta/greyshade
 shaunlebron/parinfer
 shazow/ssh-chat
 shazow/urllib3
@@ -10097,6 +10115,7 @@ tapquo/Lungo.js
 taptapship/wiredep
 tapwork/HeapInspector-for-iOS
 tarantool/tarantool
+tarekziade/boom
 taskrabbit/elasticsearch-dump
 tastejs/awesome-app-ideas
 tastejs/todomvc
@@ -10521,6 +10540,7 @@ twbs/ratchet
 tweenjs/tween.js
 tweepy/tweepy
 tweetstream/tweetstream
+twicketapp/TwicketSegmentedControl
 twigjs/twig.js
 twigphp/Twig
 twilio/stashboard
@@ -10884,6 +10904,7 @@ weavejester/hiccup
 weaveworks/scope
 weaveworks/weave
 web-animations/web-animations-js
+web-pal/DBGlass
 web2py/web2py
 webRTC-io/webRTC.io
 webcomponents/webcomponentsjs
@@ -11055,6 +11076,7 @@ xdissent/ievms
 xenolf/lego
 xetorthio/jedis
 xfumihiro/ViewInspector
+xgrommx/awesome-functional-programming
 xgrommx/awesome-redux
 xgrommx/rx-book
 xhacker/TEAChart
@@ -11182,6 +11204,7 @@ yixia/VitamioBundle
 yixiangboy/IOSAnimationDemo
 ylechelle/OpenUDID
 yoavlt/LiquidFloatingActionButton
+yoavlt/LiquidLoader
 yob/pdf-reader
 yohang/Finite
 yortus/asyncawait
