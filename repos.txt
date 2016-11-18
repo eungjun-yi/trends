@@ -1067,6 +1067,7 @@ Microsoft/code-push
 Microsoft/cpprestsdk
 Microsoft/dotnet
 Microsoft/malmo
+Microsoft/microsoft.github.io
 Microsoft/monaco-editor
 Microsoft/msbuild
 Microsoft/nodejs-guidelines
@@ -1254,6 +1255,7 @@ PHPixie/Project
 PMSI-AlignAlytics/dimple
 PRML/PRMLT
 PX4/Firmware
+PaddlePaddle/Paddle
 Pana/node-books
 PaoloRotolo/AppIntro
 PaperAirplane-Dev-Team/BlackLight
@@ -1599,6 +1601,7 @@ Suor/funcy
 Supervisor/supervisor
 Sutto/rocket_pants
 SwiftBond/Bond
+SwiftGGTeam/Developing-iOS-9-Apps-with-Swift
 SwiftGGTeam/Developing_iOS_8_Apps_With_Swift
 SwiftKickMobile/SwiftMessages
 SwiftyBeaver/SwiftyBeaver
@@ -2960,6 +2963,7 @@ brianmario/mysql2
 brianmario/yajl-ruby
 briannesbitt/Carbon
 brianreavis/sifter.js
+brianwernick/ExoMedia
 bridgetkromhout/devops-against-humanity
 brigade/overcommit
 brigade/react-waypoint
@@ -3517,6 +3521,7 @@ cpvrlab/ImagePlay
 craftyjs/Crafty
 crate/crate
 crazycodeboy/TakePhoto
+crazyguitar/pysheeet
 crcn/mesh.js
 creaktive/rainbarf
 creationix/haml-js
@@ -4791,6 +4796,7 @@ gabrielbull/react-desktop
 gabrielecirulli/2048
 gabrielemariotti/RecyclerViewItemAnimators
 gabrielemariotti/cardslib
+gabrielemariotti/changeloglib
 gabrielfalcao/HTTPretty
 gabrielfalcao/lettuce
 gabrielrcouto/php-gui
@@ -5351,6 +5357,7 @@ hashcat/hashcat-legacy
 hashcat/oclHashcat
 hashicorp/consul
 hashicorp/consul-template
+hashicorp/hcl
 hashicorp/nomad
 hashicorp/otto
 hashicorp/raft
@@ -7679,6 +7686,7 @@ munki/munki
 murtaugh/HTML5-Reset
 murtaugh/HTML5-Reset-WordPress-Theme
 musescore/MuseScore
+museui/muse-ui
 mustache/mustache
 mustache/mustache.github.com
 mutualmobile/MMDrawerController
@@ -8583,6 +8591,7 @@ posquit0/Awesome-CV
 postaljs/postal.js
 postcss/autoprefixer
 postcss/postcss
+postcss/postcss-loader
 postgres/postgres
 postmanlabs/newman
 postmodern/chruby
@@ -8598,6 +8607,7 @@ powerline/powerline
 powmedia/backbone-forms
 ppamorim/Dragger
 pquerna/ffjson
+praeclarum/sqlite-net
 prakhar1989/Algorithms
 prakhar1989/awesome-courses
 prakhar1989/docker-curriculum
@@ -9261,6 +9271,7 @@ ryanflorence/ember-tools
 ryanflorence/react-project
 ryanflorence/react-training
 ryanhoo/StylishMusicPlayer
+ryanjay0/miles-deep
 ryankiros/neural-storyteller
 ryankiros/skip-thoughts
 ryanmcgrath/twython
@@ -9986,6 +9997,7 @@ stubbornella/oocss
 stutrek/scrollMonitor
 stuyam/pressure
 styled-components/styled-components
+styleguidist/react-styleguidist
 stylelint/stylelint
 stylus/stylus
 stympy/faker
@@ -10845,6 +10857,7 @@ vvo/lazyload
 vysheng/tg
 w0ng/vim-hybrid
 w3c/ServiceWorker
+w3c/html
 w3c/web-platform-tests
 w3c/webcomponents
 w446108264/XhsEmoticonsKeyboard
@@ -11197,6 +11210,7 @@ yigit/dev-summit-architecture-demo
 yihui/knitr
 yiisoft/yii
 yiisoft/yii2
+yinghuocho/firefly-proxy
 yinwang0/pysonar2
 yipianfengye/android-adDialog
 yipianfengye/android-zxingLibrary
