@@ -1,5 +1,6 @@
 01org/acat
 01org/appframework
+0ad/0ad
 0nn0/terminal-mac-cheatsheet
 0rpc/zerorpc-python
 0x5e/wechat-deleted-friends
@@ -531,6 +532,7 @@ Fody/Fody
 FolioReader/FolioReaderKit
 FontCustom/fontcustom
 Fooidge/PleaseJS
+ForestAdmin/lumber
 FormidableLabs/nodejs-dashboard
 FormidableLabs/radium
 FormidableLabs/react-animations
@@ -2227,6 +2229,7 @@ andreis/interview
 andremion/Music-Player
 andreruffert/rangeslider.js
 andresriancho/w3af
+andrew--r/channels
 andrew-worsfold/tailor
 andrewculver/koudoku
 andrewelkins/Laravel-4-Bootstrap-Starter-Site
@@ -4943,6 +4946,7 @@ gitblit/gitblit
 gitbucket/gitbucket
 gitextensions/gitextensions
 github-archive/developer.github.com
+github-tools/github
 github/Rebel
 github/brubeck
 github/developer.github.com
@@ -5254,6 +5258,7 @@ gss/engine
 gsscoder/commandline
 gtank/cryptopasta
 gterrono/houston
+gtramontina/ghooks
 guard/guard
 guard/guard-livereload
 guard/guard-rspec
@@ -5411,6 +5416,7 @@ hfossli/AGGeometryKit
 hfossli/AGGeometryKit-POP
 hgoebl/mobile-detect.js
 hhatto/autopep8
+hholtmann/smcFanControl
 hibernate/hibernate-orm
 hickford/MechanicalSoup
 hiddentao/squel
@@ -6991,6 +6997,7 @@ magicalpanda/MagicalRecord
 magicmonty/bash-git-prompt
 magit/magit
 magnars/multiple-cursors.el
+magnumripper/JohnTheRipper
 magomimmo/modern-cljs
 magwo/elevatorsaga
 mahmoud/boltons
@@ -7094,6 +7101,7 @@ markjaquith/WP-Stack
 markjaquith/WordPress-Skeleton
 markmarkoh/datamaps
 marko-js/marko
+markomarkovic/simple-php-git-deploy
 markrendle/Simple.Data
 markushi/android-circlebutton
 markushi/android-ui
@@ -7544,6 +7552,7 @@ mono/xwt
 monochromegane/the_platinum_searcher
 montagejs/collections
 montagejs/montage
+monterail/vue-multiselect
 moodle/moodle
 moonbingbing/openresty-best-practices
 moose-team/friends
@@ -7792,6 +7801,7 @@ nefarius/ScpToolkit
 negomi/react-burger-menu
 neiesc/ListOfMinimalistFrameworks
 neilj/Squire
+neitanod/forceutf8
 nekocode/CameraFilter
 nelhage/reptyr
 nelmio/NelmioApiDocBundle
@@ -10236,6 +10246,7 @@ thejameskyle/babel-react-optimize
 thejameskyle/itsy-bitsy-data-structures
 thejameskyle/spectacle-code-slide
 thejameskyle/the-super-tiny-compiler
+thelounge/lounge
 themadinventor/esptool
 themattharris/tmhOAuth
 themattrix/bash-concurrent
@@ -11105,6 +11116,7 @@ ximan/dropload
 xing/wysihtml5
 xinghongfei/LookLook
 xinthink/react-native-material-kit
+xinyu198736/js2image
 xiongwei-git/AndroidVideoPlayer
 xirong/my-git
 xitu/gold-miner
