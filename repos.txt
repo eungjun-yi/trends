@@ -59,6 +59,7 @@ AHAAAAAAA/PokemonGo-Map
 ARMmbed/mbed-os
 AaronRandall/Screentendo
 Activiti/Activiti
+AdAway/AdAway
 AdamAtomic/flixel
 AdamWhitcroft/Apaxy
 AdamWhitcroft/apaxy
@@ -1759,6 +1760,7 @@ VodkaBears/Remodal
 VodkaBears/Vide
 VoltDB/voltdb
 Voog/wysihtml
+Vuedo/vuedo
 VundleVim/Vundle.vim
 WP-API/WP-API
 WPO-Foundation/webpagetest
@@ -2203,6 +2205,7 @@ amscanne/huptime
 amsul/pickadate.js
 amueller/word_cloud
 amulyakhare/TextDrawable
+amwmedia/plop
 amyhaber/cnki-downloader
 amzn/alexa-avs-raspberry-pi
 amznlabs/amazon-dsstne
@@ -3665,6 +3668,7 @@ danielamitay/DAKeyboardControl
 danielamitay/iHasApp
 danielebogo/DBCamera
 danielemoraschi/maplace.js
+danielfrg/word2vec
 danielgindi/Charts
 danielgtaylor/aglio
 danielkummer/git-flow-cheatsheet
@@ -8769,6 +8773,7 @@ qos-ch/logback
 qrohlf/trianglify
 qs-lll/ExpandingPager
 qtile/qtile
+quantifind/KafkaOffsetMonitor
 quantmind/pulsar
 quantopian/pyfolio
 quantopian/zipline
@@ -9365,6 +9370,7 @@ savonrb/savon
 sb2nov/mac-setup
 sberrevoets/SDCAlertView
 sbilly/awesome-security
+sbrugman/deep-learning-papers
 sbstjn/noduino
 sbstjn/timesheet.js
 sbt/sbt
@@ -10032,6 +10038,7 @@ substance/substance-legacy
 subtlepatterns/SubtlePatterns
 subvim/subvim
 sudar/Arduino-Makefile
+sudeepag/SAConfettiView
 suitcss/suit
 sullo/nikto
 sumatrapdfreader/sumatrapdf
@@ -10088,6 +10095,7 @@ sxyx2008/DevArticles
 sxyx2008/awesome-ios-animation
 syedhali/EZAudio
 syl20bnr/spacemacs
+syl22-00/pocketsphinx.js
 sylnsfar/qrcode
 sylvinus/node-crawler
 symfony/symfony
