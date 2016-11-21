@@ -417,6 +417,7 @@ DevLight-Mobile-Agency/ArcProgressStackView
 DevLight-Mobile-Agency/InfiniteCycleViewPager
 DevLight-Mobile-Agency/NavigationTabBar
 DevLight-Mobile-Agency/NavigationTabStrip
+Developer-Y/cs-video-courses
 DevinVinson/WordPress-Plugin-Boilerplate
 DhavalKapil/icmptunnel
 DianQK/TransitionTreasury
@@ -677,6 +678,7 @@ Homebrew/homebrew-php
 Homebrew/homebrew-science
 Homebrew/legacy-homebrew
 HoneyNeutrons/RecyclerViewUndoSwipe
+HoraApps/LeafPic
 HospitalRun/hospitalrun-frontend
 HotBitmapGG/CreditSesameRingView
 HotBitmapGG/bilibili
@@ -1286,6 +1288,7 @@ PerfectlySoft/Perfect
 Perspex/Perspex
 Pestov/essential-gulp-plugins
 PeterDing/iScript
+Ph3nol/NotificationPusher
 PhamBaTho/BTNavigationDropdownMenu
 PharkMillups/beautiful-docs
 PhilJay/MPAndroidChart
@@ -1347,6 +1350,7 @@ Pylons/pyramid
 PythonJS/PythonJS
 Q42/AndroidScrollingImageView
 Qihoo360/Atlas
+Qihoo360/QConf
 Qihoo360/phptrace
 Qix-/color
 Quartz/Chartbuilder
@@ -1506,6 +1510,7 @@ Serhioromano/bootstrap-calendar
 ServiceStack/ServiceStack
 ServiceStack/ServiceStack.OrmLite
 ServiceStack/ServiceStack.Redis
+ShapeLab/SwarmUI
 ShareKit/ShareKit
 ShareX/ShareX
 SheetJS/js-xls
@@ -2134,6 +2139,7 @@ alibaba/freeline
 alibaba/jstorm
 alibaba/macaca
 alibaba/mdrill
+alibaba/oceanbase
 alibaba/otter
 alibaba/tengine
 alibaba/tsar
@@ -2559,6 +2565,7 @@ auchenberg/volkswagen
 audiocogs/aurora.js
 audiokit/AudioKit
 audreyr/cookiecutter
+audreyr/cookiecutter-pypackage
 audreyr/favicon-cheat-sheet
 audreyt/ethercalc
 audreyt/node-webworker-threads
@@ -5169,6 +5176,7 @@ googlesamples/android-vision
 googlesamples/cardboard-java
 googlesamples/easypermissions
 googlesamples/google-services
+googlesamples/md2googleslides
 googlevr/gvr-android-sdk
 googlevr/gvr-unity-sdk
 googlevr/vrview
@@ -5666,6 +5674,7 @@ insidegui/WWDC
 insin/nwb
 insin/react-hn
 insoshi/insoshi
+inspace-io/INSPullToRefresh
 inspirit/jsfeat
 instant-solutions/ISTimeline
 instructure/canvas-lms
@@ -5776,6 +5785,7 @@ jakejs/jake
 jakemmarsh/angularjs-gulp-browserify-boilerplate
 jakerella/jquery-mockjax
 jakesgordon/javascript-state-machine
+jakevdp/PythonDataScienceHandbook
 jakevdp/mpld3
 jakiestfu/Behave.js
 jakiestfu/Blur.js
@@ -6468,6 +6478,7 @@ keybase/client
 keyboardsurfer/Crouton
 keyboardsurfer/idea-live-templates
 keycastr/keycastr
+keycloak/keycloak
 keystonejs/keystone
 kgn/KGNoise
 khamidou/kite
@@ -6766,6 +6777,7 @@ liaohuqiu/android-UCToast
 liaohuqiu/android-Ultra-Pull-To-Refresh
 liaohuqiu/android-support-23.2-sample
 liaohuqiu/cube-sdk
+liaoinstan/SpringView
 lib/pq
 libgdx/libgdx
 libgdx/packr
@@ -6900,6 +6912,7 @@ lrsjng/h5ai
 lsegal/yard
 lsjwzh/MaterialLoadingProgressBar
 lsjwzh/RecyclerViewPager
+lstrojny/functional-php
 ltebean/LTNavigationBar
 ltebean/Live
 luakit/luakit
@@ -7783,6 +7796,7 @@ nathansobo/treetop
 nathanvda/cocoon
 nathco/Office-Code-Pro
 nats-io/gnatsd
+nats-io/go-nats
 nats-io/nats
 navasmdc/MaterialDesignLibrary
 naver/pinpoint
@@ -8034,6 +8048,7 @@ numbbbbb/the-swift-programming-language-in-chinese
 numbers/numbers.js
 numenta/nupic
 numpy/numpy
+nunit/nunit
 nutzam/nutz
 nuysoft/Mock
 nvbn/everpad
@@ -8127,6 +8142,7 @@ oliver-moran/jimp
 oliver006/elasticsearch-gmail
 olivere/elastic
 olivernn/lunr.js
+oliverzheng/howtocenterincss
 olivierlacan/keep-a-changelog
 olivierverdier/zsh-git-prompt
 olov/ng-annotate
@@ -8731,6 +8747,7 @@ pyinstaller/pyinstaller
 pyinvoke/invoke
 pymc-devs/pymc3
 pypa/pip
+pypa/sampleproject
 pypa/virtualenv
 pypa/warehouse
 pypyjs/pypyjs
@@ -10421,6 +10438,7 @@ tobiassvn/sidetiq
 tobie/ua-parser
 tobyhede/go-underscore
 tobytailor/gordon
+tockins/realize
 todc/todc-bootstrap
 toddmotto/angular-styleguide
 toddmotto/echo
